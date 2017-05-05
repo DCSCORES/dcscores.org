@@ -1,0 +1,179 @@
+.Ola {
+  position: relative;
+
+  padding-top: 2em;
+  padding-bottom: 2em;
+  padding-right: 1em;
+  padding-left: 1em;
+
+  background-image: url(../assets/textures/dots--grey.png);
+  background-repeat: no-repeat;
+  background-position: 160% 50%;
+  background-color: $americaScoresBlue;
+  background-size: 34rem;
+
+  &::after {
+    content: "";
+    position: absolute;
+    display: none;
+
+    top: 0;
+    left: 0;
+
+    width: 40%;
+    height: 100%;
+
+    background-image: url(../assets/images/crest.png);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: 40%;
+    background-color: teal;
+  }
+
+  @media (min-width: 38em) {
+    padding-top: 4em;
+    padding-bottom: 4em;
+    padding-right: 2em;
+    padding-left: 2em;
+  }
+
+  @media (min-width: 54em) {
+    padding-top: 5em;
+    padding-bottom: 5em;
+    padding-right: 2.5em;
+    padding-left: 2.5em;
+
+    background-position: 10% 5%;
+    background-size: 38.75rem;
+  }
+}
+
+  .Ola-figure {
+    display: block;
+
+    margin: 1em;
+
+    -webkit-transform: rotate(-5deg);
+            transform: rotate(-5deg);
+
+    transition: transform 0.625s cubic-bezier(0.4, 0, 0.2, 1);
+
+    @media (min-width: 48em) {
+      -ms-flex-negative: 0;
+      flex-shrink: 0;
+
+      margin: 1.5em;
+
+      max-width: 9em;
+
+      &:hover {
+        -webkit-transform: rotate(350deg);
+                transform: rotate(350deg);
+      }
+    }
+  }
+
+    .Ola-figureImage {}
+
+  .Ola-content {
+    padding-left: 15%;
+
+    z-index: 9;
+
+    @media (min-width: 48em) {
+      padding-left: 2.5%;
+    }
+  }
+
+    .Ola-contentTitle {
+      display: block;
+
+      font-family: "DCSCORES", sans-serif;
+      font-size: 2.25rem;
+      line-height: 1;
+      color: white;
+    }
+
+    .Ola-contentDescription {
+      display: block;
+
+      margin-top: 1em;
+
+      font-size: 1.15rem;
+      font-weight: 400;
+      line-height: 1.45;
+      color: rgba(255, 255, 255, 0.87);
+
+      @media (min-width: 48em) {
+        margin-left: 1.5em;
+      }
+    }
+
+    .Ola-contentFooter {
+      display: flex;
+      justify-content: flex-end;
+
+      margin-top: 2em;
+    }
+
+      .Ola-contentFooterLink {
+        position: relative;
+        display: block;
+
+        padding-left: 2em;
+
+        font-size: 0.9rem;
+        font-weight: 700;
+        line-height: 1;
+        text-align: right;
+        letter-spacing: -0.0125em;
+        color: white;
+
+        transition: all 0.25s ease;
+
+        &::before {
+          position: absolute;
+
+          top: -0.1em;
+          left: -0.45em;
+
+          width: 1.5em;
+
+          font-size: 1.25rem;
+          color: lighten($americaScoresYellow, 15%);
+
+          transition: left 0.25s ease;
+        }
+
+        &:hover::before,
+        &:focus::before {
+          left: -0.2em;
+        }
+
+        &:hover,
+        &:focus {
+          color: white;
+        }
+      }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

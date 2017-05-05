@@ -1,0 +1,325 @@
+.News {
+  position: relative;
+  display: block;
+
+  padding-top: 10em;
+  padding-bottom: 4em;
+  padding-right: 1em;
+  padding-left: 1em;
+
+  background-color: lighten($americaScoresCoolGrey, 15%);
+}
+
+  .News-header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+
+    margin-top: 0;
+    margin-bottom: 1em;
+    margin-right: auto;
+    margin-left: auto;
+
+    max-width: 54em;
+  }
+
+    .News-headerTitle {
+      display: block;
+
+      font-family: "DCSCORES", sans-serif;
+      font-size: 1.75rem;
+      line-height: 1;
+      letter-spacing: -0.015em;
+      color: darken($americaScoresBlue, 15%);
+
+      //border-bottom: 0.125em solid darken($americaScoresRed, 5%);
+
+      @media (min-width: 48em) {
+        font-size: 2rem;
+      }
+
+      @media (min-width: 58em) {
+        font-size: 2.25rem;
+      }
+    }
+
+    .News-headerLink {
+      display: block;
+
+      white-space: nowrap;
+
+      font-size: 1.1rem;
+      font-weight: 700;
+      line-height: 1.15;
+      letter-spacing: -0.025em;
+      text-decoration: none;
+      color: darken($americaScoresBlue, 5%);
+
+      border-bottom: 0.175em solid darken($americaScoresYellow, 5%);
+
+      @media (min-width: 58em) {
+        font-size: 1.125rem;
+      }
+    }
+
+  .News .Grid {
+    cursor: move; // Fallback if grab cursor is unsupported
+    cursor: -webkit-grab;
+       cursor: -moz-grab;
+            cursor: grab;
+
+    @media (min-width: 48em) {
+
+      &::after {
+        content: "";
+        position: absolute;
+        display: block;
+
+        top: 0;
+        right: 0;
+
+        width: 20%;
+        height: 100%;
+
+        pointer-events: none;
+
+        background-image:
+          linear-gradient( to right,
+            rgba(229, 230, 231, 0),
+            rgba(229, 230, 231, 1)
+        );
+      }
+      
+    }
+  }
+
+  .News-previousButton,
+  .News-nextButton {
+    position: absolute;
+
+    display: -webkit-flex;
+    display: -ms-flexbox;
+    display: flex;
+
+    -webkit-align-items: center;
+    -ms-flex-align: center;
+    align-items: center;
+
+    -webkit-justify-content: center;
+    -ms-flex-pack: center;
+    justify-content: center;
+
+    top: 0;
+
+    width: 1.25em;
+    height: 1.25em;
+
+    cursor: pointer;
+    outline: 0;
+
+    font-size: 2rem;
+    line-height: 1em;
+    color: white;
+
+    border: 0;
+    border-radius: 0;
+    opacity: 0;
+
+    z-index: 99;
+  }
+
+  .News-previousButton {
+    left: 0;
+
+    background: navy;
+  }
+
+  .News-nextButton {
+    right: 0;
+
+    background: crimson;
+  }
+
+  .News .slick-dots {
+    display: -webkit-flex!important;
+    display: -ms-flexbox!important;
+    display: flex!important;
+
+    -webkit-justify-content: center;
+    -ms-flex-pack: center;
+    justify-content: center;
+
+    margin-top: 1.5em;
+
+    pointer-events: none;
+  }
+
+    .News .slick-dots li {
+      display: block;
+
+      margin: 0 2vw;
+      padding: 0;
+
+      width: 0.75em;
+      height: 0.75em;
+
+      cursor: pointer;
+
+      background-color: darken($americaScoresCoolGrey, 0%);
+      border-radius: 100%;
+    }
+
+    .News .slick-dots li.slick-active {
+      background-color: lighten($americaScoresRed, 5%);
+    }
+
+      .News .slick-dots button {
+        display: none;
+      }
+
+  .News-story {
+    position: relative;
+    display: block;
+
+    margin-right: 1.25em;
+
+    width: 320px;
+    min-height: 400px!important; // CSS, it's great. It is just specificity.
+
+    background: white;
+    border-radius: 2px;
+
+    &:hover .News-storyThumbnailLink {
+      -webkit-transform: scale(1.05);
+         -moz-transform: scale(1.05);
+          -ms-transform: scale(1.05);
+           -o-transform: scale(1.05);
+              transform: scale(1.05);
+    }
+
+    @media (min-width: 48em) {
+      height: 420px!important;
+    }
+
+    @media (min-width: 54em) {
+      height: 440px!important;
+    }
+  }
+
+    .News-storyThumbnail {
+      position: relative;
+      overflow: hidden;
+
+      border-top-right-radius: 2px;
+      border-top-left-radius: 2px;
+
+      &::before {
+        content: "";
+        display: block;
+        padding-top: 56.25%;
+        width: 100%;
+      }
+    }
+
+      .News-storyThumbnailLink {
+        position: absolute;
+        top: 0;
+        right: 0;
+        bottom: 0;
+        left: 0;
+        text-decoration: none;
+
+        background-color: orange;
+        transition: transform 0.2s ease;
+      }
+
+        .News-storyThumbnailLinkImage {
+          display: block;
+        }
+
+    .News-storyContent {
+      padding-top: 0.75em;
+      padding-bottom: 0.75em;
+      padding-right: 0.75em;
+      padding-left: 0.75em;
+    }
+
+      .News-storyContentHeadline {
+        display: block;
+
+        margin-bottom: 0.5em;
+
+        font-size: 1.1rem;
+        font-weight: 400;
+        line-height: 1.15;
+        letter-spacing: -0.015em;
+        color: #347bff;
+      }
+
+        .News-storyContentHeadlineLink {
+          cursor: pointer;
+          color: inherit;
+
+          transition: color 0.15s ease;
+
+          &:hover,
+          &:focus {
+            color: #0048cd;
+          }
+        }
+
+      .News-storyContentBlurb {
+        font-size: 0.875rem;
+        line-height: 1.45;
+      }
+
+    .News-storyFooter {
+      position: relative;
+      display: block;
+
+      padding: 0.5em;
+
+      width: 100%;
+
+      text-align: right;
+
+      @media (min-width: 48em) {
+        position: absolute;
+
+        bottom: 0;
+        left: 0;
+      }
+    }
+
+      .News-storyFooterLink {
+        font-size: 0.825rem;
+        font-weight: 700;
+        line-height: 1;
+        letter-spacing: -0.025em;
+        color: #347bff;
+
+        border-bottom: 2px solid lighten($americaScoresCoolGrey, 15%);
+      }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

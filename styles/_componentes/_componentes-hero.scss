@@ -1,0 +1,86 @@
+.Hero {
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+
+  min-height: 540px;
+
+  &::after {
+    content: "";
+    position: absolute;
+    display: block;
+
+    top: 0;
+    left: 0;
+
+    width: 100%;
+    height: 100%;
+
+    background-image:
+      linear-gradient( to bottom,
+        rgba(0, 0, 0, 0.1),
+        rgba(0, 0, 0, 0)
+    );
+  }
+
+  @media (min-width: 54em) {
+    height: 580px;
+  }
+
+  @media (min-width: 64em) {
+    height: 700px;
+  }
+}
+
+  .Hero-header {
+    display: block;
+
+    margin-top: 2.5em;
+
+    align-self: flex-start;
+
+    width: 100%;
+
+    z-index: 9;
+  }
+
+    .Hero-headerTitle {
+      display: block;
+
+      font-family: "DCSCORES", sans-serif;
+      font-size: 1.75rem;
+      line-height: 1.125;
+      color: white;
+
+      @media (min-width: 58em) {
+        font-size: 2.15rem;
+      }
+    }
+
+    .Hero-headerIntroduction {
+      display: none;
+      color: white;
+    }
+
+  .Hero-main {
+    position: static;
+  }
+
+    .Hero-mainContainer {
+      margin: auto;
+      max-width: 1440px;
+    }
+
+
+
+
+
+
+
+
+
+
+
+
+

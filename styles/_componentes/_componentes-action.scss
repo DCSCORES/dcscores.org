@@ -1,0 +1,125 @@
+.Action {
+  position: relative;
+  display: block;
+
+  width: 100%;
+
+  &::before {
+    content: "";
+    position: absolute;
+    display: block;
+
+    bottom: -2.5em;
+    left: 50%;
+
+    width: 4em;
+    height: 5em;
+
+    background-image: url(../assets/images/crest.png);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: 100%;
+
+    transform: translateX(-2em);
+
+    z-index: 9;
+  }
+
+  @media (min-width: 38em) {
+    display: flex;
+  }
+}
+
+  .Action-item {
+    color: white;
+
+    &:first-child {
+      background-image: url(../assets/textures/dots--grey.png);
+      background-repeat: no-repeat;
+      background-position: 200% -15%;
+      background-size: 32rem;
+      background-color: $americaScoresBlue;
+
+      @media (min-width: 38em) {
+        text-align: right;
+
+        &:first-child {
+          border-right: 0.1em solid $americaScoresCoolGrey;
+        }
+      }
+    }
+
+    &:last-child {
+      background-image: url(../assets/textures/dots--grey.png);
+      background-repeat: no-repeat;
+      background-position: 100% -5%;
+      background-size: 32rem;
+      background-color: $americaScoresRed;
+    }
+
+    @media (min-width: 38em) {
+      width: 50%;
+
+      &:last-child {
+        border-left: 0.1em solid $americaScoresCoolGrey;
+      }
+    }
+  }
+
+    .Action-itemLink {
+      display: block;
+
+      padding-top: 1em;
+      padding-bottom: 1em;
+      padding-right: 1em;
+      padding-left: 1em;
+
+      text-decoration: none;
+      color: inherit;
+
+      @media (min-width: 38em) {
+        padding-top: 6em;
+        padding-bottom: 2em;
+        padding-right: 2.75em;
+        padding-left: 2.75em;
+      }
+    }
+
+      .Action-itemLinkTitle {
+        display: block;
+
+        margin-bottom: 0.15em;
+
+        font-family: "DCSCORES", sans-serif;
+        font-size: 1.75rem;
+        line-height: 1;
+        letter-spacing: -0.0125em;
+        color: white;
+      }
+
+      .Action-itemLinkBlurb {
+        font-size: 0.95rem;
+        font-weight: 400;
+        line-height: 1;
+        color: rgba(255, 255, 255, 0.97);
+      }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

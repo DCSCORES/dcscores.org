@@ -1,0 +1,135 @@
+.Supporters {
+  position: relative;
+  display: block;
+
+  padding-top: 2em;
+  padding-bottom: 2em;
+  padding-right: 1em;
+  padding-left: 1em;
+
+  background: white;
+
+  @media (min-width: 58em) {
+    padding-top: 10em;
+    padding-bottom: 4em;
+  }
+}
+
+  .Supporters-header {
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+
+    align-items: center;
+    justify-content: space-between;
+
+    margin-top: 0;
+    margin-bottom: 1em;
+    margin-right: auto;
+    margin-left: auto;
+
+    max-width: 54em;
+  }
+
+    .Supporters-headerTitle {
+      display: block;
+
+      font-family: "DCSCORES", sans-serif;
+      font-size: 1.75rem;
+      line-height: 1;
+      letter-spacing: -0.015em;
+      color: darken($americaScoresBlue, 15%);
+
+      //border-bottom: 0.125em solid darken($americaScoresRed, 5%);
+
+      @media (min-width: 48em) {
+        font-size: 2rem;
+      }
+
+      @media (min-width: 58em) {
+        font-size: 2.25rem;
+      }
+    }
+
+    .Supporters-headerLink {
+      display: block;
+
+      white-space: nowrap;
+
+      font-size: 1.1rem;
+      font-weight: 700;
+      line-height: 1.15;
+      letter-spacing: -0.025em;
+      text-decoration: none;
+      color: darken($americaScoresBlue, 5%);
+
+      border-bottom: 0.175em solid darken($americaScoresRed, 5%);
+
+      @media (min-width: 58em) {
+        font-size: 1.125rem;
+      }
+    }
+
+  .Supporters-list {
+    list-style: none;
+    padding: 0;
+
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+  }
+
+    .Supporters-listItem {
+      display: block;
+      padding: 1em;
+
+      @media (min-width: 48em) {
+        padding: 2em;
+      }
+    }
+
+      .Supporters-listItemLink {
+        display: block;
+
+        max-width: 5.25rem;
+
+        text-decoration: none;
+
+        opacity: 0.87;
+        transition: opacity 0.25s ease;
+
+        &:hover {
+          opacity: 1;
+        }
+
+        @media (min-width: 48em) {
+          max-width: 6.25rem;
+        }
+      }
+
+        .Supporters-listItemLinkImage {}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

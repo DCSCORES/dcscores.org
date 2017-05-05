@@ -1,0 +1,330 @@
+.Header {
+  position: relative;
+  display: block;
+
+  background: $americaScoresBlue;
+}
+
+  .Header-snack {
+    position: relative;
+    display: block;
+
+    background: darken($americaScoresBlue, 5%);
+  }
+
+    .Header-snackBar {
+      display: flex;
+      justify-content: flex-end;
+
+      margin: auto;
+
+      max-width: 64em;
+      height: 2.25em;
+    }
+
+      .Header-snackBarSocial {
+        display: flex;
+        justify-content: center;
+        align-items: center;
+
+        margin-right: 2%;
+
+        @media (min-width: 37.5em) {
+          margin-right: 1.42857%;
+        }
+      }
+
+        .Header-snackBarSocialTitle {
+          font-size: 0.8rem;
+          font-weight: 600;
+          line-height: 1;
+          color: rgba(255, 255, 255, 0.93);
+
+          @media (max-width: 38em) {
+            display: none;
+          }
+        }
+
+        .Header-snackBarSocialLink {
+          margin-left: 1em;
+
+          text-decoration: none;
+          color: lighten($americaScoresBlue, 15%);
+
+          i {
+            display: block;
+            font-size: 1rem;
+          }
+
+          &:hover,
+          &:active {
+            color: lighten($americaScoresBlue, 25%);
+          }
+        }
+
+  .Header-main {
+    display: flex;
+
+    margin: auto;
+
+    max-width: 64em;
+    height: 4em;
+  }
+
+  // Was needed for header because of wrapper
+  // Leave for now
+  /*body::before {
+    content: "";
+    position: absolute;
+    display: block;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 4em;
+    background: darkgrey;
+  }*/
+
+    .Header-mainFlag {
+      position: absolute;
+      display: block;
+
+      margin-top: -0.5em;
+      margin-left: 2%;
+
+      width: 4.45em;
+      height: 5em;
+
+      cursor: pointer;
+
+      background-color: white;
+
+      border-right: 0.2em solid #fff;
+      border-left: 0.2em solid #fff;
+      border-bottom: 0.2em solid #fff;
+
+      z-index: 99;
+
+      &::before {
+        content: "";
+        position: absolute;
+        display: block;
+
+        top: 0r;
+        left: -0.525em;
+
+        width: 0px;
+        height: 0px;
+
+        border-style: solid;
+        border-width: 0 0 0.485em 0.325em;
+        border-color: transparent transparent darken(white, 25%) transparent;
+      }
+
+      @media (min-width: 37.5em) {
+        margin-left: 1.42857%;
+        height: 5.25em;
+        font-size: 1.25em;
+      }
+
+      @media (min-width: 58em) {
+        font-size: 1.5em;
+      }
+    }
+
+      .Header-mainFlagLogo {
+        display: block;
+
+        padding-top: 0.75em;
+
+        width: 100%;
+        height: 100%;
+
+        font-size: 1em;
+
+        border-right: 1px solid #eee;
+        border-left: 1px solid #eee;
+        border-bottom: 1px solid #eee;
+      }
+
+        .Header-mainFlagLogoImage {}
+
+    .Header-mainActions {
+      display: flex;
+      align-items: center;
+      justify-content: center;
+
+      margin-right: 2%;
+      margin-left: auto;
+
+      height: 100%;
+
+      @media (min-width: 37.5em) {
+        margin-right: 1.42857%;
+      }
+    }
+
+      .Header-mainActionsDonate {
+        display: block;
+
+        padding-top: 0.75em;
+        padding-bottom: 0.75em;
+        padding-right: 1em;
+        padding-left: 1em;
+
+        font-size: 1.115rem;
+        font-weight: 700;
+        line-height: 1;
+        letter-spacing: -0.045em;
+        text-decoration: none;
+        color: white;
+
+        cursor: pointer;
+
+        background-color: $americaScoresRed;
+        border: 3px solid transparent;
+        border-radius: 4px;
+
+        transition: all 0.25s ease;
+
+        &:hover,
+        &:focus {
+          border-color: darken($americaScoresRed, 15%);
+        }
+
+        &:hover .Header-mainActionsDonateIcon svg,
+        &:focus .Header-mainActionsDonateIcon svg {
+          fill: darken($americaScoresRed, 25%);
+        }
+      }
+
+        .Header-mainActionsDonateIcon {
+          position: relative;
+          display: inline-block;
+
+          left: -0.25em;
+          bottom: -0.0625em;
+
+          width: 1.25em;
+          height: 1em;
+
+          vertical-align: bottom;
+
+          svg {
+            width: 100%;
+            height: 100%;
+
+            fill: darken($americaScoresRed, 15%);
+          }
+        }
+
+      .Header-mainActionsVolunteer {
+        display: block;
+
+        margin-right: 1em;
+
+        padding-top: 0.75em;
+        padding-bottom: 0.75em;
+        padding-right: 1em;
+        padding-left: 1em;
+
+        font-size: 1.115rem;
+        font-weight: 700;
+        line-height: 1;
+        letter-spacing: -0.045em;
+        text-decoration: none;
+        color: white;
+
+        cursor: pointer;
+
+        background-color: $americaScoresBlue;
+        border: 3px solid lighten($americaScoresBlue, 15%);
+        border-radius: 4px;
+
+        transition: all 0.25s ease;
+
+        &:hover,
+        &:focus {
+          background-color: lighten($americaScoresBlue, 15%);
+        }
+      }
+
+    .Header-mainNavigationToggle {
+      display: flex;
+      justify-content: center;
+      align-items: center;
+
+      padding-right: 1em;
+      padding-left: 1em;
+
+      background: blue;
+
+      z-index: 9;
+
+      @media (min-width: 64em) {
+        display: none;
+      }
+    }
+
+      .Header-mainNavigationToggleButton {
+        display: block;
+        margin: 0;
+
+        padding-right: 0.5em;
+        padding-left: 0.5em;
+
+        height: 100%;
+
+        overflow: visible;
+        cursor: pointer;
+
+        font: inherit;
+        line-height: 1em;
+        color: white;
+
+        background: crimson;
+        border: none;
+      }
+
+      .Header-mainNavigationToggleLabel {
+        padding-left: 0.5em;
+
+        font-size: 1rem;
+        line-height: 1em;
+        text-transform: uppercase;
+        color: white;
+
+        vertical-align: middle;
+        cursor: pointer;
+      }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

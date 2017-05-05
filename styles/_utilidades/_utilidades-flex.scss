@@ -1,0 +1,11 @@
+.u-displayFlex {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+}
+
+.u-displayFlex--untilNarrow {
+  @media (max-width: 48em) {
+    display: block;
+  }
+}

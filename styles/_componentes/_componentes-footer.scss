@@ -1,0 +1,239 @@
+.Footer {
+  position: relative;
+  display: block;
+
+  padding-top: 2em;
+  padding-right: 1em;
+  padding-left: 1em;
+
+  width: 100%;
+
+  background-color: lighten($americaScoresCoolGrey, 25%);
+
+  @media (min-width: 58em) {
+    padding-top: 6em;
+  }
+}
+
+  .Footer-main {
+    display: block;
+
+    @media (min-width: 48em) {
+      display: -webkit-flex;
+      display: -ms-flexbox;
+      display: flex;
+    }
+  }
+
+    .Footer-mainPrimary {
+      width: 100%;
+
+      @media (min-width: 48em) {
+        margin-left: 5%;
+        width: 65%;
+      }
+    }
+
+      .Footer-mainPrimaryTitle {
+        display: block;
+
+        font-family: "DCSCORES", sans-serif;
+        font-size: 1.25rem;
+        line-height: 1;
+        color: black;
+      }
+
+    .Footer-mainSecondary {
+      width: 100%;
+
+      background-color: rgba(0, 0, 0, 0.1);
+
+      @media (min-width: 48em) {
+        width: 30%;
+      }
+    }
+
+      .Footer-mainSecondaryTitle {
+        font-size: 0.75rem;
+        font-weight: 400;
+        line-height: 1;
+        color: grey;
+      }
+
+  .Footer-navigation {
+    display: block;
+
+    margin-top: 1.25em;
+
+    width: 100%;
+
+    @media (min-width: 24em) {
+      display: -webkit-flex;
+      display: -ms-flexbox;
+      display: flex;
+    }
+  }
+
+    .Footer-navigationColumn {
+
+      @media (min-width: 48em) {
+        margin-right: 7.5%;
+      }
+    }
+
+      .Footer-navigationColumnHeading {
+        display: block;
+
+        padding-bottom: 0.25em;
+
+        font-size: 1rem;
+        font-weight: 400;
+        line-height: 1;
+        letter-spacing: -0.015em;
+        color: black;
+      }
+
+      .Footer-navigationColumnList {
+        list-style: none;
+        margin: 0;
+        padding: 0;
+      }
+
+        .Footer-navigationColumnListItem {
+          margin-top: 0.75em;
+        }
+
+          .Footer-navigationColumnListItemLink {
+            display: block;
+
+            font-size: 0.75rem;
+            font-weight: 400;
+            line-height: 1;
+            text-decoration: none;
+            color: #767676;
+
+            &:hover {
+              color: #282828;
+            }
+          }
+
+  .Footer-social {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+
+    margin-top: 4em;
+
+    width: 100%;
+  }
+
+    .Footer-socialLabel {
+      line-height: 1;
+      letter-spacing: -0.0125em;
+      color: black;
+    }
+
+    .Footer-socialLink {
+      display: block;
+
+      font-size: 1rem;
+      line-height: 1;
+      font-weight: 400;
+      letter-spacing: -0.0125em;
+    }
+
+    .Footer-socialLink--twitter {
+      color: #55acee;
+
+      &:hover,
+      &:focus {
+        color: darken(#55acee, 15%);
+      }
+    }
+
+    .Footer-socialLink--facebook {
+      color: #3b5998;
+
+      &:hover,
+      &:focus {
+        color: darken(#3b5998, 15%);
+      }
+    }
+
+    .Footer-socialLink--instagram {
+      color: #c13584;
+
+      &:hover,
+      &:focus {
+        color: darken(#c13584, 15%);
+      }
+    }
+
+    .Footer-socialLink--youtube {
+      color: #bb0000;
+
+      &:hover,
+      &:focus {
+        color: darken(#bb0000, 15%);
+      }
+    }
+
+    .Footer-socialLink--flickr {
+      color: #0063dc;
+
+      &:hover,
+      &:focus {
+        color: darken(#0063dc, 15%);
+      }
+    }
+
+      .Footer-socialLink .Icon {
+        position: relative;
+
+        bottom: -0.1em;
+      }
+
+  .Footer-auxiliary {
+    position: relative;
+    display: block;
+
+    margin-top: 4em!important;
+    margin-right: auto;
+    margin-left: auto;
+
+    padding: 1em;
+
+    background-color: rgba(0, 0, 0, 0.1);
+
+    // remove
+    span {
+      font-size: 0.75rem;
+    }
+  }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

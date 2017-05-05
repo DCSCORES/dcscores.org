@@ -1,0 +1,89 @@
+[class^="Icon-"], [class*=" Icon-"] {
+  // Use !important to prevent issues with browser extensions that change fonts
+  speak: none;
+  font-style: normal;
+  font-weight: normal;
+  font-variant: normal;
+  text-transform: none;
+  line-height: 1;
+
+  // Better Font Rendering
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+
+  &::before {
+    font-family: 'Icons' !important;
+  }
+}
+
+.Icon-externalLink:before {
+  content: "\e900";
+}
+
+.Icon-favorite:before {
+  content: "\e87d";
+}
+
+.Icon-fullscreen:before {
+  content: "\e5d0";
+}
+
+.Icon-star:before {
+  content: "\e838";
+}
+
+.Icon-arrowLeft:before {
+  content: "\e314";
+}
+
+.Icon-arrowRight:before {
+  content: "\e315";
+}
+
+.Icon-placePin:before {
+  content: "\e8b4";
+}
+
+.Icon-mail:before {
+  content: "\e0e1";
+}
+
+.Icon-playArrow:before {
+  content: "\e037";
+}
+
+.Icon-share:before {
+  content: "\e80d";
+}
+
+.Icon-facebook:before {
+  content: "\ea91";
+}
+
+.Icon-facebookEmpty:before {
+  content: "\ea90";
+}
+
+.Icon-instagram:before {
+  content: "\ea92";
+}
+
+.Icon-twitter:before {
+  content: "\ea96";
+}
+
+.Icon-youtube:before {
+  content: "\ea9d";
+}
+
+.Icon-flickr:before {
+  content: "\eaa5";
+}
+
+.Icon-flickrEmpty:before {
+  content: "\eaa4";
+}
+
+.Icon-linkedin:before {
+  content: "\eaca";
+}

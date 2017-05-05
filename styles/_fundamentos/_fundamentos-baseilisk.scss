@@ -1,0 +1,22 @@
+html,
+body {
+  font: 400 20px/1 Helvetica, Arial, sans-serif;
+}
+
+html {
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+
+  -webkit-overflow-scrolling: touch;
+  -webkit-tap-highlight-color: #f9f9f9;
+  -webkit-text-size-adjust: 100%;
+}
+
+body {
+  margin: 0;
+
+  line-height: 1.5;
+  color: #565a5c;
+
+  background-color: white;
+}

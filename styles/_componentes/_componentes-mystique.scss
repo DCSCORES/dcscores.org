@@ -1,0 +1,329 @@
+/*
+ * Mystique, get it?
+ * Shapeshifting and stuff. Kinda fits right?
+ *
+ * Work in progress.
+ */
+.Mystique {
+  position: static;
+  display: flex;
+  justify-content: center;
+  align-items: flex-end;
+
+  font-size: 0;
+
+  &::before {
+    content: attr(data-bg);
+    position: absolute;
+    display: block;
+
+    top: 0;
+    left: 0;
+
+    width: 100%;
+    height: 100%;
+
+    background: 0 50% no-repeat #000;
+    background-size: cover;
+
+    transform: translate3d(0, 0, 0);
+    opacity: 1;
+
+    z-index: -1;
+
+    @media (min-width: 37.5em) {
+      background-image: url(../assets/images/hero-default--large.jpg);
+      background-position: center;
+    }
+  }
+
+  @media (max-width: 44em) {
+    display: block;
+  }
+}
+
+  .Mystique-shape {
+    position: static;
+    display: block;
+
+    margin: 0;
+
+    padding-right: 0.75%;
+    padding-left: 0.75%;
+
+    font-size: 1rem;
+
+    &::before {
+      content: attr(data-bg);
+      position: absolute;
+      display: block;
+
+      top: 0;
+      left: 0;
+
+      width: 100%;
+      height: 100%;
+
+      background: 0 50% no-repeat #000;
+      background-size: cover;
+
+      transform: translate3d(0, 0, 0);
+      opacity: 1;
+
+      z-index: -1;
+
+      @media (min-width: 37.5em) {
+        background-color: grey;
+      }
+    }
+
+    &::before,
+    &::after {
+      //display: none;
+
+      will-change: transform;
+      transform: translateY(15px);
+      opacity: 0;
+
+      transition: all 0.2s ease;
+    }
+
+    &:hover::before,
+    &:hover::after {
+      //display: block;
+
+      transform: translateY(0);
+      opacity: 1;
+    }
+
+    @media (min-width: 48em) {
+      width: 380px;
+    }
+  }
+
+  .Mystique-shape--first {
+
+    &::before {
+
+      @media (min-width: 37.5em) {
+        background-image: url(../assets/images/hero-01--large.jpg);
+        background-position: top center;
+      }
+
+    }
+
+    &:hover .Mystique-shapeContent,
+    &:focus .Mystique-shapeContent {
+      border-color: darken(#fec737, 15%);
+    }
+
+  }
+
+  .Mystique-shape--second {
+
+    &::before {
+
+      @media (min-width: 37.5em) {
+        background-image: url(../assets/images/hero-02--large.jpg);
+        background-position: center;
+      }
+
+    }
+
+    &:hover .Mystique-shapeContent,
+    &:focus .Mystique-shapeContent {
+      border-color: darken($americaScoresRed, 5%);
+    }
+
+  }
+
+  .Mystique-shape--third {
+
+    &::before {
+
+      @media (min-width: 37.5em) {
+        background-image: url(../assets/images/hero-03--large.jpg);
+        background-position: center;
+      }
+
+    }
+
+    &:hover .Mystique-shapeContent,
+    &:focus .Mystique-shapeContent {
+      border-color: darken($americaScoresBlue, 5%);
+    }
+
+  }
+
+    .Mystique-shapeContent {
+      position: relative;
+      display: block;
+
+      padding-top: 1.5em;
+      padding-bottom: 1.5em;
+      padding-right: 1em;
+      padding-left: 1em;
+
+      min-height: auto;
+
+      line-height: 1;
+
+      background-color: white;
+      border: 0.25em solid;
+      border-radius: 2px;
+
+      z-index: 9;
+
+      @media (min-width: 44em) {
+        margin-bottom: -2.75em;
+
+        min-height: 200px;
+      }
+
+      @media (min-width: 58em) {
+        min-height: 250px;
+      }
+    }
+
+    .Mystique-shape--first .Mystique-shapeContent {
+      background-image: url(../assets/textures/dots--grey.png);
+      background-repeat: no-repeat;
+      background-position: 225% 100%;
+      background-size: 24rem;
+
+      background-color: #fec737;
+      border-color: lighten(#fec737, 15%);
+
+      @media (min-width: 44em) {
+        margin-bottom: -4em;
+      }
+
+      @media (min-width: 58em) {
+        min-height: 270px;
+      }
+    }
+
+    .Mystique-shape--second .Mystique-shapeContent {
+      background-image: url(../assets/textures/dots--grey.png);
+      background-repeat: no-repeat;
+      background-position: -100% -45%;
+      background-size: 22rem;
+
+      background-color: $americaScoresRed;
+      border-color: lighten($americaScoresRed, 15%);
+
+      @media (min-width: 44em) {
+        margin-bottom: -5em;
+      }
+
+      @media (min-width: 58em) {
+        min-height: 320px;
+      }
+    }
+
+    .Mystique-shape--third .Mystique-shapeContent {
+      background-image: url(../assets/textures/dots--grey.png);
+      background-repeat: no-repeat;
+      background-position: -45% 0%;
+      background-size: 26rem;
+
+      background-color: $americaScoresBlue;
+      border-color: lighten($americaScoresBlue, 15%);
+
+      @media (min-width: 44em) {
+        margin-bottom: -3.5em;
+      }
+    }
+
+      .Mystique-shapeContentHeadline {
+        display: block;
+
+        margin-bottom: 1em;
+
+        font-family: "DCSCORES", sans-serif;
+        font-size: 1.75rem;
+        line-height: 1;
+        letter-spacing: -0.015em;
+        color: white;
+      }
+
+      .Mystique-shape--first .Mystique-shapeContentHeadline {
+        color: black;
+      }
+
+      .Mystique-shapeContentBlurb {
+        font-size: 0.9rem;
+        font-weight: 400;
+        line-height: 1.425;
+        color: rgba(255, 255, 255, 0.87);
+      }
+
+      .Mystique-shape--first .Mystique-shapeContentBlurb {
+        color: black;
+      }
+
+      .Mystique-shapeContentFooter {
+        position: absolute;
+        display: block;
+
+        bottom: 0;
+        left: 0;
+
+        padding: 1em;
+
+        width: 100%;
+
+        text-align: right;
+      }
+
+        .Mystique-shapeContentFooterLink {
+          font-size: 0.825rem;
+          font-weight: 700;
+          line-height: 1;
+          letter-spacing: -0.025em;
+          color: white;
+
+          border-bottom: 3px solid;
+        }
+
+        .Mystique-shape--first .Mystique-shapeContentFooterLink {
+          color: black;
+          border-bottom-color: darken($americaScoresYellow, 15%);
+        }
+
+        .Mystique-shape--second .Mystique-shapeContentFooterLink {
+          border-bottom-color: darken($americaScoresRed, 15%);
+        }
+
+        .Mystique-shape--third .Mystique-shapeContentFooterLink {
+          border-bottom-color: darken($americaScoresBlue, 15%);
+        }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

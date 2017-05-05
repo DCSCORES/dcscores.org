@@ -1,0 +1,247 @@
+.Event {
+  position: relative;
+
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+
+  -webkit-flex-direction: column;
+  -ms-flex-direction: column;
+  flex-direction: column;
+
+  min-height: 300px;
+
+  background: darkviolet;
+
+  @media (min-width: 48em) {
+    min-height: 440px;
+  }
+
+  @media (min-width: 58em) {
+    min-height: 700px;
+  }
+}
+
+  .Event-moment {
+    display: -webkit-flex;
+    display: -ms-flexbox;
+    display: flex;
+
+    -webkit-flex-direction: row;
+    -ms-flex-direction: row;
+    flex-direction: row;
+
+    min-height: 300px;
+
+    @media (min-width: 48em) {
+      min-height: 440px;
+    }
+
+    @media (min-width: 58em) {
+      min-height: 700px;
+    }
+  }
+
+    .Event-momentPrimary {
+      -webkit-flex: 2;
+      -ms-flex: 2;
+      flex: 2;
+
+      background-image: url(../assets/images/event-primary--large.jpg);
+      background-position: 50% 0;
+      background-size: cover;
+      background-color: lighten(black, 25%);
+
+      border-right: 3px solid white;
+    }
+
+    .Event-momentSecondary {
+      display: -webkit-flex;
+      display: -ms-flexbox;
+      display: flex;
+
+      -webkit-flex-direction: column;
+      -ms-flex-direction: column;
+      flex-direction: column;
+
+      -webkit-flex: 1;
+      -ms-flex: 1 1 0.000000001px;
+      flex: 1;
+
+      -webkit-flex-basis: 0.000000001px;
+      flex-basis: 0.000000001px;
+    }
+
+      .Event-momentSecondaryTop,
+      .Event-momentSecondaryBottom {
+        -webkit-flex: 1;
+        -ms-flex: 1 1 0.000000001px;
+        flex: 1;
+
+        -webkit-flex-basis: 0.000000001px;
+        flex-basis: 0.000000001px;
+      }
+
+      .Event-momentSecondaryTop {
+        background-image: url(../assets/images/event-secondary-top--large.jpg);
+        background-position: 100% 0;
+        background-size: cover;
+        background-color: lighten(black, 35%);
+      }
+
+      .Event-momentSecondaryBottom {
+        background-image: url(../assets/images/event-secondary-bottom--large.jpg);
+        background-position: 0 0;
+        background-size: cover;
+        background-color: lighten(black, 45%);
+
+        border-top: 3px solid white;
+      }
+
+  .Event-callout {
+    position: relative;
+
+    padding-top: 1.5em;
+    padding-bottom: 1.5em;
+    padding-right: 1.5em;
+    padding-left: 1.5em;
+
+    background-image: url(../assets/textures/corners--grey.png);
+    background-repeat: no-repeat;
+    background-position: 145% 5%;
+    background-size: 32rem;
+    background-color: #fec737;
+
+    border: 0.25em solid lighten(#fec737, 15%);
+    border-radius: 2px;
+
+    @media (min-width: 58em) {
+      position: absolute;
+
+      bottom: -4em;
+
+      padding-top: 1.75em;
+      padding-bottom: 1.75em;
+      padding-right: 1.25em;
+      padding-left: 1.25em;
+
+      width: 360px;
+      height: 380px;
+
+      z-index: 9;
+    }
+  }
+
+  .Event-callout--alignLeft {
+
+    @media (min-width: 58em) {
+      left: 5%;
+    }
+  }
+
+  .Event-callout--alignRight {
+
+    @media (min-width: 58em) {
+      right: 5%;
+    }
+  }
+
+    .Event-calloutTitle {
+      display: block;
+
+      margin-bottom: 0.75em;
+
+      font-family: "DCSCORES", sans-serif;
+      font-size: 1.65rem;
+      line-height: 1;
+      letter-spacing: -0.015em;
+      color: black;
+    }
+
+    .Event-calloutDescription {
+      font-size: 0.9rem;
+      font-weight: 400;
+      line-height: 1.5;
+      color: black;
+    }
+
+    .Event-calloutFooter {
+      position: relative;
+      display: flex;
+      justify-content: space-between;
+
+      padding-top: 1em;
+      padding-bottom: 1em;
+      padding-right: 1.25em;
+      padding-left: 1.25em;
+
+      width: 100%;
+
+      @media (min-width: 58em) {
+        position: absolute;
+
+        bottom: 0;
+        left: 0;
+      }
+    }
+
+      .Event-calloutFooterLink {
+        display: block;
+
+        font-size: 0.825rem;
+        font-weight: 700;
+        line-height: 1.15;
+        letter-spacing: -0.025em;
+        color: black;
+
+        border-bottom: 3px solid darken($americaScoresYellow, 15%);
+        transition: all 0.25s ease;
+
+        &:hover .Icon {
+          transform: translateY(-2px);
+        }
+
+        &:hover {
+          border-bottom-color: darken($americaScoresYellow, 25%);
+        }
+      }
+
+        .Event-calloutFooterLink .Icon {
+          position: relative;
+          display: inline-block;
+          bottom: -0.075em;
+
+          transition: all 0.25s ease;
+        }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
