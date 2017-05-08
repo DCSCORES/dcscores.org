@@ -8,10 +8,44 @@
 
   width: 100%;
 
-  background-color: lighten($americaScoresCoolGrey, 25%);
+  //background-color: lighten($americaScoresCoolGrey, 25%);
+  background-color: darken($americaScoresBlue, 5%);
+  border-top: 0.175em solid $americaScoresCoolGrey;
+
+  &::before {
+    content: "";
+    position: absolute;
+    display: block;
+
+    top: -2.5em;
+    left: 50%;
+
+    width: 4em;
+    height: 5em;
+
+    background-image: url(../assets/images/crest.png);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: 100%;
+
+    transform: translateX(-2em);
+
+    z-index: 9;
+
+    @media (min-width: 58em) {
+      top: -3em;
+
+      width: 5em;
+      height: 6em;
+
+      transform: translateX(-2.5em);
+    }
+  }
 
   @media (min-width: 58em) {
     padding-top: 6em;
+
+    border-top: 0.225em solid $americaScoresCoolGrey;
   }
 }
 
@@ -30,7 +64,7 @@
 
       @media (min-width: 48em) {
         margin-left: 5%;
-        width: 65%;
+        width: 55%;
       }
     }
 
@@ -40,25 +74,186 @@
         font-family: "DCSCORES", sans-serif;
         font-size: 1.25rem;
         line-height: 1;
-        color: black;
+        color: white;
+
+        @media (min-width: 58em) {
+          font-size: 1.425rem;
+        }
       }
 
     .Footer-mainSecondary {
+      position: relative;
+
       width: 100%;
 
-      background-color: rgba(0, 0, 0, 0.1);
-
       @media (min-width: 48em) {
-        width: 30%;
+        width: 40%;
       }
     }
 
       .Footer-mainSecondaryTitle {
-        font-size: 0.75rem;
-        font-weight: 400;
+        display: block;
+
+        margin-bottom: 1em;
+
+        font-family: "DCSCORES", sans-serif;
+        font-size: 1rem;
         line-height: 1;
-        color: grey;
+        color: white;
+
+        @media (min-width: 58em) {
+          font-size: 1.15rem;
+        }
       }
+
+      .Footer-mainSecondaryButton {
+        display: block;
+
+        padding-top: 0.85em;
+        padding-bottom: 0.85em;
+        padding-right: 1em;
+        padding-left: 1em;
+
+        width: 100%;
+
+        font-size: 1.115rem;
+        font-weight: 700;
+        line-height: 1;
+        letter-spacing: -0.025em;
+        text-decoration: none;
+        text-align: center;
+        color: white;
+
+        cursor: pointer;
+
+        background-color: $americaScoresRed;
+        border: 3px solid transparent;
+        border-radius: 4px;
+
+        transition: all 0.25s ease;
+
+        &:hover,
+        &:focus {
+          border-color: darken($americaScoresRed, 15%);
+        }
+
+        &:hover .Footer-mainSecondaryButtonIcon svg,
+        &:focus .Footer-mainSecondaryButtonIcon svg {
+          fill: darken($americaScoresRed, 25%);
+        }
+
+        @media (min-width: 48em) {
+          position: absolute;
+
+          left: 0;
+          bottom: 0;
+        }
+      }
+
+        .Footer-mainSecondaryButtonIcon {
+          position: relative;
+          display: inline-block;
+
+          left: -0.25em;
+          bottom: -0.0625em;
+
+          width: 1.25em;
+          height: 1em;
+
+          vertical-align: bottom;
+
+          svg {
+            width: 100%;
+            height: 100%;
+
+            fill: darken($americaScoresRed, 15%);
+          }
+        }
+
+      .Footer-mainSecondaryForm {
+        position: relative;
+
+        display: -webkit-box;
+        display: -webkit-flex;
+        display: -moz-box;
+        display: -ms-flexbox;
+        display: flex;
+
+        justify-content: center;
+
+        margin: 0;
+      }
+
+        .Footer-mainSecondaryFormInput {
+          box-sizing: border-box;
+          display: block;
+
+          padding-top: 1em;
+          padding-bottom: 1em;
+          padding-right: 0.5em;
+          padding-left: 2.75em;
+
+          max-width: 100%;
+          width: 100%;
+
+          -webkit-appearance: none;
+          outline: 0;
+
+          font-size: 1rem;
+          font-weight: 600;
+          line-height: 1;
+          color: #767676;
+
+          background-color: white;
+          border: 0.15em solid darken($americaScoresYellow, 5%);
+          border-radius: 3px;
+
+          transition: all 0.25s ease;
+        }
+
+        .Footer-mainSecondaryFormIcon {
+          position: absolute;
+          display: block;
+
+          top: 0;
+          left: 0.75em;
+
+          width: 1.5em;
+          height: 100%;
+
+          overflow: hidden;
+
+          fill: darken($americaScoresYellow, 15%);
+        }
+
+        .Footer-mainSecondaryFormButton {
+          position: relative;
+          display: inline-block;
+
+          margin-left: 1em;
+
+          padding-top: 1em;
+          padding-bottom: 1em;
+          padding-right: 1em;
+          padding-left: 1em;
+
+          -webkit-appearance: button;
+          white-space: nowrap;
+
+          cursor: pointer;
+          outline: 0;
+
+          font-size: 1rem;
+          font-weight: 700;
+          line-height: 1;
+          color: darken($americaScoresYellow, 45%);
+
+          background-color: $americaScoresYellow;
+          border: 0.15em solid darken($americaScoresYellow, 15%);
+          border-radius: 3px;
+
+          transition: all 0.25s ease;
+        }
 
   .Footer-navigation {
     display: block;
@@ -75,9 +270,10 @@
   }
 
     .Footer-navigationColumn {
+      margin-right: 5%;
 
       @media (min-width: 48em) {
-        margin-right: 7.5%;
+        margin-right: 8.5%;
       }
     }
 
@@ -87,10 +283,10 @@
         padding-bottom: 0.25em;
 
         font-size: 1rem;
-        font-weight: 400;
+        font-weight: 600;
         line-height: 1;
         letter-spacing: -0.015em;
-        color: black;
+        color: white;
       }
 
       .Footer-navigationColumnList {
@@ -100,20 +296,21 @@
       }
 
         .Footer-navigationColumnListItem {
-          margin-top: 0.75em;
+          margin-top: 1em;
         }
 
           .Footer-navigationColumnListItemLink {
             display: block;
 
-            font-size: 0.75rem;
-            font-weight: 400;
+            font-size: 0.825rem;
+            font-weight: 600;
             line-height: 1;
+            letter-spacing: -0.0125em;
             text-decoration: none;
-            color: #767676;
+            color: rgba(255, 255, 255, 0.64);
 
             &:hover {
-              color: #282828;
+              color: rgba(255, 255, 255, 0.87);
             }
           }
 
@@ -121,13 +318,24 @@
     display: flex;
     justify-content: space-between;
     align-items: center;
+    flex-wrap: wrap;
 
     margin-top: 4em;
 
+    padding-top: 1.075em;
+    padding-bottom: 1.075em;
+    padding-right: 1.5em;
+    padding-left: 1.5em;
+
     width: 100%;
+
+    background-color: white;
+    border-radius: 3px;
   }
 
     .Footer-socialLabel {
+      display: none;
+
       line-height: 1;
       letter-spacing: -0.0125em;
       color: black;
@@ -204,11 +412,6 @@
     padding: 1em;
 
     background-color: rgba(0, 0, 0, 0.1);
-
-    // remove
-    span {
-      font-size: 0.75rem;
-    }
   }
 
 

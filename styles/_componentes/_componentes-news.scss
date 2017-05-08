@@ -32,8 +32,6 @@
       letter-spacing: -0.015em;
       color: darken($americaScoresBlue, 15%);
 
-      //border-bottom: 0.125em solid darken($americaScoresRed, 5%);
-
       @media (min-width: 48em) {
         font-size: 2rem;
       }
@@ -48,7 +46,7 @@
 
       white-space: nowrap;
 
-      font-size: 1.1rem;
+      font-size: 1rem;
       font-weight: 700;
       line-height: 1.15;
       letter-spacing: -0.025em;
@@ -58,6 +56,10 @@
       border-bottom: 0.175em solid darken($americaScoresYellow, 5%);
 
       @media (min-width: 58em) {
+        font-size: 1.1rem;
+      }
+
+      @media (min-width: 96em) {
         font-size: 1.125rem;
       }
     }
@@ -89,7 +91,7 @@
             rgba(229, 230, 231, 1)
         );
       }
-      
+
     }
   }
 
@@ -187,6 +189,7 @@
     min-height: 400px!important; // CSS, it's great. It is just specificity.
 
     background: white;
+    border: 3px solid rgba(0, 0, 0, 0.15);
     border-radius: 2px;
 
     &:hover .News-storyThumbnailLink {

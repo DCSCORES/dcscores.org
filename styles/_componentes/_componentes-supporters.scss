@@ -56,7 +56,7 @@
 
       white-space: nowrap;
 
-      font-size: 1.1rem;
+      font-size: 1rem;
       font-weight: 700;
       line-height: 1.15;
       letter-spacing: -0.025em;
@@ -66,6 +66,10 @@
       border-bottom: 0.175em solid darken($americaScoresRed, 5%);
 
       @media (min-width: 58em) {
+        font-size: 1.1rem;
+      }
+
+      @media (min-width: 96em) {
         font-size: 1.125rem;
       }
     }

@@ -39,10 +39,10 @@
     position: relative;
     display: inline-block;
 
-    width: 1.75em;
+    width: 1.6em;
 
     // Height in pixels to stop fluidity
-    height: 18px;
+    height: 20px;
   }
 
     .Hamburger-boxInside {
@@ -53,10 +53,11 @@
 
       top: 50%;
 
-      width: 1.75em;
-      height: 3px;
+      width: 1.6em;
+      height: 4px;
 
-      background-color: #000;
+      //background-color: #fff;
+      background-color: darken($americaScoresBlue, 7.5%);
       border-radius: 0px;
 
       transition-property: transform;
@@ -69,10 +70,11 @@
         position: absolute;
         display: block;
 
-        width: 1.75em;
-        height: 3px;
+        width: 1.6em;
+        height: 4px;
 
-        background-color: #000;
+        //background-color: #fff;
+        background-color: darken($americaScoresBlue, 7.5%);
         border-radius: 0px;
 
         transition-property: transform;
@@ -81,13 +83,13 @@
       }
 
       &::before {
-        top: -8px;
+        top: -9px;
 
         transition: top 0.1s 0.34s ease-in, opacity 0.1s ease-in;
       }
 
       &::after {
-        bottom: -8px;
+        bottom: -9px;
 
         transition: bottom 0.1s 0.34s ease-in, transform 0.3s cubic-bezier(0.55, 0.055, 0.675, 0.19);
       }

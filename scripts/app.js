@@ -51,7 +51,7 @@ function toggleNavMenu() {
 		menu.classList.add('is-opened');
 
 		if ($(window).width() < 768 ) {
-		$('body').css('position','fixed');
+		$('body').css('position','relative');
 		$('body').css('overflow','auto');
 		} else {
 			$('body').css('position','relative');
