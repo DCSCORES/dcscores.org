@@ -27,7 +27,7 @@ markdown: kramdown
 kramdown:
   input: GFM
   hard_wrap: false
-excerpt_separator: |2+
+excerpt_separator: "\n\n\n"
 future: true
 
 # Permalink
@@ -50,6 +50,23 @@ collections:
   blog_tags:
     title: Tags
     output: true
+  leadership:
+    title: Leadership
+    permalink: /about-us/leadership/:name
+    output: true
+  events:
+    title: Events
+    permalink: /events/:name
+    output: true
+  success_stories:
+    title: Success stories
+    output: false
+  press:
+    title: Press
+    output: false
+  awards:
+    title: Awards
+    output: false
   uploads:
     title: Uploads
     output: true
@@ -69,6 +86,10 @@ defaults:
     type: blog_tags
   values:
     layout: tag
+- scope:
+    type: leadership
+  values:
+    layout: profile
 
 # Gems
 gems:

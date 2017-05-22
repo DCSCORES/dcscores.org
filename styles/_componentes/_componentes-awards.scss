@@ -1,0 +1,53 @@
+// Very simple component for awards section and page.
+// I want awards to have it's own separate component.
+// Modular css is great but fuck it.
+.Awards {
+  margin-top: 0.75em;
+}
+
+.Awards > * + * {
+  margin-top: 2.5em;
+}
+
+  .Awards-season {}
+
+    .Awards-season h5 {
+      color: lighten($americaScoresBlue, 5%);
+
+      > strong {
+        color: darken($americaScoresYellow, 15%);
+      }
+    }
+
+    .Awards-season ul {
+      list-style: none;
+      margin: 0.5em 0 0 0;
+      padding: 0;
+    }
+
+      .Awards-season ul li {
+        padding-right: 0.5em;
+        padding-left: 0.75em;
+
+        @media (min-width: 48em) {
+          padding-left: 1.5em;
+        }
+      }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

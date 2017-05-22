@@ -181,8 +181,9 @@
 
     @media (min-width: 64em) {
       background-color: white;
-      //border: 2px solid lighten($americaScoresBlue, 25%);
-      border-radius: 2px;
+
+      border-bottom-right-radius: 2px;
+      border-bottom-left-radius: 2px;
 
       opacity: 0;
       visibility: hidden;

@@ -4,10 +4,13 @@
 
   padding-top: 10em;
   padding-bottom: 4em;
-  padding-right: 1em;
-  padding-left: 1em;
 
   background-color: lighten($americaScoresCoolGrey, 15%);
+
+  @media (min-width: 38em) {
+    padding-right: 1em;
+    padding-left: 1em;
+  }
 }
 
   .News-header {
@@ -21,10 +24,17 @@
     margin-left: auto;
 
     max-width: 54em;
+
+    @media (max-width: 38em) {
+      padding-right: 1em;
+      padding-left: 1em;
+    }
   }
 
     .News-headerTitle {
       display: block;
+
+      margin: 0;
 
       font-family: "DCSCORES", sans-serif;
       font-size: 1.75rem;
@@ -70,7 +80,7 @@
        cursor: -moz-grab;
             cursor: grab;
 
-    @media (min-width: 48em) {
+    @media (min-width: 38em) {
 
       &::after {
         content: "";
@@ -125,21 +135,54 @@
 
     border: 0;
     border-radius: 0;
-    opacity: 0;
 
     z-index: 99;
+
+    @media (max-width: 38em) {
+      display: none!important;
+    }
   }
 
   .News-previousButton {
-    left: 0;
+    top: 1em;
+    right: 0;
 
-    background: navy;
+    color: darken($americaScoresBlue, 15%);
+
+    background-color: transparent;
+    border: 3px solid darken($americaScoresBlue, 15%);
+    border-radius: 4px;
+
+    &:hover,
+    &:focus {
+      color: white;
+      background-color: darken($americaScoresBlue, 15%);
+    }
+
+    &:focus {
+      box-shadow: 0 0 0 0.075em lighten($americaScoresBlue, 65%);
+    }
   }
 
   .News-nextButton {
-    right: 0;
+    top: 2.45em;
+    right: -0.275em;
 
-    background: crimson;
+    color: darken($americaScoresBlue, 15%);
+
+    background-color: transparent;
+    border: 3px solid darken($americaScoresBlue, 15%);
+    border-radius: 4px;
+
+    &:hover,
+    &:focus {
+      color: white;
+      background-color: darken($americaScoresBlue, 15%);
+    }
+
+    &:focus {
+      box-shadow: 0 0 0 0.075em lighten($americaScoresBlue, 65%);
+    }
   }
 
   .News .slick-dots {
@@ -200,12 +243,17 @@
               transform: scale(1.05);
     }
 
+    @media (min-width: 38em) {
+      width: 360px;
+    }
+
     @media (min-width: 48em) {
+      width: 380px;
       height: 420px!important;
     }
 
     @media (min-width: 54em) {
-      height: 440px!important;
+      height: 480px!important;
     }
   }
 
@@ -252,14 +300,16 @@
 
         margin-bottom: 0.5em;
 
-        font-size: 1.1rem;
+        font-size: 1.15rem;
         font-weight: 400;
-        line-height: 1.15;
+        line-height: 1.25;
         letter-spacing: -0.015em;
-        color: #347bff;
+        color: lighten($americaScoresBlue, 5%);
       }
 
         .News-storyContentHeadlineLink {
+          display: block;
+
           cursor: pointer;
           color: inherit;
 
@@ -267,7 +317,7 @@
 
           &:hover,
           &:focus {
-            color: #0048cd;
+            color: lighten($americaScoresBlue, 25%);
           }
         }
 
@@ -277,20 +327,26 @@
       }
 
     .News-storyFooter {
-      position: relative;
+      position: absolute;
       display: block;
 
-      padding: 0.5em;
+      bottom: 0;
+      left: 0;
+
+      padding-top: 0.5em;
+      padding-bottom: 0.5em;
+      padding-right: 1em;
+      padding-left: 1em;
 
       width: 100%;
 
       text-align: right;
 
-      @media (min-width: 48em) {
-        position: absolute;
-
-        bottom: 0;
-        left: 0;
+      @media (min-width: 38em) {
+        padding-top: 1em;
+        padding-bottom: 1em;
+        padding-right: 1em;
+        padding-left: 1em;
       }
     }
 
@@ -299,9 +355,9 @@
         font-weight: 700;
         line-height: 1;
         letter-spacing: -0.025em;
-        color: #347bff;
+        color: darken($americaScoresCoolGrey, 25%);
 
-        border-bottom: 2px solid lighten($americaScoresCoolGrey, 15%);
+        border-bottom: 3px solid lighten($americaScoresCoolGrey, 15%);
       }
 
 

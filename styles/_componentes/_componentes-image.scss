@@ -1,0 +1,66 @@
+.Image {
+  position: relative;
+
+  padding-bottom: 80%;
+
+  margin-top: 1rem;
+  margin-bottom: 1rem;
+  margin-left: 0;
+
+  clear: left;
+
+  width: 100%;
+  height: 0;
+
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+
+  @media (min-width: 30em) {
+    padding-bottom: 60%;
+
+    margin-top: 2rem;
+    margin-bottom: 2rem;
+  }
+
+  @media (min-width: 48em) {
+    padding-bottom: 45%;
+  }
+
+  @media (min-width: 64em) {
+    padding-bottom: 45%;
+
+    margin-top: 3.2rem;
+    margin-bottom: 3.2rem;
+  }
+}
+
+.Image--superMan {
+  margin-top: 0!important;
+
+  @media (min-width: 30em) {
+    padding-bottom: 60%;
+  }
+
+  @media (min-width: 48em) {
+    padding-bottom: 50%;
+  }
+
+  @media (min-width: 64em) {
+    padding-bottom: 55%;
+  }
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,118 @@
+---
+layout: default
+---
+
+{% comment %}
+{% assign sorted_leadership = site.leadership | sort:'position' | where:"section","staff" %}
+{% for leadership in sorted_leadership %}
+  {{ leadership.title }}
+{% endfor %}
+{% endcomment %}
+
+<main class="Main  Main--noTop">
+
+  <!-- Masthead -->
+  <header class="Masthead">
+    <div class="Grid  Grid--large">
+      <div class="Grid__d2-d5  Grid__m1-m6">
+        <h1 class="Masthead-title">Leadership Team</h1>
+      </div>
+    </div>
+  </header>
+
+  <section class="Grid  Grid--large">
+    <h2 class="Grid__d2-d6  Grid__d-newline  Grid__m1-m5  Grid__m-newline">Staff</h2>
+
+    <div class="Grid__d2-d6  Grid__d-newline  Grid__m1-m6">
+
+      <div class="Leadership">
+        {% assign sorted_leadership = site.leadership | sort:'position' | where:"section","staff" %}
+        {% for person in sorted_leadership %}
+        <div class="Leadership-cell">
+          <h3 class="Leadership-cellName">
+            <a href="{{ person.url }}" class="Leadership-cellNameLink">{{ person.title }}</a>
+          </h3>
+          <h4 class="Leadership-cellRole">{{ person.role }}</h4>
+        </div>
+        {% endfor%}
+      </div>
+
+    </div>
+  </section>
+
+  <section class="Grid  Grid--large  u-marginTop--2em">
+    <h2 class="Grid__d2-d6  Grid__d-newline  Grid__m1-m5  Grid__m-newline">Board</h2>
+
+    <div class="Grid__d2-d6  Grid__d-newline  Grid__m1-m6">
+
+      <div class="Leadership">
+        {% assign sorted_leadership = site.leadership | sort:'position' | where:"section","board" %}
+        {% for person in sorted_leadership %}
+        <div class="Leadership-cell">
+          <h3 class="Leadership-cellName">
+            <a href="{{ person.url }}" class="Leadership-cellNameLink">{{ person.title }}</a>
+          </h3>
+          <h4 class="Leadership-cellRole">{% if person.role %}{{ person.role }}, {% endif %}   {% if person.from %}{{ person.from }}{% endif %}</h4>
+        </div>
+        {% endfor%}
+      </div>
+
+      <h3 class="u-marginTop--1em">Board Interns</h3>
+
+      <div class="Leadership">
+        {% assign sorted_leadership = site.leadership | sort:'position' | where:"section","board interns" %}
+        {% for person in sorted_leadership %}
+        <div class="Leadership-cell">
+          <h4 class="Leadership-cellName">
+            <a href="{{ person.url }}" class="Leadership-cellNameLink">{{ person.title }}</a>
+          </h4>
+          <h5 class="Leadership-cellRole">{% if person.role %}{{ person.role }}, {% endif %}   {% if person.from %}{{ person.from }}{% endif %}</h5>
+        </div>
+        {% endfor%}
+      </div>
+
+    </div>
+  </section>
+
+  <section class="Grid  Grid--large  u-marginTop--2em">
+    <h2 class="Grid__d2-d6  Grid__d-newline  Grid__m1-m5  Grid__m-newline">Advisory Council</h2>
+
+    <div class="Grid__d2-d5  Grid__d-newline  Grid__m1-m6  Grid__m-newline">
+      <p>The Advisory Council is a group of young professionals dedicated to serving and supporting DC SCORES in multiple, creative ways — both financially and other. For more information or if you’re interested in joining the group, contact DC SCORES Major Gifts Officer <a href="mailto:afrancavilla@dcscores.org">Tony Francavilla</a>.</p>
+    </div>
+
+    <div class="Grid__d2-d6  Grid__d-newline  Grid__m1-m6">
+      <div class="Leadership">
+        {% assign sorted_leadership = site.leadership | sort:'position' | where:"section","advisory" %}
+        {% for person in sorted_leadership %}
+        <div class="Leadership-cell">
+          <h3 class="Leadership-cellName">
+            <a href="{{ person.url }}" class="Leadership-cellNameLink">{{ person.title }}</a>
+          </h3>
+          <h4 class="Leadership-cellRole">{% if person.role %}{{ person.role }}, {% endif %}   {% if person.from %}{{ person.from }}{% endif %}</h4>
+        </div>
+        {% endfor%}
+      </div>
+    </div>
+  </section>
+
+</main>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

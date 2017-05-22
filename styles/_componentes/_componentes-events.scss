@@ -1,0 +1,301 @@
+// Events, not Event, I know right?
+.Events {
+  padding-bottom: 2em;
+  padding-right: 1em;
+  padding-left: 1em;
+
+  background-color: lighten($americaScoresCoolGrey, 15%);
+
+  @media (min-width: 38em) {
+    padding-bottom: 4em;
+  }
+}
+
+
+
+
+
+
+  .Events-header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+
+    margin-top: 0;
+    margin-bottom: 1em;
+    margin-right: auto;
+    margin-left: auto;
+
+    max-width: 54em;
+
+    @media (min-width: 38em) {
+      margin-bottom: 1.75em;
+    }
+  }
+
+    .Events-headerTitle {
+      display: block;
+
+      font-family: "DCSCORES", sans-serif;
+      font-size: 1.5rem;
+      line-height: 1;
+      letter-spacing: -0.015em;
+      color: darken($americaScoresBlue, 15%);
+
+      @media (min-width: 48em) {
+        font-size: 1.8rem;
+      }
+
+      @media (min-width: 58em) {
+        font-size: 2rem;
+      }
+    }
+
+    .Events-headerLink {
+      display: block;
+
+      white-space: nowrap;
+
+      font-size: 1rem;
+      font-weight: 700;
+      line-height: 1.15;
+      letter-spacing: -0.025em;
+      text-decoration: none;
+      color: darken($americaScoresBlue, 5%);
+
+      border-bottom: 0.175em solid darken($americaScoresYellow, 5%);
+
+      @media (min-width: 58em) {
+        font-size: 1rem;
+      }
+
+      @media (min-width: 96em) {
+        font-size: 1.1rem;
+      }
+    }
+
+
+
+
+
+
+  .Events-events {
+    display: block;
+
+    @media (min-width: 44em) {
+      @include flexbox;
+    }
+  }
+
+    .Events-eventsEvent {
+      @include flexbox;
+
+      width: 100%;
+      max-width: 100%;
+
+      border: 3px solid lighten($americaScoresCoolGrey, 5%);
+      border-radius: 3px;
+
+      &:first-child {
+        margin-right: 0;
+
+        @media (min-width: 44em) {
+          margin-right: 0.5em;
+        }
+
+        @media (min-width: 48em) {
+          margin-right: 1em;
+        }
+
+        @media (max-width: 44em) {
+          margin-bottom: 1em;
+        }
+      }
+
+      @media (min-width: 44em) {
+        max-width: 480px;
+      }
+
+      @media (min-width: 48em) {
+        &:hover .Events-eventsEventThumbnail {
+          width: 30%;
+        }
+
+        &:hover .Events-eventsEventContent {
+          width: 70%;
+        }
+      }
+    }
+
+      .Events-eventsEventThumbnail {
+        position: relative;
+        overflow: hidden;
+
+        width: 25%;
+
+        background-color: black;
+        background-repeat: no-repeat;
+        background-position: center;
+        background-size: cover;
+
+        border-top-left-radius: 3px;
+        border-bottom-left-radius: 3px;
+
+        transition: all 0.15s ease-in;
+
+        &::before {
+          content: "";
+          display: block;
+          padding-top: 56.25%;
+          width: 100%;
+        }
+      }
+
+      .Events-eventsEventContent {
+        position: relative;
+
+        padding-top: 1.25em;
+        padding-bottom: 1.25em;
+        padding-right: 1.25em;
+        padding-left: 1.25em;
+
+        width: 75%;
+
+        background-color: darken($americaScoresBlue, 0%);
+
+        border-top-right-radius: 3px;
+        border-bottom-right-radius: 3px;
+
+        transition: all 0.15s ease-in;
+
+        @media (min-width: 38em) {
+          padding-top: 1.5em;
+          padding-bottom: 1.5em;
+          padding-right: 1.5em;
+          padding-left: 1.5em;
+        }
+
+        @media (min-width: 44em) {
+          padding-top: 1em;
+          padding-bottom: 1em;
+          padding-right: 1em;
+          padding-left: 1em;
+        }
+
+        @media (min-width: 48em) {
+          padding-top: 1.25em;
+          padding-bottom: 1.25em;
+          padding-right: 1.25em;
+          padding-left: 1.25em;
+        }
+
+        @media (min-width: 58em) {
+          padding-top: 2em;
+          padding-bottom: 2em;
+          padding-right: 2em;
+          padding-left: 2em;
+        }
+      }
+
+        .Events-eventsEventContentDate {
+          position: absolute;
+          display: block;
+
+          top: -1em;
+          right: 0.5em;
+
+          padding: 0.45em;
+
+          font-size: 0.8rem;
+          font-weight: 600;
+          line-height: 1;
+          letter-spacing: -0.0145em;
+          color: darken($americaScoresCoolGrey, 25%);
+
+          background-color: white;
+          border: 2px solid lighten($americaScoresCoolGrey, 5%);
+          border-radius: 3px;
+
+          @media (min-width: 38em) {
+            right: 1em;
+
+            padding: 0.5em;
+
+            font-size: 0.9rem;
+          }
+        }
+
+        .Events-eventsEventContentHeadline {
+          display: block;
+
+          margin-bottom: 0.25em;
+
+          font-size: 1rem;
+          line-height: 1;
+          color: white;
+
+          @media (min-width: 38em) {
+            font-size: 1.25rem;
+          }
+        }
+
+        .Events-eventsEventContentBlurb {
+          margin: 0;
+
+          font-size: 0.7rem;
+          font-weight: 600;
+          line-height: 1.625;
+          letter-spacing: -0.0125em;
+          color: rgba(255, 255, 255, 0.93);
+
+          @media (min-width: 38em) {
+            font-size: 0.8rem;
+          }
+        }
+
+        .Events-eventsEventContentHashtag {
+          margin-top: 0.5em;
+          margin-bottom: 0;
+
+          font-family: "Open Sans";
+          font-size: 0.7rem;
+          font-weight: 600;
+          line-height: 1;
+          letter-spacing: -0.0125em;
+          color: white;
+
+          span {
+            font-weight: 700;
+            color: rgba(0, 0, 0, 0.5);
+          }
+
+          @media (min-width: 38em) {
+            font-size: 0.8rem;
+          }
+
+          @media (min-width: 48em) {
+            margin-top: 1.25em;
+          }
+        }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

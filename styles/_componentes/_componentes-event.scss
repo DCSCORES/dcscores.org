@@ -1,9 +1,7 @@
 .Event {
   position: relative;
 
-  display: -webkit-flex;
-  display: -ms-flexbox;
-  display: flex;
+  @include flexbox;
 
   -webkit-flex-direction: column;
   -ms-flex-direction: column;
@@ -12,6 +10,10 @@
   min-height: 300px;
 
   background: darkviolet;
+
+  @media (min-width: 38em) {
+    min-height: 360px;
+  }
 
   @media (min-width: 48em) {
     min-height: 440px;
@@ -23,15 +25,17 @@
 }
 
   .Event-moment {
-    display: -webkit-flex;
-    display: -ms-flexbox;
-    display: flex;
+    @include flexbox;
 
     -webkit-flex-direction: row;
     -ms-flex-direction: row;
     flex-direction: row;
 
     min-height: 300px;
+
+    @media (min-width: 38em) {
+      min-height: 360px;
+    }
 
     @media (min-width: 48em) {
       min-height: 440px;
@@ -52,13 +56,11 @@
       background-size: cover;
       background-color: lighten(black, 25%);
 
-      border-right: 3px solid white;
+      border-right: 3px solid lighten($americaScoresCoolGrey, 15%);
     }
 
     .Event-momentSecondary {
-      display: -webkit-flex;
-      display: -ms-flexbox;
-      display: flex;
+      @include flexbox;
 
       -webkit-flex-direction: column;
       -ms-flex-direction: column;
@@ -95,7 +97,7 @@
         background-size: cover;
         background-color: lighten(black, 45%);
 
-        border-top: 3px solid white;
+        border-top: 3px solid lighten($americaScoresCoolGrey, 15%);
       }
 
   .Event-callout {
@@ -112,14 +114,25 @@
     background-size: 32rem;
     background-color: #fec737;
 
-    border: 0.25em solid lighten(#fec737, 15%);
-    border-radius: 2px;
-
-    @media (min-width: 58em) {
+    @media (min-width: 48em) {
       position: absolute;
 
       bottom: -4em;
 
+      padding-top: 1.5em;
+      padding-bottom: 1.5em;
+      padding-right: 1em;
+      padding-left: 1em;
+
+      width: 320px;
+      height: 320px;
+
+      border: 0.25em solid lighten(#fec737, 15%);
+      border-radius: 2px;
+      z-index: 9;
+    }
+
+    @media (min-width: 58em) {
       padding-top: 1.75em;
       padding-bottom: 1.75em;
       padding-right: 1.25em;
@@ -127,21 +140,19 @@
 
       width: 360px;
       height: 380px;
-
-      z-index: 9;
     }
   }
 
   .Event-callout--alignLeft {
 
-    @media (min-width: 58em) {
+    @media (min-width: 48em) {
       left: 5%;
     }
   }
 
   .Event-callout--alignRight {
 
-    @media (min-width: 58em) {
+    @media (min-width: 48em) {
       right: 5%;
     }
   }
@@ -149,20 +160,38 @@
     .Event-calloutTitle {
       display: block;
 
-      margin-bottom: 0.75em;
+      margin-bottom: 0.25em;
 
       font-family: "DCSCORES", sans-serif;
       font-size: 1.65rem;
       line-height: 1;
       letter-spacing: -0.015em;
       color: black;
+
+      @media (min-width: 48em) {
+        margin-bottom: 0.75em;
+
+        font-size: 1.5rem;
+      }
+
+      @media (min-width: 58em) {
+        font-size: 1.65rem;
+      }
     }
 
     .Event-calloutDescription {
-      font-size: 0.9rem;
+      font-size: 0.8rem;
       font-weight: 400;
       line-height: 1.5;
       color: black;
+
+      @media (min-width: 48em) {
+        font-size: 0.8rem;
+      }
+
+      @media (min-width: 58em) {
+        font-size: 0.9rem;
+      }
     }
 
     .Event-calloutFooter {
@@ -171,17 +200,26 @@
       justify-content: space-between;
 
       padding-top: 1em;
-      padding-bottom: 1em;
-      padding-right: 1.25em;
-      padding-left: 1.25em;
+      padding-bottom: 0;
+      padding-right: 0;
+      padding-left: 0;
 
       width: 100%;
 
-      @media (min-width: 58em) {
+      @media (min-width: 48em) {
         position: absolute;
 
         bottom: 0;
         left: 0;
+
+        padding-right: 1em;
+        padding-left: 1em;
+        padding-bottom: 1em;
+      }
+
+      @media (min-width: 58em) {
+        padding-right: 1.25em;
+        padding-left: 1.25em;
       }
     }
 

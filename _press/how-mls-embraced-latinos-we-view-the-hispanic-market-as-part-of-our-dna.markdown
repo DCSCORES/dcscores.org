@@ -1,0 +1,6 @@
+---
+title: How MLS embraced Latinos&#58; ‘We view the Hispanic market as part of our DNA’
+date: 2016-09-15
+link: "http://bit.ly/DCUhispanicHeritage"
+source: The Guardian
+---

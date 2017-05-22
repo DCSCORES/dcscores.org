@@ -1,0 +1,100 @@
+{% assign post = include.post %}
+{% assign is_excerpt = include.is_excerpt %}
+<article class="Article">
+
+  {% if is_excerpt %}
+  <header class="Article-header">
+    <h2 class="Article-headerTitle"><a href="{{ post.url }}" class="Article-headerTitleLink">{{ post.title }}</a></h2>
+  </header>
+  {% else %}
+  <header class="Article-header">
+    <h2 class="Article-headerTitle">{{ post.title }}</h2>
+  </header>
+  {% endif %}
+
+  <!-- Article meta -->
+  <section class="Article-meta">
+    <div class="Article-metaAuthored">
+      <span class="Article-metaAuthoredSpeaker">By
+        <a href="#" class="Article-metaAuthoredSpeakerLink">{{ post.author }}</a>
+      </span>
+
+      <span class="Article-metaAuthoredOn">on
+        <time class="Article-metaAuthoredOnDate" datetime="{{ post.date | date_to_xmlschema }}">{{ post.date | date: site.date_format }}</time>
+      </span>
+    </div>
+
+    <div class="Article-metaSocial">
+      <a href="#" class="Article-metaSocialLink  Article-metaSocialLink--twitter">
+        <i class="Icon  Icon-twitter"></i>
+        Tweet
+      </a>
+
+      <a href="#" class="Article-metaSocialLink  Article-metaSocialLink--facebook">
+        <i class="Icon  Icon-facebook"></i>
+        Share
+      </a>
+    </div>
+  </section>
+
+  {% comment %}
+  <section class="Article-meta">
+
+    <ul class="Article-metaList">
+      {% for post_tag in post.tags %}
+        {% assign post_tag_downcase = post_tag | downcase %}
+        {% for site_tag in site.blog_tags %}
+          {% assign site_tag_title = site_tag.title | downcase %}
+          {% if site_tag_title == post_tag_downcase %}
+            <li class="Article-metaListItem">
+              <a href="{{ site_tag.permalink }}" class="Article-metaListItemLink">{{ site_tag.title }}</a>
+            </li>
+          {% endif %}
+        {% endfor %}
+      {% endfor %}
+    </ul>
+
+    {% if post.date %}
+    <time class="Article-metaDate" datetime="{{ post.date | date_to_xmlschema }}">{{ post.date | date: site.date_format }}</time>
+    {% endif %}
+
+  </section>
+  {% endcomment %}
+
+  <section class="Article-content">
+
+    {% if is_excerpt %}
+      {{ post.excerpt | markdownify }}
+    {% else %}
+      {{ post.content | markdownify }}
+    {% endif %}
+
+  </section>
+
+  <footer class="Article-footer">
+    {% if is_excerpt and post.excerpt != post.content %}
+      <a href="{{ post.url }}" class="Article-footerLink">Read more</a>
+    {% endif %}
+  </footer>
+</article>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

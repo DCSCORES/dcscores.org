@@ -1,0 +1,26 @@
+---
+layout: default
+---
+
+<main class="Main">
+
+  <section class="Grid  Grid--large">
+    <h2 class="Grid__d2-d6  Grid__d-newline  Grid__m1-m5  Grid__m-newline">Press Coverage</h2>
+
+    <div class="Grid__d2-d5  Grid__d-newline  Grid__m1-m6">
+      <div class="Press">
+        <ol class="Press-list">
+          {% assign sorted_press = site.press | sort:'date' | reverse %}
+          {% for press in sorted_press %}
+          <li class="Press-listItem">
+            <time class="Press-listItemDate" datetime="{{ press.date | date: "%Y-%m-%d" }}">{{ press.date | date: "%-d %B, %Y" }}</time>
+            <a href="#" class="Press-listItemLink">{{ press.title }}</a>
+            <strong class="Press-listItemSource">{{ press.source }}</strong>
+          </li>
+          {% endfor %}
+        </ol>
+      </div>
+    </div>
+  </section>
+
+</main>

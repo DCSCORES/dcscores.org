@@ -1,0 +1,107 @@
+.Timeline {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+
+  position: relative;
+  display: block;
+
+  margin-top: 2em;
+  margin-bottom: 2em;
+
+  border-left: 0.2em solid lighten($americaScoresCoolGrey, 15%);
+
+  &::before {
+    content: "";
+    position: absolute;
+    display: none;
+
+    bottom: -1em;
+    left: -0.8em;
+
+    width: 1.4em;
+    height: 1.4em;
+
+    background: white;
+    border: 0.25em solid lighten($americaScoresCoolGrey, 15%);
+    border-radius: 100%;
+  }
+}
+
+  .Timeline-node {
+    position: relative;
+
+    margin-bottom: 3em;
+
+    padding-right: 0;
+    padding-left: 1.5em;
+
+    &::before {
+      content: "";
+      position: absolute;
+      display: block;
+
+      top: 0;
+      left: -0.8em;
+
+      width: 1.4em;
+      height: 1.4em;
+
+      background: white;
+      border: 0.25em solid darken($americaScoresYellow, 15%);
+      border-radius: 100%;
+    }
+
+    &:last-child {
+      margin-bottom: 0;
+    }
+
+    @media (min-width: 48em) {
+      padding-right: 2em;
+      padding-left: 2em;
+    }
+  }
+
+    .Timeline-node p {
+      margin-bottom: 0.5em;
+    }
+
+    .Timeline-nodeDate {
+      font-size: 1.6rem;
+      font-weight: 400;
+      line-height: 1.15;
+      letter-spacing: -0.045em;
+      color: darken($americaScoresYellow, 15%);
+
+      @media (min-width: 48em) {
+        font-size: 1.8rem;
+      }
+    }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

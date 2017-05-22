@@ -1,0 +1,76 @@
+---
+layout: default
+---
+
+<main class="Main  Main--noTop">
+
+  <!-- Masthead -->
+  <header class="Masthead">
+    <div class="Grid  Grid--large">
+      <div class="Grid__d2-d5  Grid__m1-m6">
+        <h1 class="Masthead-title">Mission & History</h1>
+      </div>
+    </div>
+  </header>
+
+  <section class="Grid  Grid--large">
+    <div class="Grid__d2-d5  Grid__m1-m5">
+      {% for mission in page.mission %}{{ mission | markdownify }}{% endfor %}
+    </div>
+
+    <div class="Image  Grid__d1-d6  Grid__m1-m6" style="background-image: url(/uploads/image-mission.jpg); background-position: top center;"></div>
+
+    <div class="Grid__d2-d5  Grid__d-newline  Grid__m1-m5  Grid__m-newline">
+      {% for vision in page.vision %}{{ vision | markdownify }}{% endfor %}
+    </div>
+
+    <div class="Image  Grid__d1-d6  Grid__m1-m6" style="background-image: url(/uploads/image-vision.jpg); background-position: center;"></div>
+
+    <header class="Grid__d2-d5  Grid__d-newline  Grid__m1-m6">
+      <h2>History</h2>
+    </header>
+
+    <div class="Grid__d2-d5  Grid__d-newline  Grid__m1-m6">
+      <!-- Timeline -->
+      <ol class="Timeline">
+        {% for year in page.years %}
+        <li class="Timeline-node">
+          <h3 class="Timeline-nodeDate">{{ year.date }}</h3>
+          <p>{{ year.description }}</p>
+
+          {% if year.image %}
+          <figure>
+            <img src="{{ year.image }}" alt="">
+          </figure>
+          {% endif %}
+        </li>
+        {% endfor %}
+      </ol>
+    </div>
+
+    <div class="Grid__d2-d5  Grid__d-newline  Grid__m1-m5  Grid__m-newline  u-marginTop">
+      {% for bottomText in page.bottomText %}{{ bottomText | markdownify }}{% endfor %}
+    </div>
+
+    <div class="Grid__d2-d5  Grid__d-newline  Grid__m1-m5  Grid__m-newline  u-marginTop">
+      {% for americaScores in page.americaScores %}{{ americaScores | markdownify }}{% endfor %}
+    </div>
+  </section>
+</main>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

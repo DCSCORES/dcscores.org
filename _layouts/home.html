@@ -4,7 +4,7 @@ layout: default
 
 <section class="Hero">
 
-  <header class="Hero-header  Grid--medium">
+  <header class="Hero-header  Grid--large">
     <div class="Grid__d2-d5  Grid__m2-m5">
       <h1 class="Hero-headerTitle">Building Teams,<br>Improving Lives.</h1>
       <p class="Hero-headerIntroduction"></p>
@@ -19,32 +19,32 @@ layout: default
         <div class="Mystique-shape  Mystique-shape--first">
           <section class="Mystique-shapeContent">
             <h3 class="Mystique-shapeContentHeadline">Impact</h3>
-            <p class="Mystique-shapeContentBlurb">Pellentesque fringilla libero sed mi iaculis, a sollicitudin risus lobortis. Cras sed justo in lectus porta accumsan et at enim.</p>
+            <p class="Mystique-shapeContentBlurb">After a 12-week DC SCORES season, <strong>99%</strong> of participants were confident they would graduate high school.</p>
 
             <div class="Mystique-shapeContentFooter">
-              <a href="#" class="Mystique-shapeContentFooterLink">Learn more</a>
+              <a href="/impact" class="Mystique-shapeContentFooterLink">See more</a>
             </div>
           </section>
         </div>
 
         <div class="Mystique-shape  Mystique-shape--second">
           <section class="Mystique-shapeContent">
-            <h3 class="Mystique-shapeContentHeadline">Donate</h3>
-            <p class="Mystique-shapeContentBlurb">Vivamus hendrerit leo nec nulla fermentum, quis viverra diam volutpat. Aenean vel porttitor odio.</p>
+            <h3 class="Mystique-shapeContentHeadline">Our mission</h3>
+            <p class="Mystique-shapeContentBlurb">DC SCORES goes where kids in need are and creates neighborhood teams that give kids the confidence and skills to succeed on the playing field, in the classroom, and in life.</p>
 
             <div class="Mystique-shapeContentFooter">
-              <a href="#" class="Mystique-shapeContentFooterLink">Learn more</a>
+              <a href="/about-us/mission-and-history" class="Mystique-shapeContentFooterLink">Learn more</a>
             </div>
           </section>
         </div>
 
         <div class="Mystique-shape  Mystique-shape--third">
           <section class="Mystique-shapeContent">
-            <h3 class="Mystique-shapeContentHeadline">Volunteer</h3>
-            <p class="Mystique-shapeContentBlurb">Phasellus magna purus, euismod ut volutpat sit amet, ornare at nisl. Nulla pharetra non elit nec varius.</p>
+            <h3 class="Mystique-shapeContentHeadline">Donate</h3>
+            <p class="Mystique-shapeContentBlurb">Help us empower DC students through recurring or one time donation.</p>
 
             <div class="Mystique-shapeContentFooter">
-              <a href="#" class="Mystique-shapeContentFooterLink">Learn more</a>
+              <a href="http://bit.ly/GiveToDCSCORES" target="_blank" class="Mystique-shapeContentFooterLink">Donate</a>
             </div>
           </section>
         </div>
@@ -68,128 +68,84 @@ layout: default
 
   <header class="News-header">
     <h2 class="News-headerTitle">From the Blog</h2>
-    <a href="#" class="News-headerLink">See all posts</a>
+    <a href="/blog" class="News-headerLink">See all posts</a>
   </header>
 
   <div class="Grid  Grid--large  js-carouselNews">
 
     <!-- Single news story -->
+    {% for post in site.posts limit:5 %}
     <div class="News-story">
 
       <!-- Story thumbnail -->
       <div class="News-storyThumbnail">
-        <a href="#" class="News-storyThumbnailLink">
-          <img class="News-storyThumbnailLinkImage" src="assets/images/news-thumbnail--01.jpg" alt="">
+        <a href="{{ post.url }}" class="News-storyThumbnailLink">
+          <img class="News-storyThumbnailLinkImage" src="{{ post.featuredImage }}" alt="">
         </a>
       </div>
 
       <!-- Story content -->
       <div class="News-storyContent">
         <h3 class="News-storyContentHeadline">
-          <a href="#" class="News-storyContentHeadlineLink">Alumni Tournament 2017: Intense competition with old friends</a>
+          <a href="{{ post.url }}" class="News-storyContentHeadlineLink">{{ post.title }}</a>
         </h3>
-        <p class="News-storyContentBlurb">The mood was high as the almost 200 DC SCORES alumni flooded into the Tubman Elementary School field...</p>
+        <p class="News-storyContentBlurb">{{ post.content | strip_html | truncatewords: 18 }}</p>
       </div>
 
       <!-- Story footer -->
       <div class="News-storyFooter">
-        <a href="#" class="News-storyFooterLink">Read more</a>
+        <a href="{{ post.url }}" class="News-storyFooterLink">Read more</a>
       </div>
     </div>
-
-    <div class="News-story">
-      <!-- Story thumbnail -->
-      <div class="News-storyThumbnail">
-        <a href="#" class="News-storyThumbnailLink">
-          <img class="News-storyThumbnailLinkImage" src="assets/images/news-thumbnail--02.jpg" alt="">
-        </a>
-      </div>
-
-      <!-- Story content -->
-      <div class="News-storyContent">
-        <h3 class="News-storyContentHeadline">
-          <a href="#" class="News-storyContentHeadlineLink">My first experience as a DC SCORES coach</a>
-        </h3>
-        <p class="News-storyContentBlurb">When I went to Barnard Elementary School with coach Hannah, it was my first time at Barnard and also my...</p>
-      </div>
-
-      <!-- Story footer -->
-      <div class="News-storyFooter">
-        <a href="#" class="News-storyFooterLink">Read more</a>
-      </div>
-    </div>
-
-    <div class="News-story">
-      <!-- Story thumbnail -->
-      <div class="News-storyThumbnail">
-        <a href="#" class="News-storyThumbnailLink">
-          <img class="News-storyThumbnailLinkImage" src="assets/images/news-thumbnail--03.jpg" alt="">
-        </a>
-      </div>
-
-      <!-- Story content -->
-      <div class="News-storyContent">
-        <h3 class="News-storyContentHeadline">
-          <a href="#" class="News-storyContentHeadlineLink">Coaches gear up for spring season with action-packed, fun Coach Kickoff</a>
-        </h3>
-        <p class="News-storyContentBlurb">A day full of speakers, service learning, and soccer: Coach Kickoff was a success!</p>
-      </div>
-
-      <!-- Story footer -->
-      <div class="News-storyFooter">
-        <a href="#" class="News-storyFooterLink">Read more</a>
-      </div>
-    </div>
-
-    <div class="News-story">
-      <!-- Story thumbnail -->
-      <div class="News-storyThumbnail">
-        <a href="#" class="News-storyThumbnailLink">
-          <img class="News-storyThumbnailLinkImage" src="assets/images/news-thumbnail--01.jpg" alt="">
-        </a>
-      </div>
-
-      <!-- Story content -->
-      <div class="News-storyContent">
-        <h3 class="News-storyContentHeadline">
-          <a href="#" class="News-storyContentHeadlineLink">Alumni Tournament 2017: Intense competition with old friends</a>
-        </h3>
-        <p class="News-storyContentBlurb">The mood was high as the almost 200 DC SCORES alumni flooded into the Tubman Elementary School field...</p>
-      </div>
-
-      <!-- Story footer -->
-      <div class="News-storyFooter">
-        <a href="#" class="News-storyFooterLink">Read more</a>
-      </div>
-    </div>
-
-    <div class="News-story">
-      <!-- Story thumbnail -->
-      <div class="News-storyThumbnail">
-        <a href="#" class="News-storyThumbnailLink">
-          <img class="News-storyThumbnailLinkImage" src="assets/images/news-thumbnail--02.jpg" alt="">
-        </a>
-      </div>
-
-      <!-- Story content -->
-      <div class="News-storyContent">
-        <h3 class="News-storyContentHeadline">
-          <a href="#" class="News-storyContentHeadlineLink">My first experience as a DC SCORES coach</a>
-        </h3>
-        <p class="News-storyContentBlurb">When I went to Barnard Elementary School with coach Hannah, it was my first time at Barnard and also my...</p>
-      </div>
-
-      <!-- Story footer -->
-      <div class="News-storyFooter">
-        <a href="#" class="News-storyFooterLink">Read more</a>
-      </div>
-    </div>
+    {% endfor %}
 
   </div>
 </div>
 
 
 
+<div class="Events">
+
+  <header class="Events-header">
+    <h3 class="Events-headerTitle">Upcoming events</h3>
+    {% comment %}<a href="#" class="Events-headerLink">Past events</a>{% endcomment %}
+  </header>
+
+  <div class="Grid  Grid--large">
+    <div class="Events-events">
+
+      <!-- First event -->
+      <a href="#" class="Events-eventsEvent">
+        <div class="Events-eventsEventThumbnail" style="background-image: url(http://www.americascores.org/wp-content/uploads/2017/04/5.12.17.jpg); background-position: center left;"></div>
+
+        <div class="Events-eventsEventContent" style="background-color: #db0065;">
+          <time class="Events-eventsEventContentDate">June 8, 2017</time>
+          <h3 class="Events-eventsEventContentHeadline">Do More 24</h3>
+          <p class="Events-eventsEventContentBlurb">June 8 is Do More 24, the annual day of giving for Washington, DC, area nonprofits.</p>
+
+          <h4 class="Events-eventsEventContentHashtag">Use hashtag: <span>#DoMore24</span></h4>
+        </div>
+      </a>
+
+      <!-- Second event -->
+      <a href="#" class="Events-eventsEvent">
+        <div class="Events-eventsEventThumbnail" style="background-image: url(http://www.americascores.org/wp-content/uploads/2017/05/6.20.16-jamboree-recap.png); background-position: center;"></div>
+
+        <div class="Events-eventsEventContent" style="background-color: #c2272d;">
+          <time class="Events-eventsEventContentDate">June 3, 2017</time>
+          <h3 class="Events-eventsEventContentHeadline">Jamboree!</h3>
+          <p class="Events-eventsEventContentBlurb">Don’t miss our largest event of the year, Jamboree! Saturday, June 3. Join 2,000 others for an action-packed day.</p>
+        </div>
+      </a>
+
+    </div>
+  </div>
+
+</div>
+
+
+
+{% comment %}
 <div class="Ola">
   <div class="Grid  Grid--superSmall  u-displayFlex  u-displayFlex--untilNarrow">
 
@@ -202,12 +158,13 @@ layout: default
       <p class="Ola-contentDescription">DC SCORES goes where kids in need are and creates neighborhood teams that give kids the confidence and skills to succeed on the playing field, in the classroom, and in life.</p>
 
       <div class="Ola-contentFooter">
-        <a href="#" class="Ola-contentFooterLink  Icon  Icon-arrowRight">Learn more</a>
+        <a href="#" class="Ola-contentFooterLink">Learn more</a>
       </div>
     </div>
 
   </div>
 </div>
+{% endcomment %}
 
 
 
@@ -248,7 +205,7 @@ layout: default
 
   <div class="Supporters-header">
     <h3 class="Supporters-headerTitle">Supporters</h3>
-    <a href="#" class="Supporters-headerLink">See all</a>
+    <a href="/supporters" class="Supporters-headerLink">See all</a>
   </div>
 
   <ul class="Supporters-list  Grid  Grid--large">
@@ -260,7 +217,7 @@ layout: default
 
     <li class="Supporters-listItem">
       <a href="#" class="Supporters-listItemLink">
-        <img class="Supporters-listItemLinkImage" src="assets/images/supporters/us-soccer-foundation.png" alt="">
+        <img class="Supporters-listItemLinkImage" src="assets/images/supporters/osse.png" alt="">
       </a>
     </li>
 
@@ -272,19 +229,7 @@ layout: default
 
     <li class="Supporters-listItem">
       <a href="#" class="Supporters-listItemLink">
-        <img class="Supporters-listItemLinkImage" src="assets/images/supporters/dc-united.png" alt="">
-      </a>
-    </li>
-
-    <li class="Supporters-listItem">
-      <a href="#" class="Supporters-listItemLink">
         <img class="Supporters-listItemLinkImage" src="assets/images/supporters/us-soccer-foundation.png" alt="">
-      </a>
-    </li>
-
-    <li class="Supporters-listItem">
-      <a href="#" class="Supporters-listItemLink">
-        <img class="Supporters-listItemLinkImage" src="assets/images/supporters/city-fund.png" alt="">
       </a>
     </li>
   </ul>

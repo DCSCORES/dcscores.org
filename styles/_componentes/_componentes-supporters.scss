@@ -117,6 +117,72 @@
 
         .Supporters-listItemLinkImage {}
 
+// Damn dude, that bs naming
+.SupportersList {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+
+  @include flexbox;
+  @include flex-wrap(wrap);
+}
+
+  .SupportersList-cell {
+    display: block;
+
+    margin-top: 0.5em;
+    margin-right: 0;
+
+    padding-right: 2em;
+
+    width: 100%;
+
+    @media (min-width: 26em) {
+      margin-top: 1em;
+      margin-right: 4%;
+
+      padding-right: 0.5em;
+
+      width: 46%;
+    }
+
+    @media (min-width: 34em) {
+      margin-top: 1.5em;
+      margin-right: 1.5%;
+
+      width: 31.5%;
+    }
+
+    @media (min-width: 42em) {
+      margin-right: 1%;
+      width: 24%;
+    }
+
+    @media (min-width: 48em) {
+      margin-right: 2.5%;
+      width: 22.5%;
+    }
+  }
+
+    .SupportersList-cellName {
+      display: block;
+
+      font-family: "Open Sans";
+      font-weight: 600;
+      line-height: 1.15;
+      letter-spacing: -0.0145em;
+      color: darken($americaScoresCoolGrey, 10%);
+    }
+
+    .SupportersList--leagueChampions .SupportersList-cellName {
+      color: darken($americaScoresYellow, 10%);
+    }
+
+
+
+
+
+
 
 
 

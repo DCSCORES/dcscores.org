@@ -1,0 +1,103 @@
+.Leadership {
+  @include flexbox;
+  @include flex-direction(row);
+  @include align-items(flex-start);
+  @include flex-wrap(wrap);
+
+  padding-top: 1em;
+
+  width: 100%;
+
+  @media (min-width: 38em) {
+    padding-top: 2em;
+  }
+}
+
+  .Leadership-cell {
+    margin: 0 auto 1.5em 0;
+    padding-left: 0.25em;
+
+    width: 86%;
+
+    border-left: 0.25em solid lighten($americaScoresCoolGrey, 15%);
+
+    &:nth-child(3n+2) {
+      margin: 0 auto 2em 0;
+
+      @media (min-width: 48em) {
+        margin: 0 10%;
+      }
+    }
+
+    @media (min-width: 38em) {
+      padding-left: 0.5em;
+      width: 46%;
+
+      border-left-width: 0.3em;
+    }
+
+    @media (min-width: 48em) {
+      margin: 0 0 3.25em 0;
+      padding-left: 0.75em;
+
+      width: 26.66%;
+
+      border-left-width: 0.35em;
+    }
+  }
+
+    .Leadership-cellName {
+      font-size: 1.2rem;
+      line-height: 1.15;
+
+      @media (min-width: 48em) {
+        font-size: 1.4rem;
+      }
+    }
+
+      .Leadership-cellNameLink {
+        display: block;
+
+        color: lighten($americaScoresBlue, 5%);
+
+        &:hover,
+        &:focus {
+          color: lighten($americaScoresBlue, 15%);
+        }
+      }
+
+    .Leadership-cellRole {
+      display: block;
+
+      margin-top: 0.5em;
+
+      font-family: "Open Sans", sans-serif;
+      font-size: 0.9rem;
+      font-weight: 600;
+      line-height: 1.325;
+      letter-spacing: -0.0125em;
+      color: darken($americaScoresCoolGrey, 25%);
+    }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

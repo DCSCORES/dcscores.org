@@ -1,0 +1,22 @@
+---
+layout: default
+---
+
+<main class="Main">
+
+  <section class="Grid  Grid--large">
+    <h2 class="Grid__d2-d6  Grid__d-newline  Grid__m1-m5  Grid__m-newline">Awards</h2>
+
+    <div class="Grid__d2-d5  Grid__d-newline  Grid__m1-m6">
+      <div class="Awards">
+        {% assign sorted_awards = site.awards | sort:'season' | reverse %}
+        {% for awards in sorted_awards %}
+        <section class="Awards-season">
+          {{ awards.content | markdownify }}
+        </section>
+        {% endfor %}
+      </div>
+    </div>
+  </section>
+
+</main>

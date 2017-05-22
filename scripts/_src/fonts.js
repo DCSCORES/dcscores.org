@@ -5,7 +5,7 @@ var WebFontConfig = {
 
   "custom": {
     "families": ['DCSCORES', 'Icons'],
-    "urls": ['../styles/estilo-secundario.css']
+    "urls": ['/styles/estilo-secundario.css']
   }
 };
 

@@ -11,9 +11,13 @@
 @import "_fundamentos/fundamentos-links";
 @import "_fundamentos/fundamentos-images";
 @import "_fundamentos/fundamentos-typography";
+@import "_fundamentos/fundamentos-list";
+@import "_fundamentos/fundamentos-hr";
 
 @import "_componentes/componentes-header";
 @import "_componentes/componentes-navigation";
+@import "_componentes/componentes-main";
+@import "_componentes/componentes-article";
 @import "_componentes/componentes-footer";
 @import "_componentes/componentes-grid";
 @import "_componentes/componentes-hero";
@@ -21,11 +25,24 @@
 @import "_componentes/componentes-news";
 @import "_componentes/componentes-ola";
 @import "_componentes/componentes-event";
+@import "_componentes/componentes-events";
 @import "_componentes/componentes-supporters";
 @import "_componentes/componentes-action";
+@import "_componentes/componentes-masthead";
+@import "_componentes/componentes-image";
+@import "_componentes/componentes-timeline";
+@import "_componentes/componentes-impact";
+@import "_componentes/componentes-stories";
+@import "_componentes/componentes-awards";
+@import "_componentes/componentes-press";
+@import "_componentes/componentes-link";
+@import "_componentes/componentes-leadership";
+@import "_componentes/componentes-profile";
+@import "_componentes/componentes-program";
 @import "_componentes/componentes-hamburger";
 @import "_componentes/componentes-slick";
 
 @import "_utilidades/utilidades-preload";
+@import "_utilidades/utilidades-margin";
 @import "_utilidades/utilidades-flex";
 @import "_utilidades/utilidades-vh";

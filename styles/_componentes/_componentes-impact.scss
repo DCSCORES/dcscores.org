@@ -1,0 +1,137 @@
+// Component for single column
+// Not great, fuck it
+.Impact {
+  display: inline-block;
+  float: none;
+
+  margin-top: 1em;
+  margin-left: 2%;
+
+  width: 48%;
+
+  vertical-align: bottom;
+
+  @media (min-width: 30em) {
+    margin-left: 3.5%;
+    width: 30%;
+  }
+
+  @media (max-width: 30em) {
+
+    &:last-child {
+      margin-left: 0;
+    }
+
+  }
+}
+
+.Impact--first {
+  margin-left: 0;
+}
+
+  .Impact-value {
+    width: 100%;
+    height: auto;
+
+    letter-spacing: -0.045em;
+
+    border: 0.25em solid lighten($americaScoresCoolGrey, 15%);
+    border-radius: 100%;
+  }
+
+    .Impact:first-child .Impact-value {
+      border: 0.25em solid lighten($americaScoresRed, 15%);
+    }
+
+    .Impact:nth-child(2) .Impact-value {
+      border: 0.25em solid lighten($americaScoresYellow, 5%);
+    }
+
+    .Impact:last-child .Impact-value {
+      border: 0.25em solid lighten($americaScoresBlue, 15%);
+    }
+
+    .Impact:first-child .Impact-value .Impact-valueCircle {
+      fill: $americaScoresRed;
+    }
+
+    .Impact:nth-child(2) .Impact-value .Impact-valueCircle {
+      fill: darken($americaScoresYellow, 5%);
+    }
+
+    .Impact:last-child .Impact-value .Impact-valueCircle {
+      fill: $americaScoresBlue;
+    }
+
+  .Impact-description {
+    margin-top: 0.75em;
+
+    font-size: 0.7rem;
+    line-height: 1.4;
+
+    @media (min-width: 48em) {
+      font-size: .9rem;
+      line-height: 1.45;
+    }
+
+    @media (min-width: 64em) {
+      line-height: 1.5;
+    }
+  }
+
+.ImpactFooter {
+  margin-top: 2em;
+
+  text-align: right;
+}
+
+  .ImpactFooter-link {
+    display: inline-block;
+
+    font-size: 0.9rem;
+    font-weight: 600;
+    line-height: 1.25;
+    letter-spacing: -0.0125em;
+    color: darken($americaScoresCoolGrey, 25%);
+
+    border-bottom: 0.15em solid lighten($americaScoresCoolGrey, 15%);
+
+    &:hover,
+    &:focus {
+      color: darken($americaScoresCoolGrey, 45%);
+    }
+
+    &:focus {
+      outline: 1px dotted darken($americaScoresCoolGrey, 45%);
+      transform: translateY(1px);
+    }
+
+    @media (min-width: 48em) {
+      font-size: 0.95rem;
+    }
+  }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

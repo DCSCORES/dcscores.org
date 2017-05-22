@@ -2,20 +2,24 @@
   position: relative;
   display: block;
 
-  padding-top: 2em;
+  padding-top: 4em;
   padding-right: 1em;
   padding-left: 1em;
 
   width: 100%;
 
-  //background-color: lighten($americaScoresCoolGrey, 25%);
-  background-color: darken($americaScoresBlue, 5%);
-  border-top: 0.175em solid $americaScoresCoolGrey;
+  background-color: darken($americaScoresBlue, 10%);
+  background-image: url(../assets/textures/dots--grey.png);
+  background-repeat: no-repeat;
+  background-position: 50% 175%;
+  background-size: 36em;
+
+  //border-top: 0.175em solid $americaScoresCoolGrey;
 
   &::before {
     content: "";
     position: absolute;
-    display: block;
+    display: none;
 
     top: -2.5em;
     left: 50%;
@@ -45,14 +49,14 @@
   @media (min-width: 58em) {
     padding-top: 6em;
 
-    border-top: 0.225em solid $americaScoresCoolGrey;
+    //border-top: 0.225em solid $americaScoresCoolGrey;
   }
 }
 
   .Footer-main {
     display: block;
 
-    @media (min-width: 48em) {
+    @media (min-width: 64em) {
       display: -webkit-flex;
       display: -ms-flexbox;
       display: flex;
@@ -62,9 +66,13 @@
     .Footer-mainPrimary {
       width: 100%;
 
-      @media (min-width: 48em) {
+      @media (min-width: 64em) {
         margin-left: 5%;
         width: 55%;
+      }
+
+      @media (max-width: 64em) {
+        margin-top: 2em;
       }
     }
 
@@ -79,14 +87,19 @@
         @media (min-width: 58em) {
           font-size: 1.425rem;
         }
+
+        @media (max-width: 64em) {
+          display: none;
+        }
       }
 
     .Footer-mainSecondary {
       position: relative;
+      display: block;
 
       width: 100%;
 
-      @media (min-width: 48em) {
+      @media (min-width: 64em) {
         width: 40%;
       }
     }
@@ -108,6 +121,8 @@
 
       .Footer-mainSecondaryButton {
         display: block;
+
+        margin-top: 2em;
 
         padding-top: 0.85em;
         padding-bottom: 0.85em;
@@ -142,7 +157,7 @@
           fill: darken($americaScoresRed, 25%);
         }
 
-        @media (min-width: 48em) {
+        @media (min-width: 64em) {
           position: absolute;
 
           left: 0;
@@ -172,16 +187,14 @@
 
       .Footer-mainSecondaryForm {
         position: relative;
-
-        display: -webkit-box;
-        display: -webkit-flex;
-        display: -moz-box;
-        display: -ms-flexbox;
-        display: flex;
-
-        justify-content: center;
+        display: block;
 
         margin: 0;
+
+        @media (min-width: 38em) {
+          @include flexbox;
+          @include justify-content(center);
+        }
       }
 
         .Footer-mainSecondaryFormInput {
@@ -224,6 +237,10 @@
           overflow: hidden;
 
           fill: darken($americaScoresYellow, 15%);
+
+          @media (max-width: 38em) {
+            height: 47.5%;
+          }
         }
 
         .Footer-mainSecondaryFormButton {
@@ -234,8 +251,8 @@
 
           padding-top: 1em;
           padding-bottom: 1em;
-          padding-right: 1em;
-          padding-left: 1em;
+          padding-right: 1.25em;
+          padding-left: 1.25em;
 
           -webkit-appearance: button;
           white-space: nowrap;
@@ -253,6 +270,13 @@
           border-radius: 3px;
 
           transition: all 0.25s ease;
+
+          @media (max-width: 38em) {
+            margin-top: 0.5em;
+            margin-left: 0;
+
+            width: 100%;
+          }
         }
 
   .Footer-navigation {
@@ -262,18 +286,24 @@
 
     width: 100%;
 
-    @media (min-width: 24em) {
-      display: -webkit-flex;
-      display: -ms-flexbox;
-      display: flex;
+    @media (min-width: 28em) {
+      @include flexbox;
+      @include flex-wrap(wrap);
     }
   }
 
     .Footer-navigationColumn {
-      margin-right: 5%;
 
-      @media (min-width: 48em) {
-        margin-right: 8.5%;
+      @media (min-width: 28em) {
+        flex: 1 0 50%;
+      }
+
+      @media (min-width: 38em) {
+        flex: 1 0 33.33%;
+      }
+
+      @media (max-width: 38em) {
+        margin-top: 1.5em;
       }
     }
 
@@ -282,7 +312,7 @@
 
         padding-bottom: 0.25em;
 
-        font-size: 1rem;
+        font-size: 1.1rem;
         font-weight: 600;
         line-height: 1;
         letter-spacing: -0.015em;
@@ -304,13 +334,18 @@
 
             font-size: 0.825rem;
             font-weight: 600;
-            line-height: 1;
+            line-height: 1.15;
             letter-spacing: -0.0125em;
             text-decoration: none;
             color: rgba(255, 255, 255, 0.64);
 
+            &:focus,
             &:hover {
               color: rgba(255, 255, 255, 0.87);
+            }
+
+            &:focus {
+              outline: 1px dotted $americaScoresCoolGrey;
             }
           }
 
@@ -322,15 +357,25 @@
 
     margin-top: 4em;
 
-    padding-top: 1.075em;
-    padding-bottom: 1.075em;
-    padding-right: 1.5em;
-    padding-left: 1.5em;
+    padding-top: 0.575em;
+    padding-bottom: 0.575em;
+    padding-right: 0.75em;
+    padding-left: 0.75em;
 
     width: 100%;
 
     background-color: white;
     border-radius: 3px;
+
+    @media (min-width: 38em) {
+      padding-right: 1em;
+      padding-left: 1em;
+    }
+
+    @media (min-width: 48em) {
+      padding-right: 1.25em;
+      padding-left: 1.25em;
+    }
   }
 
     .Footer-socialLabel {
@@ -344,10 +389,16 @@
     .Footer-socialLink {
       display: block;
 
+      padding: 0.5em;
+
       font-size: 1rem;
       line-height: 1;
       font-weight: 400;
       letter-spacing: -0.0125em;
+
+      &:focus {
+        transform: translateY(1px);
+      }
     }
 
     .Footer-socialLink--twitter {
@@ -409,10 +460,44 @@
     margin-right: auto;
     margin-left: auto;
 
-    padding: 1em;
+    padding-top: 1.5em;
+    padding-bottom: 1em;
 
-    background-color: rgba(0, 0, 0, 0.1);
+    border-top: 2px solid darken($americaScoresBlue, 15%);
   }
+
+    .Footer-auxiliaryCite {
+      display: block;
+
+      margin-bottom: 0.5em;
+
+      font-size: 0.7rem;
+      font-weight: 600;
+      font-style: normal;
+      line-height: 1;
+      letter-spacing: -0.0175em;
+      color: white;
+    }
+
+    .Footer-auxiliaryFootprint {
+      display: block;
+
+      max-width: 34em;
+
+      font-size: 0.7rem;
+      font-weight: 600;
+      line-height: 1.5;
+      color: rgba(255, 255, 255, 0.87);
+
+      a {
+        color: inherit;
+        border-bottom: 1px solid rgba(255, 255, 255, 0.4);
+
+        &:hover {
+          border-bottom-color: rgba(255, 255, 255, 0.6);
+        }
+      }
+    }
 
 
 

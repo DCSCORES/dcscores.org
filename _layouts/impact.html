@@ -1,0 +1,177 @@
+---
+layout: default
+---
+
+<main class="Main  Main--noTop">
+
+  <!-- Masthead -->
+  <header class="Masthead">
+    <div class="Grid  Grid--large">
+      <div class="Grid__d2-d5  Grid__m1-m6">
+        <h1 class="Masthead-title">Impact</h1>
+      </div>
+    </div>
+  </header>
+
+  <section class="Grid  Grid--large">
+    <h2 class="Grid__d2-d6  Grid__d-newline  Grid__m1-m5  Grid__m-newline">DC SCORES Works</h2>
+
+    <div class="Grid__d2-d5  Grid__d-newline  Grid__m1-m6">
+
+      <!-- Column #1 -->
+      <div class="Impact  Impact--first">
+        {% for columnOne in page.columnOne %}
+        <!--[if gte IE 9]>
+        <!--><svg class="Impact-value" height="202" viewbox="0 0 202 202" width="202" xmlns="http://www.w3.org/2000/svg"><!--
+            --><path class="Impact-valueCircle" d="M201 101c0 55.2-44.8 100-100 100S1 156.2 1 101 45.8 1 101 1s100 44.8 100 100"></path><!--
+
+            --><text id="numberOne" dy="105" fill="rgba(255, 255, 255, 0.98)" font-family="DCSCORES" font-size="80" text-anchor="middle" x="100">{{ columnOne.number }}</text><!--
+
+            --><text dy="136" fill="rgba(255, 255, 255, 0.63)" font-family="DCSCORES" font-size="20" text-anchor="middle" x="100">out of</text><!--
+
+            --><text dy="168" fill="rgba(255, 255, 255, 0.92)" font-family="DCSCORES" font-size="22" text-anchor="middle" x="100">100 kids</text><!--
+        --></svg>
+        <!--<![endif]-->
+
+        <p class="Impact-description">{{ columnOne.description | markdownify }}</p>
+        {% endfor %}
+      </div>
+
+      <!-- Column #2 -->
+      <div class="Impact">
+        {% for columnTwo in page.columnTwo %}
+        <!--[if gte IE 9]>
+        <!--><svg class="Impact-value" height="202" viewbox="0 0 202 202" width="202" xmlns="http://www.w3.org/2000/svg"><!--
+            --><path class="Impact-valueCircle" d="M201 101c0 55.2-44.8 100-100 100S1 156.2 1 101 45.8 1 101 1s100 44.8 100 100"></path><!--
+
+            --><text id="numberTwo" dy="105" fill="rgba(255, 255, 255, 0.98)" font-family="DCSCORES" font-size="80" text-anchor="middle" x="100">{{ columnTwo.number }}</text><!--
+
+            --><text dy="136" fill="rgba(255, 255, 255, 0.63)" font-family="DCSCORES" font-size="20" text-anchor="middle" x="100">out of</text><!--
+
+            --><text dy="168" fill="rgba(255, 255, 255, 0.92)" font-family="DCSCORES" font-size="22" text-anchor="middle" x="100">100 kids</text><!--
+        --></svg>
+        <!--<![endif]-->
+
+        <p class="Impact-description">{{ columnTwo.description | markdownify }}</p>
+        {% endfor %}
+      </div>
+
+      <!-- Column #3 -->
+      <div class="Impact">
+        {% for columnThree in page.columnThree %}
+        <!--[if gte IE 9]>
+        <!--><svg class="Impact-value" height="202" viewbox="0 0 202 202" width="202" xmlns="http://www.w3.org/2000/svg"><!--
+            --><path class="Impact-valueCircle" d="M201 101c0 55.2-44.8 100-100 100S1 156.2 1 101 45.8 1 101 1s100 44.8 100 100"></path><!--
+
+            --><text id="numberThree" dy="105" fill="rgba(255, 255, 255, 0.98)" font-family="DCSCORES" font-size="80" text-anchor="middle" x="100">{{ columnThree.number }}</text><!--
+
+            --><text dy="136" fill="rgba(255, 255, 255, 0.63)" font-family="DCSCORES" font-size="20" text-anchor="middle" x="100">out of</text><!--
+
+            --><text dy="168" fill="rgba(255, 255, 255, 0.92)" font-family="DCSCORES" font-size="22" text-anchor="middle" x="100">100 kids</text><!--
+        --></svg>
+        <!--<![endif]-->
+
+        <p class="Impact-description">{{ columnThree.description | markdownify }}</p>
+        {% endfor %}
+      </div>
+
+    </div>
+
+    <div class="Grid__d2-d5  Grid__d-newline  Grid__m1-m6  Link  Link--alignLeft">
+      <a href="#" class="Link-link">See more at dcscoresimpact.org</a>
+    </div>
+
+    <hr class="Grid__d2-d5  Grid__d-newline  Grid__m1-m6">
+
+    <div class="Grid__d2-d5  Grid__d-newline  Grid__m1-m6">
+      <h2>Success Stories</h2>
+
+      <div class="Stories">
+        {% assign sorted_success_stories = site.success_stories | sort:'position' %}
+        {% for story in sorted_success_stories %}
+        <a href="{{ story.link }}" target="_blank" class="Stories-story" style="background-image: url({{ story.image }});">
+          <div class="Stories-storyHeader">
+            <h4 class="Stories-storyHeaderTitle">{{ story.title }}</h4>
+          </div>
+        </a>
+        {% endfor %}
+      </div>
+    </div>
+
+    <div class="Grid__d2-d5  Grid__d-newline  Grid__m1-m6  Link  Link--alignLeft">
+      <a href="#" class="Link-link">Read our Blog</a>
+    </div>
+
+    <hr class="Grid__d2-d5  Grid__d-newline  Grid__m1-m6">
+
+    <div class="Grid__d2-d5  Grid__d-newline  Grid__m1-m6">
+      <h2>Awards</h2>
+
+      <div class="Awards">
+        {% assign sorted_awards = site.awards | sort:'season' | reverse %}
+        {% for award in sorted_awards limit:1 %}
+        <section class="Awards-season">
+          {{ award.content | markdownify }}
+        </section>
+        {% endfor %}
+      </div>
+    </div>
+
+    <div class="Grid__d2-d5  Grid__d-newline  Grid__m1-m6  Link  Link--alignLeft">
+      <a href="/impact/awards/" class="Link-link">View all awards</a>
+    </div>
+
+    <hr class="Grid__d2-d5  Grid__d-newline  Grid__m1-m6">
+
+    <div class="Grid__d2-d5  Grid__d-newline  Grid__m1-m6">
+      <h2>Press Coverage</h2>
+
+      <div class="Press">
+        <ol class="Press-list">
+          {% assign sorted_press = site.press | sort:'date' | reverse %}
+          {% for press in sorted_press limit:6 %}
+          <li class="Press-listItem">
+            <time class="Press-listItemDate" datetime="{{ press.date | date: "%Y-%m-%d" }}">{{ press.date | date: "%-d %B, %Y" }}</time>
+            <a href="#" class="Press-listItemLink">{{ press.title }}</a>
+            <strong class="Press-listItemSource">{{ press.source }}</strong>
+          </li>
+          {% endfor %}
+        </ol>
+      </div>
+    </div>
+
+    <div class="Grid__d2-d5  Grid__d-newline  Grid__m1-m6  Link  Link--alignLeft">
+      <a href="/impact/press/" class="Link-link">View all press coverage</a>
+    </div>
+
+  </section>
+
+</main>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

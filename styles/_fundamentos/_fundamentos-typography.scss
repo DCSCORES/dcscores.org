@@ -1,0 +1,87 @@
+h1, h2, h3, h4, h5, h6 {
+  font-family: "DCSCORES", sans-serif;
+  font-weight: 400;
+}
+
+h2, .H2 {
+  font-size: 1.8rem;
+  line-height: 1.15;
+  letter-spacing: -0.0125em;
+  color: darken($americaScoresBlue, 5%);
+
+  @media (min-width: 48em) {
+    margin-bottom: 0.25em;
+
+    font-size: 2.2rem;
+  }
+
+  @media (min-width: 64em) {
+    margin-bottom: 0.5em;
+
+    font-size: 2.2rem;
+  }
+}
+
+h3, .H3 {
+  font-size: 1.6rem;
+  line-height: 1.15;
+  color: darken($americaScoresBlue, 5%);
+
+  @media (min-width: 48em) {
+    font-size: 1.8rem;
+  }
+}
+
+h4, .H4 {
+  font-size: 1rem;
+  line-height: 1.15;
+  color: lighten($americaScoresBlue, 5%);
+
+  @media (min-width: 48em) {
+    margin-top: 1.5em;
+
+    font-size: 1.3rem;
+  }
+}
+
+h5, .H5 {
+  margin-top: 0.5em;
+
+  font-size: 1rem;
+  line-height: 1.15;
+  color: lighten($americaScoresBlue, 10%);
+
+  @media (min-width: 48em) {
+    margin-top: 1em;
+
+    font-size: 1.125rem;
+  }
+}
+
+p {
+  margin-bottom: 1em;
+
+  font-size: 0.8rem;
+  line-height: 1.5;
+
+  @media (min-width: 48em) {
+    font-size: 0.9rem;
+    line-height: 1.6;
+  }
+
+  @media (min-width: 64em) {
+    line-height: 1.7;
+  }
+}
+
+li p {
+  margin-bottom: 0;
+}
+
+
+
+
+
+
+
+

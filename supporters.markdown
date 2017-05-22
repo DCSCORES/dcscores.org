@@ -1,0 +1,193 @@
+---
+title: Supporters beta
+permalink: /supporters/
+
+leagueChampions:
+- City Fund
+- D.C. Office of the State Superintendent of Education
+- D.C. United
+- U.S. Soccer Foundation
+teamChampions:
+- Morris & Gwendolyn Cafritz Foundation
+- The John G. and Jean R. Gosnell Foundation
+- Eugene & Agnes E. Meyer Foundation
+- United Way of the National Capital Region
+scoringChampions:
+- Audi of America
+- Butterfields Butter LLC
+- Capital for Children
+- D.C. Commission on the Arts and Humanities
+- Office of the D.C. Deputy Mayor for Planning and Economic Development (New Communities Youth Development & Community Wellness)
+- Lois & Richard England Family Foundation
+- Foundation for Advancing Alcohol Responsibility
+- John Edward Fowler Memorial Foundation
+- Near Southeast Community Partners
+- Singing for Change
+- Target
+- Volkswagen Group of America, Inc.
+mvps:
+- Blank Rome LLP
+- Herb Block Foundation
+- BrightView
+- Coons of Silver Spring
+- Cresa Washington DC
+- D.C. Mayor’s Office on Latino Affairs (OLA)
+- The Diplomat Group
+- District Sports
+- Lainoff Family Foundation
+- Richard E. and Nancy P. Marriott Foundation
+- The George Preston Marshall Foundation
+- Morningstar Philanthropic Fund
+- PriceWaterhouseCoopers
+- Share Fund
+- Wells Fargo Foundation
+- World Bank Community Outreach Program
+fans:
+- Arent Fox LLP
+- Arnold & Porter LLP
+- Katherine and David Bradley
+- CenturyLink
+- Chipotle
+- Clark Construction
+- Clark-Winchcole Foundation
+- The Andrea L. Custis Family Fund
+- Max and Victoria Dreyfus Foundation
+- Enlightenment Capital
+- EventsDC
+- Grant Thornton LLP
+- Corina Higginson Trust
+- Hogan Lovells US LLP
+- International Monetary Fund
+- Kirkland & Ellis LLP
+- Leidos
+- Marriott International, Inc.
+- Merrill Lynch
+- Moore & Van Allen
+- Nando’s Restaurant Group
+- Nike
+- Promontory Financial Group
+- RSN
+- TD Bank (TD Charitable Foundation)
+- TEGNA
+- Venable Foundation
+- Verizon Foundation
+- George Wasserman Family Foundation
+- Williams & Connolly LLP
+- Willkie Farr & Gallagher LLP
+- Women’s Sports Foundation Sports4Life
+- Zuckerman Spaeder LLP
+supporters:
+- The Advisory Board Company
+- CIT Group
+- The Covello Foundation
+- Crowell & Moring Foundation
+- Dimick Foundation
+- Claude and Nancy Keener Charitable Fund
+- Jacob & Charlotte Lehrman Foundation
+- Meltzer Group Employee Giving Fund
+- Mount Vernon Place United Methodist Church
+- Pepco/Exelon
+- Phase One
+- Howard and Geraldine Polinger Family Foundation
+- Training Resources Group
+- Leslie Wilkes
+inKind:
+- Constant Contact
+- AmeriHealth
+- Capitol File
+- Carl Cohen
+- DLA Piper
+- DrinkMore Water
+- First Book – Washington, DC
+- Hunt4Soccer
+- Junior League of Washington Resolution Read Committee
+- Leveling the Playing Field
+- Mindful Restaurants Group
+- Penya Barcelonista Washington D.C.
+- Princeton AlumniCorps
+- Safeway
+- Soccer.com
+- Starbucks
+- Venable LLP
+matchingGifts:
+- Breckinridge Capital Advisors
+- Merrill Lynch
+- The Pew Charitable Trusts
+- Pimco Foundation
+- VentureCount LLC
+- Volkswagen Group of America, Inc.
+leagueOfChampions:
+- Anonymous
+- David Barritt-Flatt
+- Ben Brewster
+- Anthony Brown
+- Chris Bruneau
+- David and Brigitte Burgett
+- James Cain
+- Kyra Cheremeteff and Tom Richardson
+- Ronya Corey and Devon McFadden
+- Mark Cowan
+- Andrea Custis
+- Timothy J.H. Delaney
+- Clem Dinsmore
+- Loretta DiPietro
+- Kelly Dragelin
+- Chris Finley and Ursula Savarain
+- Jason Finney
+- Kemba Ford
+- Tony Francavilla
+- Steve and Michelle Goodman
+- John Graebner
+- Jay and Cheryl Grauberger
+- Tom Hunt
+- Paul Jackson and Tracey Rutnik
+- Cal and Barbara Klausner
+- Sam Klausner
+- Dan and Kathleen Knise
+- Lisa Koteen Gerchick
+- Carl Kravitz and Elizabeth Werner
+- Sara Kushma
+- Peter Leibold and Liz McCloskey
+- Edwin “Chip” Lohmeyer
+- Karen Lovitch
+- Peter Loge and Zoe Beckerman
+- Connie and Erik Lindenauer
+- Don Marshall
+- John and Livezy More
+- Joshua McGee
+- Howard and Gina McMillan, III
+- Amy Nakamoto
+- David and Paige Nicol
+- Walter and Christine Okpych
+- Tim Preotle
+- Stephen Replogle and Skye Earls
+- Chris Richardson
+- Gene Sachs
+- Bruce Schulman
+- Arlene Selber
+- David Sheon
+- Pierre Vigilance
+
+layout: supporters
+---
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

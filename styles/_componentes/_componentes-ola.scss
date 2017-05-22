@@ -1,8 +1,8 @@
 .Ola {
   position: relative;
 
-  padding-top: 2em;
-  padding-bottom: 2em;
+  padding-top: 0;
+  padding-bottom: 1em;
   padding-right: 1em;
   padding-left: 1em;
 
@@ -51,12 +51,23 @@
   .Ola-figure {
     display: block;
 
-    margin: 1em;
+    margin-top: 2em;
+    margin-bottom: -2em;
+    margin-right: 0;
+    margin-left: 0;
+
+    max-width: 5em;
 
     -webkit-transform: rotate(-5deg);
             transform: rotate(-5deg);
 
     transition: transform 0.625s cubic-bezier(0.4, 0, 0.2, 1);
+
+    z-index: 9;
+
+    @media (min-width: 38em) {
+      max-width: 8em;
+    }
 
     @media (min-width: 48em) {
       -ms-flex-negative: 0;
@@ -73,12 +84,24 @@
     }
   }
 
-    .Ola-figureImage {}
+    .Ola-figureImage {
+      opacity: 0.6;
+
+      @media (min-width: 48em) {
+        opacity: 1;
+      }
+    }
 
   .Ola-content {
-    padding-left: 15%;
+    position: relative;
 
-    z-index: 9;
+    padding-left: 10%;
+
+    z-index: 99;
+
+    @media (min-width: 38em) {
+      padding-left: 5%;
+    }
 
     @media (min-width: 48em) {
       padding-left: 2.5%;
@@ -89,23 +112,58 @@
       display: block;
 
       font-family: "DCSCORES", sans-serif;
-      font-size: 2.25rem;
+      font-size: 1.6rem;
       line-height: 1;
       color: white;
+
+      @media (min-width: 38em) {
+        font-size: 1.8rem;
+      }
+
+      @media (min-width: 48em) {
+        font-size: 2rem;
+      }
+
+      @media (min-width: 58em) {
+        font-size: 2.25rem;
+      }
     }
 
     .Ola-contentDescription {
       display: block;
 
-      margin-top: 1em;
+      margin-top: 0.5em;
+      margin-left: 1em;
 
-      font-size: 1.15rem;
+      font-size: 0.785rem;
       font-weight: 400;
       line-height: 1.45;
       color: rgba(255, 255, 255, 0.87);
 
+      @media (min-width: 28em) {
+        margin-top: 0.75em;
+        margin-left: 1em;
+      }
+
+      @media (min-width: 38em) {
+        margin-top: 0.75em;
+        margin-left: 1.25em;
+
+        font-size: 0.9rem;
+      }
+
       @media (min-width: 48em) {
+        margin-top: 1em;
         margin-left: 1.5em;
+
+        font-size: 1rem;
+      }
+
+      @media (min-width: 58em) {
+        margin-top: 1.25em;
+        margin-left: 1.5em;
+
+        font-size: 1.1rem;
       }
     }
 
@@ -113,46 +171,54 @@
       display: flex;
       justify-content: flex-end;
 
-      margin-top: 2em;
+      margin-top: 1.25em;
+
+      @media (min-width: 38em) {
+        margin-top: 1.5em;
+      }
+
+      @media (min-width: 48em) {
+        margin-top: 2em;
+      }
     }
 
       .Ola-contentFooterLink {
         position: relative;
         display: block;
 
-        padding-left: 2em;
+        padding-top: 0.75em;
+        padding-bottom: 0.75em;
+        padding-right: 0.75em;
+        padding-left: 0.75em;
 
-        font-size: 0.9rem;
+        font-size: 0.7rem;
         font-weight: 700;
         line-height: 1;
         text-align: right;
-        letter-spacing: -0.0125em;
+        letter-spacing: -0.0115em;
         color: white;
 
-        transition: all 0.25s ease;
-
-        &::before {
-          position: absolute;
-
-          top: -0.1em;
-          left: -0.45em;
-
-          width: 1.5em;
-
-          font-size: 1.25rem;
-          color: lighten($americaScoresYellow, 15%);
-
-          transition: left 0.25s ease;
-        }
-
-        &:hover::before,
-        &:focus::before {
-          left: -0.2em;
-        }
+        border: 0.15em solid white;
+        border-radius: 4px;
 
         &:hover,
         &:focus {
-          color: white;
+          color: darken($americaScoresBlue, 5%);
+          background-color: white;
+        }
+
+        &:focus {
+          box-shadow: 0 0 0 0.175em rgba(255, 255, 255, 0.5);
+          transform: translateY(1px);
+        }
+
+        @media (min-width: 48em) {
+          padding-top: 0.75em;
+          padding-bottom: 0.75em;
+          padding-right: 0.75em;
+          padding-left: 0.75em;
+
+          font-size: 0.8rem;
         }
       }
 

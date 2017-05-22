@@ -1,0 +1,102 @@
+.Profile {
+  width: 100%;
+
+  background-color: lighten($americaScoresBlue, 70%);
+}
+
+  .Profile-profile {
+    @include flexbox;
+    @include flex-direction(row);
+    @include flex-wrap(wrap);
+
+    padding-top: 2.5em;
+    padding-bottom: 2em;
+  }
+
+    .Profile-profileLook {
+      width: 100%;
+
+      @media (min-width: 48em) {
+        width: 44%;
+      }
+    }
+
+      .Profile-profileLookImage {}
+
+    .Profile-profileRead {
+      width: 100%;
+
+      @media (min-width: 48em) {
+        margin-left: 4%;
+        width: 52%;
+      }
+
+      @media (min-width: 58em) {
+        margin-left: 6%;
+        width: 50%;
+      }
+    }
+
+    .Profile-profileRead--noLook {
+      margin-left: 0;
+    }
+
+      .Profile-profileReadHeader {
+        margin-bottom: 1em;
+
+        @media (max-width: 48em) {
+          margin-top: 1em;
+        }
+      }
+
+        .Profile-profileReadHeaderName {
+          display: block;
+
+          font-size: 1.4rem;
+          line-height: 1.15;
+          letter-spacing: -0.0125em;
+          color: darken($americaScoresBlue, 5%);
+
+          @media (min-width: 48em) {
+            font-size: 1.6rem;
+          }
+
+          @media (min-width: 64em) {
+            font-size: 1.8rem;
+          }
+        }
+
+        .Profile-profileReadHeaderRole {
+          display: block;
+
+          font-family: "Open Sans", sans-serif;
+          font-size: 0.9rem;
+          font-weight: 600;
+          line-height: 1;
+          letter-spacing: -0.0125em;
+          color: darken($americaScoresCoolGrey, 25%);
+
+          @media (min-width: 48em) {
+            font-size: 1.1rem;
+          }
+        }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

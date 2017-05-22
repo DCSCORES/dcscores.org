@@ -18,7 +18,7 @@
 
       margin: auto;
 
-      max-width: 64em;
+      max-width: 70em;
       height: 2.25em;
     }
 
@@ -67,7 +67,7 @@
 
     margin: auto;
 
-    max-width: 64em;
+    max-width: 70em;
     height: 4em;
   }
 
@@ -101,6 +101,8 @@
       border-right: 0.2em solid #fff;
       border-left: 0.2em solid #fff;
       border-bottom: 0.2em solid #fff;
+
+      box-shadow: 0 0 0.175em 0.175em rgba(0, 0, 0, 0.1);
 
       z-index: 9999;
 
