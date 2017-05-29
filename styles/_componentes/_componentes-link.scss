@@ -20,6 +20,7 @@
     color: darken($americaScoresCoolGrey, 25%);
 
     border-bottom: 0.15em solid lighten($americaScoresCoolGrey, 15%);
+    box-shadow: none!important;
 
     &:hover,
     &:focus {

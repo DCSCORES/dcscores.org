@@ -47,6 +47,7 @@
         color: lighten($americaScoresBlue, 5%);
 
         border-bottom: 0.15em solid lighten($americaScoresBlue, 25%);
+        box-shadow: none!important;
 
         &:hover,
         &:focus {
