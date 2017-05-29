@@ -95,6 +95,7 @@
         text-decoration: none;
         color: white;
 
+        box-shadow: none;
         transition: all 0.25s ease;
 
         @media (max-width: 64em) {
@@ -225,6 +226,8 @@
         letter-spacing: -0.025em;
         text-decoration: none;
         color: #767676;
+
+        box-shadow: none;
 
         &:hover,
         &:focus {

@@ -2,11 +2,18 @@
 layout: default
 ---
 
-<main class="Main">
+<main class="Main  Main--noTop">
+
+  <!-- Masthead -->
+  <header class="Masthead"  style="background-image: url(/assets/images/masthead-awards.jpg); background-position: 50% 70%;">
+    <div class="Masthead-header">
+      <div class="Grid  Grid--large">
+        <h1 class="Masthead-headerTitle">Awards</h1>
+      </div>
+    </div>
+  </header>
 
   <section class="Grid  Grid--large">
-    <h2 class="Grid__d2-d6  Grid__d-newline  Grid__m1-m5  Grid__m-newline">Awards</h2>
-
     <div class="Grid__d2-d5  Grid__d-newline  Grid__m1-m6">
       <div class="Awards">
         {% assign sorted_awards = site.awards | sort:'season' | reverse %}

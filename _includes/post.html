@@ -71,11 +71,11 @@
 
   </section>
 
+  {% if is_excerpt %}
   <footer class="Article-footer">
-    {% if is_excerpt and post.excerpt != post.content %}
-      <a href="{{ post.url }}" class="Article-footerLink">Read more</a>
-    {% endif %}
+    <a href="{{ post.url }}" class="Article-footerLink">Read more</a>
   </footer>
+  {% endif %}
 </article>
 
 

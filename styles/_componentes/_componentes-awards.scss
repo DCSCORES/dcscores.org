@@ -26,8 +26,37 @@
     }
 
       .Awards-season ul li {
+        position: relative;
         padding-right: 0.5em;
         padding-left: 0.75em;
+
+        &:not(:last-child) {
+          margin-bottom: 1em;
+
+          @media (min-width: 48em) {
+            margin-bottom: 1.25em;
+          }
+        }
+
+        &::before {
+          content: "";
+          position: absolute;
+
+          top: 0.35em;
+          left: 0;
+
+          width: 0.4em;
+          height: 0.4em;
+
+          background-color: darken($americaScoresYellow, 15%);
+
+          @media (min-width: 48em) {
+            top: 0.5em;
+
+            width: 0.5em;
+            height: 0.5em;
+          }
+        }
 
         @media (min-width: 48em) {
           padding-left: 1.5em;

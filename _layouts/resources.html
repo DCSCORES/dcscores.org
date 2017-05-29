@@ -5,47 +5,46 @@ layout: default
 <main class="Main  Main--noTop">
 
   <!-- Masthead -->
-  <header class="Masthead">
-    <div class="Grid  Grid--large">
-      <div class="Grid__d2-d6  Grid__m1-m6">
-        <h1 class="Masthead-title">Resources</h1>
+  <header class="Masthead"  style="background-image: url(/assets/images/masthead-resources.jpg); background-position: 50% 40%;">
+    <div class="Masthead-header">
+      <div class="Grid  Grid--large">
+        <h1 class="Masthead-headerTitle">Resources</h1>
       </div>
     </div>
   </header>
 
   <section class="Grid  Grid--large">
 
-    <figure class="Grid__d2-d6  Grid__m1-m5">
-      <h2>Soccer Schedule</h2>
+    <div class="Grid__d1-d3  Grid__m1-m6  Grid__m-newline">
+      <img src="{{ page.soccerScheduleMap }}" alt="">
+    </div>
 
-      <div class="Grid__d1-d3  Grid__m1-m5  Grid__m-newline">
-        <img src="{{ page.soccerScheduleMap }}" alt="">
-      </div>
-
-      <figcaption class="Grid__d4-d6  Grid__m1-m6  Grid__m-newline">
-        {% for content in page.soccerSchedule %}{{ content | markdownify }}{% endfor %}
-      </figcaption>
-    </figure>
-
-    <div class="Grid__d2-d3  Grid__d-newline  Grid__m1-m5  Grid__m-newline">
+    <div class="Grid__d4-d6  Grid__m1-m5  Grid__m-newline">
+      {% for content in page.soccerSchedule %}{{ content | markdownify }}{% endfor %}
       {% for content in page.scheduleElementarySchool %}{{ content | markdownify }}{% endfor %}
+    </div>
+
+    <div class="Grid__d1-d2  Grid__d-newline  Grid__m1-m5  Grid__m-newline">
       {% for content in page.scheduleMiddleSchool %}{{ content | markdownify }}{% endfor %}
     </div>
 
-    <div class="Grid__d4-d5  Grid__m1-m5  Grid__m-newline">
+    <div class="Grid__d3-d4  Grid__m1-m5  Grid__m-newline">
       {% for content in page.scheduleMiddleSchoolCoEd %}{{ content | markdownify }}{% endfor %}
+    </div>
+
+    <div class="Grid__d5-d6  Grid__m1-m5  Grid__m-newline">
       {% for content in page.scheduleCitySoccerLeague %}{{ content | markdownify }}{% endfor %}
     </div>
 
     <div class="Image  Grid__d1-d6  Grid__m1-m6" style="background-image: url(/uploads/image-resources--first.jpg); background-position: center;"></div>
 
-    <div class="Grid__d2-d5  Grid__d-newline  Grid__m1-m5  Grid__m-newline">
+    <div class="Grid__d2-d5  Grid__d-newline  Grid__m1-m6  Grid__m-newline">
       {% for content in page.forFamilies %}{{ content | markdownify }}{% endfor %}
     </div>
 
     <div class="Image  Grid__d1-d6  Grid__m1-m6" style="background-image: url(/uploads/image-resources--second.jpg); background-position: center;"></div>
 
-    <div class="Grid__d2-d5  Grid__d-newline  Grid__m1-m5  Grid__m-newline">
+    <div class="Grid__d2-d5  Grid__d-newline  Grid__m1-m6  Grid__m-newline">
       {% for content in page.programAlumni %}{{ content | markdownify }}{% endfor %}
     </div>
 

@@ -33,9 +33,15 @@ h3, .H3 {
 }
 
 h4, .H4 {
+  margin-top: 1em;
+
   font-size: 1rem;
   line-height: 1.15;
   color: lighten($americaScoresBlue, 5%);
+
+  @media (min-width: 38em) {
+    margin-top: 1.25em;
+  }
 
   @media (min-width: 48em) {
     margin-top: 1.5em;
@@ -59,6 +65,7 @@ h5, .H5 {
 }
 
 p {
+  margin-top: 1em;
   margin-bottom: 1em;
 
   font-size: 0.8rem;
@@ -75,7 +82,13 @@ p {
 }
 
 li p {
+  margin-top: 0.5em;
   margin-bottom: 0;
+}
+
+strong {
+  font-weight: 600;
+  color: darken(#565a5c, 5%);
 }
 
 

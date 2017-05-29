@@ -13,8 +13,9 @@ layout: default
           {% assign sorted_press = site.press | sort:'date' | reverse %}
           {% for press in sorted_press %}
           <li class="Press-listItem">
-            <time class="Press-listItemDate" datetime="{{ press.date | date: "%Y-%m-%d" }}">{{ press.date | date: "%-d %B, %Y" }}</time>
-            <a href="#" class="Press-listItemLink">{{ press.title }}</a>
+            <time class="Press-listItemDate" datetime="{{ press.date | date: "%Y-%m-%d" }}">{{ press.date | date: "%B %-d, %Y" }}</time>
+            <a href="{{ press.link }}" class="Press-listItemLink" target="_blank">{{ press.title }}</a>
+            {% if press.content %}{{ press.content | markdownify }}{% endif %}
             <strong class="Press-listItemSource">{{ press.source }}</strong>
           </li>
           {% endfor %}

@@ -26,6 +26,11 @@
     border: 0.25em solid lighten($americaScoresCoolGrey, 15%);
     border-radius: 100%;
   }
+
+  @media (min-width: 38em) {
+    margin-top: 2em;
+    margin-bottom: 4em;
+  }
 }
 
   .Timeline-node {

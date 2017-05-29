@@ -44,7 +44,7 @@ bottomText:
   Julie Kennedy, a former teacher at Marie Reed Learning Center, invented this complementary combination of activities in 1994 when she began working with a group of 15 girls with little to do after school. Ms. Kennedy learned that the team-centered relationships built on the soccer field translated into poetry workshops, and the development of teamwork and leadership prepared students to act as agents of change in their communities through service-learning projects.
 americaScores:
 - |-
-  ### America SCORES
+  #### America SCORES
 
   The program quickly expanded throughout DC, and in 1999 Kennedy began sites in Boston and Chicago, thus creating America SCORES, headquarters to 13 programs across the United States and Canada: Bay Area, Chicago, Cleveland, Denver, Los Angeles, Milwaukee, New England, New York, Portland, St. Louis, Seattle, Vancouver, and Washington, DC.
 

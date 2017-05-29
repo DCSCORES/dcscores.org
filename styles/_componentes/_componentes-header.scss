@@ -51,6 +51,8 @@
           text-decoration: none;
           color: lighten($americaScoresBlue, 15%);
 
+          box-shadow: none;
+
           i {
             display: block;
             font-size: 1rem;
@@ -186,6 +188,7 @@
         border: 3px solid transparent;
         border-radius: 4px;
 
+        box-shadow: none;
         transition: all 0.25s ease;
 
         &:hover,
@@ -242,6 +245,7 @@
         border: 3px solid lighten($americaScoresBlue, 15%);
         border-radius: 4px;
 
+        box-shadow: none;
         transition: all 0.25s ease;
 
         &:hover,

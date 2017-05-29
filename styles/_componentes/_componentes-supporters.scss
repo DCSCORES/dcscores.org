@@ -64,6 +64,7 @@
       color: darken($americaScoresBlue, 5%);
 
       border-bottom: 0.175em solid darken($americaScoresRed, 5%);
+      box-shadow: none;
 
       @media (min-width: 58em) {
         font-size: 1.1rem;
@@ -103,6 +104,7 @@
 
         text-decoration: none;
 
+        box-shadow: none;
         opacity: 0.87;
         transition: opacity 0.25s ease;
 

@@ -2,54 +2,98 @@
   position: relative;
   display: block;
 
-  margin-bottom: 4.75em;
-
-  padding-top: 5em;
-  padding-bottom: 0;
+  margin-bottom: 2em;
 
   width: 100%;
 
-  background-color: darken($americaScoresCoolGrey, 5%);
+  // Height
+  height: auto;
+  max-height: calc(70vh - 85px);
+  min-height: 320px;
 
-  /*background-image:
-    linear-gradient( to bottom,
-      rgba(50, 70, 127, 1),
-      rgba(50, 70, 127, 0.75)
-    ),
-    url(../assets/images/hero-01--large.jpg);*/
+  background-color: darken($americaScoresCoolGrey, 5%);
+  background-repeat: no-repeat;
+  background-position: 50% 50%;
   background-size: cover;
 
+  &::before {
+    content: "";
+    position: absolute;
+    display: block;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background-image:
+      linear-gradient(
+        to top,
+        rgba(0, 0, 0, 0.75),
+        rgba(0, 0, 0, 0) 40%
+    );
+  }
+
+  &::after {
+    content: "";
+    display: block;
+    padding-bottom: 56.25%;
+    height: 0;
+  }
+
+  @media (min-width: 38em) {
+    margin-bottom: 3.75em;
+  }
+
   @media (min-width: 48em) {
-    padding-top: 8em;
+    margin-bottom: 4.75em;
   }
 
-  @media (min-width: 58em) {
-    margin-bottom: 6.75em;
+  @media (min-width: 58em) {}
 
-    padding-top: 12em;
-  }
+  @media (min-width: 64em) {}
 }
 
-  .Masthead-title {
+  .Masthead-header {
+    position: absolute;
     display: block;
 
-    margin-bottom: 0;
+    bottom: 0;
+    left: 0;
 
-    font-family: "DCSCORES", sans-serif;
-    font-size: 2.25rem;
-    font-weight: 400;
-    line-height: 1;
-    letter-spacing: -0.0125em;
-    color: white;
+    padding-bottom: 0.25em;
+    width: 100%;
 
     @media (min-width: 48em) {
-      font-size: 3rem;
-    }
-
-    @media (min-width: 58em) {
-      font-size: 3.45rem;
+      padding-bottom: 1em;
     }
   }
+
+    .Masthead-headerTitle {
+      display: block;
+
+      margin-left: 2%;
+
+      font-family: "DCSCORES", sans-serif;
+      font-size: 2rem;
+      font-weight: 400;
+      line-height: 1;
+      letter-spacing: -0.0125em;
+      color: #fff;
+
+      @media (min-width: 48em) {
+        margin-left: 10.02888%;
+
+        font-size: 2.4rem;
+      }
+
+      @media (min-width: 58em) {
+        font-size: 2.6rem;
+      }
+    }
+
+    .Masthead-headerTitle--right {
+      margin-left: 0;
+      text-align: right;
+    }
 
 
 

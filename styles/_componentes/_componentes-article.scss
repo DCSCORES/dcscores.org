@@ -24,14 +24,24 @@
   }
 
     .Article-headerTitle {
+      font-size: 1.6rem;
       line-height: 1.125;
       color: darken($americaScoresRed, 5%);
+
+      @media (min-width: 38em) {
+        font-size: 1.8rem;
+      }
+
+      @media (min-width: 48em) {
+        font-size: 2rem;
+      }
     }
 
       .Article-headerTitleLink {
         color: inherit;
 
-        box-shadow: inset 0 -0.175em 0 lighten($americaScoresRed, 45%);
+        //box-shadow: inset 0 -0.175em 0 lighten($americaScoresRed, 45%);
+        box-shadow: none!important;
 
         &:hover {
           background-color: lighten($americaScoresRed, 45%);
@@ -89,9 +99,9 @@
 
         .Article-metaAuthoredOnDate {
           font-size: 0.9rem;
-          font-weight: 400;
+          font-weight: 600;
           line-height: 1;
-          letter-spacing: -0.0215em;
+          letter-spacing: -0.0245em;
 
           @media (min-width: 38em) {
             font-size: 1rem;
@@ -126,6 +136,7 @@
         color: white;
 
         border-radius: 4px;
+        box-shadow: none!important;
 
         &:not(:last-child) {
           margin-right: 0.75em;
@@ -152,7 +163,7 @@
         }
 
         &:focus {
-          box-shadow: 0 0 0 0.175em rgba(79, 175, 237, 0.3);
+          box-shadow: 0 0 0 0.175em rgba(79, 175, 237, 0.3)!important;
         }
       }
 
@@ -164,7 +175,7 @@
         }
 
         &:focus {
-          box-shadow: 0 0 0 0.175em rgba(67, 97, 179, 0.3);
+          box-shadow: 0 0 0 0.175em rgba(67, 97, 179, 0.3)!important;
         }
       }
 
@@ -186,11 +197,35 @@
 
   .Article-footer {
     @include flexbox;
+
+    margin-top: 1em;
+
+    @media (min-width: 38em) {
+      margin-top: 1.5em;
+    }
+
+    @media (min-width: 48em) {
+      margin-top: 2em;
+    }
   }
 
     .Article-footerLink {
-      line-height: 1;
-      color: white;
+      font-size: 0.8rem;
+      font-weight: 600;
+      line-height: 1.25;
+      letter-spacing: -0.0175em;
+      color: darken($americaScoresCoolGrey, 20%);
+
+      border-bottom: 0.15em solid lighten($americaScoresCoolGrey, 15%);
+      box-shadow: none!important;
+
+      &:focus {
+        transform: translateY(1px);
+      }
+
+      @media (min-width: 38em) {
+        font-size: 0.9rem;
+      }
     }
 
 

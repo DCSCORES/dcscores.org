@@ -5,26 +5,34 @@ layout: default
 <main class="Main  Main--noTop">
 
   <!-- Masthead -->
-  <header class="Masthead">
-    <div class="Grid  Grid--large">
-      <div class="Grid__d2-d5  Grid__m1-m6">
-        <h1 class="Masthead-title">Mission & History</h1>
+  <header class="Masthead"  style="background-image: url(/assets/images/masthead-mission-and-history.jpg); background-position: 50% 40%;">
+    <div class="Masthead-header">
+      <div class="Grid  Grid--large">
+        <h1 class="Masthead-headerTitle">Mission & History</h1>
       </div>
     </div>
   </header>
 
   <section class="Grid  Grid--large">
-    <div class="Grid__d2-d5  Grid__m1-m5">
+    <div class="Grid__d2-d3  Grid__d-newline  Grid__m1-m6">
       {% for mission in page.mission %}{{ mission | markdownify }}{% endfor %}
     </div>
 
-    <div class="Image  Grid__d1-d6  Grid__m1-m6" style="background-image: url(/uploads/image-mission.jpg); background-position: top center;"></div>
+    <div class="Grid__d4-d6  Grid__m1-m6  Grid__m-newline">
+      <img src="/uploads/image-mission.jpg" alt="">
+    </div>
 
-    <div class="Grid__d2-d5  Grid__d-newline  Grid__m1-m5  Grid__m-newline">
+    <hr class="Grid__d4-d6  Grid__d-newline  Grid__m1-m6">
+
+    <div class="Grid__d2-d4  Grid__d-newline  Grid__m1-m6">
+      <img src="/uploads/image-vision.jpg" alt="">
+    </div>
+
+    <div class="Grid__d5-d6  Grid__m1-m6  Grid__m-newline">
       {% for vision in page.vision %}{{ vision | markdownify }}{% endfor %}
     </div>
 
-    <div class="Image  Grid__d1-d6  Grid__m1-m6" style="background-image: url(/uploads/image-vision.jpg); background-position: center;"></div>
+    <hr class="Grid__d2-d4  Grid__d-newline  Grid__m1-m6">
 
     <header class="Grid__d2-d5  Grid__d-newline  Grid__m1-m6">
       <h2>History</h2>
@@ -48,11 +56,11 @@ layout: default
       </ol>
     </div>
 
-    <div class="Grid__d2-d5  Grid__d-newline  Grid__m1-m5  Grid__m-newline  u-marginTop">
+    <div class="Grid__d2-d5  Grid__d-newline  Grid__m1-m6  Grid__m-newline  u-marginTop">
       {% for bottomText in page.bottomText %}{{ bottomText | markdownify }}{% endfor %}
     </div>
 
-    <div class="Grid__d2-d5  Grid__d-newline  Grid__m1-m5  Grid__m-newline  u-marginTop">
+    <div class="Grid__d2-d5  Grid__d-newline  Grid__m1-m6  Grid__m-newline  u-marginTop">
       {% for americaScores in page.americaScores %}{{ americaScores | markdownify }}{% endfor %}
     </div>
   </section>

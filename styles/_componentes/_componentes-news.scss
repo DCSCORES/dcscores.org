@@ -64,6 +64,7 @@
       color: darken($americaScoresBlue, 5%);
 
       border-bottom: 0.175em solid darken($americaScoresYellow, 5%);
+      box-shadow: none;
 
       @media (min-width: 58em) {
         font-size: 1.1rem;
@@ -313,6 +314,7 @@
           cursor: pointer;
           color: inherit;
 
+          box-shadow: none;
           transition: color 0.15s ease;
 
           &:hover,
@@ -358,6 +360,7 @@
         color: darken($americaScoresCoolGrey, 25%);
 
         border-bottom: 3px solid lighten($americaScoresCoolGrey, 15%);
+        box-shadow: none;
       }
 
 

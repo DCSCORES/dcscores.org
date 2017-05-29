@@ -1,3 +1,9 @@
 a {
   text-decoration: none;
+  font-weight: 600;
+  color: lighten($americaScoresBlue, 5%);
+}
+
+.Main a {
+  box-shadow: inset 0 -0.1em 0 lighten($americaScoresBlue, 55%);
 }

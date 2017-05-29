@@ -5,10 +5,10 @@ layout: default
 <main class="Main  Main--noTop">
 
   <!-- Masthead -->
-  <header class="Masthead">
-    <div class="Grid  Grid--large">
-      <div class="Grid__d2-d5  Grid__m1-m6">
-        <h1 class="Masthead-title">Impact</h1>
+  <header class="Masthead"  style="background-image: url(/assets/images/masthead-impact.jpg); background-position: 50% 40%;">
+    <div class="Masthead-header">
+      <div class="Grid  Grid--large">
+        <h1 class="Masthead-headerTitle">Impact</h1>
       </div>
     </div>
   </header>
@@ -131,8 +131,9 @@ layout: default
           {% assign sorted_press = site.press | sort:'date' | reverse %}
           {% for press in sorted_press limit:6 %}
           <li class="Press-listItem">
-            <time class="Press-listItemDate" datetime="{{ press.date | date: "%Y-%m-%d" }}">{{ press.date | date: "%-d %B, %Y" }}</time>
-            <a href="#" class="Press-listItemLink">{{ press.title }}</a>
+            <time class="Press-listItemDate" datetime="{{ press.date | date: "%Y-%m-%d" }}">{{ press.date | date: "%B %-d, %Y" }}</time>
+            <a href="{{ press.link }}" class="Press-listItemLink" target="_blank">{{ press.title }}</a>
+            {% if press.content %}{{ press.content | markdownify }}{% endif %}
             <strong class="Press-listItemSource">{{ press.source }}</strong>
           </li>
           {% endfor %}

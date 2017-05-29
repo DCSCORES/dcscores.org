@@ -233,6 +233,8 @@
         color: black;
 
         border-bottom: 3px solid darken($americaScoresYellow, 15%);
+
+        box-shadow: none;
         transition: all 0.25s ease;
 
         &:hover .Icon {

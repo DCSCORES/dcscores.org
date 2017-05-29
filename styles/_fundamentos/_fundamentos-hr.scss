@@ -1,9 +1,13 @@
 hr {
-  margin: 2.5rem 0;
+  margin: 1.5rem 0;
   padding: 0;
 
   height: 1px;
 
   border: 0 #d7d7d6;
   border-bottom: 2px solid lighten($americaScoresCoolGrey, 15%);
+
+  @media (min-width: 38em) {
+    margin: 2.5rem 0;
+  }
 }

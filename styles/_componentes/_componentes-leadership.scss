@@ -60,6 +60,8 @@
 
         color: lighten($americaScoresBlue, 5%);
 
+        box-shadow: none!important;
+
         &:hover,
         &:focus {
           color: lighten($americaScoresBlue, 15%);

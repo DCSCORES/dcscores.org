@@ -24,7 +24,7 @@ if($('#numberOne').length){
 
   $(window).on('scroll', function () {
 
-  if(($('#numberOne').offset().top - $(window).scrollTop()) < ($(window).height() / 2)) {
+  if(($('#numberOne').offset().top - $(window).scrollTop()) < ($(window).height() / 1)) {
 
   	countup_01.start();
   	countup_02.start();
