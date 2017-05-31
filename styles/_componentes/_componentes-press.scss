@@ -91,6 +91,117 @@
 
 
 
+.TheHomePress {
+  padding-bottom: 1em;
+  padding-right: 1em;
+  padding-left: 1em;
+
+  background-color: lighten($americaScoresCoolGrey, 15%);
+
+  @media (min-width: 48em) {
+    padding-bottom: 2em;
+  }
+}
+
+  .TheHomePress-press {
+    display: flex;
+    justify-content: space-between;
+    align-items: flex-start;
+    flex-direction: column;
+
+    margin-right: auto;
+    margin-left: auto;
+
+    max-width: 54em;
+  }
+
+    .TheHomePress-pressTitle {
+      display: block;
+
+      margin-top: 0;
+      margin-bottom: 0.25em;
+
+      padding-right: 2em;
+
+      font-size: 1.6rem;
+      line-height: 1;
+    }
+
+    .TheHomePress-pressList {
+      list-style: none;
+      margin: 0;
+      padding: 0;
+
+      display: flex;
+      justify-content: space-between;
+      align-items: flex-start;
+    }
+
+      .TheHomePress-pressListItem {
+        display: block;
+
+        margin-top: 0;
+        margin-bottom: 0;
+
+        padding-top: 0.5em;
+        padding-bottom: 0.5em;
+        padding-right: 0.5em;
+        padding-left: 0.5em;
+
+        width: 32%;
+
+        background-color: lighten($americaScoresCoolGrey, 10%);
+        border-radius: 3px;
+
+        &::after {
+          content: "";
+          display: none;
+
+          width: 2.25em;
+          height: 0.15em;
+
+          background-color: goldenrod;
+        }
+
+        &:not(:last-child) {
+          margin-right: 1%;
+        }
+      }
+
+        .TheHomePress-pressListItemLink {
+          display: block;
+
+          font-size: 0.9rem;
+          line-height: 1.15;
+        }
+
+        .TheHomePress-pressListItemSource {
+          display: block;
+
+          margin-top: 1em;
+
+          font-size: 0.8rem;
+          font-weight: 600;
+          line-height: 1;
+          text-align: right;
+          letter-spacing: -0.0125em;
+          color: darken($americaScoresCoolGrey, 25%);
+
+          &::before {
+            content: "— ";
+            color: lighten($americaScoresCoolGrey, 5%);
+          }
+
+          @media (min-width: 48em) {
+            font-size: 0.8rem;
+          }
+        }
+
+
+
+
+
+
 
 
 

@@ -63,7 +63,7 @@
       text-decoration: none;
       color: darken($americaScoresBlue, 5%);
 
-      border-bottom: 0.175em solid darken($americaScoresYellow, 5%);
+      border-bottom: 0.15em solid darken($americaScoresYellow, 5%);
 
       @media (min-width: 58em) {
         font-size: 1rem;
@@ -277,6 +277,42 @@
             margin-top: 1.25em;
           }
         }
+
+  .Events-footer {
+    display: flex;
+    justify-content: flex-end;
+    align-items: center;
+
+    margin-top: 1em;
+    margin-bottom: 0;
+    margin-right: auto;
+    margin-left: auto;
+
+    max-width: 54em;
+  }
+
+    .Events-footerLink {
+      display: block;
+
+      white-space: nowrap;
+
+      font-size: 1rem;
+      font-weight: 700;
+      line-height: 1.15;
+      letter-spacing: -0.025em;
+      text-decoration: none;
+      color: darken($americaScoresBlue, 5%);
+
+      border-bottom: 0.15em solid darken($americaScoresYellow, 5%);
+
+      @media (min-width: 58em) {
+        font-size: 1rem;
+      }
+
+      @media (min-width: 96em) {
+        font-size: 1.1rem;
+      }
+    }
 
 
 

@@ -7,7 +7,7 @@ layout: default
   <header class="Hero-header  Grid--large">
     <div class="Grid__d2-d5  Grid__m2-m5">
       {% comment %}<h1 class="Hero-headerTitle">Building Teams,<br>Improving Lives.</h1>{% endcomment %}
-      <p class="Hero-headerIntroduction"></p>
+      {% comment %}<p class="Hero-headerIntroduction"></p>{% endcomment %}
     </div>
   </header>
 
@@ -34,6 +34,7 @@ layout: default
 
             <div class="Mystique-shapeContentFooter">
               <a href="/about-us/mission-and-history" class="Mystique-shapeContentFooterLink">Learn more</a>
+              <!--<span class="Mystique-shapeContentFooterLink  init-video" data-youtube-url="https://www.youtube.com/watch?v=BrLjDEZX9A8">Learn more</span>-->
             </div>
           </section>
         </div>
@@ -108,7 +109,7 @@ layout: default
 
   <header class="Events-header">
     <h3 class="Events-headerTitle">Upcoming events</h3>
-    {% comment %}<a href="#" class="Events-headerLink">Past events</a>{% endcomment %}
+    {% comment %}<a href="/impact/press" class="Events-headerLink">See all news</a>{% endcomment %}
   </header>
 
   <div class="Grid  Grid--large">
@@ -139,6 +140,32 @@ layout: default
       </a>
 
     </div>
+  </div>
+
+  {% comment %}
+  <div class="Events-footer">
+    <a href="#" class="Events-footerLink">See all news</a>
+  </div>
+  {% endcomment %}
+
+</div>
+
+
+
+<div class="TheHomePress">
+
+  <div class="TheHomePress-press">
+    <h3 class="TheHomePress-pressTitle">In the media</h3>
+
+    <ul class="TheHomePress-pressList">
+      {% assign sorted_press = site.press | sort:'date' | reverse %}
+      {% for press in sorted_press limit:3 %}
+      <li class="TheHomePress-pressListItem">
+        <a href="{{ press.link }}" class="TheHomePress-pressListItemLink">{{ press.title | truncatewords: 15 }}</a>
+        <strong class="TheHomePress-pressListItemSource">{{ press.source }}</strong>
+      </li>
+      {% endfor %}
+    </ul>
   </div>
 
 </div>
@@ -188,11 +215,11 @@ layout: default
     <p class="Event-calloutDescription">DC's largest youth spoken-word competition features DC SCORES students performing their original works of poetry.</p>
 
     <div class="Event-calloutFooter">
-      <a href="http://bit.ly/2rMkke2" class="Event-calloutFooterLink" target="_blank">
+      <a href="https://www.youtube.com/playlist?list=PLaMKH-_ipEg_8sBhnn6F1zM5l_GE7jIFh" class="Event-calloutFooterLink" target="_blank">
         <i class="Icon  Icon-youtube"></i>
         Watch videos</a>
 
-        <a href="https://www.flickr.com/photos/dcscorespictures/albums/72157675210604741" class="Event-calloutFooterLink" target="_blank">
+        <a href="https://www.flickr.com/photos/dcscorespictures/tags/poetryslam/" class="Event-calloutFooterLink" target="_blank">
           <i class="Icon  Icon-flickrEmpty"></i>
           See photos</a>
     </div>
@@ -238,6 +265,52 @@ layout: default
 
 
 
+<!-- Video player -->
+<div class="Youtube">
+	<div class="Youtube-body">
+
+    <!-- Youtube close -->
+		<div class="Youtube-bodyClose  Icon  Icon-facebook"></div>
+
+		<div class="Youtube-bodyInner">
+			<div id="youtubeVideo" class="video__modal"></div>
+		</div>
+
+    <!-- Youtube controls -->
+		<div class="Youtube-bodyControl">
+
+      <!-- Youtube play pause -->
+			<div class="Youtube-bodyControlPlayPause">
+				<button class="Youtube-bodyControlPlayPauseButton" aria-live="assertive" tabindex="32" aria-label="Pause">
+				   <svg width="30" height="30" viewBox="0 0 36 36" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+				      <defs>
+				         <path id="ytp-12" d="M11,10 L17,10 17,26 11,26 M20,10 L26,10 26,26 20,26">
+				            <animate id="animation" begin="indefinite" attributeType="XML" attributeName="d" fill="freeze" from="M11,10 L17,10 17,26 11,26 M20,10 L26,10 26,26 20,26" to="M11,10 L18,13.74 18,22.28 11,26 M18,13.74 L26,18 26,18 18,22.28" dur="0.1s" keySplines=".4 0 1 1"
+				            repeatCount="1"></animate>
+				         </path>
+				      </defs>
+				      <use xlink:href="#ytp-12" class="ytp-svg-shadow"></use>
+				      <use xlink:href="#ytp-12" class="ytp-svg-fill"></use>
+				   </svg>
+				</button>
+			</div>
+
+      <!-- Youtube scrubber -->
+			<div class="Youtube-bodyControlScrubber">
+				<div id="progressBar"><div></div></div>
+			</div>
+
+      <!-- Time remaining -->
+			<div class="Youtube-bodyControlTimeRemaining"></div>
+
+      <!-- Go fullscreen -->
+			<div class="Youtube-bodyControlGoFullscreen  Icon  Icon-facebook"></div>
+		</div>
+	</div>
+</div>
+
+
+
 <!--
 <div class="Action">
   <div class="Action-item">
@@ -259,21 +332,6 @@ layout: default
   </div>
 </div>
 -->
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 

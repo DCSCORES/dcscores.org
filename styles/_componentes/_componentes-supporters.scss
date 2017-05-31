@@ -124,50 +124,28 @@
   list-style: none;
   margin: 0;
   padding: 0;
-
-  @include flexbox;
-  @include flex-wrap(wrap);
+  display: block;
 }
 
   .SupportersList-cell {
     display: block;
 
-    margin-top: 0.5em;
-    margin-right: 0;
-
-    padding-right: 2em;
+    padding-right: 1em;
 
     width: 100%;
 
-    @media (min-width: 26em) {
-      margin-top: 1em;
-      margin-right: 4%;
+    &:not(:last-child) {
+      margin-bottom: 0.75em;
 
-      padding-right: 0.5em;
-
-      width: 46%;
-    }
-
-    @media (min-width: 34em) {
-      margin-top: 1.5em;
-      margin-right: 1.5%;
-
-      width: 31.5%;
-    }
-
-    @media (min-width: 42em) {
-      margin-right: 1%;
-      width: 24%;
-    }
-
-    @media (min-width: 48em) {
-      margin-right: 2.5%;
-      width: 22.5%;
+      @media (min-width: 38em) {
+        margin-bottom: 1em;
+      }
     }
   }
 
     .SupportersList-cellName {
       display: block;
+      margin: 0;
 
       font-family: "Open Sans";
       font-weight: 600;

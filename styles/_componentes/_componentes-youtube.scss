@@ -1,0 +1,247 @@
+.Youtube {
+  position: fixed;
+  display: none;
+
+  -webkit-align-items: center;
+  -ms-flex-align: center;
+  align-items: center;
+
+  -webkit-justify-content: center;
+  -ms-flex-pack: center;
+  justify-content: center;
+
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+
+  background-color: rgba(0, 0, 0, 0.8);
+
+  opacity: 0;
+  z-index: 9;
+}
+
+.Youtube.is-open {
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+}
+
+  .Youtube-body {
+    position: relative;
+    margin: 0 auto;
+    width: 62.5vw;
+  }
+
+    .Youtube-bodyClose {
+      position: absolute;
+
+      display: -webkit-flex;
+      display: -ms-flexbox;
+      display: flex;
+
+      -webkit-align-items: center;
+      -ms-flex-align: center;
+      align-items: center;
+
+      -webkit-justify-content: center;
+      -ms-flex-pack: center;
+      justify-content: center;
+
+      top: -22px;
+      right: -22px;
+
+      width: 45px;
+      height: 45px;
+
+      font-size: .83333vw;
+      color: #ff1842;
+
+      cursor: pointer;
+
+      z-index: 1;
+
+      @media (min-width: 58em) {
+        font-size: 12px;
+      }
+    }
+
+    .Youtube-bodyInner {
+      position: relative;
+
+      padding-top: 30px;
+      padding-bottom: 56.25%;
+
+      height: 0;
+      overflow: hidden;
+    }
+
+      .Youtube-bodyInner embed,
+      .Youtube-bodyInner iframe,
+      .Youtube-bodyInner object {
+        position: absolute;
+        top: 0;
+        left: 0;
+        width: 100%;
+        height: 100%;
+      }
+
+    .Youtube-bodyControl {
+      display: -webkit-flex;
+      display: -ms-flexbox;
+      display: flex;
+
+      margin-top: -1px;
+
+      width: 100%;
+      height: 3.95833vw;
+
+      background-color: #f1f1f1;
+
+      > div {
+        cursor: pointer;
+      }
+
+      @media (min-width: 58em) {
+        height: 57px;
+      }
+    }
+
+      .Youtube-bodyControlPlayPause {
+        display: -webkit-flex;
+        display: -ms-flexbox;
+        display: flex;
+
+        margin-left: 1.38889vw;
+        padding-top: 6px;
+
+        width: 3.59375%;
+
+        -webkit-align-items: center;
+        -ms-flex-align: center;
+        align-items: center;
+
+        -webkit-justify-content: center;
+        -ms-flex-pack: center;
+        justify-content: center;
+
+        > button {
+          cursor: pointer;
+        }
+
+        @media (min-width: 58em) {
+          margin-left: 20px;
+        }
+      }
+
+        .Youtube-bodyControlPlayPauseButton {
+          fill: #ff1842;
+          outline: 0;
+          border: 0 solid;
+          background: 0 0;
+          opacity: 0.85;
+        }
+
+      .Youtube-bodyControlScrubber {
+        display: -webkit-flex;
+        display: -ms-flexbox;
+        display: flex;
+
+        -webkit-align-items: center;
+        -ms-flex-align: center;
+        align-items: center;
+
+        -webkit-justify-content: center;
+        -ms-flex-pack: center;
+        justify-content: center;
+
+        width: 85.3125%;
+      }
+
+        .Youtube-bodyControlScrubber #progressBar {
+          width: 95.97069597069597%;
+          height: 5px;
+
+          cursor: pointer;
+
+          border-radius: 10px;
+          background-color: #bcbcbc;
+        }
+
+          .Youtube-bodyControlScrubber #progressBar div {
+            position: relative;
+
+            width: 0;
+            height: 100%;
+
+            overflow: visible!important;
+
+            background-color: transparent;
+
+            &::after {
+              content: "";
+              position: absolute;
+              display: block;
+
+              top: -5px;
+              right: 0;
+
+              width: 15px;
+              height: 15px;
+
+              border: 5px solid #fff;
+              border-radius: 15px;
+              background-color: #ff1842;
+            }
+          }
+
+      .Youtube-bodyControlTimeRemaining {
+        display: -webkit-flex;
+        display: -ms-flexbox;
+        display: flex;
+
+        -webkit-align-items: center;
+        -ms-flex-align: center;
+        align-items: center;
+
+        width: 30px;
+
+        font-size: .83333vw;
+        color: #bcbcbc;
+      }
+
+      .Youtube-bodyControlGoFullscreen {
+        display: -webkit-flex;
+        display: -ms-flexbox;
+        display: flex;
+
+        -webkit-align-items: center;
+        -ms-flex-align: center;
+        align-items: center;
+
+        -webkit-justify-content: center;
+        -ms-flex-pack: center;
+        justify-content: center;
+
+        width: 30px;
+      }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

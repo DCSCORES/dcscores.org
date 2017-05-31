@@ -446,6 +446,15 @@
       }
     }
 
+    .Footer-socialLink--linkedin {
+      color: #0077b5;
+
+      &:hover,
+      &:focus {
+        color: darken(#0077b5, 15%);
+      }
+    }
+
       .Footer-socialLink .Icon {
         position: relative;
 
