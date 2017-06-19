@@ -3,7 +3,7 @@ title: 2011-12 season awards
 season: 2011-12
 ---
 
-##### During the **2011-12** season, DC SCORES received the following recognition:
+##### **2011-12:**
 
 - Executive Director **Amy Nakamoto** was a featured panelist and speaker at the May 31, 2012, Aspen Institute Forum Title IX and Beyond: How to Get the Rest of Our Girls Into the Game.
 

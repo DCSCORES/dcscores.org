@@ -3,7 +3,7 @@ title: 2013-14 season awards
 season: 2013-14
 ---
 
-##### During the **2013-14** season, DC SCORES received the following recognition:
+##### **2013-14:**
 
 - In January 2014, Program Manager – Soccer Operations **Carlos Fonseca** was awarded a [National Diploma Course by the National Soccer Coaches Association of America](http://www.nscaa.com/) (NSCAA). Fonseca’s scholarship was funded and provided by the Michael L. Curry fund.
 

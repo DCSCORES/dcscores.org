@@ -1,0 +1,122 @@
+.Quotes {
+  position: relative;
+
+  @include flexbox;
+  @include flex-direction(column);
+
+  float: right;
+  margin: 0 2% 0 0;
+
+  min-width: 250px;
+
+  @media (min-width: 38em) {
+    @include flex-direction(row);
+  }
+
+  @media (min-width: 58em) {
+    position: -webkit-sticky;
+       position: -moz-sticky;
+        position: -ms-sticky;
+         position: -o-sticky;
+            position: sticky;
+
+    top: 1em;
+
+    @include flex-direction(column);
+
+    padding-left: 1.5em;
+  }
+
+  @media (max-width: 58em) {
+    clear: both;
+    width: 100%;
+  }
+}
+
+  .Quotes-quote {
+
+    &:not(:last-child) {
+      margin-bottom: 1em;
+    }
+
+    @media (min-width: 38em) {
+
+      &:not(:last-child) {
+        margin-right: 2.5%;
+      }
+
+    }
+
+    @media (min-width: 58em) {
+
+      &:not(:last-child) {
+        margin-bottom: 1em;
+        margin-right: 0;
+      }
+
+    }
+  }
+
+    .Quotes-quoteText {
+      position: relative;
+      display: block;
+
+      margin-top: 0;
+      margin-bottom: 1.5em;
+
+      padding-top: 1em;
+      padding-bottom: 1em;
+      padding-right: 1em;
+      padding-left: 1em;
+
+      font-size: 0.8rem;
+      line-height: 1.5;
+
+      background-color: lighten($americaScoresCoolGrey, 15%);
+      border-radius: 3px;
+
+      &::after {
+        content: "";
+        position: absolute;
+        display: block;
+
+        top: 100%;
+        right: 3.25em;
+
+        margin-left: -11px;
+
+        border: 11px solid transparent;
+        border-top-color: lighten($americaScoresCoolGrey, 15%);
+      }
+    }
+
+    .Quotes-quoteSource {
+      display: block;
+
+      font-size: 0.8rem;
+      line-height: 1;
+      text-align: right;
+
+      &::before {
+        content: "— ";
+      }
+    }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

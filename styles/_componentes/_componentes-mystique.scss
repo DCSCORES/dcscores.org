@@ -264,6 +264,10 @@
 
       .Mystique-shape--first .Mystique-shapeContentBlurb {
         color: darken($americaScoresYellow, 45%);
+
+        > strong {
+          color: darken($americaScoresYellow, 45%);
+        }
       }
 
       .Mystique-shape--second .Mystique-shapeContentBlurb {

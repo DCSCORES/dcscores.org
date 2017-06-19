@@ -3,7 +3,7 @@ title: 2015-16 season awards
 season: 2015-16
 ---
 
-##### During the **2015-16** season, DC SCORES received the following recognition:
+##### **2015-16:**
 
 - DC SCORES longtime coach **Mark “Popsie” Lewis** was selected the [D.C. United Community MVP](https://mlsworkscmvp.com/).
 

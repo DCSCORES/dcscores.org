@@ -1,5 +1,6 @@
 // Events, not Event, I know right?
 .Events {
+  padding-top: 2em;
   padding-bottom: 2em;
   padding-right: 1em;
   padding-left: 1em;
@@ -7,6 +8,7 @@
   background-color: lighten($americaScoresCoolGrey, 15%);
 
   @media (min-width: 38em) {
+    padding-top: 3em;
     padding-bottom: 4em;
   }
 }

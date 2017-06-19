@@ -52,6 +52,10 @@
   @media (min-width: 64em) {}
 }
 
+.Masthead--noBottom {
+  margin-bottom: 0!important;
+}
+
   .Masthead-header {
     position: absolute;
     display: block;

@@ -20,6 +20,10 @@
   content: "\e900";
 }
 
+.Icon-close:before {
+  content: "\e5cd";
+}
+
 .Icon-favorite:before {
   content: "\e87d";
 }
@@ -30,6 +34,10 @@
 
 .Icon-star:before {
   content: "\e838";
+}
+
+.Icon-home:before {
+  content: "\e88a";
 }
 
 .Icon-arrowLeft:before {

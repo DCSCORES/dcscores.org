@@ -6,11 +6,10 @@
   padding-right: 1em;
   padding-left: 1em;
 
-  background-image: url(../assets/textures/dots--grey.png);
+  background-image: url(../assets/images/hero-02--large.jpg);
   background-repeat: no-repeat;
-  background-position: 160% 50%;
-  background-color: $americaScoresBlue;
-  background-size: 34rem;
+  background-position: center;
+  background-size: cover;
 
   &::after {
     content: "";
@@ -42,9 +41,6 @@
     padding-bottom: 5em;
     padding-right: 2.5em;
     padding-left: 2.5em;
-
-    background-position: 10% 5%;
-    background-size: 38.75rem;
   }
 }
 

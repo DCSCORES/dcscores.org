@@ -1,6 +1,6 @@
 ---
 title: Supporters beta
-permalink: /supporters/
+permalink: "/about-us/supporters/"
 
 leagueChampions:
 - City Fund

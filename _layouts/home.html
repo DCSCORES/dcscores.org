@@ -19,7 +19,32 @@ layout: default
         <div class="Mystique-shape  Mystique-shape--first">
           <section class="Mystique-shapeContent">
             <h3 class="Mystique-shapeContentHeadline">Impact</h3>
-            <p class="Mystique-shapeContentBlurb">After a 12-week DC SCORES season, <strong>99%</strong> of participants were confident they would graduate high school.</p>
+            {% comment %}<p class="Mystique-shapeContentBlurb">After a 12-week DC SCORES season, <strong>99%</strong> of participants were confident they would graduate high school.</p>{% endcomment %}
+
+            <!-- Carousel -->
+            <div class="Carousel">
+              <ul class="Carousel-panes">
+                <li class="Carousel-panesPane">
+                  <p class="Mystique-shapeContentBlurb">After a 12-week DC SCORES season, <strong>99%</strong> of participants were confident they would graduate high school.</p>
+                </li>
+
+                <li class="Carousel-panesPane">
+                  <p class="Mystique-shapeContentBlurb">After a 12-week DC SCORES season, <strong>83%</strong> of participants improved their aerobic capacity.</p>
+                </li>
+
+                <li class="Carousel-panesPane">
+                  <p class="Mystique-shapeContentBlurb">After a year of DC SCORES, <strong>96%</strong> of participants discovered something they’re good at.</p>
+                </li>
+
+                <li class="Carousel-panesPane">
+                  <p class="Mystique-shapeContentBlurb">After a 12-week DC SCORES season, <strong>99%</strong> of participants were confident they would graduate high school.</p>
+                </li>
+
+                <li class="Carousel-panesPane">
+                  <p class="Mystique-shapeContentBlurb">After a 12-week DC SCORES season, <strong>83%</strong> of participants improved their aerobic capacity.</p>
+                </li>
+              </ul>
+            </div>
 
             <div class="Mystique-shapeContentFooter">
               <a href="/impact" class="Mystique-shapeContentFooterLink">See more</a>
@@ -42,7 +67,31 @@ layout: default
         <div class="Mystique-shape  Mystique-shape--third">
           <section class="Mystique-shapeContent">
             <h3 class="Mystique-shapeContentHeadline">Donate</h3>
-            <p class="Mystique-shapeContentBlurb">Help us empower DC students through recurring or one time donation.</p>
+            {% comment %}<p class="Mystique-shapeContentBlurb">Help us empower DC students through recurring or one time donation.</p>{% endcomment %}
+
+            <div class="Carousel">
+              <ul class="Carousel-panes">
+                <li class="Carousel-panesPane">
+                  <p class="Mystique-shapeContentBlurb">Help us empower DC kids through recurring or one time donation!</p>
+                </li>
+
+                <li class="Carousel-panesPane">
+                  <p class="Mystique-shapeContentBlurb">You can change a kid’s life by giving today!</p>
+                </li>
+
+                <li class="Carousel-panesPane">
+                  <p class="Mystique-shapeContentBlurb">Give a DC child a voice and the power of self-expression!</p>
+                </li>
+
+                <li class="Carousel-panesPane">
+                  <p class="Mystique-shapeContentBlurb">Help us empower DC kids through recurring or one time donation!</p>
+                </li>
+
+                <li class="Carousel-panesPane">
+                  <p class="Mystique-shapeContentBlurb">You can change a kid’s life by giving today!</p>
+                </li>
+              </ul>
+            </div>
 
             <div class="Mystique-shapeContentFooter">
               <a href="http://bit.ly/GiveToDCSCORES" target="_blank" class="Mystique-shapeContentFooterLink">Donate</a>
@@ -65,7 +114,14 @@ layout: default
 
 
 
-<div class="News">
+<!-- No good -->
+<div class="Embed">
+  <iframe src="https://www.youtube.com/embed/LeU9CqD77Ac?showinfo=0" frameborder="0" allowfullscreen></iframe>
+</div>
+
+
+
+<div class="News" style="padding-top: 5em"><!-- remove padding later -->
 
   <header class="News-header">
     <h2 class="News-headerTitle">From the Blog</h2>
@@ -101,6 +157,29 @@ layout: default
     {% endfor %}
 
   </div>
+</div>
+
+
+
+<div class="TheHomePress">
+
+  <header class="TheHomePress-header">
+    <h2 class="TheHomePress-headerTitle">Recent news</h2>
+    <a href="/impact/press" class="TheHomePress-headerLink">See all news</a>
+  </header>
+
+  <div class="TheHomePress-press">
+    <ul class="TheHomePress-pressList">
+      {% assign sorted_press = site.press | sort:'date' | reverse %}
+      {% for press in sorted_press limit:4 %}
+      <li class="TheHomePress-pressListItem">
+        <a href="{{ press.link }}" class="TheHomePress-pressListItemLink">{{ press.title | truncatewords: 15 }}</a>
+        <strong class="TheHomePress-pressListItemSource">{{ press.source }}</strong>
+      </li>
+      {% endfor %}
+    </ul>
+  </div>
+
 </div>
 
 
@@ -147,26 +226,6 @@ layout: default
     <a href="#" class="Events-footerLink">See all news</a>
   </div>
   {% endcomment %}
-
-</div>
-
-
-
-<div class="TheHomePress">
-
-  <div class="TheHomePress-press">
-    <h3 class="TheHomePress-pressTitle">In the media</h3>
-
-    <ul class="TheHomePress-pressList">
-      {% assign sorted_press = site.press | sort:'date' | reverse %}
-      {% for press in sorted_press limit:3 %}
-      <li class="TheHomePress-pressListItem">
-        <a href="{{ press.link }}" class="TheHomePress-pressListItemLink">{{ press.title | truncatewords: 15 }}</a>
-        <strong class="TheHomePress-pressListItemSource">{{ press.source }}</strong>
-      </li>
-      {% endfor %}
-    </ul>
-  </div>
 
 </div>
 
@@ -232,7 +291,7 @@ layout: default
 
   <div class="Supporters-header">
     <h3 class="Supporters-headerTitle">Supporters</h3>
-    <a href="/supporters" class="Supporters-headerLink">See all</a>
+    <a href="/about-us/supporters" class="Supporters-headerLink">See all</a>
   </div>
 
   <ul class="Supporters-list  Grid  Grid--large">

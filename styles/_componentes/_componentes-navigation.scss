@@ -242,6 +242,59 @@
 
 
 
+.StickyNavigation {
+  position: -webkit-sticky;
+     position: -moz-sticky;
+      position: -ms-sticky;
+       position: -o-sticky;
+          position: sticky;
+
+  @include flexbox;
+  @include justify-content(center);
+
+  top: 0;
+
+  margin-bottom: 2em;
+
+  width: 100%;
+
+  background-color: lighten($americaScoresCoolGrey, 15%);
+
+  z-index: 9;
+}
+
+  .StickyNavigation-link {
+    display: block;
+
+    flex: 1;
+
+    padding-top: 0.75em;
+    padding-bottom: 0.75em;
+    padding-right: 1em;
+    padding-left: 1em;
+
+    font-size: 0.9rem;
+    line-height: 1;
+    text-align: center;
+    text-decoration: none;
+
+    box-shadow: none!important;
+    transition: all 0.15s ease;
+
+    &:hover {
+      background-color: lighten($americaScoresCoolGrey, 10%);
+    }
+
+    @media (min-width: 48em) {
+      padding-top: 1em;
+      padding-bottom: 1em;
+
+      font-size: 1rem;
+    }
+  }
+
+
+
 
 
 

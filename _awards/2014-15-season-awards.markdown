@@ -3,7 +3,7 @@ title: 2014-15 season awards
 season: 2014-15
 ---
 
-##### During the **2014-15** season, DC SCORES received the following recognition:
+##### **2014-15:**
 
 - Staff member **Libby Watkins** was named an [Evaluate for Change Millennial Nonprofit Data Fellow](http://bit.ly/1CZtJjd).
 

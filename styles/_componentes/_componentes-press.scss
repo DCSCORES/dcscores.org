@@ -92,16 +92,82 @@
 
 
 .TheHomePress {
-  padding-bottom: 1em;
+  padding-top: 2em;
+  padding-bottom: 2em;
+
   padding-right: 1em;
   padding-left: 1em;
 
-  background-color: lighten($americaScoresCoolGrey, 15%);
+  //background-color: lighten($americaScoresCoolGrey, 15%);
+  background-image: url(../assets/textures/dots--grey.png);
+  background-repeat: no-repeat;
+  background-position: 25% 50%;
+  background-color: lighten($americaScoresBlue, 5%);
+  background-size: 34rem;
 
   @media (min-width: 48em) {
     padding-bottom: 2em;
   }
 }
+
+  .TheHomePress-header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+
+    margin-top: 0;
+    margin-bottom: 2em;
+    margin-right: auto;
+    margin-left: auto;
+
+    max-width: 54em;
+  }
+
+    .TheHomePress-headerTitle {
+      display: block;
+
+      margin: 0;
+
+      font-size: 1.5rem;
+      line-height: 1;
+      letter-spacing: -0.015em;
+      //color: darken($americaScoresBlue, 15%);
+      color: lighten($americaScoresBlue, 75%);
+
+      @media (min-width: 48em) {
+        font-size: 1.8rem;
+      }
+
+      @media (min-width: 58em) {
+        font-size: 2rem;
+      }
+    }
+
+    .TheHomePress-headerLink {
+      display: block;
+
+      white-space: nowrap;
+
+      font-size: 1rem;
+      font-weight: 700;
+      line-height: 1.15;
+      letter-spacing: -0.025em;
+      text-decoration: none;
+      //color: darken($americaScoresBlue, 5%);
+      color: lighten($americaScoresBlue, 75%);
+
+      //border-bottom: 0.175em solid darken($americaScoresYellow, 5%);
+      border-bottom: 0.15em solid lighten($americaScoresBlue, 65%);
+      box-shadow: none;
+
+      @media (min-width: 58em) {
+        font-size: 1rem;
+      }
+
+      @media (min-width: 96em) {
+        font-size: 1.125rem;
+      }
+    }
 
   .TheHomePress-press {
     display: flex;
@@ -112,20 +178,8 @@
     margin-right: auto;
     margin-left: auto;
 
-    max-width: 54em;
+    max-width: 64em;
   }
-
-    .TheHomePress-pressTitle {
-      display: block;
-
-      margin-top: 0;
-      margin-bottom: 0.25em;
-
-      padding-right: 2em;
-
-      font-size: 1.6rem;
-      line-height: 1;
-    }
 
     .TheHomePress-pressList {
       list-style: none;
@@ -133,6 +187,7 @@
       padding: 0;
 
       display: flex;
+      flex-wrap: wrap;
       justify-content: space-between;
       align-items: flex-start;
     }
@@ -148,9 +203,10 @@
         padding-right: 0.5em;
         padding-left: 0.5em;
 
-        width: 32%;
+        width: 100%;
 
-        background-color: lighten($americaScoresCoolGrey, 10%);
+        background-color: lighten($americaScoresCoolGrey, 20%);
+        //border-left: 0.3em solid lighten($americaScoresYellow, 0%);
         border-radius: 3px;
 
         &::after {
@@ -164,7 +220,19 @@
         }
 
         &:not(:last-child) {
-          margin-right: 1%;
+
+          @media (min-width: 48em) {
+            margin-right: 1%;
+          }
+
+        }
+
+        @media (min-width: 38em) {
+          width: 48%;
+        }
+
+        @media (min-width: 48em) {
+          width: 24%;
         }
       }
 
@@ -172,7 +240,7 @@
           display: block;
 
           font-size: 0.9rem;
-          line-height: 1.15;
+          line-height: 1.25;
         }
 
         .TheHomePress-pressListItemSource {

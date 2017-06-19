@@ -3,7 +3,7 @@ title: 2012-13 season awards
 season: 2012-13
 ---
 
-##### During the **2012-13** season, DC SCORES received the following recognition:
+##### **2012-13:**
 
 - DC SCORES received a $100,000 in-kind media grant from the [PVBLIC Foundation](https://www.pvblic.org/) for winning a Retweet competition at the Social Media for Nonprofits Conference.
 

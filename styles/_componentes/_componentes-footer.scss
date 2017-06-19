@@ -319,6 +319,14 @@
         color: white;
       }
 
+        .Footer-navigationColumnHeadingLink {
+          color: inherit;
+
+          &:hover {
+            color: rgba(255, 255, 255, 0.8);
+          }
+        }
+
       .Footer-navigationColumnList {
         list-style: none;
         margin: 0;
@@ -463,7 +471,9 @@
 
   .Footer-auxiliary {
     position: relative;
-    display: block;
+
+    @include flexbox;
+    @include justify-content(space-between);
 
     margin-top: 4em!important;
     margin-right: auto;
@@ -472,41 +482,77 @@
     padding-top: 1.5em;
     padding-bottom: 1em;
 
+    width: 100%;
+    max-width: 64em;
+
     border-top: 2px solid darken($americaScoresBlue, 15%);
   }
 
-    .Footer-auxiliaryCite {
-      display: block;
+    .Footer-auxiliaryColumn {}
 
-      margin-bottom: 0.5em;
-
-      font-size: 0.7rem;
-      font-weight: 600;
-      font-style: normal;
-      line-height: 1;
-      letter-spacing: -0.0175em;
-      color: white;
+    .Footer-auxiliaryColumn--flex {
+      @include flexbox;
+      @include align-items(flex-end);
+      @include flex-direction(column);
     }
 
-    .Footer-auxiliaryFootprint {
-      display: block;
+      .Footer-auxiliaryColumnCite {
+        display: block;
 
-      max-width: 34em;
+        margin-bottom: 0.5em;
 
-      font-size: 0.7rem;
-      font-weight: 600;
-      line-height: 1.5;
-      color: rgba(255, 255, 255, 0.87);
+        font-size: 0.7rem;
+        font-weight: 600;
+        font-style: normal;
+        line-height: 1;
+        letter-spacing: -0.0175em;
+        color: white;
+      }
 
-      a {
-        color: inherit;
-        border-bottom: 1px solid rgba(255, 255, 255, 0.4);
+      .Footer-auxiliaryColumnFootprint {
+        display: block;
+        margin-bottom: 0;
 
-        &:hover {
-          border-bottom-color: rgba(255, 255, 255, 0.6);
+        max-width: 34em;
+
+        font-size: 0.7rem;
+        font-weight: 600;
+        line-height: 1.5;
+        color: rgba(255, 255, 255, 0.87);
+
+        a {
+          color: inherit;
+          border-bottom: 1px solid rgba(255, 255, 255, 0.4);
+
+          &:hover {
+            border-bottom-color: rgba(255, 255, 255, 0.6);
+          }
         }
       }
-    }
+
+      .Footer-auxiliaryColumnLink {
+        display: block;
+
+        // for the flex
+        margin-top: auto;
+
+        font-size: 0.7rem;
+        font-weight: 600;
+        color: white;
+
+        &:hover {
+          color: rgba(255, 255, 255, 0.8);
+        }
+
+        &:focus {
+          transform: translateY(1px);
+        }
+      }
+
+        .Footer-auxiliaryColumnLink .Icon {
+          position: relative;
+          bottom: -0.0585em;
+        }
 
 
 
