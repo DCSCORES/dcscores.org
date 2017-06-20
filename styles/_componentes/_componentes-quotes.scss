@@ -72,7 +72,7 @@
       font-size: 0.8rem;
       line-height: 1.5;
 
-      background-color: lighten($americaScoresCoolGrey, 15%);
+      background-color: lighten($americaScoresCoolGrey, 20%);
       border-radius: 3px;
 
       &::after {
@@ -86,7 +86,7 @@
         margin-left: -11px;
 
         border: 11px solid transparent;
-        border-top-color: lighten($americaScoresCoolGrey, 15%);
+        border-top-color: lighten($americaScoresCoolGrey, 20%);
       }
     }
 

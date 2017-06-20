@@ -5,9 +5,11 @@ layout: default
 <section class="Hero">
 
   <header class="Hero-header  Grid--large">
-    <div class="Grid__d2-d5  Grid__m2-m5">
-      {% comment %}<h1 class="Hero-headerTitle">Building Teams,<br>Improving Lives.</h1>{% endcomment %}
-      {% comment %}<p class="Hero-headerIntroduction"></p>{% endcomment %}
+    <div class="Grid__d5-d6  Grid__m2-m5">
+      <h1 class="Hero-headerTitle">DC SCORES wins AIM Excellence Award</h1>
+      <p class="Hero-headerIntroduction">
+        <a href="#" class="Hero-headerIntroductionLink">Read more</a>
+      </p>
     </div>
   </header>
 
@@ -116,7 +118,30 @@ layout: default
 
 <!-- No good -->
 <div class="Embed">
-  <iframe src="https://www.youtube.com/embed/LeU9CqD77Ac?showinfo=0" frameborder="0" allowfullscreen></iframe>
+  <iframe src="https://www.youtube.com/embed/gCFRSuHPnlQ?showinfo=0" frameborder="0" allowfullscreen></iframe>
+</div>
+
+
+
+<div class="TheHomePress">
+
+  <header class="TheHomePress-header">
+    <h2 class="TheHomePress-headerTitle">Recent news</h2>
+    <a href="/impact/press" class="TheHomePress-headerLink">See all news</a>
+  </header>
+
+  <div class="TheHomePress-press">
+    <ul class="TheHomePress-pressList">
+      {% assign sorted_press = site.press | sort:'date' | reverse %}
+      {% for press in sorted_press limit:4 %}
+      <li class="TheHomePress-pressListItem">
+        <a href="{{ press.link }}" class="TheHomePress-pressListItemLink">{{ press.title | truncatewords: 15 }}</a>
+        <strong class="TheHomePress-pressListItemSource">{{ press.source }}</strong>
+      </li>
+      {% endfor %}
+    </ul>
+  </div>
+
 </div>
 
 
@@ -157,29 +182,6 @@ layout: default
     {% endfor %}
 
   </div>
-</div>
-
-
-
-<div class="TheHomePress">
-
-  <header class="TheHomePress-header">
-    <h2 class="TheHomePress-headerTitle">Recent news</h2>
-    <a href="/impact/press" class="TheHomePress-headerLink">See all news</a>
-  </header>
-
-  <div class="TheHomePress-press">
-    <ul class="TheHomePress-pressList">
-      {% assign sorted_press = site.press | sort:'date' | reverse %}
-      {% for press in sorted_press limit:4 %}
-      <li class="TheHomePress-pressListItem">
-        <a href="{{ press.link }}" class="TheHomePress-pressListItemLink">{{ press.title | truncatewords: 15 }}</a>
-        <strong class="TheHomePress-pressListItemSource">{{ press.source }}</strong>
-      </li>
-      {% endfor %}
-    </ul>
-  </div>
-
 </div>
 
 

@@ -37,7 +37,7 @@
   .Hero-header {
     display: block;
 
-    margin-top: 2.5em;
+    margin-top: 4.25em;
 
     align-self: flex-start;
 
@@ -49,20 +49,35 @@
     .Hero-headerTitle {
       display: block;
 
-      font-family: "DCSCORES", sans-serif;
       font-size: 1.75rem;
       line-height: 1.125;
       color: white;
 
       @media (min-width: 58em) {
-        font-size: 2.15rem;
+        font-size: 2rem;
       }
     }
 
     .Hero-headerIntroduction {
-      display: none;
-      color: white;
+      display: block;
     }
+
+      .Hero-headerIntroductionLink {
+        display: inline-block;
+
+        padding-top: 0.5em;
+        padding-bottom: 0.5em;
+        padding-right: 0.5em;
+        padding-left: 0.5em;
+
+        font-size: 0.9rem;
+        line-height: 1;
+        letter-spacing: -0.0125em;
+        color: white;
+
+        border: 0.1em solid white;
+        border-radius: 3px;
+      }
 
   .Hero-main {
     position: static;

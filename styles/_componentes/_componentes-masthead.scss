@@ -52,6 +52,12 @@
   @media (min-width: 64em) {}
 }
 
+.Masthead--noBefore {
+  &::before {
+    display: none!important;
+  }
+}
+
 .Masthead--noBottom {
   margin-bottom: 0!important;
 }
