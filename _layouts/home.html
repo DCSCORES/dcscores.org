@@ -5,10 +5,10 @@ layout: default
 <section class="Hero">
 
   <header class="Hero-header  Grid--large">
-    <div class="Grid__d5-d6  Grid__m2-m5">
+    <div class="Grid__d5-d6  Grid__m2-m6">
       <h1 class="Hero-headerTitle">DC SCORES wins AIM Excellence Award</h1>
       <p class="Hero-headerIntroduction">
-        <a href="#" class="Hero-headerIntroductionLink">Read more</a>
+        <a href="http://bit.ly/AwardsDaySCORES" class="Hero-headerIntroductionLink" target="_blank">Read more</a>
       </p>
     </div>
   </header>
@@ -18,6 +18,19 @@ layout: default
 
       <!-- Mystique module -->
       <div class="Mystique">
+
+        <!-- For news block -->
+        <style>
+
+          @media (min-width: 37.5em) {
+            .Mystique::before {
+              background-image: url(/uploads/aim-excellence-award.jpg);
+              background-position: 50% 25%;
+            }
+          }
+
+        </style>
+
         <div class="Mystique-shape  Mystique-shape--first">
           <section class="Mystique-shapeContent">
             <h3 class="Mystique-shapeContentHeadline">Impact</h3>
@@ -116,9 +129,11 @@ layout: default
 
 
 
-<!-- No good -->
-<div class="Embed">
-  <iframe src="https://www.youtube.com/embed/gCFRSuHPnlQ?showinfo=0" frameborder="0" allowfullscreen></iframe>
+<!-- Home embed -->
+<div id="gCFRSuHPnlQ" class="AgileEmbed">
+  <div class="AgileEmbed-callout">
+    <a href="http://youtube.com/DCSCORES" class="AgileEmbed-calloutLink" target="_blank">Watch more videos<br>on our Youtube channel</a>
+  </div>
 </div>
 
 
@@ -135,7 +150,7 @@ layout: default
       {% assign sorted_press = site.press | sort:'date' | reverse %}
       {% for press in sorted_press limit:4 %}
       <li class="TheHomePress-pressListItem">
-        <a href="{{ press.link }}" class="TheHomePress-pressListItemLink">{{ press.title | truncatewords: 15 }}</a>
+        <a href="{{ press.link }}" class="TheHomePress-pressListItemLink" target="_blank">{{ press.title | truncatewords: 15 }}</a>
         <strong class="TheHomePress-pressListItemSource">{{ press.source }}</strong>
       </li>
       {% endfor %}
@@ -310,12 +325,6 @@ layout: default
     </li>
 
     <li class="Supporters-listItem">
-      <a href="http://thecityfund.org/" class="Supporters-listItemLink" target="_blank">
-        <img class="Supporters-listItemLinkImage" src="assets/images/supporters/city-fund.png" alt="">
-      </a>
-    </li>
-
-    <li class="Supporters-listItem">
       <a href="https://ussoccerfoundation.org/" class="Supporters-listItemLink" target="_blank">
         <img class="Supporters-listItemLinkImage" src="assets/images/supporters/us-soccer-foundation.png" alt="">
       </a>
@@ -326,6 +335,7 @@ layout: default
 
 
 
+{% comment %}
 <!-- Video player -->
 <div class="Youtube">
 	<div class="Youtube-body">
@@ -369,6 +379,7 @@ layout: default
 		</div>
 	</div>
 </div>
+{% endcomment %}
 
 
 

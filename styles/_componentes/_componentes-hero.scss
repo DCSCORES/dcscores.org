@@ -21,7 +21,7 @@
     background-image:
       linear-gradient( to bottom,
         rgba(0, 0, 0, 0.1),
-        rgba(0, 0, 0, 0)
+        rgba(0, 0, 0, 0.4)
     );
   }
 
@@ -37,24 +37,29 @@
   .Hero-header {
     display: block;
 
-    margin-top: 4.25em;
+    // Later implement variables for back end: low, mid or high
+    margin-top: 14em;
 
     align-self: flex-start;
 
     width: 100%;
 
     z-index: 9;
+
+    > div {
+      padding-left: 4.25%;
+    }
   }
 
     .Hero-headerTitle {
       display: block;
 
-      font-size: 1.75rem;
+      font-size: 1.6rem;
       line-height: 1.125;
       color: white;
 
       @media (min-width: 58em) {
-        font-size: 2rem;
+        font-size: 1.8rem;
       }
     }
 
@@ -65,17 +70,19 @@
       .Hero-headerIntroductionLink {
         display: inline-block;
 
-        padding-top: 0.5em;
-        padding-bottom: 0.5em;
-        padding-right: 0.5em;
-        padding-left: 0.5em;
+        padding-top: 0.75em;
+        padding-bottom: 0.75em;
+        padding-right: 0.75em;
+        padding-left: 0.75em;
 
-        font-size: 0.9rem;
+        font-size: 0.8rem;
+        font-weight: 600;
         line-height: 1;
         letter-spacing: -0.0125em;
-        color: white;
+        color: darken($americaScoresBlue, 15%);
 
-        border: 0.1em solid white;
+        //border: 0.1em solid white;
+        background-color: white;
         border-radius: 3px;
       }
 

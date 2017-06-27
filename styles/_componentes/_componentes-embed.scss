@@ -18,3 +18,131 @@
     width: 100%;
     height: 100%;
   }
+
+
+
+.AgileEmbed {
+  position: relative;
+
+  padding-bottom: 56.25%; /* 16:9 */
+
+  clear: both;
+  height: 0;
+
+  cursor: pointer;
+
+  background: #ccc no-repeat center center / cover;
+
+  &::before {
+    content: "";
+    position: absolute;
+    display: block;
+
+    top: 50%;
+    left: 50%;
+
+    width: 3em;
+    height: 3em;
+
+    background-image: url(../assets/images/play-circle.svg);
+    background-repeat: no-repeat;
+    background-position: 50% 50%;
+    background-size: cover;
+
+    transform: translate(-1.5em, -1.5em);
+    z-index: 9;
+
+    @media (min-width: 34em) {
+      width: 4em;
+      height: 4em;
+      transform: translate(-2em,-2em);
+    }
+
+    @media (min-width: 48em) {
+      width: 5em;
+      height: 5em;
+      transform: translate(-2.5em,-2.5em);
+    }
+  }
+}
+
+  .AgileEmbed iframe {
+    position: absolute;
+
+    top: 0;
+    left: 0;
+
+    width: 100%;
+    height: 100%;
+
+    z-index: 9;
+  }
+
+  .AgileEmbed-callout {
+    position: absolute;
+    display: block;
+
+    bottom: 7.5%;
+    left: 4.25%;
+
+    z-index: 99;
+  }
+
+    .AgileEmbed-calloutLink {
+      display: block;
+
+      padding-top: 0.75em;
+      padding-bottom: 0.75em;
+      padding-right: 0.75em;
+      padding-left: 0.75em;
+
+      font-size: 0.6rem;
+      font-weight: 700;
+      line-height: 1.15;
+      letter-spacing: -0.0145em;
+      color: white;
+
+      background-color: #cd201f;
+      border: 0.2em solid darken(#cd201f, 10%);
+      border-radius: 3px;
+
+      opacity: 0.8;
+      transition: all 0.15s ease;
+
+      &:hover {
+        opacity: 1;
+      }
+
+      @media (min-width: 34em) {
+        font-size: 0.7rem;
+      }
+
+      @media (min-width: 38em) {
+        font-size: 0.8rem;
+      }
+    }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

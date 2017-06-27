@@ -5,7 +5,7 @@ layout: default
 <main class="Main  Main--noTop">
 
   <!-- Masthead -->
-  <header class="Masthead"  style="background-image: url(/assets/images/masthead-program-sites.jpg); background-position: 50% 50%;">
+  <header class="Masthead"  style="background-image: url(/assets/images/masthead-program-sites.jpg); background-position: 50% 75%;">
     <div class="Masthead-header">
       <div class="Grid  Grid--large">
         <h1 class="Masthead-headerTitle">Program Sites</h1>
@@ -15,7 +15,7 @@ layout: default
 
   <section class="Grid  Grid--large">
     <div class="Grid__d2-d5  Grid__d-newline  Grid__m1-m6  Grid__m-newline">
-      <p>DC SCORES enrolls 2,200 students between the ages of eight and 15. Our program engages approximately 30 students each day at 55 schools and recreation center-based sites in all eight of the District of Columbia’s wards.</p>
+      {% for programSites in page.programSites %}{{ programSites | markdownify }}{% endfor %}
     </div>
 
     <div class="Grid__d1-d6  Grid__d-newline  Grid__m1-m6">

@@ -13,7 +13,7 @@ module.exports = function(grunt) {
         separator: ';',
       },
       dist: {
-        src: ['scripts/_src/fonts.js', 'scripts/_src/header.js', 'scripts/_src/slick.js', 'scripts/_src/carousel.js', 'scripts/_src/scroll-reveal.js', 'scripts/_src/scroll-in.js', 'scripts/_src/count-up.js', 'scripts/_src/numbers.js', 'scripts/_src/progress-bar.js', 'scripts/_src/youtube.js'],
+        src: ['scripts/_src/fonts.js', 'scripts/_src/header.js', 'scripts/_src/slick.js', 'scripts/_src/carousel.js', 'scripts/_src/scroll-reveal.js', 'scripts/_src/scroll-in.js', 'scripts/_src/count-up.js', 'scripts/_src/numbers.js', 'scripts/_src/progress-bar.js', 'scripts/_src/embed.js'],
         dest: 'scripts/app.js',
       },
     },

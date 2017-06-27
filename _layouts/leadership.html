@@ -50,23 +50,11 @@ layout: default
         {% for person in sorted_leadership %}
         <div class="Leadership-cell">
           <h3 class="Leadership-cellName">
-            <a href="{{ person.url }}" class="Leadership-cellNameLink">{{ person.title }}</a>
+            {% if person.link %}<a href="{{ person.link }}" class="Leadership-cellNameLink" target="_blank">{{ person.title }}</a>
+            {% else %}{{ person.title }}
+            {% endif %}
           </h3>
           <h4 class="Leadership-cellRole">{% if person.role %}{{ person.role }}, {% endif %}   {% if person.from %}{{ person.from }}{% endif %}</h4>
-        </div>
-        {% endfor%}
-      </div>
-
-      <h3 class="u-marginTop--1em">Board Interns</h3>
-
-      <div class="Leadership">
-        {% assign sorted_leadership = site.leadership | sort:'position' | where:"section","board interns" %}
-        {% for person in sorted_leadership %}
-        <div class="Leadership-cell">
-          <h4 class="Leadership-cellName">
-            <a href="{{ person.url }}" class="Leadership-cellNameLink">{{ person.title }}</a>
-          </h4>
-          <h5 class="Leadership-cellRole">{% if person.role %}{{ person.role }}, {% endif %}   {% if person.from %}{{ person.from }}{% endif %}</h5>
         </div>
         {% endfor%}
       </div>
@@ -86,9 +74,7 @@ layout: default
         {% assign sorted_leadership = site.leadership | sort:'position' | where:"section","advisory" %}
         {% for person in sorted_leadership %}
         <div class="Leadership-cell">
-          <h3 class="Leadership-cellName">
-            <a href="{{ person.url }}" class="Leadership-cellNameLink">{{ person.title }}</a>
-          </h3>
+          <h3 class="Leadership-cellName">{{ person.title }}</h3>
           <h4 class="Leadership-cellRole">{% if person.role %}{{ person.role }}, {% endif %}   {% if person.from %}{{ person.from }}{% endif %}</h4>
         </div>
         {% endfor%}

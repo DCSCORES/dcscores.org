@@ -399,13 +399,20 @@
 
       padding: 0.5em;
 
+      width: 50%;
+
       font-size: 1rem;
       line-height: 1;
       font-weight: 400;
       letter-spacing: -0.0125em;
+      text-align: center;
 
       &:focus {
         transform: translateY(1px);
+      }
+
+      @media (min-width: 28em) {
+        width: 33.33%;
       }
     }
 
