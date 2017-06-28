@@ -32,7 +32,10 @@
 
   cursor: pointer;
 
-  background: #ccc no-repeat center center / cover;
+  background-repeat: no-repeat;
+  background-color: #ccc;
+  background-position: 50% 25%;
+  background-size: cover;
   border-top: 0.25em solid #e5e6e7;
 
   &::before {
