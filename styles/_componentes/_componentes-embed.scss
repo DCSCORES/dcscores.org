@@ -69,6 +69,21 @@
       transform: translate(-2.5em,-2.5em);
     }
   }
+
+  &::after {
+    content: "";
+    position: absolute;
+    display: block;
+
+    top: 0;
+    left: 0;
+
+    width: 100%;
+    height: 100%;
+
+    background-color: rgba(0, 0, 0, 0.35);
+    z-index: 8;
+  }
 }
 
   .AgileEmbed iframe {
@@ -128,6 +143,29 @@
         font-size: 0.9rem;
       }
     }
+
+  .AgileEmbed-notice {
+    position: absolute;
+    display: block;
+
+    top: 65%;
+    left: 50%;
+
+    font-size: 0.9rem;
+    font-weight: 700;
+    line-height: 1;
+    letter-spacing: -0.0245em;
+    color: white;
+
+    transform: translate(-50%, -50%);
+    z-index: 9;
+
+    @media (min-width: 48em) {
+      top: 60%;
+
+      font-size: 1.1rem;
+    }
+  }
 
 
 
