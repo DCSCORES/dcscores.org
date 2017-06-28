@@ -24,7 +24,8 @@
 .AgileEmbed {
   position: relative;
 
-  padding-bottom: 56.25%; /* 16:9 */
+  //padding-bottom: 56.25%; /* 16:9 */
+  padding-bottom: 48.25%; /* blddkfk */
 
   clear: both;
   height: 0;
@@ -32,6 +33,7 @@
   cursor: pointer;
 
   background: #ccc no-repeat center center / cover;
+  border-top: 0.25em solid #e5e6e7;
 
   &::before {
     content: "";
@@ -99,12 +101,14 @@
       font-size: 0.6rem;
       font-weight: 700;
       line-height: 1.15;
-      letter-spacing: -0.0145em;
+      letter-spacing: -0.0175em;
       color: white;
 
       background-color: #cd201f;
       border: 0.2em solid darken(#cd201f, 10%);
       border-radius: 3px;
+
+      cursor: pointer;
 
       opacity: 0.8;
       transition: all 0.15s ease;
@@ -114,11 +118,11 @@
       }
 
       @media (min-width: 34em) {
-        font-size: 0.7rem;
+        font-size: 0.8rem;
       }
 
-      @media (min-width: 38em) {
-        font-size: 0.8rem;
+      @media (min-width: 48em) {
+        font-size: 0.9rem;
       }
     }
 

@@ -5489,7 +5489,7 @@ module.exports = {
     // Set the BG image from the youtube ID
     //$(this).css('background-image', 'url(//i.ytimg.com/vi/' + this.id + '/hqdefault.jpg)');
     // Set the custom background image
-    $(this).css('background-image', 'url(../assets/images/home-embed-temp.png)');
+    $(this).css('background-image', 'url(../assets/images/home-embed-temp.jpg)');
     // Click the video div
     $(document).delegate('#' + this.id, 'click', function() {
       // Build embed URL
