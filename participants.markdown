@@ -4,6 +4,8 @@ permalink: "/our-program/participants/"
 
 soccerSchedule:
 - |-
+  ## Soccer Schedule
+
   DC SCORES runs the only consistent elementary and middle public school soccer leagues for both boys and girls in the District of Columbia. Additionally, beginning in the fall of 2016, DC SCORES is running the DC SCORES City League, a District-wide recreation center soccer league run in partnership with the DC Department of Parks and Recreation. See below for all updated soccer schedules.
 soccerScheduleMap: "/uploads/image-program-sites-map.png"
 
