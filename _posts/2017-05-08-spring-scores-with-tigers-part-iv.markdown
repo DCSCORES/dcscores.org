@@ -1,8 +1,8 @@
 ---
 title: Spring SCORES with the Tigers, Part IV&#58; Pledging against gun violence
-date: 2017-05-08
+date: 2017-05-08 00:00:00 Z
 author: Dahlia Chaudhury
-featuredImage: "uploads/spring-scores-with-tigers-part-iv.jpg"
+featuredImage: uploads/spring-scores-with-tigers-part-iv.jpg
 ---
 
 This spring, we are following Amidon-Bowen's season highlighting their service-learning project, but also attending games and soccer practices. The Tigers are located in Southwest D.C. in Ward 6. You can follow along on [Twitter](https://twitter.com/DCSCORESInterns) and [Instagram](https://www.instagram.com/dc_scores/).

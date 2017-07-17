@@ -1,7 +1,6 @@
 ---
 title: DC United page beta
 permalink: "/about-us/dc-united/"
-
 layout: dc-united
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: Barnard Elementary School marches for immigrants' rights
-date: 2017-05-18
+date: 2017-05-18 00:00:00 Z
 author: Dahlia Chaudhury
 featuredImage: "/uploads/barnard-elementary-school-marches-for-immigrants-rights.jpg"
 ---

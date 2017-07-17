@@ -1,7 +1,6 @@
 ---
 title: Supporters beta
 permalink: "/about-us/supporters/"
-
 leagueChampions:
 - City Fund
 - D.C. Office of the State Superintendent of Education
@@ -17,7 +16,8 @@ scoringChampions:
 - Butterfields Butter LLC
 - Capital for Children
 - D.C. Commission on the Arts and Humanities
-- Office of the D.C. Deputy Mayor for Planning and Economic Development (New Communities Youth Development & Community Wellness)
+- Office of the D.C. Deputy Mayor for Planning and Economic Development (New Communities
+  Youth Development & Community Wellness)
 - Lois & Richard England Family Foundation
 - Foundation for Advancing Alcohol Responsibility
 - John Edward Fowler Memorial Foundation
@@ -167,27 +167,6 @@ leagueOfChampions:
 - Arlene Selber
 - David Sheon
 - Pierre Vigilance
-
 layout: supporters
 ---
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 

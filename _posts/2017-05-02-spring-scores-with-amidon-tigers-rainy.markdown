@@ -1,6 +1,6 @@
 ---
 title: Spring SCORES with the Tigers, Part III&#58; Rainy days and surveys
-date: 2017-05-02
+date: 2017-05-02 00:00:00 Z
 author: Dahlia Chaudhury
 featuredImage: "/uploads/spring-scores-with-amidon-tigers-rainy.jpg"
 ---

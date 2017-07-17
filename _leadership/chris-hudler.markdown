@@ -3,7 +3,7 @@ title: Chris Hudler
 position: 5
 role: Soccer Program Manager
 image: "/uploads/profile--chris-hudler.jpg"
-section: "staff"
+section: staff
 ---
 
 Chris is a Michigan native who has been living in the DC area for the past five years. Before that he spent two years in Japan traveling the country and teaching ESL in a private language school in Sendai. He is currently a staff coach with DC United Youth Development and also a member of the U.S. Soccer Foundation National Training Team. Prior to working with DC SCORES, Chris spent five years as a site coordinator with the D.C. United Foundation.

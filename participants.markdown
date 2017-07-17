@@ -1,14 +1,12 @@
 ---
 title: Participants page beta
 permalink: "/our-program/participants/"
-
 soccerSchedule:
 - |-
   ## Soccer Schedule
 
   DC SCORES runs the only consistent elementary and middle public school soccer leagues for both boys and girls in the District of Columbia. Additionally, beginning in the fall of 2016, DC SCORES is running the DC SCORES City League, a District-wide recreation center soccer league run in partnership with the DC Department of Parks and Recreation. See below for all updated soccer schedules.
 soccerScheduleMap: "/uploads/image-program-sites-map.png"
-
 scheduleElementarySchool:
 - |-
   #### Elementary School boys & girls
@@ -43,7 +41,6 @@ scheduleElementarySchool:
   - HD Cooke at Tubman
 
   - Payne- BYE
-
 scheduleMiddleSchool:
 - |-
   #### Middle School boys & girls
@@ -60,7 +57,6 @@ scheduleMiddleSchool:
   - LaSalle-Backus at Macfarland
 
   - DC International at Truesdell
-
 scheduleMiddleSchoolCoEd:
 - |-
   #### Middle School co-ed
@@ -75,7 +71,6 @@ scheduleMiddleSchoolCoEd:
   - SEED at Leckie
 
   - Jefferson at Paul
-
 scheduleCitySoccerLeague:
 - |-
   #### DC SCORES City Soccer League
@@ -87,7 +82,6 @@ scheduleCitySoccerLeague:
   - Hearst at Harrison
 
   - Park View at Upshur
-
 forFamilies:
 - |-
   ## For Families
@@ -95,7 +89,6 @@ forFamilies:
   DC SCORES is free to all participants. Register your child/children for the next DC SCORES programming season (we’re year-round).
 
   Work at a school interested in having DC SCORES? Print out the application form.
-
 programAlumni:
 - |-
   ### Program Alumni
@@ -116,26 +109,6 @@ programAlumni:
   - Apply to be a counselor at our summer camps through the DC Summer Youth Employment Program (SYEP).
 
   View all DC SCORES volunteer opportunities [here](http://volunteerdcscores.weebly.com/).
-
 layout: participants
 ---
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 

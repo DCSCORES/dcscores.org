@@ -1,7 +1,6 @@
 ---
 title: Careers and internships beta page
 permalink: "/about-us/careers-and-internships/"
-
 layout: careers-and-internships
 ---
 
