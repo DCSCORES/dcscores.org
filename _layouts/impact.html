@@ -100,7 +100,7 @@ layout: default
 
       <div class="Stories">
         {% assign sorted_success_stories = site.success_stories | sort:'position' %}
-        {% for story in sorted_success_stories %}
+        {% for story in sorted_success_stories limit:3 %}
         <a href="{{ story.link }}" target="_blank" class="Stories-story" style="background-image: url({{ story.image }});">
           <div class="Stories-storyHeader">
             <h4 class="Stories-storyHeaderTitle">{{ story.title }}</h4>

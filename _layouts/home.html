@@ -2,6 +2,69 @@
 layout: default
 ---
 
+<div class="Carousel" data-flickity='{ "draggable": false }'>
+  {% assign sorted_carousel = site.carousel | sort:'position' %}
+  {% for slide in sorted_carousel limit:4 %}
+  <a href="{{ slide.link }}" class="Carousel-cell" style="background-image: url({{ slide.image }}); background-position: {{ slide.image_position }};" target="_blank">
+    <div class="Carousel-cellWrapper">
+
+      <!-- Carousel content -->
+      <div class="CarouselContent">
+        <h2 class="CarouselContent-headline">{{ slide.title }}</h2>
+        <h3 class="CarouselContent-blurb">{{ slide.content | remove: '<p>' | remove: '</p>' }}</h3>
+      </div>
+
+    </div>
+  </a>
+  {% endfor %}
+</div>
+
+<div class="CarouselNavigation" data-flickity='{ "asNavFor": ".Carousel", "contain": true, "pageDots": false, "prevNextButtons": false }'>
+  {% assign sorted_carousel = site.carousel | sort:'position' %}
+  {% for slide in sorted_carousel limit:4 %}
+  <div class="CarouselNavigation-item" style="background-image: url({{ slide.image }}); background-position:;">
+
+    <!-- Carousel nav item content -->
+    <div class="CarouselNavigation-itemContent">
+      <h4 class="CarouselNavigation-itemContentHeadline">{{ slide.title }}</h4>
+      {% comment %}<h5 class="CarouselNavigation-itemContentBlurb"></h5>{% endcomment %}
+    </div>
+
+  </div>
+  {% endfor %}
+</div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+{% comment %}
 <section class="Hero">
 
   <header class="Hero-header  Grid--large">
@@ -37,25 +100,25 @@ layout: default
             {% comment %}<p class="Mystique-shapeContentBlurb">After a 12-week DC SCORES season, <strong>99%</strong> of participants were confident they would graduate high school.</p>{% endcomment %}
 
             <!-- Carousel -->
-            <div class="Carousel">
-              <ul class="Carousel-panes">
-                <li class="Carousel-panesPane">
+            <div class="TextCarousel">
+              <ul class="TextCarousel-panes">
+                <li class="TextCarousel-panesPane">
                   <p class="Mystique-shapeContentBlurb">After a 12-week DC SCORES season, <strong>99%</strong> of participants were confident they would graduate high school.</p>
                 </li>
 
-                <li class="Carousel-panesPane">
+                <li class="TextCarousel-panesPane">
                   <p class="Mystique-shapeContentBlurb">After a 12-week DC SCORES season, <strong>83%</strong> of participants improved their aerobic capacity.</p>
                 </li>
 
-                <li class="Carousel-panesPane">
+                <li class="TextCarousel-panesPane">
                   <p class="Mystique-shapeContentBlurb">After a year of DC SCORES, <strong>96%</strong> of participants discovered something they’re good at.</p>
                 </li>
 
-                <li class="Carousel-panesPane">
+                <li class="TextCarousel-panesPane">
                   <p class="Mystique-shapeContentBlurb">After a 12-week DC SCORES season, <strong>99%</strong> of participants were confident they would graduate high school.</p>
                 </li>
 
-                <li class="Carousel-panesPane">
+                <li class="TextCarousel-panesPane">
                   <p class="Mystique-shapeContentBlurb">After a 12-week DC SCORES season, <strong>83%</strong> of participants improved their aerobic capacity.</p>
                 </li>
               </ul>
@@ -84,25 +147,25 @@ layout: default
             <h3 class="Mystique-shapeContentHeadline">Donate</h3>
             {% comment %}<p class="Mystique-shapeContentBlurb">Help us empower DC students through recurring or one time donation.</p>{% endcomment %}
 
-            <div class="Carousel">
-              <ul class="Carousel-panes">
-                <li class="Carousel-panesPane">
+            <div class="TextCarousel">
+              <ul class="TextCarousel-panes">
+                <li class="TextCarousel-panesPane">
                   <p class="Mystique-shapeContentBlurb">Help us empower DC kids through recurring or one time donation!</p>
                 </li>
 
-                <li class="Carousel-panesPane">
+                <li class="TextCarousel-panesPane">
                   <p class="Mystique-shapeContentBlurb">You can change a kid’s life by giving today!</p>
                 </li>
 
-                <li class="Carousel-panesPane">
+                <li class="TextCarousel-panesPane">
                   <p class="Mystique-shapeContentBlurb">Give a DC child a voice and the power of self-expression!</p>
                 </li>
 
-                <li class="Carousel-panesPane">
+                <li class="TextCarousel-panesPane">
                   <p class="Mystique-shapeContentBlurb">Help us empower DC kids through recurring or one time donation!</p>
                 </li>
 
-                <li class="Carousel-panesPane">
+                <li class="TextCarousel-panesPane">
                   <p class="Mystique-shapeContentBlurb">You can change a kid’s life by giving today!</p>
                 </li>
               </ul>
@@ -119,13 +182,16 @@ layout: default
   </div>
 
 </section>
+{% endcomment %}
 
 <!-- If'y solution, for now -->
+{% comment %}
 <div class="u-preloadImages">
   <img src="assets/images/hero-01--large.jpg" width="1" height="1" alt="">
   <img src="assets/images/hero-02--large.jpg" width="1" height="1" alt="">
   <img src="assets/images/hero-03--large.jpg" width="1" height="1" alt="">
 </div>
+{% endcomment %}
 
 
 
@@ -212,29 +278,21 @@ layout: default
   <div class="Grid  Grid--large">
     <div class="Events-events">
 
-      <!-- First event -->
-      <a href="#" class="Events-eventsEvent">
-        <div class="Events-eventsEventThumbnail" style="background-image: url(http://www.americascores.org/wp-content/uploads/2017/04/5.12.17.jpg); background-position: center left;"></div>
+      <!-- Single event -->
+      {% assign sorted_events = site.events | sort:'position' %}
+      {% for event in sorted_events %}
+      <a href="#" class="Events-eventsEvent{% if event.finished == "Yes" %}  Events-eventsEvent--isFinished{% endif %}">
+        <div class="Events-eventsEventThumbnail" style="background-image: url({{ event.image }}); background-position: center;"></div>
 
-        <div class="Events-eventsEventContent" style="background-color: #db0065;">
-          <time class="Events-eventsEventContentDate">June 8, 2017</time>
-          <h3 class="Events-eventsEventContentHeadline">Do More 24</h3>
-          <p class="Events-eventsEventContentBlurb">June 8 is Do More 24, the annual day of giving for Washington, DC, area nonprofits.</p>
+        <div class="Events-eventsEventContent" style="background-color: {{ event.color }};">
+          <time class="Events-eventsEventContentDate">{{ event.date | date: site.date_format }}</time>
+          <h3 class="Events-eventsEventContentHeadline">{{ event.title }}</h3>
+          <p class="Events-eventsEventContentBlurb">{{ event.blurb }}</p>
 
-          <h4 class="Events-eventsEventContentHashtag">Use hashtag: <span>#DoMore24</span></h4>
+          {% if event.hashtag %}<h4 class="Events-eventsEventContentHashtag">Use hashtag: <span>{{ event.hashtag }}</span></h4>{% endif %}
         </div>
       </a>
-
-      <!-- Second event -->
-      <a href="#" class="Events-eventsEvent">
-        <div class="Events-eventsEventThumbnail" style="background-image: url(http://www.americascores.org/wp-content/uploads/2017/05/6.20.16-jamboree-recap.png); background-position: center;"></div>
-
-        <div class="Events-eventsEventContent" style="background-color: #c2272d;">
-          <time class="Events-eventsEventContentDate">June 3, 2017</time>
-          <h3 class="Events-eventsEventContentHeadline">Jamboree!</h3>
-          <p class="Events-eventsEventContentBlurb">Don’t miss our largest event of the year, Jamboree! Saturday, June 3. Join 2,000 others for an action-packed day.</p>
-        </div>
-      </a>
+      {% endfor %}
 
     </div>
   </div>

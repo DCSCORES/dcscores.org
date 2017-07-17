@@ -16,7 +16,8 @@
   <section class="Article-meta">
     <div class="Article-metaAuthored">
       <span class="Article-metaAuthoredSpeaker">By
-        <a href="#" class="Article-metaAuthoredSpeakerLink">{{ post.author }}</a>
+        {% comment %}<a href="#" class="Article-metaAuthoredSpeakerLink">{{ post.author }}</a>{% endcomment %}
+        <span class="Article-metaAuthoredSpeakerName">{{ post.author }}</span>
       </span>
 
       <span class="Article-metaAuthoredOn">on
@@ -25,12 +26,12 @@
     </div>
 
     <div class="Article-metaSocial">
-      <a href="#" class="Article-metaSocialLink  Article-metaSocialLink--twitter">
+      <a href="https://twitter.com/intent/tweet?text={{ post.title }}&url={{ site.url }}{{ page.url }}&via=dcscores" class="Article-metaSocialLink  Article-metaSocialLink--twitter">
         <i class="Icon  Icon-twitter"></i>
         Tweet
       </a>
 
-      <a href="#" class="Article-metaSocialLink  Article-metaSocialLink--facebook">
+      <a href="https://www.facebook.com/sharer/sharer.php?u={{ site.url }}{{ page.url }}&t={{ post.title }}" class="Article-metaSocialLink  Article-metaSocialLink--facebook">
         <i class="Icon  Icon-facebook"></i>
         Share
       </a>

@@ -47,6 +47,9 @@ collections:
   posts:
     title: Posts
     output: true
+  carousel:
+    title: Carousel
+    output: false
   blog_tags:
     title: Tags
     output: true
@@ -56,8 +59,7 @@ collections:
     output: true
   events:
     title: Events
-    permalink: /events/:name
-    output: true
+    output: false
   success_stories:
     title: Success stories
     output: false

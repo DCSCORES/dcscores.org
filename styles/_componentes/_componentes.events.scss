@@ -89,6 +89,7 @@
     }
   }
 
+    // Damn boi, class names
     .Events-eventsEvent {
       @include flexbox;
 
@@ -127,6 +128,11 @@
           width: 70%;
         }
       }
+    }
+
+    .Events-eventsEvent--isFinished {
+      pointer-events: none;
+      opacity: 0.8;
     }
 
       .Events-eventsEventThumbnail {

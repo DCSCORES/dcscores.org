@@ -77,6 +77,18 @@
 
       .Article-metaAuthoredSpeaker {}
 
+        .Article-metaAuthoredSpeakerName {
+          font-size: 0.9rem;
+          font-weight: 600;
+          line-height: 1;
+          letter-spacing: -0.0175em;
+          color: lighten($americaScoresBlue, 5%);
+
+          @media (min-width: 38em) {
+            font-size: 1rem;
+          }
+        }
+
         .Article-metaAuthoredSpeakerLink {
           font-size: 0.9rem;
           font-weight: 600;

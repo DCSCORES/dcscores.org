@@ -1,9 +1,10 @@
-.Carousel {
+// Pure css text carousel
+.TextCarousel {
   width: 100%;
   overflow: hidden;
 }
 
-  .Carousel-panes {
+  .TextCarousel-panes {
     margin: 0;
     padding: 0;
     list-style: none;
@@ -27,7 +28,7 @@
     }
   }
 
-    .Carousel-panesPane {
+    .TextCarousel-panesPane {
       position: relative;
       display: table-cell;
       vertical-align: middle;
@@ -39,7 +40,7 @@
     }
 
 // Stolen timings, figure out the math later
-@-webkit-keyframes carousel {
+@-webkit-keyframes textCarousel {
   0%, 17.5% {
     -webkit-transform: translate3d(0, 0, 0);
     -webkit-filter: blur(0);
@@ -70,7 +71,7 @@
   }
 }
 
-@-moz-keyframes carousel {
+@-moz-keyframes textCarousel {
   0%, 17.5% {
     -webkit-transform: translate3d(0, 0, 0);
     -webkit-filter: blur(0);
@@ -101,7 +102,7 @@
   }
 }
 
-@keyframes carousel {
+@keyframes textCarousel {
   0%, 17.5% {
     -webkit-transform: translate3d(0, 0, 0);
     -webkit-filter: blur(0);
@@ -131,27 +132,3 @@
     -webkit-filter: blur(2px);
   }
 }
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-

@@ -175,7 +175,7 @@
       z-index: 9;
 
       @media (min-width: 44em) {
-        margin-bottom: -2.75em;
+        //margin-bottom: -2.75em;
 
         min-height: 200px;
       }
@@ -195,7 +195,7 @@
       border-color: lighten(#fec737, 15%);
 
       @media (min-width: 44em) {
-        margin-bottom: -4em;
+        //margin-bottom: -4em;
       }
 
       @media (min-width: 58em) {
@@ -213,7 +213,7 @@
       border-color: lighten($americaScoresBlue, 15%);
 
       @media (min-width: 44em) {
-        margin-bottom: -5.75em;
+        //margin-bottom: -5.75em;
       }
 
       @media (min-width: 58em) {
@@ -231,7 +231,7 @@
       border-color: lighten($americaScoresRed, 15%);
 
       @media (min-width: 44em) {
-        margin-bottom: -3.5em;
+        //margin-bottom: -3.5em;
       }
 
       @media (min-width: 58em) {
