@@ -1,107 +1,83 @@
-#                                                    .
-#                                          oec :    @88>
-#                    u.      u.    u.     @88888    %8P
-#         .    ...ue888b   x@88k u@88c.   8"*88%     .         uL
-#    .udR88N   888R Y888r ^"8888""8888"   8b.      .@88u   .ue888Nc..
-#   <888'888k  888R I888>   8888  888R   u888888> ''888E` d88E`"888E`
-#   9888 'Y"   888R I888>   8888  888R    8888R     888E  888E  888E
-#   9888       888R I888>   8888  888R    8888P     888E  888E  888E
-#   9888      u8888cJ888    8888  888R    *888>     888E  888E  888E
-#   ?8888u../  "*888*P"    "*88*" 8888"   4888      888&  888& .888E
-#    "8888P'     'Y"         ""   'Y"     '888      R888" *888" 888&
-#      "P'                                 88R       ""    `"   "888E
-#                                          88>            .dWi   `88E
-#                                          48             4888~  J8%
-#                                          '8              ^"===*"`
+---
 title: Your awesome title
-email: your-email@domain.com
-description: > # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
-
-# Build settings
-markdown: kramdown
-kramdown:
-  input: GFM
-  hard_wrap: false
-excerpt_separator: "\n\n\n"
-future: true
-
-# Permalink
-permalink: pretty
-
-# Styles
-sass:
-  sass_dir: styles/
-  style: compressed
-
-# Blog
-per_page: 12
-date_format: "%b %d, %Y"
-
-# Collections
+timezone: UTC
 collections:
-  posts:
-    title: Posts
-    output: true
-  blog_tags:
-    title: Tags
-    output: true
-  leadership:
-    title: Leadership
-    permalink: /about-us/leadership/:name
-    output: true
-  events:
-    title: Events
-    permalink: /events/:name
-    output: true
-  success_stories:
-    title: Success stories
-    output: false
-  press:
-    title: Press
-    output: false
   awards:
     title: Awards
     output: false
+  events:
+    title: Events
+    output: true
+    permalink: "/events/:name"
+  leadership:
+    title: Leadership
+    output: true
+    permalink: "/about-us/leadership/:name"
+  posts:
+    title: Posts
+    output: true
+  press:
+    title: Press
+    output: false
+  success_stories:
+    title: Success stories
+    output: false
+  blog_tags:
+    title: Tags
+    output: true
   uploads:
     title: Uploads
     output: true
-
-# Defaults
 defaults:
 - scope:
-    path: ""
+    path: ''
     type: posts
   values:
     permalink: "/blog/:year/:month/:title"
     layout: post
-    image:
-    description:
+    image: 
+    description: 
 - scope:
-    path: ""
+    path: ''
     type: blog_tags
   values:
     layout: tag
 - scope:
+    path: ''
     type: leadership
   values:
     layout: profile
+email: your-email@domain.com
+description: 'Write an awesome description for your new site here. You can edit this
+  line in _config.yml. It will appear in your document head meta (for Google search
+  results) and in your feed.xml site description.
 
-# Gems
+'
+baseurl: ''
+url: ''
+markdown: kramdown
+kramdown:
+  input: GFM
+  hard_wrap: false
+excerpt_separator: |2+
+
+
+
+future: true
+permalink: pretty
+sass:
+  sass_dir: styles/
+  style: compressed
+per_page: 12
+date_format: "%b %d, %Y"
 gems:
-  - jekyll-seo-tag
-  - jekyll-sitemap
-
-# Exclude
+- jekyll-seo-tag
+- jekyll-sitemap
 exclude:
-  - Gemfile
-  - Gemfile.lock
-  - Gruntfile.js
-  - package.json
-  - README.markdown
-  - node_modules
-  - ".gitignore"
+- Gemfile
+- Gemfile.lock
+- Gruntfile.js
+- package.json
+- README.markdown
+- node_modules
+- ".gitignore"

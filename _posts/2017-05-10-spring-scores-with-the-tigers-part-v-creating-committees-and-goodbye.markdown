@@ -1,6 +1,6 @@
 ---
 title: Spring SCORES with the Tigers, Part V&#58; Creating committees & goodbye
-date: 2017-05-10
+date: 2017-05-10 00:00:00 Z
 author: Dahlia Chaudhury
 featuredImage: "/uploads/spring-scores-with-tigers-part-v.jpg"
 ---

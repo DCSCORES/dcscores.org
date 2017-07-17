@@ -1,6 +1,6 @@
 ---
 title: Volunteer spotlight&#58; Deirdre Hart from Discovery
-date: 2017-05-03
+date: 2017-05-03 00:00:00 Z
 author: Staff
 featuredImage: "/uploads/volunteer-spotlight-deirdre-hart-from.jpg"
 ---
