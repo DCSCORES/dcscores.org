@@ -2,16 +2,11 @@
 title: Your awesome title
 timezone: UTC
 collections:
-  posts:
-    title: Posts
-    output: true
-  carousel:
-    title: Carousel
-    output: false
-  blog_tags:
-    title: Tags
   awards:
     title: Awards
+    output: false
+  carousel:
+    title: Carousel
     output: false
   events:
     title: Events
@@ -20,11 +15,17 @@ collections:
     title: Leadership
     output: true
     permalink: "/about-us/leadership/:name"
+  posts:
+    title: Posts
+    output: true
+  press:
+    title: Press
+    output: false
   success_stories:
     title: Success stories
     output: false
-  press:
-    title: Press
+  blog_tags:
+    title: Tags
     output: false
   uploads:
     title: Uploads
@@ -36,8 +37,8 @@ defaults:
   values:
     permalink: "/blog/:year/:month/:title"
     layout: post
-    image:
-    description:
+    image: 
+    description: 
 - scope:
     path: ''
     type: blog_tags
