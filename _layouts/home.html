@@ -5,7 +5,7 @@ layout: default
 <div class="Carousel" data-flickity='{ "draggable": false }'>
   {% assign sorted_carousel = site.carousel | sort:'position' %}
   {% for slide in sorted_carousel limit:4 %}
-  <a href="{{ slide.link }}" class="Carousel-cell" style="background-image: url({{ slide.image }}); background-position: {{ slide.image_position }};" target="_blank">
+  <a href="{{ slide["Link"] }}" class="Carousel-cell" style="background-image: url({{ slide["Image"] }}); background-position: {{ slide["Image Position"] }};" target="_blank">
     <div class="Carousel-cellWrapper">
 
       <!-- Carousel content -->
@@ -22,7 +22,7 @@ layout: default
 <div class="CarouselNavigation" data-flickity='{ "asNavFor": ".Carousel", "contain": true, "pageDots": false, "prevNextButtons": false }'>
   {% assign sorted_carousel = site.carousel | sort:'position' %}
   {% for slide in sorted_carousel limit:4 %}
-  <div class="CarouselNavigation-item" style="background-image: url({{ slide.image }}); background-position:;">
+  <div class="CarouselNavigation-item" style="background-image: url({{ slide["Image"] }}); background-position: 50% 50%;">
 
     <!-- Carousel nav item content -->
     <div class="CarouselNavigation-itemContent">
@@ -281,15 +281,15 @@ layout: default
       <!-- Single event -->
       {% assign sorted_events = site.events | sort:'position' %}
       {% for event in sorted_events %}
-      <a href="#" class="Events-eventsEvent{% if event.finished == "Yes" %}  Events-eventsEvent--isFinished{% endif %}">
-        <div class="Events-eventsEventThumbnail" style="background-image: url({{ event.image }}); background-position: center;"></div>
+      <a href="#" class="Events-eventsEvent{% if event["Is Finished"] == "Yes" %}  Events-eventsEvent--isFinished{% endif %}">
+        <div class="Events-eventsEventThumbnail" style="background-image: url({{ event["Image"] }}); background-position: {{ event["Image Position"] }};"></div>
 
-        <div class="Events-eventsEventContent" style="background-color: {{ event.color }};">
+        <div class="Events-eventsEventContent" style="background-color: {{ event["Color"] }};">
           <time class="Events-eventsEventContentDate">{{ event.date | date: site.date_format }}</time>
           <h3 class="Events-eventsEventContentHeadline">{{ event.title }}</h3>
-          <p class="Events-eventsEventContentBlurb">{{ event.blurb }}</p>
+          <p class="Events-eventsEventContentBlurb">{{ event["Blurb"] }}</p>
 
-          {% if event.hashtag %}<h4 class="Events-eventsEventContentHashtag">Use hashtag: <span>{{ event.hashtag }}</span></h4>{% endif %}
+          {% if event["Hashtag"] %}<h4 class="Events-eventsEventContentHashtag">Use hashtag: <span>{{ event["Hashtag"] }}</span></h4>{% endif %}
         </div>
       </a>
       {% endfor %}
