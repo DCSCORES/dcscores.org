@@ -27,30 +27,27 @@ layout: default
 
     <div id="soccerSchedule" class="Grid__d4-d6  Grid__m1-m5  Grid__m-newline">
       {% for content in page.soccerSchedule %}{{ content | markdownify }}{% endfor %}
-      {% for content in page.scheduleElementarySchool %}{{ content | markdownify }}{% endfor %}
-    </div>
-
-    <div class="Grid__d1-d2  Grid__d-newline  Grid__m1-m5  Grid__m-newline">
-      {% for content in page.scheduleMiddleSchool %}{{ content | markdownify }}{% endfor %}
-    </div>
-
-    <div class="Grid__d3-d4  Grid__m1-m5  Grid__m-newline">
-      {% for content in page.scheduleMiddleSchoolCoEd %}{{ content | markdownify }}{% endfor %}
-    </div>
-
-    <div class="Grid__d5-d6  Grid__m1-m5  Grid__m-newline">
-      {% for content in page.scheduleCitySoccerLeague %}{{ content | markdownify }}{% endfor %}
     </div>
 
     <div id="forFamilies" class="Image  Grid__d1-d6  Grid__m1-m6" style="background-image: url(/uploads/image-resources--first.jpg); background-position: center;"></div>
 
-    <div class="Grid__d2-d5  Grid__d-newline  Grid__m1-m6  Grid__m-newline">
+    <div class="Grid__d2-d3  Grid__d-newline  Grid__m1-m6">
       {% for content in page.forFamilies %}{{ content | markdownify }}{% endfor %}
     </div>
 
-    <div id="programAlumni" class="Image  Grid__d1-d6  Grid__m1-m6" style="background-image: url(/uploads/image-participants-alumni.jpg); background-position: center;"></div>
+    <div class="Grid__d4-d6  Grid__m1-m6  Grid__m-newline">
+      <img src="/uploads/participants-family.jpg" alt="">
+    </div>
 
-    <div class="Grid__d2-d5  Grid__d-newline  Grid__m1-m6  Grid__m-newline">
+    <hr class="Grid__d4-d6  Grid__d-newline  Grid__m1-m6">
+
+    <div class="Grid__d1-d4  Grid__d-newline  Grid__m1-m6">
+      <img src="/uploads/image-participants-alumni.jpg" alt="">
+    </div>
+
+    {% comment %}<div id="programAlumni" class="Image  Grid__d1-d6  Grid__m1-m6" style="background-image: url(/uploads/image-participants-alumni.jpg); background-position: center;"></div>{% endcomment %}
+
+    <div class="Grid__d5-d6  Grid__m1-m6  Grid__m-newline">
       {% for content in page.programAlumni %}{{ content | markdownify }}{% endfor %}
     </div>
 

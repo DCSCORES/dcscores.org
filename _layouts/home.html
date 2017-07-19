@@ -280,7 +280,7 @@ layout: default
 
       <!-- Single event -->
       {% assign sorted_events = site.events | sort:'position' %}
-      {% for event in sorted_events %}
+      {% for event in sorted_events limit:2 %}
       <a href="#" class="Events-eventsEvent{% if event["Is Finished"] == "Yes" %}  Events-eventsEvent--isFinished{% endif %}">
         <div class="Events-eventsEventThumbnail" style="background-image: url({{ event["Image"] }}); background-position: {{ event["Image Position"] }};"></div>
 

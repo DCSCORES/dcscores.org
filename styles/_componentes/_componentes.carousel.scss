@@ -94,7 +94,7 @@
   .CarouselNavigation-item {
     position: relative;
 
-    width: 25%;
+    width: 240px;
 
     background-color: black;
     background-repeat: no-repeat;
@@ -132,6 +132,18 @@
       padding-bottom: 56.25%;
       height: 0;
     }
+
+    @media (min-width: 38em) {
+      width: 35%;
+    }
+
+    @media (min-width: 48em) {
+      width: 30%;
+    }
+
+    @media (min-width: 58em) {
+      width: 25%;
+    }
   }
 
   .CarouselNavigation-item.is-nav-selected {}
@@ -143,12 +155,19 @@
       bottom: 0;
       left: 0;
 
-      padding-top: 0.75em;
-      padding-bottom: 0.75em;
-      padding-right: 1em;
-      padding-left: 1em;
+      padding-top: 0.5em;
+      padding-bottom: 0.5em;
+      padding-right: 0.75em;
+      padding-left: 0.75em;
 
       width: 100%;
+
+      @media (min-width: 38em) {
+        padding-top: 0.75em;
+        padding-bottom: 0.75em;
+        padding-right: 1em;
+        padding-left: 1em;
+      }
     }
 
       .CarouselNavigation-itemContentHeadline {

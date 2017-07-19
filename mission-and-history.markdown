@@ -29,7 +29,7 @@ years:
 - date: 2009
   description: Selected by the Catalogue for Philanthropy as “one of the best small
     charities in the Washington, DC region” for 2009-2010. Chosen again when next
-    eligible in 2013.
+    eligible in 2013 and again in 2017.
   image: "/uploads/image-history--2009.png"
 - date: 2010
   description: Included in a Harvard Family Research Project and Private/Public Ventures
