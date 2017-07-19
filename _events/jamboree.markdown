@@ -7,6 +7,6 @@ Blurb: Don’t miss our largest event of the year, Jamboree! Saturday, June 3. J
 Image: http://www.americascores.org/wp-content/uploads/2017/05/6.20.16-jamboree-recap.png
 Image Position: 50% 50%
 Color: "#c2272d"
-Is Finished: "Yes"
+Is Finished: 'Yes'
 ---
 
