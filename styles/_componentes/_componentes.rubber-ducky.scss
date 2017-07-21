@@ -1,0 +1,82 @@
+.RubberDucky {
+  position: relative;
+
+  float: right;
+  margin: 0 2% 0 0;
+
+  min-width: 250px;
+
+  @media (min-width: 58em) {
+    position: -webkit-sticky;
+       position: -moz-sticky;
+        position: -ms-sticky;
+         position: -o-sticky;
+            position: sticky;
+
+    top: 1em;
+
+    padding-left: 1.5em;
+  }
+
+  @media (max-width: 58em) {
+    clear: both;
+    width: 100%;
+  }
+}
+
+  .RubberDucky-navigation {}
+
+    .RubberDucky-navigationItem {
+      display: block;
+
+      padding-top: 0.75em;
+      padding-bottom: 0.75em;
+      padding-right: 1em;
+      padding-left: 1em;
+
+      font-size: 0.9rem;
+      font-weight: 600;
+      line-height: 1;
+      letter-spacing: -0.0145em;
+      color: darken($americaScoresCoolGrey, 25%);
+
+      background-color: lighten($americaScoresCoolGrey, 20%);
+      box-shadow: none!important;
+
+      &:hover {
+        color: darken($americaScoresCoolGrey, 35%);
+        background-color: lighten($americaScoresCoolGrey, 15%);
+      }
+
+      &:first-child {
+        border-top-right-radius: 3px;
+        border-top-left-radius: 3px;
+      }
+
+      &:last-child {
+        border-bottom-right-radius: 3px;
+        border-bottom-left-radius: 3px;
+      }
+    }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

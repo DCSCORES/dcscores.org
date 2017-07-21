@@ -202,6 +202,166 @@
 
   .Article-content {}
 
+    .Article-content img {
+      border: 0.2em solid #e5e6e7;
+      border-radius: 3px;
+    }
+
+    // Needs work, pretty good
+    .Article-content img[src*="float-left"] {
+      float: left;
+      clear: left;
+
+      margin-right: 1.25em;
+      margin-left: -2em;
+
+      max-width: 280px;
+      height: auto;
+
+      @media (min-width: 58em) {
+        max-width: 400px;
+      }
+    }
+
+    .Article-content img[src*="float-left-small"] {
+      float: left;
+      clear: left;
+
+      margin-right: 1.25em;
+      margin-left: -2em;
+
+      max-width: 260px;
+      height: auto;
+
+      @media (min-width: 58em) {
+        max-width: 300px;
+      }
+    }
+
+    .Article-content img[src*="float-right"] {
+      float: right;
+      clear: right;
+
+      margin-right: -2em;
+      margin-left: 1.25em;
+
+      max-width: 280px;
+      height: auto;
+
+      @media (min-width: 58em) {
+        max-width: 400px;
+      }
+    }
+
+    // Custom list styling by targeting
+    .Article-content ol {
+      list-style: none;
+      padding-left: 1.25em;
+
+      font-size: 0.9rem;
+
+      @media (min-width: 48em) {
+        padding-left: 2.5em;
+      }
+    }
+
+      .Article-content ol li {
+        counter-increment: item;
+
+        &::before {
+          content: counter(item);
+          display: inline-block;
+
+          margin-right: 0.5em;
+
+          width: 1.4em;
+          height: 1.4em;
+
+          font-size: 0.8rem;
+          font-weight: 700;
+          line-height: 1.4em;
+          text-align: center;
+          color: #fff;
+
+          background-color: lighten($americaScoresBlue, 15%);
+          border-radius: 100%;
+        }
+
+        &:first-child {
+          > p {
+            margin-top: 0!important;
+          }
+        }
+      }
+
+        .Article-content ol li p {
+          display: inline-block;
+        }
+
+    .Article-content blockquote {
+      display: block;
+
+      padding-left: 1.5em;
+
+      border-left: 0.35em solid lighten($americaScoresCoolGrey, 15%);
+
+      @media (min-width: 48em) {
+        padding-left: 2em;
+      }
+
+      p {
+        margin-top: 1.5em;
+        margin-bottom: 1.5em;
+
+        font-size: 0.9rem;
+        font-style: italic;
+        line-height: 1.45;
+
+        @media (min-width: 48em) {
+          font-size: 1rem;
+        }
+      }
+    }
+
+    // Buttons in articles, used in Volunteer page for now.
+    // Could target based on href, fine for now.
+    .Article-contentButton {
+      display: inline-block;
+
+      padding-top: 0.6em;
+      padding-bottom: 0.6em;
+      padding-right: 0.75em;
+      padding-left: 0.75em;
+
+      font-size: 0.8rem;
+      font-weight: 600;
+      line-height: 1;
+      letter-spacing: -0.0125em;
+      color: white;
+
+      background-color: dodgerblue;
+
+      border-radius: 4px;
+      box-shadow: none!important;
+
+      &:hover {
+        background-color: darken(dodgerblue, 5%);
+      }
+
+      &:focus {
+        box-shadow: 0 0 0 0.175em rgba(30, 144, 255, 0.4)!important;
+        transform: translateY(1px);
+      }
+
+      @media (min-width: 48em) {
+        font-size: 0.9rem;
+      }
+    }
+
+      .Article-contentButton .Icon::before {
+        padding-right: 0.45em;
+      }
+
 
 
 

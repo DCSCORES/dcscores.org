@@ -24,6 +24,10 @@
   content: "\e5cd";
 }
 
+.Icon-edit:before {
+  content: "\e254";
+}
+
 .Icon-favorite:before {
   content: "\e87d";
 }
@@ -38,6 +42,10 @@
 
 .Icon-home:before {
   content: "\e88a";
+}
+
+.Icon-document:before {
+  content: "\e24d";
 }
 
 .Icon-arrowLeft:before {
