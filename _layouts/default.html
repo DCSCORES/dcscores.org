@@ -3,11 +3,20 @@
   {% include head.html %}
   <body>
 
+    <div class="Splash">
+      <div class="Splash-content">
+        <h1 class="Splash-contentTitle">The new DC SCORES site<br>is on it's way!</h1>
+        <a href="http://www.americascores.org/affiliates/dc" class="Splash-contentLink" target="_blank">Visit old site</a>
+      </div>
+    </div>
+
+    {% comment %}
     {% include header.html %}
 
     {{ content }}
 
     {% include footer.html %}
+    {% endcomment %}
 
     <script src="//ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
     <script src="//npmcdn.com/flickity@2/dist/flickity.pkgd.js"></script>

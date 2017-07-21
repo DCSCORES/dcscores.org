@@ -20,3 +20,92 @@ body {
 
   background-color: white;
 }
+
+
+
+// Until the site is launched, remove after
+.Splash {
+  width: 100%;
+  height: 100vh;
+
+  background-color: salmon;
+  background-image: url(../assets/images/hero-default--large.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: 50% 60%;
+}
+
+  .Splash-content {
+    position: absolute;
+    display: block;
+
+    top: 5%;
+    left: 2.5%;
+
+    padding-top: 1.25em;
+    padding-bottom: 0.5em;
+    padding-right: 1.25em;
+    padding-left: 1.25em;
+
+    background-image: url(../assets/textures/dots--grey.png);
+    background-repeat: no-repeat;
+    background-position: 225% 100%;
+    background-size: 24rem;
+
+    background-color: #fec737;
+    border: 0.25em solid lighten(#fec737, 15%);
+    border-radius: 3px;
+  }
+
+    .Splash-contentTitle {
+      margin-top: 0;
+      margin-bottom: 1.25em;
+
+      font-size: 1.3rem;
+      line-height: 1;
+      color: darken($americaScoresYellow, 45%);
+    }
+
+    .Splash-contentLink {
+      display: block;
+
+      font-size: 0.825rem;
+      font-weight: 700;
+      line-height: 1.15;
+      letter-spacing: -0.025em;
+      text-align: right;
+      color: rgba(26, 22, 0, 0.8);
+
+      box-shadow: none;
+
+      &:focus {
+        transform: translateY(1px);
+      }
+    }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
