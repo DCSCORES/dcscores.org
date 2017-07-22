@@ -77,6 +77,28 @@
     <a href="{{ post.url }}" class="Article-footerLink">Read more</a>
   </footer>
   {% endif %}
+
+  <!-- Next/previous navigation -->
+  {% unless is_excerpt %}
+  <div class="Article-navigation">
+    {% if page.previous.url %}
+    <a href="{{ page.previous.url }}" class="Article-navigationLink" style="background-image: url({{ page.previous["Thumbnail Image"] }});">
+      <div class="Article-navigationLinkContent">
+        <span class="Article-navigationLinkContentTag">Previous post</span>
+        <h3 class="Article-navigationLinkContentTitle">{{ page.previous.title }}</h3>
+      </div>
+    </a>
+    {% endif %}
+    {% if page.next.url %}
+    <a href="{{ page.next.url }}" class="Article-navigationLink" style="background-image: url({{ page.next["Thumbnail Image"] }});">
+      <div class="Article-navigationLinkContent">
+        <span class="Article-navigationLinkContentTag">Next post</span>
+        <h3 class="Article-navigationLinkContentTitle">{{ page.next.title }}</h3>
+      </div>
+    </a>
+    {% endif %}
+  </div>
+  {% endunless %}
 </article>
 
 

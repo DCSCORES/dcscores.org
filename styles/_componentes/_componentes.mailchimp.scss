@@ -1,0 +1,155 @@
+.MailChimp {
+  padding-top: 2.5em;
+  padding-bottom: 2.5em;
+
+  width: 100%;
+
+  background-color: #f2f2f2;
+}
+
+  .MailChimp-content {
+    text-align: center;
+  }
+
+    .MailChimp-contentTitle {
+      margin-top: 0;
+      margin-bottom: 0;
+
+      font-size: 1.4rem;
+      line-height: 1;
+      color: darken($americaScoresBlue, 15%);
+    }
+
+    .MailChimp-contentBlurb {
+      margin-top: 1em;
+      margin-bottom: 0;
+
+      font-size: 0.8rem;
+      line-height: 1.25;
+      color: darken($americaScoresBlue, 15%);
+    }
+
+  .MailChimp-action {
+    margin-top: 2em;
+  }
+
+    .MailChimp-actionForm {
+      position: relative;
+      display: block;
+
+      margin: 0;
+
+      @media (min-width: 38em) {
+        @include flexbox;
+        @include justify-content(center);
+      }
+    }
+
+      .MailChimp-actionFormInput {
+        box-sizing: border-box;
+        display: block;
+
+        padding-top: 1em;
+        padding-bottom: 1em;
+        padding-right: 0.5em;
+        padding-left: 2.75em;
+
+        max-width: 100%;
+        width: 100%;
+
+        -webkit-appearance: none;
+        outline: 0;
+
+        font-size: 1rem;
+        font-weight: 600;
+        line-height: 1;
+        color: darken(#fafafa, 60%);
+
+        background-color: #fff;
+        border: 0.15em solid darken($americaScoresBlue, 15%);
+        border-radius: 3px;
+
+        transition: all 0.25s ease;
+      }
+
+      .MailChimp-actionFormIcon {
+        position: absolute;
+        display: block;
+
+        top: 0;
+        left: 0.75em;
+
+        width: 1.5em;
+        height: 100%;
+
+        overflow: hidden;
+
+        fill: darken($americaScoresBlue, 15%);
+
+        @media (max-width: 38em) {
+          height: 47.5%;
+        }
+      }
+
+      .MailChimp-actionFormButton {
+        position: relative;
+        display: inline-block;
+
+        margin-left: 1em;
+
+        padding-top: 1em;
+        padding-bottom: 1em;
+        padding-right: 1.25em;
+        padding-left: 1.25em;
+
+        -webkit-appearance: button;
+        white-space: nowrap;
+
+        cursor: pointer;
+        outline: 0;
+
+        font-size: 1rem;
+        font-weight: 700;
+        line-height: 1;
+        color: white;
+
+        background-color: green;
+        border: 0.15em solid darkgreen;
+        border-radius: 3px;
+
+        transition: all 0.25s ease;
+
+        @media (max-width: 38em) {
+          margin-top: 0.5em;
+          margin-left: 0;
+
+          width: 100%;
+        }
+      }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

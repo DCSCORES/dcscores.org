@@ -1,5 +1,5 @@
 .Carousel {
-  background-color: black;
+  background-color: grey;
 }
 
   .Carousel-cell {
@@ -88,7 +88,7 @@
 
 
 .CarouselNavigation {
-  background-color: black;
+  background-color: white;
 }
 
   .CarouselNavigation-item {
@@ -121,7 +121,7 @@
       background-image:
         linear-gradient(
           to top,
-          rgba(0, 0, 0, 0.75),
+          rgba(0, 0, 0, 0.6),
           rgba(0, 0, 0, 0) 70%
       );//#e31836
     }

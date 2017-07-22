@@ -1,6 +1,6 @@
 ---
 title: 2017 Jamboree!
-position: 0
+position: 1
 Image: "/uploads/2017-jamboree.jpg"
 Image Position: 50% 35%
 Link: http://dcscores.blogspot.com/2017/06/the-22nd-edition-of-jamboree-bring.html

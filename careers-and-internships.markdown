@@ -6,7 +6,7 @@ layout: careers-and-internships
 
 ## Job Openings
 
-We have no job openings at this time. If you would like to get involved in another capacity, sign up to volunteer!
+We have no job openings at this time. If you would like to get involved in another capacity, sign up to [volunteer](/volunteer)!
 
 ---
 

@@ -4,6 +4,7 @@ permalink: "/volunteer/"
 layout: volunteer
 ---
 
+<span id="volunteer-referee"></span>
 ## Referee soccer!
 
 ![Referee](/uploads/volunteer-referee-float-left.jpg)
@@ -29,6 +30,7 @@ At [sites](/our-program/program-sites/) throughout DC. We will do our best to pl
 
 ---
 
+<span id="volunteer-assistant-coach"></span>
 ## Assistant coach
 
 ![Assistant coach](/uploads/volunteer-assistant-coach-float-left.jpg)
@@ -52,6 +54,7 @@ At [sites](/our-program/program-sites/) throughout DC. We will do our best to pl
 
 ---
 
+<span id="volunteer-special-events"></span>
 ## Special events
 
 ![Fall Frenzy](/uploads/volunteer-fall-frenzy-float-left-small.jpg)
@@ -94,6 +97,7 @@ Our largest fundraiser – an annual adult soccer tournament made up of local co
 
 ---
 
+<span id="volunteer-summer-camp"></span>
 ## Summer camp counselor
 
 Check back in the spring of 2018 for next year's application.
@@ -106,6 +110,7 @@ Experience working with kids is a plus.
 
 ---
 
+<span id="volunteer-other"></span>
 ## Other
 
 ### Photography/Videography

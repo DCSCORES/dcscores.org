@@ -9,10 +9,10 @@
   width: 100%;
 
   background-color: darken($americaScoresBlue, 10%);
-  background-image: url(../assets/textures/dots--grey.png);
-  background-repeat: no-repeat;
-  background-position: 50% 175%;
-  background-size: 36em;
+  //background-image: url(../assets/textures/dots--grey.png);
+  //background-repeat: no-repeat;
+  //background-position: 50% 175%;
+  //background-size: 36em;
 
   //border-top: 0.175em solid $americaScoresCoolGrey;
 
@@ -119,43 +119,14 @@
         }
       }
 
-      .Footer-mainSecondaryButton {
-        display: block;
+      .Footer-mainSecondaryActions {
+        position: relative;
+        @include flexbox();
+        @include justify-content(space-between);
 
         margin-top: 2em;
 
-        padding-top: 0.85em;
-        padding-bottom: 0.85em;
-        padding-right: 1em;
-        padding-left: 1em;
-
         width: 100%;
-
-        font-size: 1.115rem;
-        font-weight: 700;
-        line-height: 1;
-        letter-spacing: -0.025em;
-        text-decoration: none;
-        text-align: center;
-        color: white;
-
-        cursor: pointer;
-
-        background-color: $americaScoresRed;
-        border: 3px solid transparent;
-        border-radius: 4px;
-
-        transition: all 0.25s ease;
-
-        &:hover,
-        &:focus {
-          border-color: darken($americaScoresRed, 15%);
-        }
-
-        &:hover .Footer-mainSecondaryButtonIcon svg,
-        &:focus .Footer-mainSecondaryButtonIcon svg {
-          fill: darken($americaScoresRed, 25%);
-        }
 
         @media (min-width: 64em) {
           position: absolute;
@@ -165,25 +136,94 @@
         }
       }
 
-        .Footer-mainSecondaryButtonIcon {
-          position: relative;
-          display: inline-block;
+        .Footer-mainSecondaryActionsVolunteer {
+          display: block;
 
-          left: -0.25em;
-          bottom: -0.0625em;
+          padding-top: 0.85em;
+          padding-bottom: 0.85em;
+          padding-right: 1em;
+          padding-left: 1em;
 
-          width: 1.25em;
-          height: 1em;
+          width: 48%;
 
-          vertical-align: bottom;
+          font-size: 1.115rem;
+          font-weight: 700;
+          line-height: 1;
+          letter-spacing: -0.025em;
+          text-decoration: none;
+          text-align: center;
+          color: white;
 
-          svg {
-            width: 100%;
-            height: 100%;
+          cursor: pointer;
 
-            fill: darken($americaScoresRed, 15%);
+          background-color: transparent;
+          border: 3px solid lighten($americaScoresBlue, 15%);
+          border-radius: 4px;
+
+          transition: all 0.25s ease;
+
+          &:hover,
+          &:focus {
+            background-color: lighten($americaScoresBlue, 15%);
           }
         }
+
+        .Footer-mainSecondaryActionsDonate {
+          display: block;
+
+          padding-top: 0.85em;
+          padding-bottom: 0.85em;
+          padding-right: 1em;
+          padding-left: 1em;
+
+          width: 48%;
+
+          font-size: 1.115rem;
+          font-weight: 700;
+          line-height: 1;
+          letter-spacing: -0.025em;
+          text-decoration: none;
+          text-align: center;
+          color: white;
+
+          cursor: pointer;
+
+          background-color: $americaScoresRed;
+          border: 3px solid transparent;
+          border-radius: 4px;
+
+          transition: all 0.25s ease;
+
+          &:hover,
+          &:focus {
+            border-color: darken($americaScoresRed, 15%);
+          }
+
+          &:hover .Footer-mainSecondaryButtonIcon svg,
+          &:focus .Footer-mainSecondaryButtonIcon svg {
+            fill: darken($americaScoresRed, 25%);
+          }
+        }
+
+          .Footer-mainSecondaryActionsDonateIcon {
+            position: relative;
+            display: inline-block;
+
+            left: -0.25em;
+            bottom: -0.0625em;
+
+            width: 1.25em;
+            height: 1em;
+
+            vertical-align: bottom;
+
+            svg {
+              width: 100%;
+              height: 100%;
+
+              fill: darken($americaScoresRed, 15%);
+            }
+          }
 
       .Footer-mainSecondaryForm {
         position: relative;
