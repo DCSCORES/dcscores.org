@@ -37,8 +37,8 @@ defaults:
   values:
     permalink: "/blog/:year/:month/:title"
     layout: post
-    image:
-    description:
+    image: 
+    description: 
 - scope:
     path: ''
     type: blog_tags
@@ -53,8 +53,8 @@ email: your-email@domain.com
 description: Write an awesome description for your new site here. You can edit this
   line in _config.yml. It will appear in your document head meta (for Google search
   results) and in your feed.xml site description.
-baseurl:
-url: "https://dcscores.org"
+baseurl: 
+url: https://dcscores.org
 enforce_ssl: dcscores.org
 markdown: kramdown
 kramdown:
