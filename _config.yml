@@ -37,8 +37,6 @@ defaults:
   values:
     permalink: "/blog/:year/:month/:title"
     layout: post
-    image:
-    description:
 - scope:
     path: ''
     type: blog_tags
