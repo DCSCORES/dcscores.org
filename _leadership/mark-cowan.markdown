@@ -1,6 +1,6 @@
 ---
 title: Mark Cowan
-position: 20
+position: 19
 from: Cowan Strategies
 link: http://www.cowanstrategies.net/mcowan
 section: board

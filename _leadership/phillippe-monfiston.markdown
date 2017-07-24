@@ -1,6 +1,6 @@
 ---
 title: Phillippe Monfiston
-position: 40
+position: 39
 from: consultant
 section: advisory
 ---

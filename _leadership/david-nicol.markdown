@@ -1,6 +1,6 @@
 ---
 title: David Nicol
-position: 42
+position: 41
 from: IBM
 section: advisory
 ---

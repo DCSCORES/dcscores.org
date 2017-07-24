@@ -1,6 +1,6 @@
 ---
 title: Katrina Owens
-position: 2
+position: 1
 role: Chief of Staff
 image: "/uploads/profile--katrina-owens.jpg"
 section: staff

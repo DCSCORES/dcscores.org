@@ -1,6 +1,6 @@
 ---
 title: Brendon DelToro
-position: 31
+position: 30
 from: iHeartMedia
 section: board interns
 ---

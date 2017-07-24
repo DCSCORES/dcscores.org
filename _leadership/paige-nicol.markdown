@@ -1,6 +1,6 @@
 ---
 title: Paige Nicol
-position: 43
+position: 42
 from: student, Georgetown University
 section: advisory
 ---
