@@ -82,7 +82,7 @@
           font-weight: 600;
           line-height: 1;
           letter-spacing: -0.0175em;
-          color: lighten($americaScoresBlue, 5%);
+          color: lighten($americaScoresBlue, 10%);
 
           @media (min-width: 38em) {
             font-size: 1rem;
@@ -213,7 +213,7 @@
       clear: left;
 
       margin-right: 1.25em;
-      margin-left: -2em;
+      //margin-left: -2em;
 
       max-width: 280px;
       height: auto;
@@ -228,7 +228,7 @@
       clear: left;
 
       margin-right: 1.25em;
-      margin-left: -2em;
+      //margin-left: -2em;
 
       max-width: 260px;
       height: auto;
@@ -242,7 +242,7 @@
       float: right;
       clear: right;
 
-      margin-right: -2em;
+      //margin-right: -2em;
       margin-left: 1.25em;
 
       max-width: 280px;
@@ -432,6 +432,15 @@
         transform: translateY(-2px);
       }
 
+      &:hover::before {
+        background-image:
+          linear-gradient(
+            to top,
+            rgba(0, 0, 0, 0.7),
+            rgba(0, 0, 0, 0.1) 80%
+        );
+      }
+
       &::before {
         content: "";
         position: absolute;
@@ -443,8 +452,8 @@
         background-image:
           linear-gradient(
             to top,
-            rgba(0, 0, 0, 0.9),
-            rgba(0, 0, 0, 0.1) 60%
+            rgba(0, 0, 0, 0.8),
+            rgba(0, 0, 0, 0.2) 80%
         );
         border-radius: 3px;
         z-index: 99;

@@ -1,5 +1,5 @@
 ---
-title: Press beta page
+title: Press
 permalink: "/impact/press/"
 layout: press
 ---

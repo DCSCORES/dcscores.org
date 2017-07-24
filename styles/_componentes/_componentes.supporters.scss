@@ -16,12 +16,10 @@
 }
 
   .Supporters-header {
-    display: -webkit-box;
-    display: -ms-flexbox;
-    display: flex;
-
-    align-items: center;
-    justify-content: space-between;
+    @include flexbox();
+    @include justify-content(space-between);
+    @include align-items(center);
+    @include flex-direction(column);
 
     margin-top: 0;
     margin-bottom: 1em;
@@ -29,18 +27,23 @@
     margin-left: auto;
 
     max-width: 54em;
+
+    @media (min-width: 28em) {
+      @include flex-direction(row);
+    }
   }
 
     .Supporters-headerTitle {
       display: block;
 
-      font-family: "DCSCORES", sans-serif;
-      font-size: 1.75rem;
+      font-size: 1.4rem;
       line-height: 1;
       letter-spacing: -0.015em;
       color: darken($americaScoresBlue, 15%);
 
-      //border-bottom: 0.125em solid darken($americaScoresRed, 5%);
+      @media (min-width: 28em) {
+        font-size: 1.5rem;
+      }
 
       @media (min-width: 48em) {
         font-size: 2rem;
@@ -56,7 +59,7 @@
 
       white-space: nowrap;
 
-      font-size: 1rem;
+      font-size: 0.9rem;
       font-weight: 700;
       line-height: 1.15;
       letter-spacing: -0.025em;
@@ -65,6 +68,10 @@
 
       border-bottom: 0.175em solid darken($americaScoresRed, 5%);
       box-shadow: none;
+
+      @media (min-width: 28em) {
+        font-size: 1rem;
+      }
 
       @media (min-width: 58em) {
         font-size: 1.1rem;
@@ -79,13 +86,10 @@
     list-style: none;
     padding: 0;
 
-    display: -webkit-box;
-    display: -ms-flexbox;
-    display: flex;
-
-    flex-wrap: wrap;
-    justify-content: center;
-    align-items: center;
+    @include flexbox();
+    @include flex-wrap(wrap);
+    @include justify-content(center);
+    @include align-items(center);
   }
 
     .Supporters-listItem {
@@ -100,7 +104,7 @@
       .Supporters-listItemLink {
         display: block;
 
-        max-width: 5.25rem;
+        max-width: 4rem;
 
         text-decoration: none;
 
@@ -110,6 +114,10 @@
 
         &:hover {
           opacity: 1;
+        }
+
+        @media (min-width: 28em) {
+          max-width: 5.25rem;
         }
 
         @media (min-width: 48em) {

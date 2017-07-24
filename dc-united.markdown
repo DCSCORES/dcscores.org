@@ -1,5 +1,5 @@
 ---
-title: DC United page beta
+title: DC United
 permalink: "/about-us/dc-united/"
 layout: dc-united
 ---

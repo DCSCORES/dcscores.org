@@ -9,7 +9,7 @@
 
   min-height: 300px;
 
-  background: darkviolet;
+  background: grey;
 
   @media (min-width: 38em) {
     min-height: 360px;
@@ -56,7 +56,7 @@
       background-size: cover;
       background-color: lighten(black, 25%);
 
-      border-right: 3px solid lighten($americaScoresCoolGrey, 15%);
+      border-right: 2px solid #f2f2f2;
     }
 
     .Event-momentSecondary {
@@ -97,7 +97,7 @@
         background-size: cover;
         background-color: lighten(black, 45%);
 
-        border-top: 3px solid lighten($americaScoresCoolGrey, 15%);
+        border-top: 2px solid #f2f2f2;
       }
 
   .Event-callout {
@@ -108,10 +108,10 @@
     padding-right: 1.5em;
     padding-left: 1.5em;
 
-    background-image: url(../assets/textures/corners--grey.png);
-    background-repeat: no-repeat;
-    background-position: 145% 5%;
-    background-size: 32rem;
+    //background-image: url(../assets/textures/corners--grey.png);
+    //background-repeat: no-repeat;
+    //background-position: 145% 5%;
+    //background-size: 32rem;
     background-color: #fec737;
 
     @media (min-width: 48em) {

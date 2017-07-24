@@ -92,18 +92,18 @@
 
 
 .TheHomePress {
-  padding-top: 2em;
+  padding-top: 4em;
   padding-bottom: 2em;
 
   padding-right: 1em;
   padding-left: 1em;
 
   //background-color: lighten($americaScoresCoolGrey, 15%);
-  background-image: url(../assets/textures/dots--grey.png);
-  background-repeat: no-repeat;
-  background-position: 25% 50%;
+  //background-image: url(../assets/textures/dots--grey.png);
+  //background-repeat: no-repeat;
+  //background-position: 25% 50%;
   background-color: lighten($americaScoresBlue, 5%);
-  background-size: 34rem;
+  //background-size: 34rem;
 
   @media (min-width: 48em) {
     padding-bottom: 2em;
@@ -111,9 +111,10 @@
 }
 
   .TheHomePress-header {
-    display: flex;
-    justify-content: space-between;
-    align-items: center;
+    @include flexbox();
+    @include justify-content(space-between);
+    @include align-items(center);
+    @include flex-direction(column);
 
     margin-top: 0;
     margin-bottom: 2em;
@@ -121,6 +122,10 @@
     margin-left: auto;
 
     max-width: 54em;
+
+    @media (min-width: 28em) {
+      @include flex-direction(row);
+    }
   }
 
     .TheHomePress-headerTitle {
@@ -128,11 +133,14 @@
 
       margin: 0;
 
-      font-size: 1.5rem;
+      font-size: 1.4rem;
       line-height: 1;
       letter-spacing: -0.015em;
-      //color: darken($americaScoresBlue, 15%);
       color: lighten($americaScoresBlue, 75%);
+
+      @media (min-width: 28em) {
+        font-size: 1.5rem;
+      }
 
       @media (min-width: 48em) {
         font-size: 1.8rem;
@@ -148,19 +156,17 @@
 
       white-space: nowrap;
 
-      font-size: 1rem;
+      font-size: 0.9rem;
       font-weight: 700;
       line-height: 1.15;
       letter-spacing: -0.025em;
       text-decoration: none;
-      //color: darken($americaScoresBlue, 5%);
       color: lighten($americaScoresBlue, 75%);
 
-      //border-bottom: 0.175em solid darken($americaScoresYellow, 5%);
       border-bottom: 0.15em solid lighten($americaScoresBlue, 65%);
       box-shadow: none;
 
-      @media (min-width: 58em) {
+      @media (min-width: 28em) {
         font-size: 1rem;
       }
 
@@ -182,65 +188,54 @@
   }
 
     .TheHomePress-pressList {
-      list-style: none;
-      margin: 0;
-      padding: 0;
-
-      display: flex;
-      flex-wrap: wrap;
-      justify-content: space-between;
-      align-items: flex-start;
+      @include flexbox();
+      @include flex-wrap(wrap);
+      @include justify-content(space-between);
+      @include align-items(flex-start);
     }
 
       .TheHomePress-pressListItem {
         display: block;
 
-        margin-top: 0;
-        margin-bottom: 0;
+        flex: 1 12em;
+        margin: 2%;
 
-        padding-top: 0.5em;
-        padding-bottom: 0.5em;
-        padding-right: 0.5em;
-        padding-left: 0.5em;
+        padding-top: 0.6em;
+        padding-bottom: 0.6em;
+        padding-right: 0.6em;
+        padding-left: 0.6em;
 
-        width: 100%;
-
-        background-color: lighten($americaScoresCoolGrey, 20%);
-        //border-left: 0.3em solid lighten($americaScoresYellow, 0%);
+        background-color: #fff;
         border-radius: 3px;
+        transition: all 0.125s ease;
 
-        &::after {
-          content: "";
-          display: none;
-
-          width: 2.25em;
-          height: 0.15em;
-
-          background-color: goldenrod;
+        &:hover,
+        &:focus {
+          transform: translateY(-2px);
         }
 
-        &:not(:last-child) {
-
-          @media (min-width: 48em) {
-            margin-right: 1%;
-          }
-
-        }
-
-        @media (min-width: 38em) {
-          width: 48%;
+        &:hover .TheHomePress-pressListItemTitle,
+        &:focus .TheHomePress-pressListItemTitle {
+          color: lighten($americaScoresBlue, 15%);
         }
 
         @media (min-width: 48em) {
-          width: 24%;
+          margin: 1%;
+
+          padding-top: 0.8em;
+          padding-bottom: 0.8em;
+          padding-right: 0.8em;
+          padding-left: 0.8em;
         }
       }
 
-        .TheHomePress-pressListItemLink {
-          display: block;
+        .TheHomePress-pressListItemTitle {
+          margin-top: 0;
+          margin-bottom: 0;
 
-          font-size: 0.9rem;
+          font-size: 1rem;
           line-height: 1.25;
+          color: darken($americaScoresBlue, 15%);
         }
 
         .TheHomePress-pressListItemSource {
@@ -248,7 +243,7 @@
 
           margin-top: 1em;
 
-          font-size: 0.8rem;
+          font-size: 0.7rem;
           font-weight: 600;
           line-height: 1;
           text-align: right;
@@ -261,7 +256,7 @@
           }
 
           @media (min-width: 48em) {
-            font-size: 0.8rem;
+            font-size: 0.7rem;
           }
         }
 

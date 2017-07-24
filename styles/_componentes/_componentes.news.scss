@@ -2,28 +2,35 @@
   position: relative;
   display: block;
 
-  padding-top: 10em;
-  padding-bottom: 4em;
+  padding-top: 4em;
+  padding-bottom: 1em;
 
-  background-color: lighten($americaScoresCoolGrey, 15%);
+  background-color: #f2f2f2;
 
   @media (min-width: 38em) {
+    padding-top: 6em;
+    padding-bottom: 4em;
     padding-right: 1em;
     padding-left: 1em;
   }
 }
 
   .News-header {
-    display: flex;
-    justify-content: space-between;
-    align-items: center;
+    @include flexbox();
+    @include justify-content(space-between);
+    @include align-items(center);
+    @include flex-direction(column);
 
     margin-top: 0;
-    margin-bottom: 1em;
+    margin-bottom: 2em;
     margin-right: auto;
     margin-left: auto;
 
     max-width: 54em;
+
+    @media (min-width: 28em) {
+      @include flex-direction(row);
+    }
 
     @media (max-width: 38em) {
       padding-right: 1em;
@@ -37,10 +44,14 @@
       margin: 0;
 
       font-family: "DCSCORES", sans-serif;
-      font-size: 1.75rem;
+      font-size: 1.4rem;
       line-height: 1;
       letter-spacing: -0.015em;
       color: darken($americaScoresBlue, 15%);
+
+      @media (min-width: 28em) {
+        font-size: 1.5rem;
+      }
 
       @media (min-width: 48em) {
         font-size: 2rem;
@@ -56,7 +67,7 @@
 
       white-space: nowrap;
 
-      font-size: 1rem;
+      font-size: 0.9rem;
       font-weight: 700;
       line-height: 1.15;
       letter-spacing: -0.025em;
@@ -65,6 +76,10 @@
 
       border-bottom: 0.175em solid darken($americaScoresYellow, 5%);
       box-shadow: none;
+
+      @media (min-width: 28em) {
+        font-size: 1rem;
+      }
 
       @media (min-width: 58em) {
         font-size: 1.1rem;
@@ -99,7 +114,7 @@
         background-image:
           linear-gradient( to right,
             rgba(229, 230, 231, 0),
-            rgba(229, 230, 231, 1)
+            #f2f2f2
         );
       }
 
@@ -206,13 +221,18 @@
       margin: 0 2vw;
       padding: 0;
 
-      width: 0.75em;
-      height: 0.75em;
+      width: 0.6em;
+      height: 0.6em;
 
       cursor: pointer;
 
       background-color: darken($americaScoresCoolGrey, 0%);
       border-radius: 100%;
+
+      @media (min-width: 28em) {
+        width: 0.75em;
+        height: 0.75em;
+      }
     }
 
     .News .slick-dots li.slick-active {
@@ -299,13 +319,22 @@
       .News-storyContentHeadline {
         display: block;
 
-        margin-bottom: 0.5em;
+        margin-bottom: 0.4em;
 
-        font-size: 1.15rem;
+        font-size: 1rem;
         font-weight: 400;
-        line-height: 1.25;
+        line-height: 1.2;
         letter-spacing: -0.015em;
-        color: lighten($americaScoresBlue, 5%);
+
+        color: darken($americaScoresBlue, 15%);
+
+        @media (min-width: 28em) {
+          font-size: 1.1rem;
+        }
+
+        @media (min-width: 38em) {
+          font-size: 1.2rem;
+        }
       }
 
         .News-storyContentHeadlineLink {
@@ -315,7 +344,7 @@
           color: inherit;
 
           box-shadow: none;
-          transition: color 0.15s ease;
+          transition: color 0.125s ease;
 
           &:hover,
           &:focus {
@@ -324,8 +353,15 @@
         }
 
       .News-storyContentBlurb {
-        font-size: 0.875rem;
+        margin-top: 0;
+        margin-bottom: 0;
+
+        font-size: 0.7rem;
         line-height: 1.45;
+
+        @media (min-width: 28em) {
+          font-size: 0.8rem;
+        }
       }
 
     .News-storyFooter {
@@ -361,6 +397,10 @@
 
         border-bottom: 3px solid lighten($americaScoresCoolGrey, 15%);
         box-shadow: none;
+
+        @media (max-width: 38em) {
+          display: none;
+        }
       }
 
 

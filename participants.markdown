@@ -1,5 +1,5 @@
 ---
-title: Participants page beta
+title: Participants
 permalink: "/our-program/participants/"
 soccerSchedule:
 - |-

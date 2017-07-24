@@ -1,5 +1,5 @@
 ---
-title: Careers and internships beta page
+title: Careers and internships
 permalink: "/about-us/careers-and-internships/"
 layout: careers-and-internships
 ---

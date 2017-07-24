@@ -1,5 +1,5 @@
 ---
-title: Program Sites page beta
+title: Program Sites
 permalink: "/our-program/program-sites/"
 programSites:
 - |-

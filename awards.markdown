@@ -1,5 +1,5 @@
 ---
-title: Awards beta page
+title: Awards
 permalink: "/impact/awards/"
 layout: awards
 ---

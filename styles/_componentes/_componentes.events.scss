@@ -5,7 +5,7 @@
   padding-right: 1em;
   padding-left: 1em;
 
-  background-color: lighten($americaScoresCoolGrey, 15%);
+  background-color: #f2f2f2;
 
   @media (min-width: 38em) {
     padding-top: 2em;
@@ -19,16 +19,21 @@
 
 
   .Events-header {
-    display: flex;
-    justify-content: space-between;
-    align-items: center;
+    @include flexbox();
+    @include justify-content(space-between);
+    @include align-items(center);
+    @include flex-direction(column);
 
     margin-top: 0;
-    margin-bottom: 1em;
+    margin-bottom: 1.5em;
     margin-right: auto;
     margin-left: auto;
 
     max-width: 54em;
+
+    @media (min-width: 28em) {
+      @include flex-direction(row);
+    }
 
     @media (min-width: 38em) {
       margin-bottom: 1.75em;
@@ -38,11 +43,14 @@
     .Events-headerTitle {
       display: block;
 
-      font-family: "DCSCORES", sans-serif;
-      font-size: 1.5rem;
+      font-size: 1.4rem;
       line-height: 1;
       letter-spacing: -0.015em;
       color: darken($americaScoresBlue, 15%);
+
+      @media (min-width: 28em) {
+        font-size: 1.5rem;
+      }
 
       @media (min-width: 48em) {
         font-size: 1.8rem;
@@ -214,7 +222,7 @@
 
           padding: 0.45em;
 
-          font-size: 0.8rem;
+          font-size: 0.7rem;
           font-weight: 600;
           line-height: 1;
           letter-spacing: -0.0145em;
@@ -224,12 +232,21 @@
           border: 2px solid lighten($americaScoresCoolGrey, 5%);
           border-radius: 3px;
 
+          @media (min-width: 28em) {
+            font-size: 0.8rem;
+          }
+
           @media (min-width: 38em) {
+            top: -1.4em;
             right: 1em;
 
             padding: 0.5em;
 
             font-size: 0.9rem;
+          }
+
+          @media (min-width: 54em) {
+            top: -1em;
           }
         }
 

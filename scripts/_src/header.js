@@ -24,7 +24,7 @@ function toggleNavMenu() {
 
 		if ($(window).width() < 768 ) {
 		$('body').css('position','relative');
-		$('body').css('overflow','auto');
+		$('body').css('overflow','hidden');
 		} else {
 			$('body').css('position','relative');
 			$('body').css('overflow','hidden');

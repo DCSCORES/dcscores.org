@@ -1,5 +1,5 @@
 ---
-title: Events page beta
+title: Events
 permalink: "/events/"
 layout: events
 ---

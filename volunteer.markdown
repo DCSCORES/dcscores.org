@@ -52,6 +52,8 @@ The fall season runs from September 5-November 22.
 **Where?**  
 At [sites](/our-program/program-sites/) throughout DC. We will do our best to place you based on your location and mode of transportation.
 
+Interested? Email Sean Hinkle at [shinkle@dcscores.org](mailto:shinkle@dcscores.org)
+
 ---
 
 <span id="volunteer-special-events"></span>
@@ -99,6 +101,8 @@ Our largest fundraiser – an annual adult soccer tournament made up of local co
 
 <span id="volunteer-summer-camp"></span>
 ## Summer camp counselor
+
+![Summer camp](/uploads/volunteer-summer-camp-float-left.jpg)
 
 Check back in the spring of 2018 for next year's application.
 

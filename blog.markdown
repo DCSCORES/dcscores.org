@@ -1,5 +1,5 @@
 ---
-title: Blog page beta
+title: Blog
 permalink: "/blog/"
 layout: blog
 ---

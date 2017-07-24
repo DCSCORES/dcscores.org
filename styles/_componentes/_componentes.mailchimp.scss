@@ -8,7 +8,14 @@
 }
 
   .MailChimp-content {
+    padding-right: 1.5em;
+    padding-left: 1.5em;
     text-align: center;
+
+    @media (min-width: 28em) {
+      padding-right: 2em;
+      padding-left: 2em;
+    }
   }
 
     .MailChimp-contentTitle {
@@ -31,6 +38,19 @@
 
   .MailChimp-action {
     margin-top: 2em;
+    margin-bottom: 0;
+    margin-right: auto;
+    margin-left: auto;
+
+    padding-right: 1em;
+    padding-left: 1em;
+
+    max-width: 38em;
+
+    @media (min-width: 28em) {
+      padding-right: 2em;
+      padding-left: 2em;
+    }
   }
 
     .MailChimp-actionForm {
@@ -70,6 +90,10 @@
         border-radius: 3px;
 
         transition: all 0.25s ease;
+
+        &:focus {
+          border-color: #fec737;
+        }
       }
 
       .MailChimp-actionFormIcon {
@@ -111,13 +135,17 @@
         font-size: 1rem;
         font-weight: 700;
         line-height: 1;
-        color: white;
+        color: darken(#fec737, 55%);
 
-        background-color: green;
-        border: 0.15em solid darkgreen;
+        background-color: #fec737;
+        border: 0.15em solid darken(#fec737, 15%);
         border-radius: 3px;
 
         transition: all 0.25s ease;
+
+        &:focus {
+          outline: 1px dotted darken(#fec737, 55%);
+        }
 
         @media (max-width: 38em) {
           margin-top: 0.5em;

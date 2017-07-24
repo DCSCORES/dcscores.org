@@ -2,19 +2,13 @@
   position: relative;
   display: block;
 
-  padding-top: 4em;
+  padding-top: 2em;
   padding-right: 1em;
   padding-left: 1em;
 
   width: 100%;
 
   background-color: darken($americaScoresBlue, 10%);
-  //background-image: url(../assets/textures/dots--grey.png);
-  //background-repeat: no-repeat;
-  //background-position: 50% 175%;
-  //background-size: 36em;
-
-  //border-top: 0.175em solid $americaScoresCoolGrey;
 
   &::before {
     content: "";
@@ -46,10 +40,8 @@
     }
   }
 
-  @media (min-width: 58em) {
-    padding-top: 6em;
-
-    //border-top: 0.225em solid $americaScoresCoolGrey;
+  @media (min-width: 64em) {
+    padding-top: 4em;
   }
 }
 
@@ -79,13 +71,12 @@
       .Footer-mainPrimaryTitle {
         display: block;
 
-        font-family: "DCSCORES", sans-serif;
         font-size: 1.25rem;
         line-height: 1;
         color: white;
 
         @media (min-width: 58em) {
-          font-size: 1.425rem;
+          font-size: 1.4rem;
         }
 
         @media (max-width: 64em) {
@@ -109,13 +100,12 @@
 
         margin-bottom: 1em;
 
-        font-family: "DCSCORES", sans-serif;
-        font-size: 1rem;
+        font-size: 1.1rem;
         line-height: 1;
         color: white;
 
-        @media (min-width: 58em) {
-          font-size: 1.15rem;
+        @media (min-width: 28em) {
+          font-size: 1.2rem;
         }
       }
 
@@ -258,7 +248,7 @@
           color: #767676;
 
           background-color: white;
-          border: 0.15em solid darken($americaScoresYellow, 5%);
+          border: 0.15em solid #fec737;
           border-radius: 3px;
 
           transition: all 0.25s ease;
@@ -276,7 +266,7 @@
 
           overflow: hidden;
 
-          fill: darken($americaScoresYellow, 15%);
+          fill: darken(#fec737, 15%);
 
           @media (max-width: 38em) {
             height: 47.5%;
@@ -303,10 +293,10 @@
           font-size: 1rem;
           font-weight: 700;
           line-height: 1;
-          color: darken($americaScoresYellow, 45%);
+          color: darken(#fec737, 55%);
 
-          background-color: $americaScoresYellow;
-          border: 0.15em solid darken($americaScoresYellow, 15%);
+          background-color: #fec737;
+          border: 0.15em solid darken(#fec737, 15%);
           border-radius: 3px;
 
           transition: all 0.25s ease;
@@ -520,7 +510,8 @@
     position: relative;
 
     @include flexbox;
-    @include justify-content(space-between);
+    @include align-items(flex-start);
+    @include flex-direction(column);
 
     margin-top: 4em!important;
     margin-right: auto;
@@ -533,6 +524,12 @@
     max-width: 64em;
 
     border-top: 2px solid darken($americaScoresBlue, 15%);
+
+    @media (min-width: 42em) {
+      @include align-items(flex-end);
+      @include justify-content(space-between);
+      @include flex-direction(row);
+    }
   }
 
     .Footer-auxiliaryColumn {}
@@ -580,9 +577,6 @@
       .Footer-auxiliaryColumnLink {
         display: block;
 
-        // for the flex
-        margin-top: auto;
-
         font-size: 0.7rem;
         font-weight: 600;
         color: white;
@@ -594,11 +588,20 @@
         &:focus {
           transform: translateY(1px);
         }
+
+        @media (max-width: 42em) {
+          margin-top: 2em;
+        }
       }
 
         .Footer-auxiliaryColumnLink .Icon {
           position: relative;
-          bottom: -0.0585em;
+          display: inline-block;
+
+          // Love them icons
+          bottom: -1px;
+
+          font-size: 0.9rem;
         }
 
 

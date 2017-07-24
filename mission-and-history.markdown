@@ -1,5 +1,5 @@
 ---
-title: Mission and history beta page
+title: Mission and history
 permalink: "/about-us/mission-and-history/"
 mission:
 - |-

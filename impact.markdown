@@ -1,5 +1,5 @@
 ---
-title: Ipmact beta page
+title: Impact
 permalink: "/impact/"
 columnOne:
 - number: 83

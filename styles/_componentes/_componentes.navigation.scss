@@ -19,6 +19,10 @@
 
 .Navigation.is-opened {
   display: block!important;
+
+  > .Navigation-list {
+    overflow: auto;
+  }
 }
 
   .Navigation-list {
@@ -69,6 +73,20 @@
       }
     }
 
+    // Move volunteer action into off-canvas for mobile
+    .Navigation-listItem--volunteer {
+      display: block;
+
+      @media (min-width: 44em) {
+        display: none;
+      }
+    }
+
+    // Make it stand out a bit more
+    .Navigation-listItem--volunteer .Navigation-listItemLink {
+      background-color: lighten($americaScoresBlue, 15%);
+    }
+
     @media (min-width: 64em) {
       .Navigation-listItem:hover .Navigation-dropdown {
         opacity: 1;
@@ -85,28 +103,42 @@
       .Navigation-listItemLink {
         display: block;
 
-        padding-right: 0.5em;
-        padding-left: 0.5em;
+        padding-top: 0.5em;
+        padding-bottom: 0.5em;
+        padding-right: 4.5vw;
+        padding-left: 4.5vw;
 
-        font-size: 1.1rem;
+        width: 100%;
+
+        font-size: 1.2rem;
         font-weight: 600;
         line-height: 1;
         letter-spacing: -0.045em;
         text-decoration: none;
-        color: white;
+        color: #fff;
 
         box-shadow: none;
-        transition: all 0.25s ease;
+        transition: all 0.125s ease;
 
-        @media (max-width: 64em) {
-          padding-top: 0.5em;
-          padding-bottom: 0.5em;
-          padding-right: 4.5vw;
-          padding-left: 4.5vw;
+        @media (min-width: 28em) {
+          font-size: 1.4rem;
+        }
 
-          width: 100%;
-
+        @media (min-width: 48em) {
           font-size: 1.5rem;
+        }
+
+        @media (min-width: 64em) {
+          padding-right: 0.5em;
+          padding-left: 0.5em;
+
+          font-size: 1.1rem;
+        }
+
+        &:hover,
+        &:focus {
+          color: lighten(#fec737, 5%);
+          transform: translateY(-2px);
         }
       }
 
@@ -146,12 +178,12 @@
 
     padding-top: 1em;
     padding-bottom: 1em;
-    padding-right: 0.5em;
-    padding-left: 0.5em;
+    padding-right: 6vw;
+    padding-left: 6vw;
 
     white-space: nowrap;
 
-    background-color: orange;
+    background-color: darken($americaScoresBlue, 5%);
 
     transition: opacity 0.15s, -webkit-transform 0.15s;
     transition: transform 0.15s, opacity 0.15s;
@@ -181,6 +213,9 @@
     }
 
     @media (min-width: 64em) {
+      padding-right: 0.5em;
+      padding-left: 0.5em;
+
       background-color: white;
 
       border-bottom-right-radius: 2px;
@@ -215,17 +250,15 @@
       .Navigation-dropdownItemLink {
         display: block;
 
-        padding-top: 0.5em;
-        padding-bottom: 0.5em;
-        padding-right: 0.75em;
-        padding-left: 0.75em;
+        padding-top: 0.4em;
+        padding-bottom: 0.4em;
 
         font-size: 0.9rem;
         font-weight: 600;
         line-height: 1;
         letter-spacing: -0.025em;
         text-decoration: none;
-        color: #767676;
+        color: #fff;
 
         box-shadow: none;
 
@@ -233,11 +266,31 @@
         &:focus {
           color: darken(#767676, 25%);
         }
+
+        @media (min-width: 38em) {
+          padding-top: 0.5em;
+          padding-bottom: 0.5em;
+
+          font-size: 1rem;
+        }
+
+        @media (min-width: 64em) {
+          padding-right: 0.75em;
+          padding-left: 0.75em;
+
+          font-size: 0.9rem;
+
+          color: #767676;
+        }
       }
 
         .Navigation-dropdownItemLink .Icon {
           margin-left: 0.25em;
-          color: rgba(0, 0, 0, 0.54);
+          color: rgba(255, 255, 255, 0.54);
+
+          @media (min-width: 64em) {
+            color: rgba(0, 0, 0, 0.54);
+          }
         }
 
 

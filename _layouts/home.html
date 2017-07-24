@@ -2,7 +2,7 @@
 layout: default
 ---
 
-<div class="Carousel" data-flickity='{ "draggable": false }'>
+<div class="Carousel" data-flickity='{ "draggable": false, "autoPlay": true }'>
   {% assign sorted_carousel = site.carousel | sort:'position' %}
   {% for slide in sorted_carousel limit:4 %}
   <a href="{{ slide["Link"] }}" class="Carousel-cell" style="background-image: url({{ slide["Image"] }}); background-position: {{ slide["Image Position"] }};" target="_blank">
@@ -45,15 +45,22 @@ layout: default
     </div>
 
     <div class="MailChimp-action">
-      <form class="MailChimp-actionForm">
+      <form action="//DCSCORES.us16.list-manage.com/subscribe/post?u=3de629a86529d6fad0ad695d6&amp;id=e7f56377b5" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="MailChimp-actionForm  validate">
         <label for="" class="u-visuallyHidden">Email Address</label>
-        <input type="email" name="EMAIL" class="MailChimp-actionFormInput">
+        <input type="email" value="" name="EMAIL" id="mce-EMAIL" class="MailChimp-actionFormInput  email" placeholder="email@domain.com" required>
 
         <svg class="MailChimp-actionFormIcon" viewbox="0 0 100 68.89">
           <path d="M36.25 38.44L47.74 49.1a3.33 3.33 0 0 0 4.51 0l11.5-10.66 24.69 23.78H11.56zM93.33 11v46.6L68.68 33.85zM6.67 11l24.65 22.85L6.67 57.64zm5.1-4.37h76.46L50 42.12zM4.44 0A4.51 4.51 0 0 0 0 4.44v60a4.51 4.51 0 0 0 4.44 4.44h91.12a4.51 4.51 0 0 0 4.44-4.44v-60A4.51 4.51 0 0 0 95.56 0z">
         </svg>
 
-        <input type="submit" value="Subscribe" name="Subscribe" class="MailChimp-actionFormButton">
+        <input type="submit" value="Subscribe" name="subscribe" id="mc-embedded-subscribe" class="MailChimp-actionFormButton">
+
+        <div id="mce-responses" class="clear">
+          <div class="response" id="mce-error-response" style="display:none"></div>
+          <div class="response" id="mce-success-response" style="display:none"></div>
+        </div>    <!-- real people should not fill this in and expect good things - do not remove this or risk form bot signups-->
+
+        <div style="position: absolute; left: -5000px;" aria-hidden="true"><input type="text" name="b_3de629a86529d6fad0ad695d6_e7f56377b5" tabindex="-1" value=""></div>
       </form>
     </div>
   </div>
@@ -238,22 +245,22 @@ layout: default
   </header>
 
   <div class="TheHomePress-press">
-    <ul class="TheHomePress-pressList">
+    <div class="TheHomePress-pressList">
       {% assign sorted_press = site.press | sort:'date' | reverse %}
       {% for press in sorted_press limit:4 %}
-      <li class="TheHomePress-pressListItem">
-        <a href="{{ press.link }}" class="TheHomePress-pressListItemLink" target="_blank">{{ press.title | truncatewords: 15 }}</a>
+      <a href="{{ press.link }}" class="TheHomePress-pressListItem" target="_blank">
+        <h3 class="TheHomePress-pressListItemTitle">{{ press.title | truncatewords: 13 }}</h3>
         <strong class="TheHomePress-pressListItemSource">{{ press.source }}</strong>
-      </li>
+      </a>
       {% endfor %}
-    </ul>
+    </div>
   </div>
 
 </div>
 
 
 
-<div class="News" style="padding-top: 5em"><!-- remove padding later -->
+<div class="News">
 
   <header class="News-header">
     <h2 class="News-headerTitle">From the Blog</h2>
@@ -278,7 +285,7 @@ layout: default
         <h3 class="News-storyContentHeadline">
           <a href="{{ post.url }}" class="News-storyContentHeadlineLink">{{ post.title }}</a>
         </h3>
-        <p class="News-storyContentBlurb">{{ post.content | strip_html | truncatewords: 18 }}</p>
+        <p class="News-storyContentBlurb">{{ post.content | strip_html | truncatewords: 24 }}</p>
       </div>
 
       <!-- Story footer -->

@@ -1,5 +1,5 @@
 ---
-title: Supporters beta
+title: Supporters
 permalink: "/about-us/supporters/"
 leagueChampions:
 - City Fund

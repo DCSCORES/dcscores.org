@@ -13,8 +13,8 @@
   }
 
     .Header-snackBar {
-      display: flex;
-      justify-content: flex-end;
+      @include flexbox();
+      @include justify-content(flex-end);
 
       margin: auto;
 
@@ -52,6 +52,7 @@
           color: lighten($americaScoresBlue, 15%);
 
           box-shadow: none;
+          transition: color 0.125s ease;
 
           i {
             display: block;
@@ -91,11 +92,12 @@
       display: block;
 
       margin-top: -0.5em;
-      margin-left: 2%;
+      margin-left: 2.42857%;
 
       width: 4.45em;
-      height: 5em;
+      height: 5.25em;
 
+      font-size: 1.2em;
       cursor: pointer;
 
       background-color: white;
@@ -113,7 +115,7 @@
         position: absolute;
         display: block;
 
-        top: 0r;
+        top: 0;
         left: -0.525em;
 
         width: 0px;
@@ -122,6 +124,18 @@
         border-style: solid;
         border-width: 0 0 0.485em 0.325em;
         border-color: transparent transparent darken(white, 25%) transparent;
+      }
+
+      @media (min-width: 26em) {
+        margin-left: 2.42857%;
+        height: 5.25em;
+        font-size: 1.3em;
+      }
+
+      @media (min-width: 32em) {
+        margin-left: 2.42857%;
+        height: 5.25em;
+        font-size: 1.4em;
       }
 
       @media (min-width: 37.5em) {
@@ -172,10 +186,10 @@
 
         padding-top: 0.75em;
         padding-bottom: 0.75em;
-        padding-right: 1em;
-        padding-left: 1em;
+        padding-right: 0.8em;
+        padding-left: 0.8em;
 
-        font-size: 1.115rem;
+        font-size: 1rem;
         font-weight: 700;
         line-height: 1;
         letter-spacing: -0.045em;
@@ -200,6 +214,15 @@
         &:focus .Header-mainActionsDonateIcon svg {
           fill: darken($americaScoresRed, 25%);
         }
+
+        @media (min-width: 28em) {
+          font-size: 1.115rem;
+        }
+
+        @media (min-width: 32em) {
+          padding-right: 1em;
+          padding-left: 1em;
+        }
       }
 
         .Header-mainActionsDonateIcon {
@@ -219,6 +242,10 @@
             height: 100%;
 
             fill: darken($americaScoresRed, 15%);
+          }
+
+          @media (max-width: 34em) {
+            display: none!important;
           }
         }
 
@@ -252,12 +279,17 @@
         &:focus {
           background-color: lighten($americaScoresBlue, 15%);
         }
+
+        @media (max-width: 44em) {
+          display: none!important;
+        }
       }
 
     .Header-mainNavigationToggle {
-      display: flex;
-      justify-content: center;
-      align-items: center;
+      @include flexbox();
+      @include justify-content(center);
+      @include align-items(center);
+      @include flex-direction(column);
 
       padding-right: 1.25em;
       padding-left: 1.25em;
@@ -265,6 +297,10 @@
       background-color: lighten($americaScoresBlue, 5%);
 
       z-index: 999;
+
+      @media (min-width: 28em) {
+        @include flex-direction(row);
+      }
 
       @media (min-width: 64em) {
         display: none;
@@ -292,18 +328,26 @@
       }*/
 
       .Header-mainNavigationToggleLabel {
-        margin-top: -2px; // Magic
+        margin-top: 0.25em; // Magic
 
-        padding-left: 0.375em;
+        padding-left: 0;
 
-        font-size: 1.325rem;
+        font-size: 0.8rem;
         font-weight: 700;
         line-height: 1;
-        letter-spacing: -0.0625em;
+        letter-spacing: -0.0575em;
         color: white;
 
         vertical-align: middle;
         cursor: pointer;
+
+        @media (min-width: 28em) {
+          margin-top: -2px;
+          padding-left: 0.375em;
+
+          font-size: 1.325rem;
+          letter-spacing: -0.0625em;
+        }
       }
 
 

@@ -25,17 +25,19 @@
       </span>
     </div>
 
+    {% unless is_excerpt %}
     <div class="Article-metaSocial">
-      <a href="https://twitter.com/intent/tweet?text={{ post.title }}&url={{ site.url }}{{ page.url }}&via=dcscores" class="Article-metaSocialLink  Article-metaSocialLink--twitter">
+      <a href="https://twitter.com/intent/tweet?text={{ post.title | strip_html | truncatewords: 6 }}&url={{ site.url }}{{ post.url }}&via=dcscores" class="Article-metaSocialLink  Article-metaSocialLink--twitter" target="_blank">
         <i class="Icon  Icon-twitter"></i>
         Tweet
       </a>
 
-      <a href="https://www.facebook.com/sharer/sharer.php?u={{ site.url }}{{ page.url }}&t={{ post.title }}" class="Article-metaSocialLink  Article-metaSocialLink--facebook">
+      <a href="https://www.facebook.com/sharer/sharer.php?u={{ site.url }}{{ post.url }}&t={{ post.title }}" class="Article-metaSocialLink  Article-metaSocialLink--facebook" target="_blank">
         <i class="Icon  Icon-facebook"></i>
         Share
       </a>
     </div>
+    {% endunless %}
   </section>
 
   {% comment %}
