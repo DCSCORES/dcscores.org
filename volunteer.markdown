@@ -23,7 +23,7 @@ Refs for Friday middle school games should be more comfortable calling fouls and
 **Where?**  
 At [sites](/our-program/program-sites/) throughout DC. We will do our best to place you based on your location and mode of transportation.
 
-<a href="https://docs.google.com/a/dcscores.org/forms/d/1PqXYYjOqZE5f_nWNkdZXwzcd1qtiToLUlWFIBlF37cQ/edit" class="Article-contentButton" target="_blank">
+<a href="http://www.americascores.org/affiliates/dc/volunteer/volunteerapplication" class="Article-contentButton" target="_blank">
   <i class="Icon  Icon-document"></i>
   Sign Up
 </a>
@@ -52,7 +52,10 @@ The fall season runs from September 5-November 22.
 **Where?**  
 At [sites](/our-program/program-sites/) throughout DC. We will do our best to place you based on your location and mode of transportation.
 
-Interested? Email Sean Hinkle at [shinkle@dcscores.org](mailto:shinkle@dcscores.org)
+<a href="http://www.americascores.org/affiliates/dc/volunteer/volunteerapplication" class="Article-contentButton" target="_blank">
+  <i class="Icon  Icon-document"></i>
+  Sign Up
+</a>
 
 ---
 
@@ -97,6 +100,11 @@ Our largest fundraiser – an annual adult soccer tournament made up of local co
 
 **Date:** June 23, 2018
 
+<a href="http://www.americascores.org/affiliates/dc/volunteer/volunteerapplication" class="Article-contentButton" target="_blank">
+  <i class="Icon  Icon-document"></i>
+  Sign Up
+</a>
+
 ---
 
 <span id="volunteer-summer-camp"></span>
@@ -112,6 +120,11 @@ Apply only for weeks you are able to attend fully, Monday-Friday.
 Students applying to work full camps or multiple weeks will be given priority.
 Experience working with kids is a plus.
 
+<a href="http://www.americascores.org/affiliates/dc/volunteer/volunteerapplication" class="Article-contentButton" target="_blank">
+  <i class="Icon  Icon-document"></i>
+  Sign Up
+</a>
+
 ---
 
 <span id="volunteer-other"></span>
@@ -126,6 +139,11 @@ At your convenience. We always need help at our events, but also photos and vide
 
 **Where?**  
 At sites throughout DC. We will do our best to place you based on your location and mode of transportation.
+
+<a href="http://www.americascores.org/affiliates/dc/volunteer/volunteerapplication" class="Article-contentButton" target="_blank">
+  <i class="Icon  Icon-document"></i>
+  Sign Up
+</a>
 
 
 

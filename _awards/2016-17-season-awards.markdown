@@ -7,7 +7,7 @@ season: 2016-17
 
 - DC SCORES was selected for inclusion in the 2017-18 [Catalogue for Philanthropy](http://bit.ly/2017-18CFP) as “one of the best small charities in the Greater Washington region.”
 
-- DC SCORES was named the winner of the prestigious Center for Nonprofit Advancement [AIM for Excellence Award](http://bit.ly/AwardsDaySCORES)
+- DC SCORES was named the winner of the prestigious Center for Nonprofit Advancement [AIM for Excellence Award](/blog/2017/06/awards-day-dc-scores-wins-twice-in-one-morning)
 
 - DC SCORES coach **Chrystal Puryear** was named a [Ward 7 Woman of Excellence](http://myemail.constantcontact.com/Announcing-our-Ward-7-Women-of-Excellence---Event-SOLD-OUT-.html?soid=1102590620992&aid=AbyNzjCclK0) for her contributions including leading the Thomas Elementary School team.
 

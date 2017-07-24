@@ -33,7 +33,7 @@ programAlumni:
 
   - Apply to be a counselor at our summer camps through the DC Summer Youth Employment Program (SYEP).
 
-  View all DC SCORES volunteer opportunities [here](http://volunteerdcscores.weebly.com/).
+  View all DC SCORES volunteer opportunities [here](/volunteer).
 layout: participants
 ---
 
