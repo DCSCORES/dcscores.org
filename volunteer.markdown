@@ -21,7 +21,7 @@ Refs for Friday middle school games should be more comfortable calling fouls and
 3:45 pm to 6:00 pm, Thursdays (Elementary) & Fridays (Middle)
 
 **Where?**  
-At [sites](/our-program/program-sites/) throughout DC. We will do our best to place you based on your location and mode of transportation.
+At <a href="/our-program/program-sites/" target="_blank">sites</a> throughout DC. We will do our best to place you based on your location and mode of transportation.
 
 <a href="http://www.americascores.org/affiliates/dc/volunteer/volunteerapplication" class="Article-contentButton" target="_blank">
   <i class="Icon  Icon-document"></i>
@@ -50,7 +50,7 @@ Help a soccer coach oversee students and run structured practices to build skill
 The fall season runs from September 5-November 22.
 
 **Where?**  
-At [sites](/our-program/program-sites/) throughout DC. We will do our best to place you based on your location and mode of transportation.
+At <a href="/our-program/program-sites/" target="_blank">sites</a> throughout DC. We will do our best to place you based on your location and mode of transportation.
 
 <a href="http://www.americascores.org/affiliates/dc/volunteer/volunteerapplication" class="Article-contentButton" target="_blank">
   <i class="Icon  Icon-document"></i>
@@ -70,6 +70,11 @@ A day-long celebration of our fall season that includes soccer games and outdoor
 
 **Date:** Saturday, October 21
 
+<a href="http://www.americascores.org/affiliates/dc/volunteer/volunteerapplication" class="Article-contentButton" target="_blank">
+  <i class="Icon  Icon-document"></i>
+  Sign Up
+</a>
+
 ---
 
 ![Poetry Slam](/uploads/volunteer-poetry-slam-float-right.jpg)
@@ -80,6 +85,11 @@ This two-night, spoken-word competition features DC SCORES students performing t
 
 **Dates:** November 15 & 16
 
+<a href="http://www.americascores.org/affiliates/dc/volunteer/volunteerapplication" class="Article-contentButton" target="_blank">
+  <i class="Icon  Icon-document"></i>
+  Sign Up
+</a>
+
 ---
 
 ![Jamboree](/uploads/volunteer-jamboree-float-left-small.jpg)
@@ -89,6 +99,11 @@ This two-night, spoken-word competition features DC SCORES students performing t
 The culminating event of the DC SCORES programming year, filled with soccer games, arts and crafts, and more for DC SCORES students and their families.
 
 **Date:** Saturday, June 2, 2018
+
+<a href="http://www.americascores.org/affiliates/dc/volunteer/volunteerapplication" class="Article-contentButton" target="_blank">
+  <i class="Icon  Icon-document"></i>
+  Sign Up
+</a>
 
 ---
 

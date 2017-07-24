@@ -13,13 +13,13 @@ forFamilies:
 
   DC SCORES is free to all participants. Register your child/children for the next DC SCORES programming season (we’re year-round).
 
-  Work at a school interested in having DC SCORES? Print out the [application form](/uploads/dc-scores-new-school-application-2017.pdf).
+  Work at a school interested in having DC SCORES? Print out the <a href="/uploads/dc-scores-new-school-application-2017.pdf" target="_blank">application form</a>.
 programAlumni:
 - |-
   ### Program Alumni
 
   #### Reconnect!
-  Are you a DC SCORES alumnus interested in getting involved with DC SCORES? It’s easy to do! Simply email [alumni@dcscores.org](mailto:alumni@dcscores.org). You can also connect on social media by following [@DCSalumni](https://www.instagram.com/DCSalumni/) on Instagram and @dcscores on Snapchat.
+  Are you a DC SCORES alumnus interested in getting involved with DC SCORES? It’s easy to do! Simply email <a href="mailto:alumni@dcscores.org" target="_blank">alumni@dcscores.org</a>. You can also connect on social media by following <a href="https://www.instagram.com/DCSalumni/" target="_blank">@DCSalumni</a> on Instagram and @dcscores on Snapchat.
 
   #### Alumni Stories
   There are hundreds of incredible DC SCORES alumni stories, and we’ve been lucky to document just a few of them on our [blog](/blog).

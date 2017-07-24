@@ -7,7 +7,7 @@ season: 2011-12
 
 - Executive Director **Amy Nakamoto** was a featured panelist and speaker at the May 31, 2012, Aspen Institute Forum Title IX and Beyond: How to Get the Rest of Our Girls Into the Game.
 
-- Volunteer and Soccer Manager [Sean Hinkle](/about-us/leadership/sean-hinkle) was accepted into the “Princeton AlumniCorps Emerging Leaders” professional development program.
+- Volunteer and Soccer Manager <a href="/about-us/leadership/sean-hinkle" target="_blank">Sean Hinkle</a> was accepted into the “Princeton AlumniCorps Emerging Leaders” professional development program.
 
 - Athletic Director **Kenny Owens** received a 2012 President’s Council on Fitness, Sports and Nutrition (PCFSN) Community Leadership Award. He was selected by members of the President’s Council.
 

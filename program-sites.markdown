@@ -5,7 +5,7 @@ programSites:
 - |-
   DC SCORES enrolls 2,200 students between the ages of eight and 15. Our program engages approximately 30 students each day at 55 schools and recreation center-based sites in all eight of the District of Columbia’s wards.
 
-  Click on the interactive map below to see all our sites and click [here](/uploads/spring-programs-list.pdf) to download our most recent sites list. Fall 2017 list coming soon!
+  Click on the interactive map below to see all our sites and click <a href="/uploads/spring-programs-list.pdf" target="_blank">here</a> to download our most recent sites list. Fall 2017 list coming soon!
 layout: program-sites
 ---
 
