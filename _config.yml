@@ -32,27 +32,30 @@ collections:
     output: true
 defaults:
 - scope:
-    path: ""
-    type: "posts"
+    path: ''
+    type: posts
   values:
     permalink: "/blog/:year/:month/:title"
-    layout: "post"
+    layout: post
 - scope:
-    path: ""
-    type: "blog_tags"
+    path: ''
+    type: blog_tags
   values:
-    layout: "tag"
+    layout: tag
 - scope:
-    path: ""
-    type: "leadership"
+    path: ''
+    type: leadership
   values:
-    layout: "profile"
-    section: ["staff", "board", "advisory"]
+    layout: profile
+    section:
+    - staff
+    - board
+    - advisory
 email: your-email@domain.com
 description: Write an awesome description for your new site here. You can edit this
   line in _config.yml. It will appear in your document head meta (for Google search
   results) and in your feed.xml site description.
-baseurl:
+baseurl: 
 url: http://dcscores.org
 markdown: kramdown
 kramdown:
