@@ -32,19 +32,19 @@ collections:
     output: true
 defaults:
 - scope:
-    path: ""
-    type: "posts"
+    path: ''
+    type: posts
   values:
     permalink: "/blog/:year/:month/:title"
-    layout: "post"
+    layout: post
 - scope:
-    path: ""
-    type: "blog_tags"
+    path: ''
+    type: blog_tags
   values:
-    layout: "tag"
+    layout: tag
 - scope:
-    path: ""
-    type: "leadership"
+    path: ''
+    type: leadership
   values:
     layout: "profile"
     Role: ""
