@@ -1,9 +1,9 @@
 ---
 title: Kelly Dragelin
 position: 14
-role: Assistant Treasurer
-from: AlixPartners LLP
-link: https://www.alixpartners.com/our-professionals/kelly-dragelin/
-section: board
+Role: Assistant Treasurer
+From: AlixPartners LLP
+Link: https://www.alixpartners.com/our-professionals/kelly-dragelin/
+Section: board
 ---
 

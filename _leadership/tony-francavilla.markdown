@@ -1,9 +1,9 @@
 ---
 title: Tony Francavilla
 position: 2
-role: Director of Individual Gifts & Corporate Partnerships
-image: "/uploads/profile--tony-francavilla.jpg"
-section: staff
+Role: Director of Individual Gifts & Corporate Partnerships
+Profile Image: "/uploads/profile--tony-francavilla.jpg"
+Section: staff
 ---
 
 Tony comes to DC SCORES with over seven years of experience fundraising for youth-serving nonprofits in DC. Most recently, he was the major gifts officer at The SEED Foundation, a network of public boarding schools.

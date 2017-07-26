@@ -1,8 +1,8 @@
 ---
 title: Howard L. McMillan, III
 position: 24
-from: Wells Fargo Advisors
-link: https://home.wellsfargoadvisors.com/howard.mcmillan
-section: board
+From: Wells Fargo Advisors
+Link: https://home.wellsfargoadvisors.com/howard.mcmillan
+Section: board
 ---
 

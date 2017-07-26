@@ -1,8 +1,8 @@
 ---
 title: Devin Talbott
 position: 28
-from: Enlightenment Capital
-link: http://enlightenment-cap.com/people.php
-section: board
+From: Enlightenment Capital
+Link: http://enlightenment-cap.com/people.php
+Section: board
 ---
 

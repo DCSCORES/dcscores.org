@@ -1,8 +1,8 @@
 ---
 title: Victor Melara
 position: 25
-from: D.C. United
-link: https://www.linkedin.com/in/victor-melara-9907a738/
-section: board
+From: D.C. United
+Link: https://www.linkedin.com/in/victor-melara-9907a738/
+Section: board
 ---
 

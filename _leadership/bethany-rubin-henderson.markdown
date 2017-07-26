@@ -1,9 +1,9 @@
 ---
 title: Bethany Rubin Henderson
 position: 0
-role: Executive Director
-image: "/uploads/profile--bethany-rubin-henderson.jpg"
-section: staff
+Role: Executive Director
+Profile Image: "/uploads/profile--bethany-rubin-henderson.jpg"
+Section: staff
 ---
 
 Bethany, a nationally recognized social entrepreneur; Echoing Green Fellow; and recent White House Fellow, became DC SCORES Executive Director in 2014. Bethany’s career has spanned the social, for-profit, and government sectors. While in the White House, Bethany coordinated the 2013 Youth Jobs+ initiative and participated in developing My Brother’s Keeper, a public-private partnership focused on helping boys and young men of color get and stay on track cradle to career. In 2008, Bethany founded City Hall Fellows, an award-winning, nonpartisan, post-college local government service corps, raising more than $4M to launch and build the organization during the recession. City Hall Fellows uses service-learning principles to prepare young people to take active civic leadership roles in their own hometowns.

@@ -26,13 +26,13 @@ layout: default
     <div class="Grid__d2-d6  Grid__d-newline  Grid__m1-m6">
 
       <div class="Leadership">
-        {% assign sorted_leadership = site.leadership | sort:'position' | where:"section","staff" %}
+        {% assign sorted_leadership = site.leadership | sort:'position' | where:"Section","staff" %}
         {% for person in sorted_leadership %}
         <div class="Leadership-cell">
           <h3 class="Leadership-cellName">
             <a href="{{ person.url }}" class="Leadership-cellNameLink">{{ person.title }}</a>
           </h3>
-          <h4 class="Leadership-cellRole">{{ person.role }}</h4>
+          <h4 class="Leadership-cellRole">{{ person["Role"] }}</h4>
         </div>
         {% endfor %}
       </div>
@@ -46,15 +46,15 @@ layout: default
     <div class="Grid__d2-d6  Grid__d-newline  Grid__m1-m6">
 
       <div class="Leadership">
-        {% assign sorted_leadership = site.leadership | sort:'position' | where:"section","board" %}
+        {% assign sorted_leadership = site.leadership | sort:'position' | where:"Section","board" %}
         {% for person in sorted_leadership %}
         <div class="Leadership-cell">
           <h3 class="Leadership-cellName">
-            {% if person.link %}<a href="{{ person.link }}" class="Leadership-cellNameLink" target="_blank">{{ person.title }}</a>
+            {% if person["Link"] %}<a href="{{ person["Link"] }}" class="Leadership-cellNameLink" target="_blank">{{ person.title }}</a>
             {% else %}{{ person.title }}
             {% endif %}
           </h3>
-          <h4 class="Leadership-cellRole">{% if person.role %}{{ person.role }}, {% endif %}   {% if person.from %}{{ person.from }}{% endif %}</h4>
+          <h4 class="Leadership-cellRole">{% if person["Role"] %}{{ person["Role"] }}, {% endif %}   {% if person["From"] %}{{ person["From"] }}{% endif %}</h4>
         </div>
         {% endfor %}
       </div>
@@ -71,11 +71,11 @@ layout: default
 
     <div class="Grid__d2-d6  Grid__d-newline  Grid__m1-m6">
       <div class="Leadership">
-        {% assign sorted_leadership = site.leadership | sort:'position' | where:"section","advisory" %}
+        {% assign sorted_leadership = site.leadership | sort:'position' | where:"Section","advisory" %}
         {% for person in sorted_leadership %}
         <div class="Leadership-cell">
           <h3 class="Leadership-cellName">{{ person.title }}</h3>
-          <h4 class="Leadership-cellRole">{% if person.role %}{{ person.role }}, {% endif %}   {% if person.from %}{{ person.from }}{% endif %}</h4>
+          <h4 class="Leadership-cellRole">{% if person["Role"] %}{{ person["Role"] }}, {% endif %}   {% if person["From"] %}{{ person["From"] }}{% endif %}</h4>
         </div>
         {% endfor %}
       </div>
