@@ -17,4 +17,4 @@ In June, the Center [chose DC SCORES](https://www.dcscores.org/blog/2017/06/awar
 
 ![IMG_9525.JPG](/uploads/IMG_9525.JPG)
 
-For a full list of DC SCORES' awards through recent years, visit the [awards page](https://www.dcscores.org/impact/awards/) of our new website. 
+For a full list of DC SCORES' awards through recent years, visit the [awards page](https://www.dcscores.org/impact/awards/) of our new website.
