@@ -2,6 +2,7 @@
 title: Gatorade Player of Year donates winnings to DC SCORES
 date: 2017-07-27 01:52:00 Z
 Author: Jake Lloyd
+Thumbnail Image: "/uploads/claire1.jpg"
 ---
 
 ![claire1.jpg](/uploads/claire1.jpg)
@@ -11,6 +12,7 @@ Inspired by her father, Claire Constant grew up wanting to help others. Thanks t
 After being named the 2016-17 Gatorade Virginia Girls Soccer Player of the Year, Constant learned of DC SCORES and chose to designate the organization for the $1,000 award — an amount that provides a full year of programming for an at-risk child in the District.
 
 "I had heard reference of DC SCORES and then when I saw the website and the impact you have on DC children's lives, I was excited to support the organization," Constant said.
+
 
 Her coach Cindi Harkes, the wife of longtime DC SCORES and America SCORES supporter John Harkes, validated that she was making a great decision.
 
