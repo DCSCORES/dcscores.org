@@ -1,13 +1,15 @@
 ---
-title: Awards day - DC SCORES wins twice in one morning
+title: Awards day - DC SCORES wins twice in one morning (and then again!)
 date: 2017-06-12 00:00:00 Z
+tags:
+- Awards
 Author: Jake Lloyd
 Thumbnail Image: "/uploads/dc-scores-wins-twice-in-one-morning-full.jpg"
 ---
 
 ![Awards day](/uploads/dc-scores-wins-twice-in-one-morning-full.jpg)
 
-This morning was special for DC SCORES. By the time staff members walked into the office, our social media channels were blowing up.
+The morning of June 12 was special for DC SCORES. By the time staff members walked into the office, our social media channels were blowing up.
 
 We had received two huge honors in a matter of minutes. Talk about starting the week off right.
 
@@ -29,3 +31,5 @@ DC SCORES is thrilled to have received such distinguished awards and looks forwa
 "These are both incredible honors," said Executive Director Bethany Rubin Henderson.
 
 > "They are a testament to the work our staff, board of directors, and coaches put in to make DC SCORES a model kids-serving organization in Washington, DC. We look forward to continuing our growth as a program and also from a management standpoint as we move into our 24th year in the District."
+
+UPDATE: A little less than a month later, the Center again honored DC SCORES with the  distinguished Board Leadership Award. Read about it on our blog [HERE](http://bit.ly/BoardAward). 
