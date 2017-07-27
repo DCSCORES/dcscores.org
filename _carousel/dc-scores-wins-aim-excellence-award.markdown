@@ -1,5 +1,5 @@
 ---
-title: DC SCORES wins AIM Excellence Award
+title: Two months, two awards for DC SCORES
 position: 2
 Image: "/uploads/aim-excellence-award.jpg"
 Image Position: 50% 25%
