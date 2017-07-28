@@ -6,7 +6,9 @@ tags:
 Author: 'Jake Lloyd '
 ---
 
-<iframe width="640" height="360" src="https://www.youtube.com/embed/RMfCPTJs4WQ" frameborder="0" allowfullscreen></iframe>
+<div class="Embed">
+<iframe src="https://www.youtube.com/embed/RMfCPTJs4WQ" frameborder="0" allowfullscreen></iframe>
+</div>
 
 *Sometimes I wish I could hit rewind,
 Moonwalk that yellow brick road
