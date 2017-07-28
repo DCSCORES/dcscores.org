@@ -4,6 +4,7 @@ date: 2017-07-28 14:57:00 Z
 tags:
 - Alumni Story
 Author: 'Jake Lloyd '
+Thumbnail Image: "/uploads/DSC_1004-dd8f70.jpg"
 ---
 
 <div class="Embed">
