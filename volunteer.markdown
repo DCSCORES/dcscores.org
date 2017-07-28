@@ -1,5 +1,5 @@
 ---
-title: Volunteer beta page
+title: Volunteer
 permalink: "/volunteer/"
 layout: volunteer
 ---
