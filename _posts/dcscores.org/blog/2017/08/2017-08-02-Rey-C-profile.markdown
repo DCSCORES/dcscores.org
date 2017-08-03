@@ -5,7 +5,6 @@ tags:
 - summerSCORES
 Author: Lorena Palacios
 Thumbnail Image: "/uploads/FullSizeRender%2019%20copy%204-f2c146.jpg"
-Key: 
 ---
 
 <div class="Embed">
