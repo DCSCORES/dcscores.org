@@ -1,6 +1,7 @@
 ---
-title: Spring SCORES with the Tigers, Part VIII&#58; Wrapping up for Jamboree!
+title: 'Spring SCORES with the Tigers, Part VIII: Wrapping up for Jamboree!'
 date: 2017-06-06 00:00:00 Z
+published: false
 Author: Lorena Palacios
 Thumbnail Image: "/uploads/spring-scores-with-tigers-part-viii-thumb.jpg"
 ---
