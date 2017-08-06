@@ -1,6 +1,8 @@
 ---
 title: Volunteer
 permalink: "/volunteer/"
+Top Image: "/assets/images/masthead-volunteer.jpg"
+Top Image Position: 50% 55%
 layout: volunteer
 ---
 

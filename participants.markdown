@@ -1,6 +1,8 @@
 ---
 title: Participants
 permalink: "/our-program/participants/"
+Top Image: "/assets/images/masthead-resources.jpg"
+Top Image Position: 50% 40%
 soccerSchedule:
 - |-
   ## Soccer Schedule

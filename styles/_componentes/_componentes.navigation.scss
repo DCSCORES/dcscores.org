@@ -247,6 +247,16 @@
       }
     }
 
+    // Add Impact as a submenu for off-canvas menu.
+    // Mobile touch triggers js dropdown. Fix for now.
+    .Navigation-dropdownItem--impact {
+      display: none!important;
+
+      @media (max-width: 64em) {
+        display: block!important;
+      }
+    }
+
       .Navigation-dropdownItemLink {
         display: block;
 

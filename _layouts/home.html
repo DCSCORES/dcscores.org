@@ -184,15 +184,6 @@ layout: default
 </section>
 {% endcomment %}
 
-<!-- If'y solution, for now -->
-{% comment %}
-<div class="u-preloadImages">
-  <img src="assets/images/hero-01--large.jpg" width="1" height="1" alt="">
-  <img src="assets/images/hero-02--large.jpg" width="1" height="1" alt="">
-  <img src="assets/images/hero-03--large.jpg" width="1" height="1" alt="">
-</div>
-{% endcomment %}
-
 <!-- Home embed -->
 <div id="gCFRSuHPnlQ" class="AgileEmbed">
   <div class="AgileEmbed-callout">
@@ -319,34 +310,39 @@ layout: default
 {% endcomment %}
 
 <div class="Event">
+  {% for event in page["Featured Event"] %}
   <div class="Event-moment">
 
     <!-- Big main photo -->
-    <div class="Event-momentPrimary"></div>
+    <div class="Event-momentPrimary" style="background-image: url({{ event["Primary Image"] }}); background-position: {{ event["Primary Image Position"] }};"></div>
 
     <!-- Two smaller photos -->
     <div class="Event-momentSecondary">
-      <div class="Event-momentSecondaryTop"></div>
-      <div class="Event-momentSecondaryBottom"></div>
+      <div class="Event-momentSecondaryTop" style="background-image: url({{ event["Secondary Image Top"] }}); background-position: {{ event["Secondary Image Top Position"] }};"></div>
+      <div class="Event-momentSecondaryBottom" style="background-image: url({{ event["Secondary Image Bottom"] }}); background-position: {{ event["Secondary Image Bottom Position"] }};"></div>
     </div>
 
   </div>
 
-  <aside class="Event-callout  Event-callout--alignLeft">
-    <img class="Event-calloutImage" src="" alt="">
-    <h2 class="Event-calloutTitle">Poetry Slam!</h2>
-    <p class="Event-calloutDescription">DC's largest youth spoken-word competition features DC SCORES students performing their original works of poetry.</p>
+  <aside class="Event-callout  {% if event["Box Alignment"] == "Left" %}Event-callout--alignLeft{% endif %}{% if event["Box Alignment"] == "Right" %}Event-callout--alignRight{% endif %}" style="background-color: {{ event["Box Color"] }};">
+    <h2 class="Event-calloutTitle" style="{% if event["Box Contrast"] == "Light" %}color: #fff;{% endif %}{% if event["Box Contrast"] == "Dark" %}color: #000;{% endif %}">{{ event["Title"] }}</h2>
+    <p class="Event-calloutDescription" style="{% if event["Box Contrast"] == "Light" %}color: #fff;{% endif %}{% if event["Box Contrast"] == "Dark" %}color: #000;{% endif %}">{{ event["Description"] }}</p>
 
     <div class="Event-calloutFooter">
-      <a href="https://www.youtube.com/playlist?list=PLaMKH-_ipEg_8sBhnn6F1zM5l_GE7jIFh" class="Event-calloutFooterLink" target="_blank">
+      {% if event["Video Link"] %}
+      <a href="{{ event["Video Link"] }}" class="Event-calloutFooterLink" target="_blank" style="{% if event["Box Contrast"] == "Light" %}color: #fff;{% endif %}{% if event["Box Contrast"] == "Dark" %}color: #000;{% endif %}">
         <i class="Icon  Icon-youtube"></i>
         Watch videos</a>
+      {% endif %}
 
-        <a href="https://www.flickr.com/photos/dcscorespictures/tags/poetryslam/" class="Event-calloutFooterLink" target="_blank">
-          <i class="Icon  Icon-flickrEmpty"></i>
-          See photos</a>
+      {% if event["Photo Link"] %}
+      <a href="{{ event["Photo Link"] }}" class="Event-calloutFooterLink" target="_blank" style="{% if event["Box Contrast"] == "Light" %}color: #fff;{% endif %}{% if event["Box Contrast"] == "Dark" %}color: #000;{% endif %}">
+        <i class="Icon  Icon-flickrEmpty"></i>
+        See photos</a>
+      {% endif %}
     </div>
   </aside>
+  {% endfor %}
 </div>
 
 <div class="Supporters">

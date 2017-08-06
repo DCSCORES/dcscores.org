@@ -17,6 +17,8 @@ There is no doubt that once kids get to experience what DC SCORES is all about t
 
 For some kids, there’s some hesitancy at first about joining, and then there are others like Rey C. who count down the days to become a part of DC SCORES.
 
+
+
 ![FullSizeRender 15 copy 3.jpg](/uploads/FullSizeRender%2015%20copy%203.jpg)
 
 First-time camper Rey is no stranger to the organization. His two older brothers, Bryant and Yair, have been in DC SCORES for a couple of years and share their enthusiasm about being in the program all the time. Rey always wanted to experience the fun his older brothers had for himself and he finally got the opportunity during the Truesdell soccer and arts summer camp.
