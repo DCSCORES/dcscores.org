@@ -1,19 +1,17 @@
 ---
 title: Supporters
 permalink: "/about-us/supporters/"
-Top Image: "/assets/images/masthead-supporters.jpg"
-Top Image Position: 50% 65%
-League Champions:
+leagueChampions:
 - City Fund
 - D.C. Office of the State Superintendent of Education
 - D.C. United
 - U.S. Soccer Foundation
-Team Champions:
+teamChampions:
 - Morris & Gwendolyn Cafritz Foundation
 - The John G. and Jean R. Gosnell Foundation
 - Eugene & Agnes E. Meyer Foundation
 - United Way of the National Capital Region
-Scoring Champions:
+scoringChampions:
 - Audi of America
 - Butterfields Butter LLC
 - Capital for Children
@@ -27,7 +25,7 @@ Scoring Champions:
 - Singing for Change
 - Target
 - Volkswagen Group of America, Inc.
-Mvps:
+mvps:
 - Blank Rome LLP
 - Herb Block Foundation
 - BrightView
@@ -44,7 +42,7 @@ Mvps:
 - Share Fund
 - Wells Fargo Foundation
 - World Bank Community Outreach Program
-Fans:
+fans:
 - Arent Fox LLP
 - Arnold & Porter LLP
 - Katherine and David Bradley
@@ -78,7 +76,7 @@ Fans:
 - Willkie Farr & Gallagher LLP
 - Women’s Sports Foundation Sports4Life
 - Zuckerman Spaeder LLP
-Supporters:
+supporters:
 - The Advisory Board Company
 - CIT Group
 - The Covello Foundation
@@ -93,7 +91,7 @@ Supporters:
 - Howard and Geraldine Polinger Family Foundation
 - Training Resources Group
 - Leslie Wilkes
-In Kind:
+inKind:
 - Constant Contact
 - AmeriHealth
 - Capitol File
@@ -111,14 +109,14 @@ In Kind:
 - Soccer.com
 - Starbucks
 - Venable LLP
-Matching Gifts:
+matchingGifts:
 - Breckinridge Capital Advisors
 - Merrill Lynch
 - The Pew Charitable Trusts
 - Pimco Foundation
 - VentureCount LLC
 - Volkswagen Group of America, Inc.
-League Of Champions:
+leagueOfChampions:
 - Anonymous
 - David Barritt-Flatt
 - Ben Brewster

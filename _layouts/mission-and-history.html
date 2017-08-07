@@ -5,7 +5,7 @@ layout: default
 <main class="Main  Main--noTop">
 
   <!-- Masthead -->
-  <header class="Masthead"  style="background-image: url({{ page["Top Image"] }}); background-position: {{ page["Top Image Position"] }};">
+  <header class="Masthead"  style="background-image: url(/assets/images/masthead-mission-and-history.jpg); background-position: 50% 40%;">
     <div class="Masthead-header">
       <div class="Grid  Grid--large">
         <h1 class="Masthead-headerTitle">Mission & History</h1>
@@ -41,14 +41,14 @@ layout: default
     <div class="Grid__d2-d5  Grid__d-newline  Grid__m1-m6">
       <!-- Timeline -->
       <ol class="Timeline">
-        {% for year in page["History"] %}
+        {% for year in page.years %}
         <li class="Timeline-node">
-          <h3 class="Timeline-nodeDate">{{ year["Year"] }}</h3>
-          <p>{{ year["Description"] }}</p>
+          <h3 class="Timeline-nodeDate">{{ year.date }}</h3>
+          <p>{{ year.description }}</p>
 
-          {% if year["Image"] %}
+          {% if year.image %}
           <figure>
-            <img src="{{ year["Image"] }}" alt="">
+            <img src="{{ year.image }}" alt="">
           </figure>
           {% endif %}
         </li>

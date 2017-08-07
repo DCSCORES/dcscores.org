@@ -12,7 +12,7 @@ layout: default
 <main class="Main  Main--noTop">
 
   <!-- Masthead -->
-  <header class="Masthead"  style="background-image: url({{ page["Top Image"] }}); background-position: {{ page["Top Image Position"] }};">
+  <header class="Masthead"  style="background-image: url(/assets/images/masthead-leadership.jpg); background-position: 50% 50%;">
     <div class="Masthead-header">
       <div class="Grid  Grid--large">
         <h1 class="Masthead-headerTitle">Leadership Team</h1>
@@ -32,7 +32,7 @@ layout: default
           <h3 class="Leadership-cellName">
             <a href="{{ person.url }}" class="Leadership-cellNameLink">{{ person.title }}</a>
           </h3>
-          <h4 class="Leadership-cellMeta">{{ person["Details"] }}</h4>
+          <h4 class="Leadership-cellRole">{{ person["Role"] }}</h4>
         </div>
         {% endfor %}
       </div>
@@ -54,7 +54,7 @@ layout: default
             {% else %}{{ person.title }}
             {% endif %}
           </h3>
-          <h4 class="Leadership-cellMeta">{{ person["Details"] }}</h4>
+          <h4 class="Leadership-cellRole">{% if person["Role"] %}{{ person["Role"] }}, {% endif %}   {% if person["From"] %}{{ person["From"] }}{% endif %}</h4>
         </div>
         {% endfor %}
       </div>
@@ -75,7 +75,7 @@ layout: default
         {% for person in sorted_leadership %}
         <div class="Leadership-cell">
           <h3 class="Leadership-cellName">{{ person.title }}</h3>
-          <h4 class="Leadership-cellMeta">{{ person["Details"] }}</h4>
+          <h4 class="Leadership-cellRole">{% if person["Role"] %}{{ person["Role"] }}, {% endif %}   {% if person["From"] %}{{ person["From"] }}{% endif %}</h4>
         </div>
         {% endfor %}
       </div>

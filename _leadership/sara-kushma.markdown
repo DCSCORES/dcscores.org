@@ -1,7 +1,7 @@
 ---
 title: Sara Kushma
 position: 38
-Details: Appian Corporation
+From: Appian Corporation
 Section: advisory
 ---
 

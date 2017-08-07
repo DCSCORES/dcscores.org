@@ -11,7 +11,7 @@ layout: default
 <main class="Main  Main--noTop">
 
   <!-- Masthead -->
-  <header class="Masthead" style="background-image: url({{ page["Top Image"] }}); background-position: {{ page["Top Image Position"] }};">
+  <header class="Masthead" style="background-image: url(/assets/images/masthead-supporters.jpg); background-position: 50% 65%;">
     <div class="Masthead-header">
       <div class="Grid  Grid--large">
         <h1 class="Masthead-headerTitle">Supporters</h1>
@@ -24,7 +24,7 @@ layout: default
 
       <h2 class="H3">League Champions</h2>
       <ul class="SupportersList">
-        {% for supporter in page["League Champions"] %}
+        {% for supporter in page.leagueChampions %}
         <li class="SupportersList-cell">
           <h5 class="SupportersList-cellName">{{ supporter }}</h5>
         </li>
@@ -33,7 +33,7 @@ layout: default
 
       <h2 class="H3  u-marginTop--10vh">Team Champions</h2>
       <ul class="SupportersList">
-        {% for supporter in page["Team Champions"] %}
+        {% for supporter in page.teamChampions %}
         <li class="SupportersList-cell">
           <h5 class="SupportersList-cellName">{{ supporter }}</h5>
         </li>
@@ -42,7 +42,7 @@ layout: default
 
       <h2 class="H3  u-marginTop--10vh">Scoring Champions</h2>
       <ul class="SupportersList">
-        {% for supporter in page["Scoring Champions"] %}
+        {% for supporter in page.scoringChampions %}
         <li class="SupportersList-cell">
           <h5 class="SupportersList-cellName">{{ supporter }}</h5>
         </li>
@@ -51,7 +51,7 @@ layout: default
 
       <h2 class="H3  u-marginTop--10vh">Mvp's</h2>
       <ul class="SupportersList">
-        {% for supporter in page["Mvps"] %}
+        {% for supporter in page.mvps %}
         <li class="SupportersList-cell">
           <h5 class="SupportersList-cellName">{{ supporter }}</h5>
         </li>
@@ -60,7 +60,7 @@ layout: default
 
       <h2 class="H3  u-marginTop--10vh">Fans</h2>
       <ul class="SupportersList">
-        {% for supporter in page["Fans"] %}
+        {% for supporter in page.fans %}
         <li class="SupportersList-cell">
           <h5 class="SupportersList-cellName">{{ supporter }}</h5>
         </li>
@@ -69,7 +69,7 @@ layout: default
 
       <h2 class="H3  u-marginTop--10vh">Supporters</h2>
       <ul class="SupportersList">
-        {% for supporter in page["Supporters"] %}
+        {% for supporter in page.supporters %}
         <li class="SupportersList-cell">
           <h5 class="SupportersList-cellName">{{ supporter }}</h5>
         </li>
@@ -78,7 +78,7 @@ layout: default
 
       <h2 class="H3  u-marginTop--10vh">In-kind</h2>
       <ul class="SupportersList">
-        {% for supporter in page["In Kind"] %}
+        {% for supporter in page.inKind %}
         <li class="SupportersList-cell">
           <h5 class="SupportersList-cellName">{{ supporter }}</h5>
         </li>
@@ -87,7 +87,7 @@ layout: default
 
       <h2 class="H3  u-marginTop--10vh">Matching Gifts</h2>
       <ul class="SupportersList">
-        {% for supporter in page["Matching Gifts"] %}
+        {% for supporter in page.matchingGifts %}
         <li class="SupportersList-cell">
           <h5 class="SupportersList-cellName">{{ supporter }}</h5>
         </li>
@@ -96,7 +96,7 @@ layout: default
 
       <h2 class="H3  u-marginTop--10vh">League of Champions</h2>
       <ul class="SupportersList">
-        {% for supporter in page["League Of Champions"] %}
+        {% for supporter in page.leagueOfChampions %}
         <li class="SupportersList-cell">
           <h5 class="SupportersList-cellName">{{ supporter }}</h5>
         </li>

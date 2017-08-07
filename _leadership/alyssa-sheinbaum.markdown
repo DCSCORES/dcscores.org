@@ -1,7 +1,7 @@
 ---
 title: Alyssa Sheinbaum
 position: 45
-Details: Clark Construction
+From: Clark Construction
 Section: advisory
 ---
 

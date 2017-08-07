@@ -1,7 +1,7 @@
 ---
 title: Ronya A. Corey
 position: 18
-Details: Merrill Lynch
+From: Merrill Lynch
 Link: http://bit.ly/2thcyJJ
 Section: board
 ---

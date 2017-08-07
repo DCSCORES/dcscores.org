@@ -1,7 +1,7 @@
 ---
 title: Greta Poku-Adjei
 position: 8
-Details: Operations Coordinator
+Role: Operations Coordinator
 Profile Image: "/uploads/profile--greta-poku-adjei.jpg"
 Section: staff
 ---

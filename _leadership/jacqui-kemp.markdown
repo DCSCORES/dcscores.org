@@ -1,7 +1,7 @@
 ---
 title: Jacqui Kemp
 position: 37
-Details: National Geographic
+From: National Geographic
 Section: advisory
 ---
 

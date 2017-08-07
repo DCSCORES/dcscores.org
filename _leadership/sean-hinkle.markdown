@@ -1,7 +1,7 @@
 ---
 title: Sean Hinkle
 position: 3
-Details: Chief Program Officer
+Role: Chief Program Officer
 Profile Image: "/uploads/profile--sean-hinkle.jpg"
 Section: staff
 ---

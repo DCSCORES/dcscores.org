@@ -1,7 +1,8 @@
 ---
 title: Andrea Custis
 position: 13
-Details: Assistant Secretary, Custis & Associates
+Role: Assistant Secretary
+From: Custis & Associates
 Section: board
 ---
 

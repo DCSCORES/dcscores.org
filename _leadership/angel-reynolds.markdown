@@ -1,7 +1,7 @@
 ---
 title: Angel Reynolds
 position: 9
-Details: Bookkeeper
+Role: Bookkeeper
 Profile Image: "/uploads/profile--angel-reynolds.jpg"
 Section: staff
 ---
