@@ -16,9 +16,11 @@ Column Three:
   Description: After a year of DC SCORES, **96%** of participants discovered something
     they’re good at.
 Quotes:
-- Quote: The ability to have one-on-one conversations with students about not just school, but about soccer and personal lives has impacted me greatly.
+- Quote: The ability to have one-on-one conversations with students about not just
+    school, but about soccer and personal lives has impacted me greatly.
   Source: DC SCORES coach
-- Quote: My daughter has built a great amount of confidence sharing her ideas in class. She was always very smart with lots of ideas but was very shy. Thank you DC SCORES!
+- Quote: My daughter has built a great amount of confidence sharing her ideas in class.
+    She was always very smart with lots of ideas but was very shy. Thank you DC SCORES!
   Source: DC SCORES parent
 layout: impact
 ---
