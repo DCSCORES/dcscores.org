@@ -24,6 +24,8 @@ The riveting opening lines of A’dora Willis’ original poem from Our Words Ou
 
 A’dora, 18, doesn’t need to hit rewind or be a kid again. The DC SCORES alumna and recent high school graduate has her future figured out. On a recent afternoon during a rare break from her summer jobs triumvirate of doctor office work, daycare work, and teaching karate lessons, A’dora matter-of-factly laid out her plans.
 
+
+
 She will attend Bowie State University beginning Aug. 28. She will study nursing. Upon graduating, she will work in the field for a few years before returning to school and ultimately becoming a nurse practitioner.
 
 During her journey, A’dora will continue to write. She will continue to put a pen to paper about her life, and about the world around her. While her future path may be predetermined, her creative side has never been stronger, more thirsty to express the feelings, the thoughts, the rhymes and the rhythms that she first learned about in DC SCORES.
