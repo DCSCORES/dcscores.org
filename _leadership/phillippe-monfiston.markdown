@@ -1,7 +1,7 @@
 ---
 title: Phillippe Monfiston
 position: 39
-From: consultant
+Details: Consultant
 Section: advisory
 ---
 

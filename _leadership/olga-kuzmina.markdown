@@ -1,8 +1,7 @@
 ---
 title: Olga Kuzmina
-date: 2017-07-24 20:37:00 Z
 position: 6
-Role: Atlas Corps Development Fellow
+Details: Atlas Corps Development Fellow
 Profile Image: "/uploads/18922569_1848888158705979_3913525094943832114_o.jpg"
 Section: staff
 ---

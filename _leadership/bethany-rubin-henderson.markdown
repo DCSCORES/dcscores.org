@@ -1,7 +1,7 @@
 ---
 title: Bethany Rubin Henderson
 position: 0
-Role: Executive Director
+Details: Executive Director
 Profile Image: "/uploads/profile--bethany-rubin-henderson.jpg"
 Section: staff
 ---
