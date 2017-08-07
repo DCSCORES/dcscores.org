@@ -103,8 +103,6 @@ A’dora reached out to DC SCORES, asking about opportunities to perform. It jus
 
 She decided to write a new poem. The world was changing all around her. She was no longer a little girl.
 
-![IMG_8239.JPG](/uploads/IMG_823.JPG)
-
 A’dora went to the pre-Our Words Our City workshop with the other poets and standout DC SCORES Poetry Slam! Emcee and spoken word artist, Charity Blackwell. If anyone knows a great poet, it’s Charity. After hearing A’dora practice “King of the Jungle,” Charity grinned widely.
 
 “Wow,” she said. “You have a gift.”
