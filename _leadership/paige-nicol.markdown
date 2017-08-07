@@ -1,7 +1,7 @@
 ---
 title: Paige Nicol
 position: 42
-Details: student, Georgetown University
+Details: Student, Georgetown University
 Section: advisory
 ---
 

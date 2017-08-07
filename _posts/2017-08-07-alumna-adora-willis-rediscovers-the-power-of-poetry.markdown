@@ -1,10 +1,10 @@
 ---
 title: Alumna A'dora Willis rediscovers the power of poetry
-date: 2017-07-28 14:57:00 Z
+date: 2017-08-07 17:30:00 Z
 tags:
 - Alumni Story
-Author: 'Jake Lloyd '
-Thumbnail Image: "/uploads/DSC_1004-dd8f70.jpg"
+Author: Jake Lloyd
+Thumbnail Image: "/uploads/Adora.jpg"
 ---
 
 <div class="Embed">
@@ -102,8 +102,6 @@ A’dora reached out to DC SCORES, asking about opportunities to perform. It jus
 “Of course I’m interested,” A’dora responded.
 
 She decided to write a new poem. The world was changing all around her. She was no longer a little girl.
-
-![IMG_8239-float-right.JPG](/uploads/IMG_8239-float-right.JPG)
 
 A’dora went to the pre-Our Words Our City workshop with the other poets and standout DC SCORES Poetry Slam! Emcee and spoken word artist, Charity Blackwell. If anyone knows a great poet, it’s Charity. After hearing A’dora practice “King of the Jungle,” Charity grinned widely.
 
