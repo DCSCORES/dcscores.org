@@ -1,7 +1,7 @@
 ---
 title: Greg James
 position: 5
-Role: Athletic Director
+Details: Athletic Director
 Profile Image: "/uploads/profile--greg-james.jpg"
 Section: staff
 ---

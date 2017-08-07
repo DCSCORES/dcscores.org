@@ -1,7 +1,7 @@
 ---
 title: Jessica Trevelyan
 position: 10
-Role: Director of Foundation & Government Grants
+Details: Director of Foundation & Government Grants
 Profile Image: "/uploads/profile--jessica-trevelyan.jpg"
 Section: staff
 ---

@@ -1,7 +1,7 @@
 ---
 title: John Guinan
 position: 36
-From: artist
+Details: Artist
 Section: advisory
 ---
 

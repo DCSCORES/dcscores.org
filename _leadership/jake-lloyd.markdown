@@ -1,7 +1,7 @@
 ---
 title: Jake Lloyd
 position: 7
-Role: Communications Manager
+Details: Communications Manager
 Profile Image: "/uploads/profile--jake-lloyd.jpg"
 Section: staff
 ---

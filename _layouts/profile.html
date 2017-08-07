@@ -20,7 +20,7 @@ layout: default
             <header class="Profile-profileReadHeader">
               <h1 class="Profile-profileReadHeaderName">{{ page.title }}</h1>
               <!-- Strong, ye I don't know -->
-              <strong class="Profile-profileReadHeaderRole">{{ page["Role"] }}</strong>
+              <strong class="Profile-profileReadHeaderMeta">{{ page["Details"] }}</strong>
             </header>
             {{ page.content | markdownify }}
           </article>
@@ -42,7 +42,7 @@ layout: default
           <h3 class="Leadership-cellName">
             <a href="{{ person.url }}" class="Leadership-cellNameLink">{{ person.title }}</a>
           </h3>
-          <h4 class="Leadership-cellRole">{{ person["Role"] }}</h4>
+          <h4 class="Leadership-cellMeta">{{ person["Details"] }}</h4>
         </div>
         {% endfor%}
       </div>
@@ -64,7 +64,7 @@ layout: default
             {% else %}{{ person.title }}
             {% endif %}
           </h3>
-          <h4 class="Leadership-cellRole">{% if person["Role"] %}{{ person["Role"] }}, {% endif %}   {% if person["From"] %}{{ person["From"] }}{% endif %}</h4>
+          <h4 class="Leadership-cellMeta">{{ person["Details"] }}</h4>
         </div>
         {% endfor%}
       </div>
@@ -81,7 +81,7 @@ layout: default
         {% for person in sorted_leadership %}
         <div class="Leadership-cell">
           <h3 class="Leadership-cellName">{{ person.title }}</h3>
-          <h4 class="Leadership-cellRole">{% if person["Role"] %}{{ person["Role"] }}, {% endif %}   {% if person["From"] %}{{ person["From"] }}{% endif %}</h4>
+          <h4 class="Leadership-cellMeta">{{ person["Details"] }}</h4>
         </div>
         {% endfor%}
       </div>

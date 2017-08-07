@@ -5,7 +5,7 @@ layout: default
 <main class="Main  Main--noTop">
 
   <!-- Masthead -->
-  <header class="Masthead"  style="background-image: url(/assets/images/masthead-impact.jpg); background-position: 50% 40%;">
+  <header class="Masthead"  style="background-image: url({{ page["Top Image"] }}); background-position: {{ page["Top Image Position"] }};">
     <div class="Masthead-header">
       <div class="Grid  Grid--large">
         <h1 class="Masthead-headerTitle">Impact</h1>
@@ -20,12 +20,12 @@ layout: default
 
       <!-- Column #1 -->
       <div class="Impact  Impact--first">
-        {% for columnOne in page.columnOne %}
+        {% for column in page["Column One"] %}
         <!--[if gte IE 9]>
         <!--><svg class="Impact-value" height="202" viewbox="0 0 202 202" width="202" xmlns="http://www.w3.org/2000/svg"><!--
             --><path class="Impact-valueCircle" d="M201 101c0 55.2-44.8 100-100 100S1 156.2 1 101 45.8 1 101 1s100 44.8 100 100"></path><!--
 
-            --><text id="numberOne" dy="105" fill="rgba(255, 255, 255, 0.98)" font-family="DCSCORES" font-size="80" text-anchor="middle" x="100">{{ columnOne.number }}</text><!--
+            --><text id="numberOne" dy="105" fill="rgba(255, 255, 255, 0.98)" font-family="DCSCORES" font-size="80" text-anchor="middle" x="100">{{ column["Number"] }}</text><!--
 
             --><text dy="136" fill="rgba(255, 255, 255, 0.63)" font-family="DCSCORES" font-size="20" text-anchor="middle" x="100">out of</text><!--
 
@@ -33,18 +33,18 @@ layout: default
         --></svg>
         <!--<![endif]-->
 
-        <p class="Impact-description">{{ columnOne.description | markdownify }}</p>
+        <p class="Impact-description">{{ column["Description"] | markdownify }}</p>
         {% endfor %}
       </div>
 
       <!-- Column #2 -->
       <div class="Impact">
-        {% for columnTwo in page.columnTwo %}
+        {% for column in page["Column Two"] %}
         <!--[if gte IE 9]>
         <!--><svg class="Impact-value" height="202" viewbox="0 0 202 202" width="202" xmlns="http://www.w3.org/2000/svg"><!--
             --><path class="Impact-valueCircle" d="M201 101c0 55.2-44.8 100-100 100S1 156.2 1 101 45.8 1 101 1s100 44.8 100 100"></path><!--
 
-            --><text id="numberTwo" dy="105" fill="rgba(255, 255, 255, 0.98)" font-family="DCSCORES" font-size="80" text-anchor="middle" x="100">{{ columnTwo.number }}</text><!--
+            --><text id="numberTwo" dy="105" fill="rgba(255, 255, 255, 0.98)" font-family="DCSCORES" font-size="80" text-anchor="middle" x="100">{{ column["Number"] }}</text><!--
 
             --><text dy="136" fill="rgba(255, 255, 255, 0.63)" font-family="DCSCORES" font-size="20" text-anchor="middle" x="100">out of</text><!--
 
@@ -52,18 +52,18 @@ layout: default
         --></svg>
         <!--<![endif]-->
 
-        <p class="Impact-description">{{ columnTwo.description | markdownify }}</p>
+        <p class="Impact-description">{{ column["Description"] | markdownify }}</p>
         {% endfor %}
       </div>
 
       <!-- Column #3 -->
       <div class="Impact">
-        {% for columnThree in page.columnThree %}
+        {% for column in page["Column Three"] %}
         <!--[if gte IE 9]>
         <!--><svg class="Impact-value" height="202" viewbox="0 0 202 202" width="202" xmlns="http://www.w3.org/2000/svg"><!--
             --><path class="Impact-valueCircle" d="M201 101c0 55.2-44.8 100-100 100S1 156.2 1 101 45.8 1 101 1s100 44.8 100 100"></path><!--
 
-            --><text id="numberThree" dy="105" fill="rgba(255, 255, 255, 0.98)" font-family="DCSCORES" font-size="80" text-anchor="middle" x="100">{{ columnThree.number }}</text><!--
+            --><text id="numberThree" dy="105" fill="rgba(255, 255, 255, 0.98)" font-family="DCSCORES" font-size="80" text-anchor="middle" x="100">{{ column["Number"] }}</text><!--
 
             --><text dy="136" fill="rgba(255, 255, 255, 0.63)" font-family="DCSCORES" font-size="20" text-anchor="middle" x="100">out of</text><!--
 
@@ -71,22 +71,19 @@ layout: default
         --></svg>
         <!--<![endif]-->
 
-        <p class="Impact-description">{{ columnThree.description | markdownify }}</p>
+        <p class="Impact-description">{{ column["Description"] | markdownify }}</p>
         {% endfor %}
       </div>
 
     </div>
 
     <div class="Quotes Grid__d6  Grid__m5-m6">
+      {% for quote in page["Quotes"] %}
       <div class="Quotes-quote">
-        <p class="Quotes-quoteText">“The ability to have one-on-one conversations with students about not just school, but about soccer and personal lives has impacted me greatly.”</p>
-        <strong class="Quotes-quoteSource">DC SCORES coach</strong>
+        <p class="Quotes-quoteText">{{ quote["Quote"] }}</p>
+        <strong class="Quotes-quoteSource">{{ quote["Source"] }}</strong>
       </div>
-
-      <div class="Quotes-quote">
-        <p class="Quotes-quoteText">“[My daughter] has built a great amount of confidence sharing her ideas in class. She was always very smart with lots of ideas but was very shy. Thank you DC SCORES!”</p>
-        <strong class="Quotes-quoteSource">DC SCORES parent</strong>
-      </div>
+      {% endfor %}
     </div>
 
     <div class="Grid__d2-d5  Grid__d-newline  Grid__m1-m6  Link  Link--alignLeft">
