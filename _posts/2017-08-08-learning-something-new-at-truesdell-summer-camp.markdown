@@ -3,9 +3,11 @@ title: Learning something new at Truesdell summer camp
 date: 2017-08-08 14:44:00 Z
 tags:
 - summerSCORES
+Author: Lorena Palacios
+Thumbnail Image: "/uploads/35483400164_d8b42db407_o%20(1)-c9329d.jpg"
 ---
 
-<iframe width="853" height="480" src="https://www.youtube.com/embed/7IyGsKQ3AGU" frameborder="0" allowfullscreen></iframe>
+<iframe width="1280" height="720" src="https://www.youtube.com/embed/7IyGsKQ3AGU" frameborder="0" allowfullscreen></iframe>
 
 *DC SCORES hosted a five-week long soccer and arts camp at Truesdell Education Campus. Rising second to sixth-grade students participated in this free summer camp from June 26 - July 28.*
 
