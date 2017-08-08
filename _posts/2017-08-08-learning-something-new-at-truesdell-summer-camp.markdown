@@ -5,7 +5,7 @@ tags:
 - summerSCORES
 ---
 
-<iframe width="640" height="360" src="https://www.youtube.com/embed/7IyGsKQ3AGU" frameborder="0" allowfullscreen></iframe>
+<iframe width="853" height="480" src="https://www.youtube.com/embed/7IyGsKQ3AGU" frameborder="0" allowfullscreen></iframe>
 
 *DC SCORES hosted a five-week long soccer and arts camp at Truesdell Education Campus. Rising second to sixth-grade students participated in this free summer camp from June 26 - July 28.*
 
