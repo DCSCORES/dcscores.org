@@ -1,6 +1,7 @@
 ---
 title: Learning something new at Truesdell summer camp
 date: 2017-08-08 14:44:00 Z
+published: false
 tags:
 - summerSCORES
 Author: Lorena Palacios
