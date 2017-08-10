@@ -1,6 +1,6 @@
 ---
 title: Joshua McGee
-position: 40
+position: 41
 Details: Grant Thornton LLP
 Section: advisory
 ---

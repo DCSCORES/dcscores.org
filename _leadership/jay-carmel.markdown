@@ -1,6 +1,6 @@
 ---
 title: Jay Carmel
-position: 33
+position: 34
 Details: Avascent
 Section: advisory
 ---
