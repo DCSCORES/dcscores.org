@@ -13,6 +13,7 @@ Team Champions:
 - The John G. and Jean R. Gosnell Foundation
 - Eugene & Agnes E. Meyer Foundation
 - United Way of the National Capital Region
+- Target
 Scoring Champions:
 - Audi of America
 - Butterfields Butter LLC
@@ -25,7 +26,6 @@ Scoring Champions:
 - John Edward Fowler Memorial Foundation
 - Near Southeast Community Partners
 - Singing for Change
-- Target
 - Volkswagen Group of America, Inc.
 Mvps:
 - Blank Rome LLP
