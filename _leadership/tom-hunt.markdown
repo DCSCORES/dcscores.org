@@ -1,6 +1,6 @@
 ---
 title: Tom Hunt
-position: 24
+position: 23
 Details: D.C. United
 Link: https://www.dcunited.com/club/front-office/tom-hunt
 Section: board

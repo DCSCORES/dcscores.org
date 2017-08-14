@@ -1,6 +1,6 @@
 ---
 title: Christopher S. Richardson
-position: 17
+position: 16
 Details: Secretary, Washington Latin Public Charter School
 Section: board
 ---
