@@ -1,6 +1,6 @@
 ---
 title: Wally Okpych IV
-position: 30
+position: 31
 Details: Pricewaterhouse Coopers
 Link: https://www.linkedin.com/in/wallyokpych/
 Section: board

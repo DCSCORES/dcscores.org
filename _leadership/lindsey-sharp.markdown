@@ -1,7 +1,7 @@
 ---
 title: Lindsey Sharp
 date: 2017-08-14 14:51:00 Z
-position: 12
+position: 13
 Details: Community Engagement Coordinator
 Profile Image: "/uploads/FullSizeRender%2012.jpg"
 Section: staff
