@@ -1,6 +1,6 @@
 ---
 title: Two months, two awards for DC SCORES
-position: 2
+position: 3
 Image: "/uploads/aim-excellence-award.jpg"
 Image Position: 50% 25%
 Link: "/blog/2017/06/awards-day-dc-scores-wins-twice-in-one-morning"
