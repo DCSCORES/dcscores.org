@@ -4,7 +4,7 @@ date: 2017-08-14 16:26:00 Z
 published: false
 position: 1
 Image: "/uploads/dsc_1004-f9cf6a.jpg"
-Image Position: 50% 45%
+Image Position: 50% 35%
 Link: https://www.dcscores.org/blog/2017/08/alumna-adora-willis-rediscovers-the-power-of-poetry
 ---
 
