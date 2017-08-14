@@ -1,6 +1,6 @@
 ---
 title: Bruce D. Schulman
-position: 18
+position: 19
 Details: Treasurer, NPG Energy Technology Partners
 Link: http://www.ngpetp.com/team_bruce_schulman.php
 Section: board

@@ -1,6 +1,6 @@
 ---
 title: Michael Riggins
-position: 33
+position: 34
 Details: Clark Construction
 Section: board interns
 ---

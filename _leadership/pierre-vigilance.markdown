@@ -1,6 +1,6 @@
 ---
 title: Pierre Vigilance
-position: 31
+position: 32
 Details: George Washington University
 Section: board
 ---
