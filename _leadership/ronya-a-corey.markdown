@@ -1,6 +1,6 @@
 ---
 title: Ronya A. Corey
-position: 21
+position: 22
 Details: Merrill Lynch
 Link: http://bit.ly/2thcyJJ
 Section: board
