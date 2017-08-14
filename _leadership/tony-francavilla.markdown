@@ -1,6 +1,6 @@
 ---
 title: Tony Francavilla
-position: 4
+position: 5
 Details: Director of Individual Gifts & Corporate Partnerships
 Profile Image: "/uploads/profile--tony-francavilla.jpg"
 Section: staff
