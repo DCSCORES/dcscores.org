@@ -1,9 +1,9 @@
 ---
-title: Two months, two awards for DC SCORES
+title: Two months, three honors for DC SCORES
 position: 3
 Image: "/uploads/aim-excellence-award.jpg"
 Image Position: 50% 25%
 Link: "/blog/2017/06/awards-day-dc-scores-wins-twice-in-one-morning"
 ---
 
-The Center for Nonprofit Advancement chose DC SCORES for two awards this summer -- the 2017 Advancement in Management (AIM) Award and the Board Leadership Award!
+DC SCORES was honored by the Center for Nonprofit Advancement (twice) and the Catalogue for Philanthropy this summer!
