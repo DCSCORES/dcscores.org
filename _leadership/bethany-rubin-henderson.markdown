@@ -2,6 +2,7 @@
 title: Bethany Rubin Henderson
 position: 0
 Details: Executive Director
+Email: bhenderson@dcscores.org
 Profile Image: "/uploads/profile--bethany-rubin-henderson.jpg"
 Section: staff
 ---

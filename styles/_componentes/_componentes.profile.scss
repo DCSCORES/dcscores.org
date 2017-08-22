@@ -67,8 +67,6 @@
         }
 
         .Profile-profileReadHeaderMeta {
-          display: block;
-
           font-family: "Open Sans", sans-serif;
           font-size: 0.9rem;
           font-weight: 600;
@@ -80,6 +78,36 @@
             font-size: 1.1rem;
           }
         }
+
+        .Profile-profileReadHeaderEmail {
+          font-family: "Open Sans", sans-serif;
+          font-size: 0.9rem;
+          font-weight: 600;
+          line-height: 1;
+          letter-spacing: -0.0125em;
+          color: darken($americaScoresCoolGrey, 25%);
+
+          &::before {
+            content: "(";
+          }
+
+          &::after {
+            content: ")";
+          }
+
+          @media (min-width: 48em) {
+            font-size: 1rem;
+          }
+        }
+
+          .Profile-profileReadHeaderEmailLink {
+            color: inherit;
+
+            &:focus,
+            &:hover {
+              color: darken($americaScoresCoolGrey, 35%);
+            }
+          }
 
 
 

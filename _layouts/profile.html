@@ -21,6 +21,9 @@ layout: default
               <h1 class="Profile-profileReadHeaderName">{{ page.title }}</h1>
               <!-- Strong, ye I don't know -->
               <strong class="Profile-profileReadHeaderMeta">{{ page["Details"] }}</strong>
+              {% if page["Email"] %}<strong class="Profile-profileReadHeaderEmail">
+                <a href="mailto:{{ page["Email"] }}" class="Profile-profileReadHeaderEmailLink">{{ page["Email"] }}</a>
+              </strong>{% endif %}
             </header>
             {{ page.content | markdownify }}
           </article>
