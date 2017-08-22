@@ -1,6 +1,6 @@
 ---
 title: Angel Reynolds
-position: 13
+position: 14
 Details: Finance Manager
 Profile Image: "/uploads/profile--angel-reynolds.jpg"
 Section: staff

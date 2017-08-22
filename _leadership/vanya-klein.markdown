@@ -1,6 +1,7 @@
 ---
 title: Vanya Klein
 date: 2017-08-22 00:05:00 Z
+position: 6
 Details: Soccer Coordinator
 Profile Image: "/uploads/35831579740_ec388ab09e_o.jpg"
 Section: staff

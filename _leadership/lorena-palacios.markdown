@@ -1,7 +1,7 @@
 ---
 title: Lorena Palacios
 date: 2017-08-10 20:41:00 Z
-position: 11
+position: 12
 Details: Latino Engagement Fellow
 Profile Image: "/uploads/IMG_3895.JPG"
 Section: staff

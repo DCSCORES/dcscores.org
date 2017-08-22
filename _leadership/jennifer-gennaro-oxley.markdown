@@ -1,6 +1,6 @@
 ---
 title: Jennifer Gennaro Oxley
-position: 33
+position: 34
 Details: Playworks
 Link: https://www.linkedin.com/in/jenniferoxley/
 Section: board

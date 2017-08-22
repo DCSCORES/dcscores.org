@@ -1,6 +1,6 @@
 ---
 title: Chris Hudler
-position: 7
+position: 8
 Details: Soccer Program Manager
 Profile Image: "/uploads/profile--chris-hudler.jpg"
 Section: staff
