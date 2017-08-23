@@ -2,6 +2,7 @@
 title: Olga Kuzmina
 position: 9
 Details: Atlas Corps Development Fellow
+Email: okuzmina@dcscores.org
 Profile Image: "/uploads/18922569_1848888158705979_3913525094943832114_o.jpg"
 Section: staff
 ---
