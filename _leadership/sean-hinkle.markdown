@@ -2,6 +2,7 @@
 title: Sean Hinkle
 position: 2
 Details: Chief Program Officer
+Email: shinkle@dcscores.org
 Profile Image: "/uploads/profile--sean-hinkle.jpg"
 Section: staff
 ---
