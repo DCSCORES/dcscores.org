@@ -1,5 +1,5 @@
 ---
-title: Kicking off another edition of Coach Kickoff
+title: Kicking off another edition of Coach Kickoff!
 date: 2017-08-29 15:54:00 Z
 tags:
 - Coach Kickoff
