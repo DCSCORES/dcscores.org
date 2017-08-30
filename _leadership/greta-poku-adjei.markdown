@@ -1,6 +1,6 @@
 ---
 title: Greta Poku-Adjei
-position: 13
+position: 14
 Details: Operations Coordinator
 Email: gpoku-adjei@dcscores.org
 Profile Image: "/uploads/profile--greta-poku-adjei.jpg"
