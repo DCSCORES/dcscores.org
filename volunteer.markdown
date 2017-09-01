@@ -70,7 +70,7 @@ At <a href="/our-program/program-sites/" target="_blank">sites</a> throughout DC
 
 A day-long celebration of our fall season that includes soccer games and outdoor activities for our elementary school students and their families.
 
-**Date:** Saturday, October 21
+**Date:** Saturday, October 14
 
 <a href="http://www.americascores.org/affiliates/dc/volunteer/volunteerapplication" class="Article-contentButton" target="_blank">
   <i class="Icon  Icon-document"></i>
