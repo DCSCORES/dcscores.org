@@ -72,6 +72,8 @@ A day-long celebration of our fall season that includes soccer games and outdoor
 
 **Date:** Saturday, October 14
 
+**Location:** Trinity University Soccer Fields
+
 <a href="http://www.americascores.org/affiliates/dc/volunteer/volunteerapplication" class="Article-contentButton" target="_blank">
   <i class="Icon  Icon-document"></i>
   Sign Up
