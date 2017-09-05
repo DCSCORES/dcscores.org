@@ -20,11 +20,15 @@ During our fall season, the DC SCORES poet-athletes get the opportunity to write
 ![31201622535_76f349bf5d_o.jpg](/uploads/31201622535_76f349bf5d_o.jpg)
 
 **Program Schedule**
+
+
 Elementary schools have programming five days a week. Two days a week are designated for soccer practices and two days are for expressing themselves through poetry. Each Thursday, poet-athletes get the opportunity to participate in game days where schools play against other schools in separate girls and boys soccer games.
 
 Middle schools have programming three days a week but have the same amount of program hours as elementary schools. In a block scheduling format, middle schools have both soccer and writing two days a week and game days on Fridays.
 
 **Coaches**
+
+
 There are four coaches per school, two soccer and two writing. DC SCORES hires and trains coaches to run programming at each school. 85% of coaches work at the schools and 70% of them are teachers. Every coach is trained to guide students through a specific, comprehensive curriculum for soccer and writing that includes enrichment modules and soccer practice plans.
 
 **Special Events**
