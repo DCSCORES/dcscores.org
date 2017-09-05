@@ -9,7 +9,7 @@ Thumbnail Image: "/uploads/23038598606_cd5c4bd63b_o.jpg"
 
 Today DC SCORES kicks off its 23rd fall SCORES season!
 
-<center><iframe width="560" height="315" src="https://www.youtube.com/embed/LeU9CqD77Ac" frameborder="0" allowfullscreen></iframe><center>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LeU9CqD77Ac" frameborder="0" allowfullscreen></iframe>
 
 For the next 12 weeks, more than 2,200 students in all 8 wards in DC will form teams on the field and in the classroom by participating in soccer and poetry and creative writing activities. DC SCORES’ poet-athletes are instilled the core values of Teamwork, Leadership, and Commitment while also emphasizing the importance of sportsmanship.
 
