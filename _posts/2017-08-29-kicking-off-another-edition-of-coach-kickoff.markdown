@@ -11,15 +11,15 @@ What do you get when you combine DC SCORES, guest speakers, workshops, coffee, a
 
 ![DSC_0402-5ec803.jpg](/uploads/DSC_0402-5ec803.jpg)
 
-As tradition dictates, DC SCORES gathered coaches and volunteers before programming starts for a fun-filled Saturday at [Truesdell Education Campus](http://profiles.dcps.dc.gov/Truesdell\+Education\+Campus). From 8:30 am to 3:30 pm, new and returning volunteers and coaches showed their enthusiasm for another successful SCORES season by actively participating in all of the ice breakers and informational sessions throughout the day.
+As tradition dictates, DC SCORES gathered coaches and volunteers before programming starts for a fun-filled Saturday on August 26 at [Truesdell Education Campus](http://profiles.dcps.dc.gov/Truesdell\+Education\+Campus). From 8:30 am to 3:30 pm, new and returning volunteers and coaches showed their enthusiasm for another successful SCORES season by actively participating in all of the ice breakers and informational sessions throughout the day.
 
 To kick things off, Sean Hinkle, Chief Program Officer, and Charity Blackwell, the new Director of Writing, greeted everyone and got the whole auditorium pumped for fall SCORES.
 
 ![DIKevIuXoAAVB4W (1).jpg](/uploads/DIKevIuXoAAVB4W%20(1).jpg)
 
-This year, Coach Kickoff had the pleasure of hosting a number of amazing guest speakers. Poet [C. Thomas](https://www.instagram.com/mr_cthomas/) performed an impactful spoken word piece that truly demonstrated the power of poetry. [Washington Spirit](washingtonspirit.com/) midfielder, [Joanna Lohman](https://twitter.com/JoannaLohman?lang=en), shared with us the importance of inclusion and self-expression. Finally, [Caitlin Barrett](https://twitter.com/BarrettCaitlin?lang=en) from [Up2US Sports](https://www.up2us.org/) demonstrated the importance of research to better serve all of the kids in DC SCORES.
+This year, Coach Kickoff had the pleasure of hosting a number of amazing guest speakers. Poet [C. Thomas](https://www.instagram.com/mr_cthomas/) performed an impactful spoken word piece that truly demonstrated the power of poetry. [Washington Spirit](washingtonspirit.com/) midfielder [Joanna Lohman](https://twitter.com/JoannaLohman?lang=en) shared with us the importance of inclusion and self-expression. Finally, [Caitlin Barrett](https://twitter.com/BarrettCaitlin?lang=en) from [Up2US Sports](https://www.up2us.org/) demonstrated the importance of research to better serve all of the kids in DC SCORES.
 
-As the coaches and volunteers enjoyed their lunch after some great sessions, the program team got ready for the soccer and poetry workshops up next.
+As the coaches and volunteers enjoyed their lunch after some great sessions, the program team got ready for soccer and poetry workshops.
 
 The soccer coaches hit the fields with Community Engagement Coordinator, Lindsey Sharp, Soccer Program Manager, Chris Hudler, and Middle School Program Manager, Will Sutton. Shooting, passing, dribbling, you name it! The soccer coaches showed their game and had fun doing it too.
 
@@ -29,4 +29,4 @@ The poetry coaches spent their time with Chief of Staff Katrina Owens and Blackw
 
 After workshops, the day came to an end as coaches gathered their soccer and writing supplies to start the season on September 5, but not before getting a sweet new DC SCORES shirt to add to their game day wardrobe.
 
-As another edition of Coach Kickoff concludes, a new SCORES season starts thanks to the enthusiasm and commitment from all the coaches and volunteers!
+As another edition of Coach Kickoff concluded, a new SCORES season starts thanks to the enthusiasm and commitment from all the coaches and volunteers!
