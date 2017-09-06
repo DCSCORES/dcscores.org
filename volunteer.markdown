@@ -78,7 +78,8 @@ A day-long celebration of our fall season that includes soccer games and outdoor
 
 **Location:** Trinity University
 
-<a href="[http://events.constantcontact.com/register/event?llr=sr4zb7aab&oeidk=a07eejpmh98f4413586](http://www.google.com/url?q=http%3A%2F%2Fevents.constantcontact.com%2Fregister%2Fevent%3Fllr%3Dsr4zb7aab%26oeidk%3Da07eejpmh98f4413586&sa=D&sntz=1&usg=AFQjCNFdb2h1-AjsPlB1eXzl2YdVK_IOdg)"></i>
+<a href="http://events.constantcontact.com/register/event?llr=sr4zb7aab&oeidk=a07eejpmh98f4413586" class="Article-contentButton" target="_blank">
+<i class="Icon  Icon-document"></i>
 Sign Up
 </a>
 
