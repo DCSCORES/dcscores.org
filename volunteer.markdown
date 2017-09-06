@@ -12,18 +12,18 @@ layout: volunteer
 
 ![Referee](/uploads/volunteer-referee-float-left.jpg)
 
-**Description:**\
+**Description:**
 DC SCORES’ soccer leagues are recreational and small sided (8v8) with an emphasis on sportsmanship and learning. ​Only a basic soccer knowledge is required and training will be given on the basics of our games.  Referee only when you are available.
 
-**Requirements:**\
+**Requirements:**
 For elementary school games, only general knowledge of the game is needed.
 Refs for Friday middle school games should be more comfortable calling fouls and offsides.
 ​Volunteers must be at least 15 years of age.
 
-**When?**\
+**When?**
 3:45 pm to 6:00 pm, Thursdays (Elementary) & Fridays (Middle)
 
-**Where?**\
+**Where?**
 At <a href="/our-program/program-sites/" target="_blank">sites</a> throughout DC. We will do our best to place you based on your location and mode of transportation.
 
 <a href="http://www.americascores.org/affiliates/dc/volunteer/volunteerapplication" class="Article-contentButton" target="_blank">
@@ -39,10 +39,10 @@ Sign Up
 
 ![Assistant coach](/uploads/volunteer-assistant-coach-float-left.jpg)
 
-**Description:**\
+**Description:**
 Help a soccer coach oversee students and run structured practices to build skills and knowledge of the game. Or help a writing coach teach the fundamentals of poetry (fall season) or design and implement the school service-learning project (spring).
 
-**Requirements & process:**\
+**Requirements & process:**
 18 years or older, commit to 1-2 days a week & have a TB test from the last two years.
 
 1. Fill out our volunteer application.
@@ -51,10 +51,10 @@ Help a soccer coach oversee students and run structured practices to build skill
 
 3. Start coaching!
 
-**When?**\
+**When?**
 The fall season runs from September 5-November 22.
 
-**Where?**\
+**Where?**
 At <a href="/our-program/program-sites/" target="_blank">sites</a> throughout DC. We will do our best to place you based on your location and mode of transportation.
 
 <a href="http://www.americascores.org/affiliates/dc/volunteer/volunteerapplication" class="Article-contentButton" target="_blank">
@@ -138,7 +138,7 @@ Sign Up
 
 Check back in the spring of 2018 for next year's application.
 
-**Requirements:**\
+**Requirements:**
 Must be entering your sophomore year of high school, at minimum.
 Apply only for weeks you are able to attend fully, Monday-Friday.
 Students applying to work full camps or multiple weeks will be given priority.
@@ -159,10 +159,10 @@ Sign Up
 
 DC SCORES seeks photographers/videographers to help us capture and tell the stories of our program. We frequently use photographs and video of our students, coaches and volunteers in various marketing materials and online. All skill levels are welcome.
 
-**When?**\
+**When?**
 At your convenience. We always need help at our events, but also photos and videos from daily programming throughout the year.
 
-**Where?**\
+**Where?**
 At sites throughout DC. We will do our best to place you based on your location and mode of transportation.
 
 <a href="http://www.americascores.org/affiliates/dc/volunteer/volunteerapplication" class="Article-contentButton" target="_blank">
