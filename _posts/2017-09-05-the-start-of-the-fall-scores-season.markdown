@@ -15,7 +15,7 @@ For the next 12 weeks, more than 2,200 students in all 8 wards in DC will form t
 
 DC SCORES runs the only consistent public soccer leagues for both elementary and middle school youth in DC. Each team practices twice a week and game days are on Thursdays for elementary schools and Fridays for middle schools.
 
-During our fall season, the DC SCORES poet-athletes get the opportunity to write and perform their creative writing pieces. The season concludes in the annual Poetry Slam! where each school gets to perform their poems on stage
+During our fall season, DC SCORES poet-athletes get the opportunity to write and perform their creative writing pieces. The season concludes with the annual Poetry Slam! where each school gets to perform their poems on stage
 
 ![31201622535_76f349bf5d_o.jpg](/uploads/31201622535_76f349bf5d_o.jpg)
 
@@ -29,13 +29,13 @@ Middle schools have programming three days a week but have the same amount of pr
 **Coaches**
 
 
-There are four coaches per school, two soccer and two writing. DC SCORES hires and trains coaches to run programming at each school. 85% of coaches work at the schools and 70% of them are teachers. Every coach is trained to guide students through a specific, comprehensive curriculum for soccer and writing that includes enrichment modules and soccer practice plans.
+There are four coaches per school, two soccer and two writing. DC SCORES hires and trains coaches to run programming at each school. Eighty-five percent of coaches work at the schools and 70% of them are teachers. Every coach is trained to guide students through a specific, comprehensive curriculum for soccer and writing that includes enrichment modules and soccer practice plans.
 
 **Special Events**
 
 [Fall Frenzy](https://www.youtube.com/watch?v=VymAKyHkIrc), October 14 at Trinity University - Fall Frenzy is a day-long celebration of our fall season that includes soccer games and outdoor activities for our elementary school students and their families.
 
-[Poetry Slam!](https://www.youtube.com/watch?v=V6lNjLysvbE&t=3s), November 15 and 16 - Poetry Slam! is a two-night event, spoken-word competition featuring every participating DC SCORES school. The Westside and Eastside Poetry Slam! showcases original poems performed by the poet-athletes on stage.
+[Poetry Slam!](https://www.youtube.com/watch?v=V6lNjLysvbE&t=3s), November 15 and 16 - Poetry Slam! is a two-night, spoken-word competition featuring every participating DC SCORES school. The Westside and Eastside Poetry Slam! showcases original poems performed by the poet-athletes on stage.
 
 ![33824262381_9ac6e461f1_o.jpg](/uploads/33824262381_9ac6e461f1_o.jpg)
 
@@ -45,7 +45,7 @@ There are many ways to be a part of our team this fall:
 
 * Volunteer as a [referee](http://www.americascores.org/affiliates/dc/volunteer/volunteerapplication): DC SCORES’ soccer leagues are recreational and small sided (8v8) with an emphasis on sportsmanship and learning.
 
-* Help out during [Fall Frenzy](https://www.dcscores.org/volunteer/)!
+* Help during [Fall Frenzy](https://www.dcscores.org/volunteer/)!
 
 * [Give](https://connect.clickandpledge.com/w/Form/38684abc-e195-4fdb-aef3-2ed5aeb51d61?636153321160038799) a DC child a voice and the power of self-expression!
 
