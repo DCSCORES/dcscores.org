@@ -1,6 +1,6 @@
 ---
 title: Jake Lloyd
-position: 10
+position: 11
 Details: Director of Digital Communications & Campaigns
 Email: jlloyd@dcscores.org
 Profile Image: "/uploads/profile--jake-lloyd.jpg"
