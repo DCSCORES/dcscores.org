@@ -5,9 +5,9 @@ Top Image: "/assets/images/masthead-program-sites.jpg"
 Top Image Position: 50% 50%
 programSites:
 - |-
-  DC SCORES enrolls 2,200 students between the ages of eight and 15. Our program engages approximately 30 students each day at 55 schools and recreation center-based sites in all eight of the District of Columbia’s wards.
+  DC SCORES enrolls 2,200 students between the ages of eight and 15. Our program engages approximately 30 students each day at 58 schools and recreation center-based sites in all eight of the District of Columbia’s wards.
 
-  Click on the interactive map below to see all our sites and click <a href="/uploads/Sites%20list.pdf"_blank">here</a> to download our most recent sites list. Fall 2017 list coming soon!
+  Click on the interactive map below to see all our sites and go to <a href="http://www.dcscores.org">here</a> to download our most recent sites list. Fall 2017 list coming soon!
 layout: program-sites
 ---
 
