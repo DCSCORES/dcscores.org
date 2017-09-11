@@ -7,4 +7,4 @@ Image Position: 50% 50%
 Link: https://www.dcscores.org/blog/2017/09/the-start-of-the-fall-scores-season
 ---
 
-Learn more about the Fall SCORES programming
+Learn more about Fall SCORES programming
