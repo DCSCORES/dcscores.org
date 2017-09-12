@@ -8,4 +8,4 @@ Profile Image: "/uploads/IMG_3895.JPG"
 Section: staff
 ---
 
-Lorena is a Las Vegas native who previously worked for DC SCORES as Communications Intern. In her new role, Lorena supports the program and communications teams, as well as serving as the liaison for the Latino community. She’s received a Bachelor’s degree in Journalism and Media Studies, as well as one in Spanish, from the University of Nevada, Las Vegas. After graduating from UNLV, she moved to D.C. to complete her Master’s degree in Sports Industry Management from Georgetown University.
+Lorena is a Las Vegas native who previously worked for DC SCORES as the Communications Intern. In her new role, Lorena supports the program and communications teams, as well as serving as the liaison for the Latino community. She’s received a Bachelor’s degree in Journalism and Media Studies, as well as one in Spanish, from the University of Nevada, Las Vegas. After graduating from UNLV, she moved to D.C. to complete her Master’s degree in Sports Industry Management from Georgetown University.
