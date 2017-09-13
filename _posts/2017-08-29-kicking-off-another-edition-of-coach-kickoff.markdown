@@ -15,6 +15,7 @@ What do you get when you combine DC SCORES, guest speakers, workshops, coffee, a
 
 As tradition dictates, DC SCORES gathered coaches and volunteers before programming starts for a fun-filled Saturday on August 26 at [Truesdell Education Campus](http://profiles.dcps.dc.gov/Truesdell\+Education\+Campus). From 8:30 am to 3:30 pm, new and returning volunteers and coaches showed their enthusiasm for another successful SCORES season by actively participating in all of the ice breakers and informational sessions throughout the day.
 
+
 To kick things off, Sean Hinkle, Chief Program Officer, and Charity Blackwell, the new Director of Writing, greeted everyone and got the whole auditorium pumped for fall SCORES.
 
 ![DIKevIuXoAAVB4W (1).jpg](/uploads/DIKevIuXoAAVB4W%20(1).jpg)
