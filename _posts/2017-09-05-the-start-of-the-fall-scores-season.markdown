@@ -13,6 +13,7 @@ Today DC SCORES kicks off its 23rd fall SCORES season!
 
 For the next 12 weeks, more than 2,200 students in all 8 wards in DC will form teams on the field and in the classroom by participating in soccer and poetry and creative writing activities. DC SCORES’ poet-athletes are instilled the core values of Teamwork, Leadership, and Commitment while also emphasizing the importance of sportsmanship.
 
+
 DC SCORES runs the only consistent public soccer leagues for both elementary and middle school youth in DC. Each team practices twice a week and game days are on Thursdays for elementary schools and Fridays for middle schools.
 
 During our fall season, DC SCORES poet-athletes get the opportunity to write and perform their creative writing pieces. The season concludes with the annual Poetry Slam! where each school gets to perform their poems on stage
