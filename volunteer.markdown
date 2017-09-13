@@ -26,6 +26,9 @@ Refs for Friday middle school games should be more comfortable calling fouls and
 **Where?**
 At <a href="/our-program/program-sites/" target="_blank">sites</a> throughout DC. We will do our best to place you based on your location and mode of transportation.
 
+**Schedule**
+See the latest schedule on our <a href="https://www.dcscores.org/our-program/participants/" target="_blank">participants page</a>
+
 <a href="http://www.americascores.org/affiliates/dc/volunteer/volunteerapplication" class="Article-contentButton" target="_blank">
 <i class="Icon  Icon-document"></i>
 Sign Up
