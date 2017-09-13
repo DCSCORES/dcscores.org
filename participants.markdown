@@ -19,7 +19,7 @@ forFamilies:
 - |-
   ## For Families
 
-  DC SCORES is free to all participants. Register your child/children for the next DC SCORES programming season (we’re year-round).
+  DC SCORES is free to all participants. <a href="http://register.dcscores.org" target="_blank">Register your child/children</a> for the next DC SCORES programming season (we’re year-round).
 
   Work at a school interested in having DC SCORES? Print out the <a href="/uploads/dc-scores-new-school-application-2017.pdf" target="_blank">application form</a>.
 programAlumni:
