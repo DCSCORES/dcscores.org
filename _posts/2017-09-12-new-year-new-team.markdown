@@ -44,24 +44,24 @@ The new members that are new to DC SCORES have fit in seamlessly since they step
 
 * My time so far at DC SCORES has been extremely busy, yet overwhelmingly fulfilling.  I love my work, my team, and the communities we serve! I could not ask to be in a better place!
 
-[Lorena Palacios, Latino Engagement Fellow](https://www.dcscores.org/about-us/leadership/lorena-palacios)
+[Lorena Palacios, Latino Engagement Fellow (former communications intern)](https://www.dcscores.org/about-us/leadership/lorena-palacios)
 
 * I’m beyond grateful for the team for believing in me and offering me a chance to join them full-time. It’s been a great summer with DC SCORES as an intern and I’m so excited for the seasons to come!
 
-[Lindsey Sharp, Community Engagement Coordinator](https://www.dcscores.org/about-us/leadership/lindsey-sharp)
+[Lindsey Sharp, Community Engagement Coordinator (former Soccer Coordnator)](https://www.dcscores.org/about-us/leadership/lindsey-sharp)
 
 * Most of all, I'm looking forward to effectively engaging the larger community in my new role. Our volunteers allow us to serve as many kids as we do and become part of our tight-knit DC SCORES family - because of their commitment I'm excited to learn more about them and keep each team member involved in our mission.
 
-[Ivan "Vanya" Klein, Soccer Coordinator](https://www.dcscores.org/about-us/leadership/vanya-klein)
+[Ivan "Vanya" Klein, Soccer Coordinator (former summer camp counselor)](https://www.dcscores.org/about-us/leadership/vanya-klein)
 
 * One of the greatest teams I've worked with off the pitch. As a new member, I feel a lot of support. I can see and feel the passion from everyone. Very excited for this year!
 
-[Will Sutton, Middle School Program Manager](https://www.dcscores.org/about-us/leadership/will-sutton)
+[Will Sutton, Middle School Program Manager (former Program Manager at Truesdell EC)](https://www.dcscores.org/about-us/leadership/will-sutton)
 
 * The work that DC SCORES does for the kids, parents, and communities is the reason I wake up every morning excited to make a difference.
 
 ![Image.jpeg](/uploads/Image.jpeg)
 
-In just about a month, the brand new staff has been busy with staff retreats, [Coach Kickoff](https://www.dcscores.org/blog/2017/08/kicking-off-another-edition-of-coach-kickoff), countless meetings, and many outward community events in preparation for the [fall SCORES](https://www.dcscores.org/blog/2017/09/the-start-of-the-fall-scores-season) season. With the biggest DC SCORES staff ever, the team is ready to serve the largest amount of kids ever in the program’s 59 sites across all eight wards.
+In just about a month, the new staff has been busy with staff retreats, [Coach Kickoff](https://www.dcscores.org/blog/2017/08/kicking-off-another-edition-of-coach-kickoff), countless meetings, and many outward community events in preparation for the [fall SCORES](https://www.dcscores.org/blog/2017/09/the-start-of-the-fall-scores-season) season. With the biggest DC SCORES staff ever, the team is ready to serve the largest amount of kids ever at the program’s 59 sites across all eight wards in the District.
 
 It’s true what they say, “teamwork makes the dream work.”
