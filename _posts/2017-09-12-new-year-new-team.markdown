@@ -9,13 +9,13 @@ Author: Lorena Palacios
 Thumbnail Image: "/uploads/IMG_4483-054072.JPG"
 ---
 
-Every season kids in DC get the opportunity to build teams with returning teammates and new additions with the same goal of being the best team possible. For the DC SCORES staff, this is no different.
+Every season, kids in DC get the opportunity to build teams with returning teammates and new additions with the same goal of being the best team possible. For the DC SCORES staff, this is no different.
 
-As new opportunities guided some long-time staff members on different paths, the DC SCORES staff is now a bigger and more impressive team that’s excited for the seasons to come.
+As new opportunities guided some long-time staff members on different paths, the DC SCORES staff is now a bigger and even more impressive team that’s excited for the seasons to come.
 
 ![Image-1.jpeg](/uploads/Image-1.jpeg)
 
-Nine new staff members joined the team, filling in vacant roles and also creating brand new roles within the organization. Each member bringing their fresh ideas, diverse background, and previous experiences to maintain the high-quality programming DC SCORES offers.
+Nine new staff members joined the team, filling in vacant roles and also creating brand new roles within the organization. The members bring fresh ideas and come from diverse backgrounds, which will help guide us in continuing to elevate our high-quality programming across Washington, DC. 
 
 
 Each new staff member shared what their experience with the organization has been like since they started their new role:
@@ -30,17 +30,17 @@ Each new staff member shared what their experience with the organization has bee
 
 [Owen Maguire, Communications Fellow](https://www.dcscores.org/about-us/leadership/owen-maguire)
 
-* My first couple weeks at DC SCORES have been amazing so far! I love our coffee fix tradition; gotta get my dark roast.
+* My first couple weeks at DC SCORES have been amazing so far! I love our (Staff Fun) coffee fix tradition; gotta get my dark roast.
 
 [Maria Marroquin, Program Coordinator](https://www.dcscores.org/about-us/leadership/maria-marroquin)
 
 * DC SCORES' values of commitment, leadership, and teamwork transcend the office space; the team lives through these values and it is reflected in the work I have seen in the schools and communities. It's great to work with such a powerful group of people all passionate about the organization's mission.
 
-The new members that are brand new to DC SCORES have fit in seamlessly since they stepped through the front door on their first day. As exciting as all the new additions are, it is great to see how many of the new roles are filled with people that are already familiar with the work done at DC SCORES.
+The new members that are new to DC SCORES have fit in seamlessly since they stepped through the front door on their first day. As exciting as all the new additions are, it is also great to see how many of the new roles are filled with people that were familiar with the work done at DC SCORES before joining us. 
 
 ![FullSizeRender-f09887.jpg](/uploads/FullSizeRender-f09887.jpg)
 
-[Charity Blackwell, Director of Writing](https://www.dcscores.org/about-us/leadership/charity-blackwell)
+[Charity Blackwell, Director of Writing and former AmeriCorps member and Poetry Slam! emcee extraordinaire](https://www.dcscores.org/about-us/leadership/charity-blackwell)
 
 * My time so far at DC SCORES has been extremely busy, yet overwhelmingly fulfilling.  I love my work, my team, and the communities we serve! I could not ask to be in a better place!
 
