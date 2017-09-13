@@ -17,6 +17,7 @@ As new opportunities guided some long-time staff members on different paths, the
 
 Nine new staff members joined the team, filling in vacant roles and also creating brand new roles within the organization. Each member bringing their fresh ideas, diverse background, and previous experiences to maintain the high-quality programming DC SCORES offers.
 
+
 Each new staff member shared what their experience with the organization has been like since they started their new role:
 
 [Katie Lu Clougherty, Program Data Coordinator](https://www.dcscores.org/about-us/leadership/katie-lu-clougherty)
