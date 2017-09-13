@@ -40,7 +40,7 @@ The new members that are new to DC SCORES have fit in seamlessly since they step
 
 ![FullSizeRender-f09887.jpg](/uploads/FullSizeRender-f09887.jpg)
 
-[Charity Blackwell, Director of Writing and former AmeriCorps member and Poetry Slam! emcee extraordinaire](https://www.dcscores.org/about-us/leadership/charity-blackwell)
+[Charity Blackwell, Director of Writing (former AmeriCorps member and Poetry Slam! emcee extraordinaire)](https://www.dcscores.org/about-us/leadership/charity-blackwell)
 
 * My time so far at DC SCORES has been extremely busy, yet overwhelmingly fulfilling.  I love my work, my team, and the communities we serve! I could not ask to be in a better place!
 
