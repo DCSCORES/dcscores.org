@@ -19,6 +19,7 @@ In the longest running DC SCORES summer camp of the season, Truesdell Education 
 
 For five weeks, the education campus in NW kept the minds and bodies of DC kids active through soccer, arts and crafts, field trips, and many more fun activities. More than just giving kids something to do during the summer months, this camp offered new learning opportunities for everyone.
 
+
 It is not every day that kids get to learn about drumming, or how to make fruit sushi, or visit the [National Arboretum](http://www.usna.usda.gov/). The opportunity to wake up and learn about how bees make honey at the [Washington Youth Garden](http://www.washingtonyouthgarden.org/) is something special that the Truesdell summer camp offered to all campers.
 
 More importantly, the kids learned about themselves and their fellow campers.
