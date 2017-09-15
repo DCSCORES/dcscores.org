@@ -12,8 +12,7 @@ soccerSchedule:
   September 15\n4:00pm kick-off; girls game followed by boys\n\n- EL Haynes at Capital
   City\n\n- La Salle at Chavez-Prep\n\n- Raymond at DCI\n\n- Truesdell at Inspired
   Teaching\n\n- Basis at KIPP KEY\n\n- MacFarland at KIPP WILL\n\n- Lincoln at Brightwood\n\n**COED**\n\n4:00pm
-  kick-off\n\n- Inspired Teaching at Jefferson\n\n- Hart at Kelly Miller\n\n- Cardozo
-  at Leckie"
+  kick-off\n\n- Inspired Teaching at Jefferson\n\n- Cardozo at Leckie"
 soccerScheduleMap: "/uploads/image-program-sites-map.png"
 forFamilies:
 - |-
