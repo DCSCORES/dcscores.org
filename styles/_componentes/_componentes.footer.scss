@@ -98,6 +98,7 @@
       .Footer-mainSecondaryTitle {
         display: block;
 
+        margin-top: 0;
         margin-bottom: 1em;
 
         font-size: 1.1rem;
@@ -108,6 +109,27 @@
           font-size: 1.2rem;
         }
       }
+
+      .Footer-mainSecondaryAwards {
+        display: block;
+        width: 100%;
+      }
+
+        .Footer-mainSecondaryAwardsBadge {
+          display: block;
+
+          margin-top: 3.5em;
+          margin-left: -1.5em;
+
+          width: 120px;
+
+          transform: rotate(-4deg);
+
+          @media (min-width: 48em) {
+            margin-left: -1.75em;
+            width: 148px;
+          }
+        }
 
       .Footer-mainSecondaryActions {
         position: relative;
