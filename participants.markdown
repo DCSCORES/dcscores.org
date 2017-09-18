@@ -9,10 +9,7 @@ soccerSchedule:
   Additionally, beginning in the fall of 2016, DC SCORES is running the DC SCORES
   City League, a District-wide recreation center soccer league run in partnership
   with the DC Department of Parks and Recreation. \n\n#### Middle School - Friday,
-  September 15\n4:00pm kick-off; girls game followed by boys\n\n- EL Haynes at Capital
-  City\n\n- La Salle at Chavez-Prep\n\n- Raymond at DCI\n\n- Truesdell at Inspired
-  Teaching\n\n- Basis at KIPP KEY\n\n- MacFarland at KIPP WILL\n\n- Lincoln at Brightwood\n\n**COED**\n\n4:00pm
-  kick-off\n\n- Inspired Teaching at Jefferson\n\n- Cardozo at Leckie"
+  September 22\n4:00pm kick-off; girls game followed by boys\n\n- Basis at KIPP KEY"
 soccerScheduleMap: "/uploads/image-program-sites-map.png"
 forFamilies:
 - |-
