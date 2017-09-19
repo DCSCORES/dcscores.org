@@ -29,11 +29,6 @@ At <a href="/our-program/program-sites/" target="_blank">sites</a> throughout DC
 **Schedule**
 See the latest schedule on our <a href="https://www.dcscores.org/our-program/participants/" target="_blank">participants page</a>
 
-<a href="http://www.americascores.org/affiliates/dc/volunteer/volunteerapplication" class="Article-contentButton" target="_blank">
-<i class="Icon  Icon-document"></i>
-Sign Up
-</a>
-
 ---
 
 <span id="volunteer-assistant-coach"></span>
@@ -59,11 +54,6 @@ The fall season runs from September 5-November 22.
 
 **Where?**
 At <a href="/our-program/program-sites/" target="_blank">sites</a> throughout DC. We will do our best to place you based on your location and mode of transportation.
-
-<a href="http://www.americascores.org/affiliates/dc/volunteer/volunteerapplication" class="Article-contentButton" target="_blank">
-<i class="Icon  Icon-document"></i>
-Sign Up
-</a>
 
 ---
 
@@ -96,11 +86,6 @@ This two-night, spoken-word competition features DC SCORES students performing t
 
 **Dates:** November 15 & 16
 
-<a href="http://www.americascores.org/affiliates/dc/volunteer/volunteerapplication" class="Article-contentButton" target="_blank">
-<i class="Icon  Icon-document"></i>
-Sign Up
-</a>
-
 ---
 
 ![Jamboree](/uploads/volunteer-jamboree-float-left-small.jpg)
@@ -111,11 +96,6 @@ The culminating event of the DC SCORES programming year, filled with soccer game
 
 **Date:** Saturday, June 2, 2018
 
-<a href="http://www.americascores.org/affiliates/dc/volunteer/volunteerapplication" class="Article-contentButton" target="_blank">
-<i class="Icon  Icon-document"></i>
-Sign Up
-</a>
-
 ---
 
 ![DC SCORES Cup](/uploads/volunteer-scores-cup-float-right.jpg)
@@ -125,11 +105,6 @@ Sign Up
 Our largest fundraiser – an annual adult soccer tournament made up of local companies, law firms, small businesses and soccer organizations. Volunteer roles include setup/breakdown, registration, field marshals, lunch servers, and photography.
 
 **Date:** June 23, 2018
-
-<a href="http://www.americascores.org/affiliates/dc/volunteer/volunteerapplication" class="Article-contentButton" target="_blank">
-<i class="Icon  Icon-document"></i>
-Sign Up
-</a>
 
 ---
 
@@ -147,11 +122,6 @@ Apply only for weeks you are able to attend fully, Monday-Friday.
 Students applying to work full camps or multiple weeks will be given priority.
 Experience working with kids is a plus.
 
-<a href="http://www.americascores.org/affiliates/dc/volunteer/volunteerapplication" class="Article-contentButton" target="_blank">
-<i class="Icon  Icon-document"></i>
-Sign Up
-</a>
-
 ---
 
 <span id="volunteer-other"></span>
@@ -167,8 +137,3 @@ At your convenience. We always need help at our events, but also photos and vide
 
 **Where?**
 At sites throughout DC. We will do our best to place you based on your location and mode of transportation.
-
-<a href="http://www.americascores.org/affiliates/dc/volunteer/volunteerapplication" class="Article-contentButton" target="_blank">
-<i class="Icon  Icon-document"></i>
-Sign Up
-</a>
