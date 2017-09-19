@@ -24,9 +24,11 @@
       </form>
 
       <div class="Footer-mainSecondaryAwards">
-        <a href="https://www.cfp-dc.org/nonprofits/1328/DC-SCORES" class="Footer-mainSecondaryAwardsLink" target="_blank">
-          <img src="/assets/images/cfp-badge.png" class="Footer-mainSecondaryAwardsLinkBadge" alt="">
+        {% for badge in page["Footer Badges"] %}
+        <a href="{{ badge["Link"] }}" class="Footer-mainSecondaryAwardsLink" target="_blank">
+          <img src="{{ badge["Image"] }}" class="Footer-mainSecondaryAwardsLinkBadge" alt="">
         </a>
+        {% endfor %}
       </div>
 
       <div class="Footer-mainSecondaryActions">

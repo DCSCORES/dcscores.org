@@ -15,5 +15,8 @@ Featured Event:
   Box Alignment: Left
   Box Color: "#fec737"
   Box Contrast: Dark
+Footer Badges:
+- Image: "/assets/images/cfp-badge.png"
+  Link: https://www.cfp-dc.org/nonprofits/1328/DC-SCORES
 ---
 

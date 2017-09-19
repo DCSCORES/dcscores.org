@@ -111,12 +111,16 @@
       }
 
       .Footer-mainSecondaryAwards {
-        display: block;
+        display: flex;
       }
 
         .Footer-mainSecondaryAwardsLink {
-          display: inline-block;
+          display: block;
           margin-top: 3.75em;
+
+          &:not(:last-child) {
+            margin-right: 1.5em;
+          }
 
           &:focus .Footer-mainSecondaryAwardsLinkBadge,
           &:hover .Footer-mainSecondaryAwardsLinkBadge {
