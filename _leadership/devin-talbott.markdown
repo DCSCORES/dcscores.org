@@ -1,6 +1,6 @@
 ---
 title: Devin Talbott
-position: 36
+position: 37
 Details: Enlightenment Capital
 Link: http://enlightenment-cap.com/people.php
 Section: board
