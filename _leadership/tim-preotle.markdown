@@ -1,6 +1,6 @@
 ---
 title: Tim Preotle
-position: 51
+position: 52
 Details: JTP Capital Management
 Section: advisory
 ---
