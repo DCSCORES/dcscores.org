@@ -112,13 +112,11 @@
 
       .Footer-mainSecondaryAwards {
         display: block;
-
-        text-align: center;
       }
 
         .Footer-mainSecondaryAwardsLink {
           display: inline-block;
-          margin-top: 3.5em;
+          margin-top: 3.75em;
 
           &:focus .Footer-mainSecondaryAwardsLinkBadge,
           &:hover .Footer-mainSecondaryAwardsLinkBadge {
@@ -131,7 +129,6 @@
 
             width: 128px;
 
-            transform: rotate(-4deg);
             transition: transform 0.15s ease;
 
             @media (min-width: 48em) {
