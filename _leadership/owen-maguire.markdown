@@ -1,7 +1,7 @@
 ---
 title: Owen Maguire
 date: 2017-08-30 19:45:00 Z
-position: 12
+position: 13
 Details: Communications Fellow
 Email: omaguire@dcscores.org
 Profile Image: "/uploads/unnamed%20(6).jpg"

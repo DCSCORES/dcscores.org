@@ -1,6 +1,6 @@
 ---
 title: Tony Francavilla
-position: 5
+position: 6
 Details: Director of Individual Gifts & Corporate Partnerships
 Email: afrancavilla@dcscores.org
 Profile Image: "/uploads/profile--tony-francavilla.jpg"
