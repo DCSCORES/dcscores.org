@@ -45,7 +45,7 @@ History:
     becoming the official community partner of the Major League soccer team.
   Image: "/uploads/image-history--dcunited.jpg"
 - Year: 2017
-  Description: Serve 2,200 kids in all eight wards of Washington, DC. Have a waiting
+  Description: Serve 2,500 kids in all eight wards of Washington, DC. Have a waiting
     list of more than 20 schools.
 bottomText:
 - Julie Kennedy, a former teacher at Marie Reed Learning Center, invented this complementary
@@ -58,7 +58,7 @@ americaScores:
 - |-
   #### America SCORES
 
-  The program quickly expanded throughout DC, and in 1999 Kennedy began sites in Boston and Chicago, thus creating America SCORES, headquarters to 13 programs across the United States and Canada: Bay Area, Chicago, Cleveland, Denver, Los Angeles, Milwaukee, New England, New York, Portland, St. Louis, Seattle, Vancouver, and Washington, DC.
+  The program quickly expanded throughout DC, and in 1999 Kennedy began sites in Boston and Chicago, thus creating America SCORES, headquarters to 12 programs across the United States and Canada: Bay Area, Chicago, Cleveland, Los Angeles, Milwaukee, New England, New York, Portland, St. Louis, Seattle, Vancouver, and Washington, DC.
 layout: mission-and-history
 ---
 
