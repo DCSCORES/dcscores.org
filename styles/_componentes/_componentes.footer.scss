@@ -112,24 +112,32 @@
 
       .Footer-mainSecondaryAwards {
         display: block;
-        width: 100%;
+
+        text-align: center;
       }
 
-        .Footer-mainSecondaryAwardsBadge {
-          display: block;
-
+        .Footer-mainSecondaryAwardsLink {
+          display: inline-block;
           margin-top: 3.5em;
-          margin-left: -1.5em;
 
-          width: 120px;
-
-          transform: rotate(-4deg);
-
-          @media (min-width: 48em) {
-            margin-left: -1.75em;
-            width: 148px;
+          &:focus .Footer-mainSecondaryAwardsLinkBadge,
+          &:hover .Footer-mainSecondaryAwardsLinkBadge {
+            transform: scale(1.05);
           }
         }
+
+          .Footer-mainSecondaryAwardsLinkBadge {
+            display: block;
+
+            width: 128px;
+
+            transform: rotate(-4deg);
+            transition: transform 0.15s ease;
+
+            @media (min-width: 48em) {
+              width: 148px;
+            }
+          }
 
       .Footer-mainSecondaryActions {
         position: relative;
