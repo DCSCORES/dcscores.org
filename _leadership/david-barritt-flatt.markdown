@@ -1,6 +1,6 @@
 ---
 title: David Barritt-Flatt
-position: 22
+position: 21
 Details: Sustainability Chair, Clark Construction Group, LLC
 Section: board
 ---

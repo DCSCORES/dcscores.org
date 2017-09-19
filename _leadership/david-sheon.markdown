@@ -1,6 +1,6 @@
 ---
 title: David Sheon
-position: 26
+position: 25
 Details: Sustainability Vice Chair, WHITECOAT Strategies
 Link: https://www.linkedin.com/in/davidsheon/
 Section: board
