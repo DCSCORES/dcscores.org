@@ -8,8 +8,14 @@ soccerSchedule:
   public school soccer leagues for both boys and girls in the District of Columbia.
   Additionally, beginning in the fall of 2016, DC SCORES is running the DC SCORES
   City League, a District-wide recreation center soccer league run in partnership
-  with the DC Department of Parks and Recreation. \n\n#### Middle School - Friday,
-  September 22\n4:00pm kick-off; girls game followed by boys\n\n- Basis at KIPP KEY"
+  with the DC Department of Parks and Recreation. \n\n#### Elementary Schools - Thursday,
+  September 21\n4:00pm kick-off; girls game followed by boys\n\n- Smothers at Aiton\n\n-
+  Orr at Beers\n\n- Amidon at Burrville\n\n- Bancroft at Cap City\n\n- Barnard at
+  Imagine Hope-Lamond\n\n- JC Nalle at KIPP Quest\n\n- Kimball at Leckie\n\n- Brightwood
+  at Raymond\n\n- Bruce-Monroe at Reed\n\n- HD Cooke at Seaton\n\n- Imagine-Hope Tolson
+  at Thomas\n\n- LaSalle at Truesdell\n\n- Powell at Tubman\n\n- Miner at Turner\n\n-
+  Thomson at Walker-Jones\n\n#### Middle Schools - Friday, September 22\n4:00pm kick-off;
+  girls game followed by boys\n\n- Basis at KIPP KEY"
 soccerScheduleMap: "/uploads/image-program-sites-map.png"
 forFamilies:
 - |-
