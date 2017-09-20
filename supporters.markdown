@@ -10,6 +10,7 @@ League Champions:
 - U.S. Soccer Foundation
 Team Champions:
 - Morris & Gwendolyn Cafritz Foundation
+- Ralph S. and Frances R. Dweck Family Foundation, Inc.
 - The John G. and Jean R. Gosnell Foundation
 - Eugene & Agnes E. Meyer Foundation
 - United Way of the National Capital Region
@@ -31,13 +32,14 @@ Mvps:
 - Blank Rome LLP
 - Herb Block Foundation
 - BrightView
-- Coons of Silver Spring
+- Clark Construction
 - Cresa Washington DC
-- D.C. Mayor’s Office on Latino Affairs (OLA)
+- D.C. Mayor’s Office on Latino Affairs (MOLA)
 - The Diplomat Group
 - District Sports
-- Lainoff Family Foundation
 - Richard E. and Nancy P. Marriott Foundation
+- Lainoff Family Foundation
+- Koons of Silver Spring
 - The George Preston Marshall Foundation
 - Morningstar Philanthropic Fund
 - PriceWaterhouseCoopers
@@ -50,8 +52,8 @@ Fans:
 - Katherine and David Bradley
 - CenturyLink
 - Chipotle
-- Clark Construction
 - Clark-Winchcole Foundation
+- Congressional Bank
 - The Andrea L. Custis Family Fund
 - Max and Victoria Dreyfus Foundation
 - Enlightenment Capital
@@ -67,6 +69,7 @@ Fans:
 - Moore & Van Allen
 - Nando’s Restaurant Group
 - Nike
+- Pepco/Exelon
 - Promontory Financial Group
 - RSN
 - TD Bank (TD Charitable Foundation)
@@ -88,7 +91,6 @@ Supporters:
 - Jacob & Charlotte Lehrman Foundation
 - Meltzer Group Employee Giving Fund
 - Mount Vernon Place United Methodist Church
-- Pepco/Exelon
 - Phase One
 - Howard and Geraldine Polinger Family Foundation
 - Training Resources Group
@@ -123,14 +125,13 @@ League Of Champions:
 - David Barritt-Flatt
 - Ben Brewster
 - Anthony Brown
-- Chris Bruneau
 - David and Brigitte Burgett
 - James Cain
-- Kyra Cheremeteff and Tom Richardson
+- Elle Carne
 - Ronya Corey and Devon McFadden
 - Mark Cowan
-- Andrea Custis
 - Timothy J.H. Delaney
+- Alex Diaz-Asper
 - Clem Dinsmore
 - Loretta DiPietro
 - Kelly Dragelin
@@ -139,12 +140,13 @@ League Of Champions:
 - Kemba Ford
 - Tony Francavilla
 - Steve and Michelle Goodman
-- John Graebner
 - Jay and Cheryl Grauberger
+- Andrew Howell
 - Tom Hunt
 - Paul Jackson and Tracey Rutnik
 - Cal and Barbara Klausner
 - Sam Klausner
+- Ian Kline
 - Dan and Kathleen Knise
 - Lisa Koteen Gerchick
 - Carl Kravitz and Elizabeth Werner
@@ -161,14 +163,21 @@ League Of Champions:
 - Amy Nakamoto
 - David and Paige Nicol
 - Walter and Christine Okpych
+- Olga Palacios
+- Skye Perryman
 - Tim Preotle
+- Julia Rao
 - Stephen Replogle and Skye Earls
 - Chris Richardson
 - Gene Sachs
+- Anna Schneider
 - Bruce Schulman
 - Arlene Selber
 - David Sheon
+- Perri Smith
+- Devin Talbott
 - Pierre Vigilance
+- Erich Walizer
 layout: supporters
 ---
 
