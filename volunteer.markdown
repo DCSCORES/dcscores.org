@@ -29,6 +29,9 @@ At <a href="/our-program/program-sites/" target="_blank">sites</a> throughout DC
 **Schedule**
 See the latest schedule on our <a href="https://www.dcscores.org/our-program/participants/" target="_blank">participants page</a>
 
+**Want to get involved?**
+Contact Lindsey Sharp at lsharp@dcscores.org
+
 ---
 
 <span id="volunteer-assistant-coach"></span>
@@ -54,6 +57,9 @@ The fall season runs from September 5-November 22.
 
 **Where?**
 At <a href="/our-program/program-sites/" target="_blank">sites</a> throughout DC. We will do our best to place you based on your location and mode of transportation.
+
+**Want to get involved?**
+Contact Lindsey Sharp at lsharp@dcscores.org
 
 ---
 
@@ -86,6 +92,9 @@ This two-night, spoken-word competition features DC SCORES students performing t
 
 **Dates:** November 15 & 16
 
+**Want to get involved?**
+Contact Lindsey Sharp at lsharp@dcscores.org
+
 ---
 
 ![Jamboree](/uploads/volunteer-jamboree-float-left-small.jpg)
@@ -95,6 +104,9 @@ This two-night, spoken-word competition features DC SCORES students performing t
 The culminating event of the DC SCORES programming year, filled with soccer games, arts and crafts, and more for DC SCORES students and their families.
 
 **Date:** Saturday, June 2, 2018
+
+**Want to get involved?**
+Contact Lindsey Sharp at lsharp@dcscores.org
 
 ---
 
@@ -137,3 +149,6 @@ At your convenience. We always need help at our events, but also photos and vide
 
 **Where?**
 At sites throughout DC. We will do our best to place you based on your location and mode of transportation.
+
+**Want to get involved?**
+Contact Lindsey Sharp at lsharp@dcscores.org
