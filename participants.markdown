@@ -9,13 +9,17 @@ soccerSchedule:
   Additionally, beginning in the fall of 2016, DC SCORES is running the DC SCORES
   City League, a District-wide recreation center soccer league run in partnership
   with the DC Department of Parks and Recreation. \n\n#### Elementary Schools - Thursday,
-  September 21\n4:00pm kick-off; girls game followed by boys\n\n- Smothers at Aiton\n\n-
-  Orr at Beers\n\n- Amidon at Burrville\n\n- Bancroft at Capital City\n\n- Barnard
-  at Imagine Hope-Lamond\n\n- JC Nalle at KIPP Quest\n\n- Kimball at Leckie\n\n- Brightwood
-  at Raymond\n\n- Bruce-Monroe at Reed\n\n- HD Cooke at Seaton\n\n- Imagine-Hope Tolson
-  at Thomas\n\n- LaSalle at Truesdell\n\n- Powell at Tubman\n\n- Miner at Turner\n\n-
-  Thomson at Walker-Jones\n\n#### Middle Schools - Friday, September 22\n4:00pm kick-off;
-  girls game followed by boys\n\n- Basis at KIPP KEY"
+  September 28\n4:00pm kick-off; girls game followed by boys\n\n- Imagine-Hope Tolson
+  at Aiton\n\n- Orr at Amidon-Bowen\n\n- Barnard at Capital City\n\n- Brightwood at
+  Imagine-Hope Lamond\n\n- Smothers at JC Nalle\n\n- Burrville at KIPP Quest\n\n-
+  Turner at Leckie\n\n- Miner at Moten\n\n- Bruce-Monroe at Raymond\n\n- HD Cooke
+  at Reed\n\n- LaSalle at Seaton\n\n- Kimball at Thomas\n\n- Powell at Truesdell\n\n-
+  Thomson at Tubman\n\n- Bancroft at Walker-Jones\n\n#### Middle Schools - Friday,
+  September 29\n4:00pm kick-off; girls game followed by boys\n\n- MacFarland at Brightwood\n\n-
+  Truesdell at Capital City\n\n- EL Hayes at Chavez-Prep\n\n- Raymond at KIPP KEY\n\n-
+  DCI at KIPP WILL\n\n- LaSalle at Lincoln \n\n**COED**\n\n4:00PM kick-off\n\n- Paul
+  Public at Hart\n\n- KIPP AIM at Jefferson\n\n- Cardozo at Kelly Miller\n\n- Inspired
+  Teaching at Leckie"
 soccerScheduleMap: "/uploads/image-program-sites-map.png"
 forFamilies:
 - |-
