@@ -8,18 +8,18 @@ soccerSchedule:
   public school soccer leagues for both boys and girls in the District of Columbia.
   Additionally, beginning in the fall of 2016, DC SCORES is running the DC SCORES
   City League, a District-wide recreation center soccer league run in partnership
-  with the DC Department of Parks and Recreation. \n\n#### Elementary Schools - Thursday,
-  September 28\n4:00pm kick-off; girls game followed by boys\n\n- Imagine-Hope Tolson
-  at Aiton\n\n- Orr at Amidon-Bowen\n\n- Barnard at Capital City\n\n- Brightwood at
-  Imagine-Hope Lamond\n\n- Smothers at JC Nalle\n\n- Burrville at KIPP Quest\n\n-
-  Turner at Leckie\n\n- Miner at Moten\n\n- Bruce-Monroe at Raymond\n\n- HD Cooke
-  at Reed\n\n- LaSalle at Seaton\n\n- Kimball at Thomas\n\n- Powell at Truesdell\n\n-
-  Thomson at Tubman\n\n- Bancroft at Walker-Jones\n\n#### Middle Schools - Friday,
-  September 29\n4:00pm kick-off; girls game followed by boys\n\n- MacFarland at Brightwood\n\n-
-  Truesdell at Capital City\n\n- EL Hayes at Chavez-Prep\n\n- Raymond at KIPP KEY\n\n-
-  DCI at KIPP WILL\n\n- LaSalle at Lincoln \n\n**COED**\n\n4:00PM kick-off\n\n- Paul
-  Public at Hart\n\n- KIPP AIM at Jefferson\n\n- Cardozo at Kelly Miller\n\n- Inspired
-  Teaching at Leckie"
+  with the DC Department of Parks and Recreation. <a href=\"https://www.google.com/maps/d/u/0/viewer?mid=1ArueGtkLKryfnhjFva-7hHSZlD8&ll=38.8939219214454%2C-77.01469049999997&z=12\"
+  target=\"_blank\">MAP of SITES</a>\n\n#### Elementary Schools - Thursday, September
+  28\n4:00pm kick-off; girls game followed by boys\n\n- Imagine-Hope Tolson at Aiton\n\n-
+  Orr at Amidon-Bowen\n\n- Barnard at Capital City\n\n- Brightwood at Imagine-Hope
+  Lamond\n\n- Smothers at JC Nalle\n\n- Burrville at KIPP Quest\n\n- Turner at Leckie\n\n-
+  Miner at Moten\n\n- Bruce-Monroe at Raymond\n\n- HD Cooke at Reed\n\n- LaSalle at
+  Seaton\n\n- Kimball at Thomas\n\n- Powell at Truesdell\n\n- Thomson at Tubman\n\n-
+  Bancroft at Walker-Jones\n\n#### Middle Schools - Friday, September 29\n4:00pm kick-off;
+  girls game followed by boys\n\n- MacFarland at Brightwood\n\n- Truesdell at Capital
+  City\n\n- EL Hayes at Chavez-Prep\n\n- Raymond at KIPP KEY\n\n- DCI at KIPP WILL\n\n-
+  LaSalle at Lincoln \n\n**COED**\n\n4:00PM kick-off\n\n- Paul Public at Hart\n\n-
+  KIPP AIM at Jefferson\n\n- Cardozo at Kelly Miller\n\n- Inspired Teaching at Leckie"
 soccerScheduleMap: "/uploads/image-program-sites-map.png"
 forFamilies:
 - |-
