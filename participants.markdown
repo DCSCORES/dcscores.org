@@ -17,9 +17,9 @@ soccerSchedule:
   Seaton\n\n- Kimball at Thomas\n\n- Powell at Truesdell\n\n- Thomson at Tubman\n\n-
   Bancroft at Walker-Jones\n\n#### Middle Schools - Friday, September 29\n4:00pm kick-off;
   girls game followed by boys\n\n- MacFarland at Brightwood\n\n- Truesdell at Capital
-  City\n\n- EL Hayes at Chavez-Prep\n\n- Raymond at KIPP KEY\n\n- DCI at KIPP WILL\n\n-
-  LaSalle at Lincoln \n\n**COED**\n\n4:00PM kick-off\n\n- Paul Public at Hart\n\n-
-  KIPP AIM at Jefferson\n\n- Cardozo at Kelly Miller\n\n- Inspired Teaching at Leckie"
+  City\n\n- EL Hayes at Chavez-Prep\n\n- LaSalle at Lincoln \n\n**COED**\n\n4:00PM
+  kick-off\n\n- Paul Public at Hart\n\n- Basis DC at Jefferson\n\n- Cardozo at Kelly
+  Miller\n\n- Inspired Teaching at Leckie"
 soccerScheduleMap: "/uploads/image-program-sites-map.png"
 forFamilies:
 - |-
