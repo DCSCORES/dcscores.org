@@ -4,22 +4,70 @@ permalink: "/our-program/participants/"
 Top Image: "/assets/images/masthead-resources.jpg"
 Top Image Position: 50% 40%
 soccerSchedule:
-- "## Soccer Schedule\n\nDC SCORES runs the only consistent elementary and middle
-  public school soccer leagues for both boys and girls in the District of Columbia.
-  Additionally, beginning in the fall of 2016, DC SCORES is running the DC SCORES
-  City League, a District-wide recreation center soccer league run in partnership
-  with the DC Department of Parks and Recreation. <a href=\"https://www.google.com/maps/d/u/0/viewer?mid=1ArueGtkLKryfnhjFva-7hHSZlD8&ll=38.8939219214454%2C-77.01469049999997&z=12\"
-  target=\"_blank\">MAP of SITES</a>\n\n#### Elementary Schools - Thursday, September
-  28\n4:00pm kick-off; girls game followed by boys\n\n- Imagine-Hope Tolson at Aiton\n\n-
-  Orr at Amidon-Bowen\n\n- Barnard at Capital City\n\n- Brightwood at Imagine-Hope
-  Lamond\n\n- Smothers at JC Nalle\n\n- Burrville at KIPP Quest\n\n- Turner at Leckie\n\n-
-  Miner at Moten\n\n- Bruce-Monroe at Raymond\n\n- HD Cooke at Reed\n\n- LaSalle at
-  Seaton\n\n- Kimball at Thomas\n\n- Powell at Truesdell\n\n- Thomson at Tubman\n\n-
-  Bancroft at Walker-Jones\n\n#### Middle Schools - Friday, September 29\n4:00pm kick-off;
-  girls game followed by boys\n\n- MacFarland at Brightwood\n\n- Truesdell at Capital
-  City\n\n- EL Hayes at Chavez-Prep\n\n- LaSalle at Lincoln \n\n**COED**\n\n4:00PM
-  kick-off\n\n- Paul Public at Hart\n\n- Basis DC at Jefferson\n\n- Cardozo at Kelly
-  Miller\n\n- Inspired Teaching at Leckie"
+- |-
+  ## Soccer Schedule
+
+  DC SCORES runs the only consistent elementary and middle public school soccer leagues for both boys and girls in the District of Columbia. Additionally, beginning in the fall of 2016, DC SCORES is running the DC SCORES City League, a District-wide recreation center soccer league run in partnership with the DC Department of Parks and Recreation. <a href="https://www.google.com/maps/d/u/0/viewer?mid=1ArueGtkLKryfnhjFva-7hHSZlD8&ll=38.8939219214454%2C-77.01469049999997&z=12" target="_blank">MAP of SITES</a>
+
+  #### Elementary Schools - Thursday, October 5
+  4:00pm kick-off; girls game followed by boys
+
+  - Turner at Amidon-Bowen
+
+  - JC Nalle at Burrville
+
+  - Brightwood at Capital City
+
+  - Bruce-Monroe at Imagine-Hope Lamond
+
+  - Kimball at KIPP Quest
+
+  - Smothers at Leckie
+
+  - Imagine-Hope Tolson at Miner
+
+  - Orr at Moten
+
+  - HD Cooke at Raymond
+
+  - LaSalle at Reed
+
+  - Powell at Seaton
+
+  - Beers at Thomas
+
+  - Thomson at Truesdell
+
+  - Bancroft at Tubman
+
+  - Barnard at Walker-Jones
+
+  #### Middle Schools - Friday, October 6
+  4:00pm kick-off; girls game followed by boys
+
+  - DCI at Brightwood
+
+  - Basis at Capital City
+
+  - Truesdell at Chavez Prep
+
+  - KIPP KEY at KIPP WILL
+
+  - EL Haynes at LaSalle
+
+  - Lincoln at MacFarland
+
+  **COED**
+
+  4:00PM kick-off
+
+  - Inspired Teaching at Hart
+
+  - Paul Public at Jefferson
+
+  - Leckie at Kelly Miller
+
+  - Cardozo at KIPP AIM
 soccerScheduleMap: "/uploads/image-program-sites-map.png"
 forFamilies:
 - |-
