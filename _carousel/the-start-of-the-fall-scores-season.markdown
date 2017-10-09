@@ -1,5 +1,5 @@
 ---
-title: The start of the Fall SCORES season!
+title: The 23rd Fall SCORES season!
 date: 2017-09-06 16:08:00 Z
 position: 1
 Image: "/uploads/23038598606_cd5c4bd63b_o.jpg"
