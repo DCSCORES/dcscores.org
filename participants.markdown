@@ -9,65 +9,22 @@ soccerSchedule:
 
   DC SCORES runs the only consistent elementary and middle public school soccer leagues for both boys and girls in the District of Columbia. Additionally, beginning in the fall of 2016, DC SCORES is running the DC SCORES City League, a District-wide recreation center soccer league run in partnership with the DC Department of Parks and Recreation. <a href="https://www.google.com/maps/d/u/0/viewer?mid=1ArueGtkLKryfnhjFva-7hHSZlD8&ll=38.8939219214454%2C-77.01469049999997&z=12" target="_blank">MAP of SITES</a>
 
-  #### Elementary Schools - Thursday, October 5
+  #### Elementary Schools - No game days this week.
+
+  **Fall Frenzy - Saturday, Oct. 14 from 9AM - 2:30PM**
+
+  Buses will pick-up poet-athletes starting at 8AM. Games will begin at 9AM and will end at 2:30PM.
+
+  #### Middle Schools - Friday, October 13
   4:00pm kick-off; girls game followed by boys
 
-  - Turner at Amidon-Bowen
+  - DCI at KIPP WILL
 
-  - JC Nalle at Burrville
+  - Raymond at Capital City
 
-  - Brightwood at Capital City
+  - Basis at MacFarland
 
-  - Bruce-Monroe at Imagine-Hope Lamond
-
-  - Kimball at KIPP Quest
-
-  - Smothers at Leckie
-
-  - Imagine-Hope Tolson at Miner
-
-  - Orr at Moten
-
-  - HD Cooke at Raymond
-
-  - LaSalle at Reed
-
-  - Powell at Seaton
-
-  - Beers at Thomas
-
-  - Thomson at Truesdell
-
-  - Bancroft at Tubman
-
-  - Barnard at Walker-Jones
-
-  #### Middle Schools - Friday, October 6
-  4:00pm kick-off; girls game followed by boys
-
-  - DCI at Brightwood
-
-  - Basis at Capital City
-
-  - Truesdell at Chavez Prep
-
-  - KIPP KEY at KIPP WILL
-
-  - EL Haynes at LaSalle
-
-  - Lincoln at MacFarland
-
-  **COED**
-
-  4:00PM kick-off
-
-  - Inspired Teaching at Hart
-
-  - Paul Public at Jefferson
-
-  - Leckie at Kelly Miller
-
-  - Cardozo at KIPP AIM
+  - EL Haynes at Truesdell
 soccerScheduleMap: "/uploads/image-program-sites-map.png"
 forFamilies:
 - |-
