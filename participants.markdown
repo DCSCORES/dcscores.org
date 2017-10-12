@@ -20,11 +20,13 @@ soccerSchedule:
 
   - DCI at KIPP WILL
 
-  - Raymond at Capital City
-
   - Basis at MacFarland
 
   - EL Haynes at Truesdell
+
+  **COED**
+
+  - Paul Public at Leckie
 soccerScheduleMap: "/uploads/image-program-sites-map.png"
 forFamilies:
 - |-
