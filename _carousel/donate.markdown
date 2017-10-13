@@ -1,5 +1,5 @@
 ---
-title: Donate!
+title: Donate! Change a kid's life today!
 position: 0
 Image: "/uploads/carousel-donate.jpg"
 Image Position: 50% 50%
