@@ -29,12 +29,12 @@ soccerSchedule:
   - Paul Public at Leckie
 soccerScheduleMap: "/uploads/image-program-sites-map.png"
 forFamilies:
-- |-
-  ## For Families
-
-  DC SCORES is free to all participants. <a href="http://register.dcscores.org" target="_blank">Register your child/children</a> for the next DC SCORES programming season (we’re year-round).
-
-  Work at a school interested in having DC SCORES? Print out the <a href="/uploads/dc-scores-new-school-application-2017.pdf" target="_blank">application form</a>.
+- "## For Families\n\nDC SCORES is free to all participants. <a href=\"http://register.dcscores.org\"
+  target=\"_blank\">Register your child/children</a> for the next DC SCORES programming
+  season (we’re year-round). \n\nAre you a current parent? Do you want to get all
+  the information you need? Click <a href=\"https://parents.dcscores.org/\" target=\"_blank\">HERE</a>\n\nWork
+  at a school interested in having DC SCORES? Print out the <a href=\"/uploads/dc-scores-new-school-application-2017.pdf\"
+  target=\"_blank\">application form</a>."
 programAlumni:
 - |-
   ### Program Alumni
