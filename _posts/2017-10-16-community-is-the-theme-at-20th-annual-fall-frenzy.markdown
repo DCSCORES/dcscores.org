@@ -17,6 +17,7 @@ On a cool fall Saturday, action dominated a three-tier landscape at Trinity Wash
 
 Tier 1: DC SCORES teams decked out in their soccer uniforms -- a different color for each school -- rotated between stations made possible by myriad volunteer groups. Every 20 minutes, they switched. Soccer shooting with D.C. United, and autographs with professional goalie Travis Worra; Mad Libs with City Kids; "catch or head it" with Grant Thornton LLP; relay races with November Project DC. Wherever you looked, volunteers led activities that kept each group of poet-athletes engaged and smiling.
 
+
 Tier 2: Soccer. Nothing but non-stop soccer across six fields. A group of volunteer referees so large that breaks were plentiful led games from 9:30am-2:30pm. DC SCORES teams from the eastside of the city played those from the westside -- making new friends and building community with each game and high 5 line after. On the corner of Field 2, DJ RBI dropped the beats all day. What better way is there to transition from one game to the next than dancing? Off to the side of the booths, teams and community members enjoyed a nutritious lunch from Revolution Foods. Kids not playing posed for photos with D.C. United mascot Talon, always a fan favorite.
 
 ![MarkRoth4.jpg](/uploads/MarkRoth4.jpg)
