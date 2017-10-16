@@ -9,24 +9,70 @@ soccerSchedule:
 
   DC SCORES runs the only consistent elementary and middle public school soccer leagues for both boys and girls in the District of Columbia. Additionally, beginning in the fall of 2016, DC SCORES is running the DC SCORES City League, a District-wide recreation center soccer league run in partnership with the DC Department of Parks and Recreation. <a href="https://www.google.com/maps/d/u/0/viewer?mid=1ArueGtkLKryfnhjFva-7hHSZlD8&ll=38.8939219214454%2C-77.01469049999997&z=12" target="_blank">MAP of SITES</a>
 
-  #### Elementary Schools - No game days this week.
+  #### Middle Schools - Wednesday, October 18
 
-  **Fall Frenzy - Saturday, Oct. 14 from 9AM - 2:30PM**
+  **4:00pm kick-off; girls game followed by boys**
 
-  Buses will pick-up poet-athletes starting at 8AM. Games will begin at 9AM and will end at 2:30PM.
+  Chavez-Prep at KIPP KEY
 
-  #### Middle Schools - Friday, October 13
+  **Friendly**
+
+  WSG at Barry Farm
+
+  #### Elementary Schools - Thursday, October 19
+
+  **4:00pm kick-off; girls game followed by boys**
+
+  - Turner at Aiton
+
+  - Smothers at Amidon
+
+  - Imagine-Hope Tolson at Beers
+
+  - Leckie at Burrville
+
+  - Bruce-Monroe at Capital City
+
+  - HD Cooke at Imagine-Hope Lamond
+
+  - Thomas at KIPP QUEST
+
+  - Orr at Miner
+
+  - Kimball at Moten
+
+  - LaSalle at Raymond
+
+  - Powell at Reed
+
+  - Thomson at Seaton
+
+  - Bancroft at Truesdell
+
+  - Barnard at Tubman
+
+  - Brightwood at Walker-Jones
+
+  #### Middle Schools - Friday, October 20
   4:00pm kick-off; girls game followed by boys
 
-  - DCI at KIPP WILL
+  - Truesdell at Brightwood
 
-  - Basis at MacFarland
+  - Basis at KIPP WILL
 
-  - EL Haynes at Truesdell
+  - DCI at LaSalle
+
+  - Raymond at Lincoln
 
   **COED**
 
-  - Paul Public at Leckie
+  - Paul Public at Cardozo
+
+  - Jefferson at Hart
+
+  - Kelly Miller at Inspired Teaching
+
+  - KIPP AIM at Leckie
 soccerScheduleMap: "/uploads/image-program-sites-map.png"
 forFamilies:
 - "## For Families\n\nDC SCORES is free to all participants. <a href=\"http://register.dcscores.org\"
