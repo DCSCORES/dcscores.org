@@ -13,11 +13,11 @@ soccerSchedule:
 
   **4:00pm kick-off; girls game followed by boys**
 
-  Chavez-Prep at KIPP KEY
+  - Chavez-Prep at KIPP KEY
 
   **Friendly**
 
-  WSG at Barry Farm
+  - WSG at Barry Farm
 
   #### Elementary Schools - Thursday, October 19
 
