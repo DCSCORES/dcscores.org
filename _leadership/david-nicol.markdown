@@ -1,7 +1,7 @@
 ---
-title: David Nicol
+title: Perri Smith
 position: 52
-Details: IBM
+Details: Accenture
 Section: advisory
 ---
 
