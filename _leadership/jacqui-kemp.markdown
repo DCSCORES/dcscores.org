@@ -1,6 +1,6 @@
 ---
 title: Jacqui Kemp
-position: 48
+position: 49
 Details: National Geographic
 Section: advisory
 ---

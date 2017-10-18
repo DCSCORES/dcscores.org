@@ -1,6 +1,6 @@
 ---
 title: Erich Walizer
-position: 54
+position: 53
 Details: Ruffalo Noel Levitz
 Section: advisory
 ---
