@@ -9,70 +9,69 @@ soccerSchedule:
 
   DC SCORES runs the only consistent elementary and middle public school soccer leagues for both boys and girls in the District of Columbia. Additionally, beginning in the fall of 2016, DC SCORES is running the DC SCORES City League, a District-wide recreation center soccer league run in partnership with the DC Department of Parks and Recreation. <a href="https://www.google.com/maps/d/u/0/viewer?mid=1ArueGtkLKryfnhjFva-7hHSZlD8&ll=38.8939219214454%2C-77.01469049999997&z=12" target="_blank">MAP of SITES</a>
 
-  #### Middle Schools - Wednesday, October 18
+  #### Middle Schools - Tuesday, October 24
 
   **4:00pm kick-off; girls game followed by boys**
 
-  - Chavez-Prep at KIPP KEY
+  - EL Haynes at Basis
 
-  **Friendly**
+  - Brightwood at Capital City
 
-  - WSG at Barry Farm
+  - DCI at KIPP KEY
 
-  #### Elementary Schools - Thursday, October 19
+  - Chavez-Prep at KIPP WILL
 
-  **4:00pm kick-off; girls game followed by boys**
+  - Raymond at LaSalle
 
-  - Turner at Aiton
-
-  - Smothers at Amidon
-
-  - Imagine-Hope Tolson at Beers
-
-  - Leckie at Burrville
-
-  - Bruce-Monroe at Capital City
-
-  - HD Cooke at Imagine-Hope Lamond
-
-  - Thomas at KIPP QUEST
-
-  - Orr at Miner
-
-  - Kimball at Moten
-
-  - LaSalle at Raymond
-
-  - Powell at Reed
-
-  - Thomson at Seaton
-
-  - Bancroft at Truesdell
-
-  - Barnard at Tubman
-
-  - Brightwood at Walker-Jones
-
-  #### Middle Schools - Friday, October 20
-  4:00pm kick-off; girls game followed by boys
-
-  - Truesdell at Brightwood
-
-  - Basis at KIPP WILL
-
-  - DCI at LaSalle
-
-  - Raymond at Lincoln
+  - Truesdell at Lincoln
 
   **COED**
 
-  - Paul Public at Cardozo
+  - Cardozo at Jefferson
 
-  - Jefferson at Hart
+  - Hart at Kelly Miller
 
-  - Kelly Miller at Inspired Teaching
+  - Inspired Teaching at KIPP AIM
 
-  - KIPP AIM at Leckie
+  #### Elementary Schools - Thursday, October 26
+
+  **4:00pm kick-off; girls game followed by boys**
+
+  - Kimball at Aiton
+
+  - Smothers at Beers
+
+  - Miner at Burrville
+
+  - HD Cooke at Capital City
+
+  - LaSalle at Imagine Hope-Lamond
+
+  - Leckie at JC Nalle
+
+  - Amidon at KIPP Quest
+
+  - Imagine Hope-Tolson at Moten
+
+  - Powell at Raymond
+
+  - Thomson at Reed
+
+  - Bancroft at Seaton
+
+  - Orr at Thomas
+
+  - Barnard at Truesdell
+
+  - Brightwood at Tubman
+
+  - Bruce-Monroe at Walker-Jones
+
+  #### Middle Schools - Friday, October 27
+
+  **4:00pm kick-off; girls game followed by boys**
+
+  - Raymond at KIPP WILL
 soccerScheduleMap: "/uploads/image-program-sites-map.png"
 forFamilies:
 - "## For Families\n\nDC SCORES is free to all participants. <a href=\"http://register.dcscores.org\"
