@@ -1,6 +1,7 @@
 ---
 title: 20th Annual Poetry Slam!
 date: 2017-10-24 13:58:00 Z
+position: 1
 Image: "/uploads/31089059355_4432ababf3_o.jpg"
 Link: http://bit.ly/DCslam2017
 ---
