@@ -126,6 +126,19 @@
           }
         }
 
+        .Footer-mainSecondaryAwardsLink {
+
+          &:nth-child(2) .Footer-mainSecondaryAwardsLinkBadge {
+            width: 138px;
+            margin-left: 1em;
+
+            @media (min-width: 48em) {
+              width: 172px; // Make second badge a bit bigger until I figure it out
+            }
+          }
+
+        }
+
           .Footer-mainSecondaryAwardsLinkBadge {
             display: block;
 
