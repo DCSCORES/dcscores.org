@@ -9,69 +9,65 @@ soccerSchedule:
 
   DC SCORES runs the only consistent elementary and middle public school soccer leagues for both boys and girls in the District of Columbia. Additionally, beginning in the fall of 2016, DC SCORES is running the DC SCORES City League, a District-wide recreation center soccer league run in partnership with the DC Department of Parks and Recreation. <a href="https://www.google.com/maps/d/u/0/viewer?mid=1ArueGtkLKryfnhjFva-7hHSZlD8&ll=38.8939219214454%2C-77.01469049999997&z=12" target="_blank">MAP of SITES</a>
 
-  #### Middle Schools - Tuesday, October 24
+  #### Middle Schools - Tuesday, October 31
 
   **4:00pm kick-off; girls game followed by boys**
 
-  - EL Haynes at Basis
+  - DCI at Basis
 
-  - Brightwood at Capital City
+  - LaSalle at Capital City
 
-  - DCI at KIPP KEY
+  - Chavez-Prep at Lincoln
 
-  - Chavez-Prep at KIPP WILL
-
-  - Raymond at LaSalle
-
-  - Truesdell at Lincoln
+  - MacFarland at Raymond
 
   **COED**
 
-  - Cardozo at Jefferson
+  - Inspired Teaching at Cardozo
 
-  - Hart at Kelly Miller
+  - Jefferson at Kelly Miller
 
-  - Inspired Teaching at KIPP AIM
+  - Hart at Leckie
 
-  #### Elementary Schools - Thursday, October 26
-
-  **4:00pm kick-off; girls game followed by boys**
-
-  - Kimball at Aiton
-
-  - Smothers at Beers
-
-  - Miner at Burrville
-
-  - HD Cooke at Capital City
-
-  - LaSalle at Imagine Hope-Lamond
-
-  - Leckie at JC Nalle
-
-  - Amidon at KIPP Quest
-
-  - Imagine Hope-Tolson at Moten
-
-  - Powell at Raymond
-
-  - Thomson at Reed
-
-  - Bancroft at Seaton
-
-  - Orr at Thomas
-
-  - Barnard at Truesdell
-
-  - Brightwood at Tubman
-
-  - Bruce-Monroe at Walker-Jones
-
-  #### Middle Schools - Friday, October 27
+  #### Elementary Schools - Thursday, November 2
 
   **4:00pm kick-off; girls game followed by boys**
 
-  - Raymond at KIPP WILL
+  - Beers at Aiton
+
+  - Imagine Hope-Tolson at Amidon
+
+  - Kimball at Burrville
+
+  - LaSalle at Capital City
+
+  - Powell at Imagine Hope-Lamond
+
+  - Turner at JC Nalle
+
+  - Orr at Leckie
+
+  - Smothers at Moten
+
+  - Thomson at Raymond
+
+  - Bancroft at Reed
+
+  - Barnard at Seaton
+
+  - Miner at Thomas
+
+  - Brightwood at Truesdell
+
+  - Bruce-Monroe at Tubman
+
+  - HD Cooke at Walker-Jones
+
+  #### Middle Schools - Friday, November 3
+
+  **4:00pm kick-off; girls game followed by boys**
+
+  - Basis at Capital City
 soccerScheduleMap: "/uploads/image-program-sites-map.png"
 forFamilies:
 - "## For Families\n\nDC SCORES is free to all participants. <a href=\"http://register.dcscores.org\"
