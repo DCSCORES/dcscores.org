@@ -4,4 +4,4 @@ date: 2017-10-30 17:42:00 Z
 link: http://bit.ly/OpenGoalProject
 ---
 
-DC SCORES partners, nonprofit Open Goal Project, aims to find opportunities for lower-income and minority players.
+DC SCORES partner, nonprofit Open Goal Project, aims to find opportunities for lower-income and minority players.
