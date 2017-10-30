@@ -1,5 +1,6 @@
 ---
 title: 2011-12 season awards
+position: 0
 season: 2011-12
 ---
 
