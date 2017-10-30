@@ -1,0 +1,7 @@
+---
+title: In D.C., a small step toward tackling U.S. youth soccer’s accessibility problem
+date: 2017-10-30 17:42:00 Z
+link: http://bit.ly/OpenGoalProject
+---
+
+DC SCORES partners, nonprofit Open Goal Project, aims to find opportunities for lower-income and minority players.
