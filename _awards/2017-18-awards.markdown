@@ -2,7 +2,7 @@
 title: 2017-18 season awards
 date: 2017-10-30 17:37:00 Z
 position: 6
-season: 
+season: 2017-18
 ---
 
 ##### During the **2017-18** season, DC SCORES has received the following recognition:
