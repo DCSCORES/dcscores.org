@@ -4,7 +4,7 @@ position: 6
 season: 2016-17
 ---
 
-##### During the **2016-17** season, DC SCORES received the following recognition:
+##### **2016-17**:
 
 * DC SCORES was named the winner of the distinguished Center for Nonprofit Advancement [Board Leadership Award](http://bit.ly/BoardAward).
 
