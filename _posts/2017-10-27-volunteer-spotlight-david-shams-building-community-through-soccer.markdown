@@ -11,6 +11,7 @@ Thumbnail Image: "/uploads/12651307_10101089305560239_2905940663693956791_n-80e3
 
 *DC SCORES has more than 500 volunteers who help make our program possible for 2,500 low-income DC kids. From assistant coaching, to tackling our big events, to providing expert services and advice, to folding newsletters in our office, to reffing weekly soccer games, to taking photos and videos, and much more, our volunteers make a difference in many ways and with varying schedules. **David Shams** is a writer and avid D.C. United supporter who felt the desire to give back to his community by doing what he loves - coaching. He is in his first season coaching soccer at Brightwood Education Campus for the middle school team. Recently, David took time off to chat with us about his DC SCORES volunteering experience.*
 
+
 -------------------------
 
 **What is your day job?**
