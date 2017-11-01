@@ -10,19 +10,19 @@ League Champions:
 - U.S. Soccer Foundation
 Team Champions:
 - Morris & Gwendolyn Cafritz Foundation
+- D.C. Commission on the Arts and Humanities
 - Ralph S. and Frances R. Dweck Family Foundation, Inc.
 - The John G. and Jean R. Gosnell Foundation
 - Eugene & Agnes E. Meyer Foundation
 - United Way of the National Capital Region
 - Target
 Scoring Champions:
+- Office of the D.C. Deputy Mayor for Planning and Economic Development (New Communities
+  Youth Development & Community Wellness)
 - Audi of America
 - Butterfields Butter LLC
 - Capital for Children
 - D.C. Commission on the Arts and Humanities
-- Office of the D.C. Deputy Mayor for Planning and Economic Development (New Communities
-  Youth Development & Community Wellness)
-- Lois & Richard England Family Foundation
 - Foundation for Advancing Alcohol Responsibility
 - John Edward Fowler Memorial Foundation
 - Near Southeast Community Partners
@@ -41,9 +41,10 @@ Mvps:
 - Lainoff Family Foundation
 - Koons of Silver Spring
 - The George Preston Marshall Foundation
-- Morningstar Philanthropic Fund
+- The Morningstar Foundation
 - PriceWaterhouseCoopers
 - Share Fund
+- Washington Area Women's Foundation - Rainmakers Giving Circle
 - Wells Fargo Foundation
 - World Bank Community Outreach Program
 Fans:
@@ -54,14 +55,12 @@ Fans:
 - Chipotle
 - Clark-Winchcole Foundation
 - Congressional Bank
+- Crowell & Moring Foundation
 - The Andrea L. Custis Family Fund
-- Max and Victoria Dreyfus Foundation
 - Enlightenment Capital
-- EventsDC
 - Grant Thornton LLP
 - Corina Higginson Trust
 - Hogan Lovells US LLP
-- International Monetary Fund
 - Kirkland & Ellis LLP
 - Leidos
 - Marriott International, Inc.
@@ -72,7 +71,7 @@ Fans:
 - Pepco/Exelon
 - Promontory Financial Group
 - RSN
-- TD Bank (TD Charitable Foundation)
+- Subaru of America Foundation, Inc
 - TEGNA
 - Venable Foundation
 - Verizon Foundation
@@ -85,7 +84,6 @@ Supporters:
 - The Advisory Board Company
 - CIT Group
 - The Covello Foundation
-- Crowell & Moring Foundation
 - Dimick Foundation
 - Claude and Nancy Keener Charitable Fund
 - Jacob & Charlotte Lehrman Foundation
@@ -102,7 +100,6 @@ In Kind:
 - Carl Cohen
 - DLA Piper
 - DrinkMore Water
-- First Book – Washington, DC
 - Hunt4Soccer
 - Junior League of Washington Resolution Read Committee
 - Leveling the Playing Field
