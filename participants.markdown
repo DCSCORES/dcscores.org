@@ -47,7 +47,7 @@ soccerSchedule:
 
   - Orr at Leckie
 
-  - Smothers at Moten
+  - Smothers at KIPP Quest
 
   - Thomson at Raymond
 
@@ -62,12 +62,6 @@ soccerSchedule:
   - Bruce-Monroe at Tubman
 
   - HD Cooke at Walker-Jones
-
-  #### Middle Schools - Friday, November 3
-
-  **4:00pm kick-off; girls game followed by boys**
-
-  - Basis at Capital City
 soccerScheduleMap: "/uploads/image-program-sites-map.png"
 forFamilies:
 - "## For Families\n\nDC SCORES is free to all participants. <a href=\"http://register.dcscores.org\"
