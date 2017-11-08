@@ -1,10 +1,12 @@
 ---
 title: Join us Nov. 7 for the poetry event of the season!
 date: 2017-08-14 16:26:00 Z
+tags:
+- poetry
 position: 2
-Image: "/uploads/dsc_1004-f9cf6a.jpg"
+Image: "/uploads/DSC_0801.jpg"
 Image Position: 50% 30%
-Link: https://www.eventbrite.com/e/our-words-our-city-the-voices-of-dc-scores-tickets-30955104551
+Link: http://bit.ly/OWOC17Photos
 ---
 
-On Tuesday, November 7 at 6:30 PM, a group of our most talented alumni are taking over the mic at Studio Theatre on 14th Street for our second Our Words Our City all-star poetry slam.
+Incredible. That's the word anyone at Studio Theatre might use (also, spectacular!) to describe Our Words Our City on Nov. 7. [Photo album](http://bit.ly/OWOC17Photos). 
