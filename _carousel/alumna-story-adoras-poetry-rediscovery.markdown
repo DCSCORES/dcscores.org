@@ -1,5 +1,5 @@
 ---
-title: Join us Nov. 7 for the poetry event of the season!
+title: Our Words Our City recap
 date: 2017-08-14 16:26:00 Z
 tags:
 - poetry
