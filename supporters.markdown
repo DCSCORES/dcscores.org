@@ -169,7 +169,7 @@ League Of Champions:
 - Gene Sachs
 - Anna Schneider
 - Bruce Schulman
-- Arlene Selber
+- Arlene Selber and Wayne Anmuth
 - David Sheon
 - Perri Smith
 - Devin Talbott
