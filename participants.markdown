@@ -9,59 +9,37 @@ soccerSchedule:
 
   DC SCORES runs the only consistent elementary and middle public school soccer leagues for both boys and girls in the District of Columbia. Additionally, beginning in the fall of 2016, DC SCORES is running the DC SCORES City League, a District-wide recreation center soccer league run in partnership with the DC Department of Parks and Recreation. <a href="https://www.google.com/maps/d/u/0/viewer?mid=1ArueGtkLKryfnhjFva-7hHSZlD8&ll=38.8939219214454%2C-77.01469049999997&z=12" target="_blank">MAP of SITES</a>
 
-  #### Middle Schools - Tuesday, October 31
+  #### Middle Schools - Monday, November 13
 
   **4:00pm kick-off; girls game followed by boys**
 
-  - DCI at Basis
+  - Basis at Capital City
 
-  - LaSalle at Capital City
+  - Raymond at KIPP KEY
 
-  - Chavez-Prep at Lincoln
+  **FRIENDLY**
 
-  - MacFarland at Raymond
+  - Barry Farm at WSG
+
+  #### Middle Schools - Tuesday, November 14
+
+  - Raymond at Capital City
+
+  **FRIENDLY**
+
+  - Leckie at WSG
+
+  #### Middle Schools - Friday, November 17
 
   **COED**
 
-  - Inspired Teaching at Cardozo
+  - Hart at Cardozo
 
-  - Jefferson at Kelly Miller
+  - Leckie at Jefferson
 
-  - Hart at Leckie
+  - Kelly Miller at KIPP AIM
 
-  #### Elementary Schools - Thursday, November 2
-
-  **4:00pm kick-off; girls game followed by boys**
-
-  - Beers at Aiton
-
-  - Imagine Hope-Tolson at Amidon
-
-  - Kimball at Burrville
-
-  - LaSalle at Capital City
-
-  - Powell at Imagine Hope-Lamond
-
-  - Turner at JC Nalle
-
-  - Orr at Leckie
-
-  - Smothers at KIPP Quest
-
-  - Thomson at Raymond
-
-  - Bancroft at Reed
-
-  - Barnard at Seaton
-
-  - Miner at Thomas
-
-  - Brightwood at Truesdell
-
-  - Bruce-Monroe at Tubman
-
-  - HD Cooke at Walker-Jones
+  - Paul Public at Inspired Teaching
 soccerScheduleMap: "/uploads/image-program-sites-map.png"
 forFamilies:
 - "## For Families\n\nDC SCORES is free to all participants. <a href=\"http://register.dcscores.org\"
