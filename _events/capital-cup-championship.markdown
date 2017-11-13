@@ -1,6 +1,7 @@
 ---
 title: Capital Cup Championship
 date: 2017-11-13 18:31:00 Z
+position: 1
 Blurb: Join us on Tuesday, November 21 for our middle school championship game at
   Cardozo Education Campus!
 Link: http://dcscores.blogspot.com/search/label/Capital%20Cup%202016

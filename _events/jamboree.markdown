@@ -1,7 +1,7 @@
 ---
 title: Jamboree
 date: 2017-06-03 00:00:00 Z
-position: 4
+position: 3
 Blurb: Don’t miss our largest event of the year, Jamboree! Saturday, June 3. Join
   2,000 others for an action-packed day.
 Image: http://www.americascores.org/wp-content/uploads/2017/05/6.20.16-jamboree-recap.png
