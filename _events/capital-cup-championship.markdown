@@ -8,5 +8,6 @@ Link: http://dcscores.blogspot.com/search/label/Capital%20Cup%202016
 Image: "/uploads/31165296376_3e529b4cfd_o.jpg"
 Image Position: 50% 50%
 Color: "#b03224"
+Is Finished: 'Yes'
 ---
 
