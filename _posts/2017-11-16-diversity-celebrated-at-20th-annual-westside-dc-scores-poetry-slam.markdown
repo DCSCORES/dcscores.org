@@ -23,10 +23,10 @@ The poems varied widely, but a central message emerged, and then re-emerged, thr
 
 But back to the beginning...
 
-Your team should always give power
-Every hour
-No matter what
-This is what DC Scores means
+Your team should always give power<br>
+Every hour<br>
+No matter what<br>
+This is what DC Scores means<br>
 
 Seaton's Diamond G. finished her riveting, pulsating, auditorium-shaking poem "Soccer's my thing" with those lines, and the theme carried for 21 more performances.
 
@@ -44,12 +44,12 @@ There were LaSalle-Backus' kids, 8-10 years old, speaking about guns and the Las
 
 KIPP WILL took the stage next and to the beat of their song, started...
 
-Tamir Rice - why did this happen
-Sandra Bland - she didn't get justice
-Michael Brown - he was going to college
-Philando Castile - his child saw him die
-Eric Garner - he was minding his own business
-Tayvon Martin - he was only a child
+Tamir Rice - why did this happen<br>
+Sandra Bland - she didn't get justice<br>
+Michael Brown - he was going to college<br>
+Philando Castile - his child saw him die<br>
+Eric Garner - he was minding his own business<br>
+Tayvon Martin - he was only a child<br>
 
 "That’s what Martin Luther King taught us," the middle schoolers concluded. "(That) we will stand to fight, with all our might/Fighting for our rights tonight."
 
@@ -67,21 +67,21 @@ Rather, diversity was celebrated. Nearly every 5-minute performance began with a
 
 Bilingual school Bancroft spoke of the immigrant struggle:
 
-*In the USA, looking for opportunities*\
-*Like work and school to build up our community*\
-*We come prepared to do the hard work*\
-*So that the children can do their homework*\
-*Teachers show students how to read, write, and dream*\
-*Using these things to live the American dream*
+*In the USA, looking for opportunities*<br>
+*Like work and school to build up our community*<br>
+*We come prepared to do the hard work*<br>
+*So that the children can do their homework*<br>
+*Teachers show students how to read, write, and dream*<br>
+*Using these things to live the American dream*<br>
 
 Powell Bilingual Elementary, dressed in their orange soccer jerseys, was next and came with a unifying message:
 
-*Make the world a better place*\
-*Understand how other people feel*\
-*Notice how they’re being treated*\
-*Inequality has to stop*\
-*Treat people the way you want to be treated*\
-*You can change the world*
+*Make the world a better place*<br>
+*Understand how other people feel*<br>
+*Notice how they’re being treated*<br>
+*Inequality has to stop*<br>
+*Treat people the way you want to be treated*<br>
+*You can change the world*<br>
 
 ![DSC_0991.jpg](/uploads/DSC_0991.jpg)
 
@@ -93,16 +93,16 @@ Poetry is just as important. And probably even more powerful.
 
 ---
 
-**Elementary Schools**
-1st place -- Seaton Elementary School\
-2nd place -- Tubman Elementary School\
-3rd place -- H.D. Cooke Elementary School\
-Spirit Award -- Powell Elementary School\
-Shine Award -- Diamond G., Seaton Elementary School
+**Elementary Schools**<br>
+1st place -- Seaton Elementary School<br>
+2nd place -- Tubman Elementary School<br>
+3rd place -- H.D. Cooke Elementary School<br>
+Spirit Award -- Powell Elementary School<br>
+Shine Award -- Diamond G., Seaton Elementary School<br>
 
-**Middle Schools**\
-1st place -- Truesdell Education Campus\
-2nd place -- Brightwood Education Campus\
-3rd place -- Cesar Chavez Prep\
-Spirit Award -- LaSalle-Backus Education Campus\
+**Middle Schools**<br>
+1st place -- Truesdell Education Campus<br>
+2nd place -- Brightwood Education Campus<br>
+3rd place -- Cesar Chavez Prep<br>
+Spirit Award -- LaSalle-Backus Education Campus<br>
 Shine Award -- Ja'Quan L., KIPP WILL
