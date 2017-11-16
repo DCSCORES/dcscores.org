@@ -16,6 +16,7 @@ The night started with a resounding, ear-splitting "I LOVE DC SCORES" from a pac
 
 The poems varied widely, but a central message emerged, and then re-emerged, throughout the first night of the 20th Annual DC SCORES Poetry Slam! -- we are special, we are diverse, and collectively, we are powerful.
 
+
 "We're about to blow your minds," crowed the Seaton Stingers just minutes in the show. And that they would, as their name was called last some three hours later as the elementary school Golden Mic champion. Seaton rushed the stage for their photo with D.C. United coach Ben Olsen. That was the night's end.
 
 <iframe width="640" height="360" src="https://www.youtube.com/embed/RyDQObwFvRk" frameborder="0" gesture="media" allowfullscreen></iframe>
@@ -97,7 +98,7 @@ Poetry is just as important. And probably even more powerful.
 2nd place -- Tubman Elementary School\
 3rd place -- H.D. Cooke Elementary School\
 Spirit Award -- Powell Elementary School\
-Shine Award -- Diamond G., Thomas Elementary School
+Shine Award -- Diamond G., Seaton Elementary School
 
 **Middle Schools**\
 1st place -- Truesdell Education Campus\
