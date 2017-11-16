@@ -22,10 +22,10 @@ The poems varied widely, but a central message emerged, and then re-emerged, thr
 
 But back to the beginning...
 
-> *Your team should always give power*\
-> *Every hour*\
-> *No matter what*\
-> *This is what DC Scores means*
+*Your team should always give power*\
+*Every hour*\
+*No matter what*\
+*This is what DC Scores means*
 
 Seaton's Diamond G. finished her riveting, pulsating, auditorium-shaking poem "Soccer's my thing" with those lines, and the theme carried for 21 more performances.
 
