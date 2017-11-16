@@ -44,7 +44,7 @@ There were LaSalle-Backus' kids, 8-10 years old, speaking about guns and the Las
 KIPP WILL took the stage next and to the beat of their song, started...
 
 Tamir Rice - why did this happen
-Sandra Bland - she didn't get justics
+Sandra Bland - she didn't get justice
 Michael Brown - he was going to college
 Philando Castile - his child saw him die
 Eric Garner - he was minding his own business
