@@ -22,10 +22,10 @@ The poems varied widely, but a central message emerged, and then re-emerged, thr
 
 But back to the beginning...
 
-*Your team should always give power*\
-*Every hour*\
-*No matter what*\
-*This is what DC Scores means*
+Your team should always give power
+Every hour
+No matter what
+This is what DC Scores means
 
 Seaton's Diamond G. finished her riveting, pulsating, auditorium-shaking poem "Soccer's my thing" with those lines, and the theme carried for 21 more performances.
 
@@ -43,12 +43,12 @@ There were LaSalle-Backus' kids, 8-10 years old, speaking about guns and the Las
 
 KIPP WILL took the stage next and to the beat of their song, started...
 
-*Tamir Rice - why did this happen*\
-*Sandra Bland - she didn’t get justice*\
-*Michael Brown - he was going to college*\
-*Philando Castile - his child saw him die*\
-*Eric Garner - he was minding his own business*\
-*Trayvon Martin - he was only a child*
+Tamir Rice - why did this happen
+Sandra Bland - she didn't get justics
+Michael Brown - he was going to college
+Philando Castile - his child saw him die
+Eric Garner - he was minding his own business
+Tayvon Martin - he was only a child
 
 "That’s what Martin Luther King taught us," the middle schoolers concluded. "(That) we will stand to fight, with all our might/Fighting for our rights tonight."
 
