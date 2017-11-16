@@ -16,17 +16,16 @@ The night started with a resounding, ear-splitting "I LOVE DC SCORES" from a pac
 
 The poems varied widely, but a central message emerged, and then re-emerged, throughout the first night of the 20th Annual DC SCORES Poetry Slam! -- we are special, we are diverse, and collectively, we are powerful.
 
-
 "We're about to blow your minds," crowed the Seaton Stingers just minutes in the show. And that they would, as their name was called last some three hours later as the elementary school Golden Mic champion. Seaton rushed the stage for their photo with D.C. United coach Ben Olsen. That was the night's end.
 
 <iframe width="640" height="360" src="https://www.youtube.com/embed/RyDQObwFvRk" frameborder="0" gesture="media" allowfullscreen></iframe>
 
 But back to the beginning...
 
-Your team should always give power<br>
+*Your team should always give power<br>
 Every hour<br>
 No matter what<br>
-This is what DC Scores means<br>
+This is what DC Scores means<br>*
 
 Seaton's Diamond G. finished her riveting, pulsating, auditorium-shaking poem "Soccer's my thing" with those lines, and the theme carried for 21 more performances.
 
@@ -44,12 +43,12 @@ There were LaSalle-Backus' kids, 8-10 years old, speaking about guns and the Las
 
 KIPP WILL took the stage next and to the beat of their song, started...
 
-Tamir Rice - why did this happen<br>
+*Tamir Rice - why did this happen<br>
 Sandra Bland - she didn't get justice<br>
 Michael Brown - he was going to college<br>
 Philando Castile - his child saw him die<br>
 Eric Garner - he was minding his own business<br>
-Tayvon Martin - he was only a child<br>
+Tayvon Martin - he was only a child<br>*
 
 "That’s what Martin Luther King taught us," the middle schoolers concluded. "(That) we will stand to fight, with all our might/Fighting for our rights tonight."
 
