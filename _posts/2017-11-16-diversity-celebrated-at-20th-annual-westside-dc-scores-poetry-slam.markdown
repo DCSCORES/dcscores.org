@@ -43,12 +43,12 @@ There were LaSalle-Backus' kids, 8-10 years old, speaking about guns and the Las
 
 KIPP WILL took the stage next and to the beat of their song, started...
 
-> *Tamir Rice - why did this happen*\
-> *Sandra Bland - she didn’t get justice*\
-> *Michael Brown - he was going to college*\
-> *Philando Castile - his child saw him die*\
-> *Eric Garner - he was minding his own business*\
-> *Trayvon Martin - he was only a child*
+*Tamir Rice - why did this happen*\
+*Sandra Bland - she didn’t get justice*\
+*Michael Brown - he was going to college*\
+*Philando Castile - his child saw him die*\
+*Eric Garner - he was minding his own business*\
+*Trayvon Martin - he was only a child*
 
 "That’s what Martin Luther King taught us," the middle schoolers concluded. "(That) we will stand to fight, with all our might/Fighting for our rights tonight."
 
@@ -66,21 +66,21 @@ Rather, diversity was celebrated. Nearly every 5-minute performance began with a
 
 Bilingual school Bancroft spoke of the immigrant struggle:
 
-> *In the USA, looking for opportunities*\
-> *Like work and school to build up our community*\
-> *We come prepared to do the hard work*\
-> *So that the children can do their homework*\
-> *Teachers show students how to read, write, and dream*\
-> *Using these things to live the American dream*
+*In the USA, looking for opportunities*\
+*Like work and school to build up our community*\
+*We come prepared to do the hard work*\
+*So that the children can do their homework*\
+*Teachers show students how to read, write, and dream*\
+*Using these things to live the American dream*
 
 Powell Bilingual Elementary, dressed in their orange soccer jerseys, was next and came with a unifying message:
 
-> *Make the world a better place*\
-> *Understand how other people feel*\
-> *Notice how they’re being treated*\
-> *Inequality has to stop*\
-> *Treat people the way you want to be treated*\
-> *You can change the world*
+*Make the world a better place*\
+*Understand how other people feel*\
+*Notice how they’re being treated*\
+*Inequality has to stop*\
+*Treat people the way you want to be treated*\
+*You can change the world*
 
 ![DSC_0991.jpg](/uploads/DSC_0991.jpg)
 
