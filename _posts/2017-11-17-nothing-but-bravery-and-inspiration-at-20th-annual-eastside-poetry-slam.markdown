@@ -10,6 +10,8 @@ Thumbnail Image: "/uploads/IMG_5047.jpg"
 
 ![IMG_5047-bf12a6.jpg](/uploads/IMG_5047-bf12a6.jpg)
 
+> Photo album on [FLICKR](http://bit.ly/EastsidePhotos17)
+
 Bravery.
 
 It is a word we don't use that often anymore, but Uniyah C., a 10-year-old, reminded us of it Thursday night.
@@ -27,7 +29,7 @@ Thank you, Uniyah, for reminding us, for reminding the capacity audience, that d
 
 Not one person in the building stayed seated. Fists were raised. And the Eastside Slam! REALLY got going.
 
-----------------------
+---
 
 So how do these kids show such courage on stage? Let's start with TLC.
 
@@ -43,7 +45,7 @@ To soccer and poetry here we go
 For five days in a row
 Oh*
 
-----------------------
+---
 
 Speaking of commitment, DC SCORES' poets could probably fix our country's problems today. In place of complaining poems (an easy thing to do in 2017!), there were myriad solution poems. Kids celebrated the present while predicting the future, their future, where they'll be in 10 years.
 
@@ -60,7 +62,7 @@ Spellman
 Moorehouse
 and...*
 
-----------------------
+---
 
 Speaking of teamwork, it dominated the night. Sitting for three hours isn't easy, but the schools not performing couldn't have been more engaged. During poems that dropped a beat, they clapped along. They encourage cheered a poet who forgot a line. They high-fived other schools' kids heading to or from the stage.
 
@@ -70,7 +72,7 @@ Then there was the rap battle, a back-and-forth between two KIPP KEY girls who w
 
 ![IMG_5476.jpg](/uploads/IMG_5476.jpg)
 
-----------------------
+---
 
 Speaking of leadership...
 
@@ -81,7 +83,7 @@ I wish I could help homeless people find jobs so they can provide for themselves
 
 Those were the wise words of Turner Elementary, but the theme carried on throughout the night. Everyone took the lead in picturing better lives -- not just for themselves but for others. That's a pretty incredible sentiment coming from third- fourth- and fifth-graders.
 
-But then again, this is the 12th week of the DC SCORES season. TLC is everywhere. Next to the drinking fountain before the Slam!, a kid from Imagine Hope Tolson said, "You know what? It doesn't matter if we win or lose. Let's just have fun." And that's what everyone did even if their team didn't rush the stage at night's end for a picture with D.C. United's Talon. 
+But then again, this is the 12th week of the DC SCORES season. TLC is everywhere. Next to the drinking fountain before the Slam!, a kid from Imagine Hope Tolson said, "You know what? It doesn't matter if we win or lose. Let's just have fun." And that's what everyone did even if their team didn't rush the stage at night's end for a picture with D.C. United's Talon.
 
 When emcee extraordinaire Charity Blackwell asked for examples of sportsmanship before the show, a kid five rows back raised his hand and eloquently explained the importance of respecting the other team, your teammates, the referee (in soccer), your coaches, the field and yourself. We couldn't have said it better.
 
