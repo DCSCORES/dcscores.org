@@ -31,6 +31,18 @@ soccerSchedule:
 
   #### Middle Schools - Friday, November 17
 
+  **Boys' Semi-Final***
+
+  - Lincoln at EL Haynes
+
+  - Raymond at DCI
+
+  **Girls' Semi-Final**
+
+  - LaSalle at DCI
+
+  - Raymond at Truesdell
+
   **COED**
 
   - Hart at Cardozo
