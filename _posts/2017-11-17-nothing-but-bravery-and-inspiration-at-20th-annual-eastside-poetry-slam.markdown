@@ -16,10 +16,10 @@ Bravery.
 
 It is a word we don't use that often anymore, but Uniyah C., a 10-year-old, reminded us of it Thursday night.
 
-*It is the best thing I know
-It helps you stay confident when you're down and sad.
-Bravery helps you to believe in yourself when nobody else will.
-Having bravery will not allow yourself to give up or have any letdowns.*
+*It is the best thing I know <br>
+It helps you stay confident when you're down and sad.<br>
+Bravery helps you to believe in yourself when nobody else will.<br>
+Having bravery will not allow yourself to give up or have any letdowns.*<br>
 
 Uniyah's Shine Award-winning poem (best individual performance) came during the second of 22 school performances Thursday night at H.D. Woodson. It set the stage for much more courage, as kids as young as 8 delivered one powerful performance after another. Memorized. Choreographed. And performed with passion.
 
