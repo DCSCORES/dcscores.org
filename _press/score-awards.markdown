@@ -1,7 +1,7 @@
 ---
 title: SCORE Awards
 date: 2016-05-06 00:00:00 Z
-position: 39
+position: 41
 link: http://dcrefined.com/sports-fitness/score-awards
 source: DC Refined
 ---
