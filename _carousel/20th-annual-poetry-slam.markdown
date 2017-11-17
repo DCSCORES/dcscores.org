@@ -1,9 +1,9 @@
 ---
-title: 20th Annual Poetry Slam!
+title: 20th Annual Poetry Slam! WOWS
 date: 2017-10-24 13:58:00 Z
 position: 1
-Image: "/uploads/31089059355_4432ababf3_o.jpg"
-Link: http://bit.ly/DCslam2017
+Image: "/uploads/Tubman.jpg"
+Link: http://bit.ly/EastsideRecap17
 ---
 
-Join us on Wednesday, November 15 and Thursday, November 16 to celebrate the 20th annual DC SCORES Poetry Slam!
+During the two-night premier event, 45 schools inspired, motivated, and wowed capacity audiences. 
