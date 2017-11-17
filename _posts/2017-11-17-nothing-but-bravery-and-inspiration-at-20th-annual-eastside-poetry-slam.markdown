@@ -39,11 +39,11 @@ Teamwork, leadership and commitment are DC SCORES' core values, and no team bett
 
 Sporting red and blue TLC T-shirts, the Bears ran through a poem about each value -- their voices and movements in unison. There is an "i" in Aiton, but it's clear that the "t" for team wins out.
 
-*I hope that you can see
-how committed we can be
-To soccer and poetry here we go
-For five days in a row
-Oh*
+*I hope that you can see<br>
+how committed we can be<br>
+To soccer and poetry here we go<br>
+For five days in a row<br>
+Oh*<br>
 
 ---
 
@@ -51,16 +51,16 @@ Speaking of commitment, DC SCORES' poets could probably fix our country's proble
 
 There was KIPP Quest, stepping up to the microphone in three different groups -- the classes of 2025, 2026 and 20w7.
 
-*Dear future me
-It's 2027 you see
-So, take a look at me
-I'm finishing up at KCP
-It's off to college for me to
-Howard
-UCLA
-Spellman
-Moorehouse
-and...*
+*Dear future me<br>
+It's 2027 you see<br>
+So, take a look at me<br>
+I'm finishing up at KCP<br>
+It's off to college for me to<br>
+Howard<br>
+UCLA<br>
+Spellman<br>
+Moorehouse<br>
+and...*<br>
 
 ---
 
@@ -76,10 +76,10 @@ Then there was the rap battle, a back-and-forth between two KIPP KEY girls who w
 
 Speaking of leadership...
 
-*I wish that nobody had to live on the streets or be empty-handed
-I wish I had enough money to build a new school to help students get better
-I wish that all DC Public Schools were bully free
-I wish I could help homeless people find jobs so they can provide for themselves*
+*I wish that nobody had to live on the streets or be empty-handed<br>
+I wish I had enough money to build a new school to help students get better<br>
+I wish that all DC Public Schools were bully free<br>
+I wish I could help homeless people find jobs so they can provide for themselves*<br>
 
 Those were the wise words of Turner Elementary, but the theme carried on throughout the night. Everyone took the lead in picturing better lives -- not just for themselves but for others. That's a pretty incredible sentiment coming from third- fourth- and fifth-graders.
 
