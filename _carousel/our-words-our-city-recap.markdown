@@ -1,5 +1,5 @@
 ---
-title: Our Words Our City recap
+title: Our Words Our City GREAT Poetry
 date: 2017-08-14 16:26:00 Z
 position: 2
 Image: "/uploads/DSC_0801.jpg"
