@@ -10,7 +10,9 @@ Thumbnail Image: "/uploads/IMG_5047.jpg"
 
 ![IMG_5047-bf12a6.jpg](/uploads/IMG_5047-bf12a6.jpg)
 
-> Photo album on [FLICKR](http://bit.ly/EastsidePhotos17)
+> Photo album on [FLICKR ](http://bit.ly/EastsidePhotos17)\
+> Videos on [YouTube](https://www.youtube.com/DCSCORES)\
+> ICYMI: [Westside Slam! recap](http://bit.ly/WestsideRecap17)
 
 Bravery.
 
