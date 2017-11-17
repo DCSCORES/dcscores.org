@@ -31,7 +31,7 @@ soccerSchedule:
 
   #### Middle Schools - Friday, November 17
 
-  **Boys' Semi-Final***
+  **Boys' Semi-Final**
 
   - Lincoln at EL Haynes
 
