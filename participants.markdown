@@ -9,49 +9,11 @@ soccerSchedule:
 
   DC SCORES runs the only consistent elementary and middle public school soccer leagues for both boys and girls in the District of Columbia. Additionally, beginning in the fall of 2016, DC SCORES is running the DC SCORES City League, a District-wide recreation center soccer league run in partnership with the DC Department of Parks and Recreation. <a href="https://www.google.com/maps/d/u/0/viewer?mid=1ArueGtkLKryfnhjFva-7hHSZlD8&ll=38.8939219214454%2C-77.01469049999997&z=12" target="_blank">MAP of SITES</a>
 
-  #### Middle Schools - Monday, November 13
+  #### Middle Schools - Monday, November 20
 
-  **4:00pm kick-off; girls game followed by boys**
+  **CoEd Championships at Cardozo High School**
 
-  - Basis at Capital City
-
-  - Raymond at KIPP KEY
-
-  **FRIENDLY**
-
-  - Barry Farm at WSG
-
-  #### Middle Schools - Tuesday, November 14
-
-  - Raymond at Capital City
-
-  **FRIENDLY**
-
-  - Leckie at WSG
-
-  #### Middle Schools - Friday, November 17
-
-  **Boys' Semi-Final**
-
-  - Lincoln at EL Haynes
-
-  - Raymond at DCI
-
-  **Girls' Semi-Final**
-
-  - LaSalle at DCI
-
-  - Raymond at Truesdell
-
-  **COED**
-
-  - Hart at Cardozo
-
-  - Leckie at Jefferson
-
-  - Kelly Miller at KIPP AIM
-
-  - Paul Public at Inspired Teaching
+  - Kelly Miller at Cardozo
 soccerScheduleMap: "/uploads/image-program-sites-map.png"
 forFamilies:
 - "## For Families\n\nDC SCORES is free to all participants. <a href=\"http://register.dcscores.org\"
