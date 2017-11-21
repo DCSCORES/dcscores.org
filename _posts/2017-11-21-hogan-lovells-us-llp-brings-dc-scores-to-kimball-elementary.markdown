@@ -4,6 +4,7 @@ date: 2017-11-21 14:07:00 Z
 tags:
 - Corporate partner
 Author: Tony Francavilla
+Thumbnail Image: "/uploads/hogan2-d32fb6.jpg"
 ---
 
 ![hogan.jpg](/uploads/hogan.jpg)
