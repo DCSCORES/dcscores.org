@@ -18,13 +18,14 @@ Bravery.
 
 It is a word we don't use that often anymore, but Uniyah C., a 10-year-old, reminded us of it Thursday night.
 
-
 *It is the best thing I know <br>
 It helps you stay confident when you're down and sad.<br>
 Bravery helps you to believe in yourself when nobody else will.<br>
 Having bravery will not allow yourself to give up or have any letdowns.*<br>
 
 Uniyah's Shine Award-winning poem (best individual performance) came during the second of 22 school performances Thursday night at H.D. Woodson. It set the stage for much more courage, as kids as young as 8 delivered one powerful performance after another. Memorized. Choreographed. And performed with passion.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/sP-fFc6cIds" frameborder="0" allowfullscreen></iframe>
 
 Thank you, Uniyah, for reminding us, for reminding the capacity audience, that doing such a thing takes great bravery. There's no doubt about that.
 
@@ -47,6 +48,8 @@ how committed we can be<br>
 To soccer and poetry here we go<br>
 For five days in a row<br>
 Oh*<br>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/IZ9iqCarwnU" frameborder="0" allowfullscreen></iframe>
 
 ---
 
@@ -93,3 +96,19 @@ When emcee extraordinaire Charity Blackwell asked for examples of sportsmanship 
 Teamwork. Leadership. Commitment.
 
 TLC was on display all night, and students brought it under the bright lights one performance after another -- bravery undressed and brilliant for all eyes to see.
+
+---
+
+Elementary Schools <br>
+1st place – Aiton Elementary School <br>
+2nd place – KIPP QUEST Academy <br>
+3rd place – Amidon Elementary School <br>
+Spirit Award – Burrville Elementary School <br>
+Shine Award – Uniyah C., Miner Elementary School <br>
+
+Middle Schools <br>
+1st place – Kelly Miller Middle School <br>
+2nd place – Jefferson Middle School <br>
+3rd place – KIPP KEY Academy <br>
+Spirit Award – Hart Middle School <br>
+Shine Award – Jermoni B. & Kenniyah C., KIPP KEY
