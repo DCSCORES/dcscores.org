@@ -99,14 +99,14 @@ TLC was on display all night, and students brought it under the bright lights on
 
 ---
 
-Elementary Schools <br>
+**Elementary Schools** <br>
 1st place – Aiton Elementary School <br>
 2nd place – KIPP QUEST Academy <br>
 3rd place – Amidon Elementary School <br>
 Spirit Award – Burrville Elementary School <br>
 Shine Award – Uniyah C., Miner Elementary School <br>
 
-Middle Schools <br>
+**Middle Schools** <br>
 1st place – Kelly Miller Middle School <br>
 2nd place – Jefferson Middle School <br>
 3rd place – KIPP KEY Academy <br>
