@@ -31,6 +31,8 @@ Seaton's Diamond G. finished her riveting, pulsating, auditorium-shaking poem "S
 
 Power was given. From one poet to the next. From one team dressed in their matching DC SCORES jerseys to the next.
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UigVskVBf1U" frameborder="0" allowfullscreen></iframe>
+
 ---
 
 When the 2016 Poetry Slam! took place on Nov. 16 of last year, kids in DC SCORES and their families were just starting to feel the reverberations of possible changes in our country. Now, many of them have felt the effects of the past year. Many have been directly affected by changes around them.
@@ -51,6 +53,8 @@ Eric Garner - he was minding his own business<br>
 Tayvon Martin - he was only a child<br>*
 
 "That’s what Martin Luther King taught us," the middle schoolers concluded. "(That) we will stand to fight, with all our might/Fighting for our rights tonight."
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fifOgZvlrbQ" frameborder="0" allowfullscreen></iframe>
 
 There was Chavez Prep, a mostly Hispanic school, proudly letting anyone with preconceived notions know that “Just because we are hispanic…”
 
