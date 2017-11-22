@@ -11,6 +11,7 @@ Thumbnail Image: "/uploads/hogan2-d32fb6.jpg"
 
 Hogan Lovells LLP has been a DC SCORES partner for the better part of two decades. There’s never been a DC SCORES Cup — our corporate charity soccer tournament — without a Hogan team in the field. Every year, the firm’s lawyers, staff, and summer associates volunteer at events, referee games, and even judge poetry slams.
 
+
 So when we learned that one of our longest and strongest law firm supporters was also partnering with Kimball Elementary School through the Washington Lawyers’ Committee, we saw an opportunity. Kimball was one of 20 schools on the DC SCORES waitlist, and [with the imminent prospect](https://www.washingtonpost.com/local/education/when-a-dc-school-closed-for-renovations-parents-faced-a-troubling-choice/2017/07/04/88c94334-5773-11e7-ba90-f5875b7d1876_story.html?utm_term=.de28ced31201) of two years in swing space for renovations, it was also a school in need of something to rally around for the fall.
 
 The leadership team and Citizenship Office at Hogan Lovells agreed to underwrite DC SCORES at Kimball if we could stand the program up there, and with the help of the principal and dedicated teachers, we were able to do that and more. Throughout the fall season and in spite of the challenges of bussing to and from temporary space, the new Kimball DC SCORES team was among the best in the league in attendance, routinely getting 30\+ kids to game days. They also shined on the field as the Kimball boys went undefeated in league play.
