@@ -7,8 +7,8 @@ Thumbnail Image: "/uploads/4H2A5971.jpg"
 
 ![4H2A6015.jpg](/uploads/4H2A6015.jpg)
 
-[Elementary school soccer photos ](https://www.flickr.com/photos/dcscorespictures/albums/72157686276655031)\ <br>
-[Middle school soccer photos](https://www.flickr.com/photos/dcscorespictures/albums/72157686224242060)\ <br>
+[Elementary school soccer photos ](https://www.flickr.com/photos/dcscorespictures/albums/72157686276655031) <br>
+[Middle school soccer photos](https://www.flickr.com/photos/dcscorespictures/albums/72157686224242060) <br>
 [Fall Frenzy photos](https://www.flickr.com/photos/dcscorespictures/albums/72157687401606930) <br>
 
 Forget the scores.
