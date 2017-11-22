@@ -23,6 +23,6 @@ Kimball capped off their season last week with their first ever Poetry Slam! per
 
 “I was overwhelmed by the enthusiasm and creativity of every student,” says Bowman, a guest judge at the Eastside Slam. “You could feel the energy and see the passion on their faces. It gave me a whole new appreciation for the roles that different aspects of the program play in these kids’ development.”
 
-The Kimball Cheetahs will be back in the field in the spring. We are thrilled to have them as part of the DC SCORES family, and we are grateful to our longtime partners at Hogan for helping to make it happen.
+The Kimball Cheetahs will be back in the field in the spring. We are thrilled to have them as part of the DC SCORES family, and we are grateful to our longtime partners at Hogan Lovells for helping to make it happen.
 
 *If you’d like to find out how your company can help bring DC SCORES to one of the schools on our waitlist, please contact Tony Francavilla at afrancavilla@dcscores.org*
