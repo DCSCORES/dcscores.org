@@ -24,11 +24,11 @@ and **$498** = 24 hours of instruction by Poetry Specialists for a DC SCORES tea
 
 During Giving Tuesday, because we understand how impactful each and every donor is, we will give thanks below in real time. Keep refreshing to see your name added to the list of high 5s. And THANK YOU!
 
-Giving Tuesday High 5's
-(Name, time gave) 
-Douglass Dodd, 2:25pm
-Roy Benjamin Murray, 7:26am (Nov. 27)
-Justin Peabody, 10:14am (Nov. 24)
-Lenaine Westney, 8:21am (Nov. 23)
-Matthew Lindsay, 8:23pm (Nov. 21)
-Laurie Gonzalez, 9:12am (Nov. 21)
+Giving Tuesday High 5's <br>
+(Name, time gave) <br>
+Douglass Dodd, 2:25pm <br>
+Roy Benjamin Murray, 7:26am (Nov. 27)<br>
+Justin Peabody, 10:14am (Nov. 24)<br>
+Lenaine Westney, 8:21am (Nov. 23)<br>
+Matthew Lindsay, 8:23pm (Nov. 21)<br>
+Laurie Gonzalez, 9:12am (Nov. 21)<br>
