@@ -24,7 +24,7 @@ and **$498** = 24 hours of instruction by Poetry Specialists for a DC SCORES tea
 
 During Giving Tuesday, because we understand how impactful each and every donor is, we will give thanks below in real time. Keep refreshing to see your name added to the list of high 5s. And THANK YOU!
 
-Giving Tuesday High 5's <br>
+**Giving Tuesday High 5's** <br>
 (Name, time gave) <br>
 Douglass Dodd, 2:25pm <br>
 Roy Benjamin Murray, 7:26am (Nov. 27)<br>
