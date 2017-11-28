@@ -26,6 +26,8 @@ During Giving Tuesday, because we understand how impactful each and every donor 
 
 **Giving Tuesday High 5's** <br>
 (Name, time gave) <br>
+Amy and Fred Rubin, 12:07pm <br>
+Tim Preotle, 12:05pm <br>
 Emily Schulman, 12:04pm <br>
 Yiqin Ren, 11:58am <br>
 Joseph Richardson, 11:56am <br>
