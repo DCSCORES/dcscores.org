@@ -26,8 +26,9 @@ During Giving Tuesday, because we understand how impactful each and every donor 
 
 **Giving Tuesday High 5's** <br>
 (Name, time gave) <br>
+James Armold, 7:17am <br>
 Karen Lovitch, 5:49am <br>
-Joshua McGee, 5:02am <br>
+Joshua McGee, 5:02am (GIVING TUESDAY!)<br> 
 Anonymous, 11:51pm <br>
 Douglass Dodd, 2:25pm <br>
 Roy Benjamin Murray, 7:26am (Nov. 27)<br>
