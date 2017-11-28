@@ -26,6 +26,7 @@ During Giving Tuesday, because we understand how impactful each and every donor 
 
 **Giving Tuesday High 5's** <br>
 (Name, time gave) <br>
+Michael Riggins, 10:07am <br>
 William Sutton, 9:59am <br>
 Grant Klein, 9:57am <br>
 Samuel Healy, 9:56am <br>
