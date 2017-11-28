@@ -26,6 +26,8 @@ During Giving Tuesday, because we understand how impactful each and every donor 
 
 **Giving Tuesday High 5's** <br>
 (Name, time gave) <br>
+Megan M Tackney, 5:50pm <br>
+Elaine Walizer, 5:48pm <br>
 Jessica Morris, 5:47pm <br>
 Christopher Carmel, 5:47pm <br>
 John Kemp, 5:47pm <br>
