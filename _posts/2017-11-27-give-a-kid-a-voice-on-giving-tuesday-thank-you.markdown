@@ -26,6 +26,11 @@ During Giving Tuesday, because we understand how impactful each and every donor 
 
 **Giving Tuesday High 5's** <br>
 (Name, time gave) <br>
+Mira Smith, 2:52pm <br>
+Anonymouns, 2:52pm <br>
+Sean Tipton, 2:49pm <br>
+Sunithi Hindagolla, 2:48pm <br>
+Joanna Fax, 2:47pm <br>
 Julia Thayer, 2:42pm <br>
 Shira Cohen, 2:37pm <br>
 Michael Parrish, 2:28pm <br>
