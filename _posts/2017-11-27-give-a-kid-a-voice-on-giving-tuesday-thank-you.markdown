@@ -26,6 +26,14 @@ During Giving Tuesday, because we understand how impactful each and every donor 
 
 **Giving Tuesday High 5's** <br>
 (Name, time gave) <br>
+Jessica G Trevelyan, 9:45am <br>
+Joshua, 9:43am <br>
+Chloe Doto, 9:43am <br>
+Jacqueline Kemp, 9:42am <br>
+Anonymous, 9:42am <br>
+Sandor Slager, 9:41am <br>
+Alex Hyman, 9:41am <br>
+Mary Ann Badavi, 9:41am <br>
 Joseph Starnes, 9:37am <br>
 Jennifer Jacobs, 9:32am <br>
 Owen Maguire, 9:31am <br>
