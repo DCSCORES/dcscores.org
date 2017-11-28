@@ -26,6 +26,8 @@ During Giving Tuesday, because we understand how impactful each and every donor 
 
 **Giving Tuesday High 5's** <br>
 (Name, time gave) <br>
+Ira Rickman, 1:18pm <br>
+Mary Jane Angelo, 1:16PM <br>
 Beth Powell, 1:14pm <br>
 Brian Wright, 1:14pm <br>
 Gabriel Michael Rosen, 1:14pm <br>
