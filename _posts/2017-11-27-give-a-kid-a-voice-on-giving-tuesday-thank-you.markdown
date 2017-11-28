@@ -26,6 +26,7 @@ During Giving Tuesday, because we understand how impactful each and every donor 
 
 **Giving Tuesday High 5's** <br>
 (Name, time gave) <br>
+Brian Sanker, 1:01pm <br>
 Beth Hofer, 1:00pm <br>
 Carl Cohen, 12:58pm <br>
 Rachel Shnider, 12:58pm <br>
