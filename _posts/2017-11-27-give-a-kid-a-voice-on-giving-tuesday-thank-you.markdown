@@ -26,6 +26,10 @@ During Giving Tuesday, because we understand how impactful each and every donor 
 
 **Giving Tuesday High 5's** <br>
 (Name, time gave) <br>
+Judi Glickman, 11:33am <br>
+Dori & Mark Hazan, 11:31am <br>
+Joshua Shnider, 11:29am <br>
+Andrew Crouter, 11:29am <br>
 Sarah Senty, 11:27am <br>
 Yuzhang Li, 11:26am <br>
 Andrew Bellwoar, 11:25am <br>
