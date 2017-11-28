@@ -26,6 +26,7 @@ During Giving Tuesday, because we understand how impactful each and every donor 
 
 **Giving Tuesday High 5's** <br>
 (Name, time gave) <br>
+Martin Weiss, 2:15pm <br>
 Mike Schoenbrun, 2:08pm <br>
 Susan Nolte, 2:06pm <br>
 Anonymous, 2:00pm <br>
