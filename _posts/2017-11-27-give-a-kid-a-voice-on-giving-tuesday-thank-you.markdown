@@ -26,6 +26,11 @@ During Giving Tuesday, because we understand how impactful each and every donor 
 
 **Giving Tuesday High 5's** <br>
 (Name, time gave) <br>
+Marni Karlin, 4:11pm <br>
+Sharyn Sutton, 4:11pm <br>
+Simon Thavaseelan, 4:09pm <br>
+Katie Sieck, 4:08pm <br>
+Jocelyn Potts, 4:07pm <br>
 Anonymous, 3:47pm <br>
 Elaine Lu, 3:46pm <br>
 Robert Watkins/Patty Farrell, 3:46pm <br>
