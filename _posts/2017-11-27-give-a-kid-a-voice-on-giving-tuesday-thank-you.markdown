@@ -26,6 +26,15 @@ During Giving Tuesday, because we understand how impactful each and every donor 
 
 **Giving Tuesday High 5's** <br>
 (Name, time gave) <br>
+Ella Trevelyan, 9:49am <br>
+Kerry Kellogg, 9:49am <br>
+Calder Trevelyan, 9:48am <br>
+Michael H Rubin, 9:48am <br>
+Chris Hill, 9:48am <br>
+Kami Veltri, 9:47am <br>
+Magdaleno and Raquel Galeas, 9:47am <br>
+Jacqueline Kemp, 9:46am <br>
+Stuart Trevelyan, 9:46am <br>
 Jessica G Trevelyan, 9:45am <br>
 Joshua, 9:43am <br>
 Chloe Doto, 9:43am <br>
