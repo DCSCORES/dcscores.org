@@ -26,6 +26,10 @@ During Giving Tuesday, because we understand how impactful each and every donor 
 
 **Giving Tuesday High 5's** <br>
 (Name, time gave) <br>
+Mike Schoenbrun, 2:08pm <br>
+Susan Nolte, 2:06pm <br>
+Anonymous, 2:00pm <br>
+Aaron Wodin-Schwartz, 1:54pm <br>
 Ann Carmel, 1:50pm <br>
 Gail Clougherty, 1:47pm <br>
 Washington DC - Real Madrid Supporters Club 1:36pm <br>
