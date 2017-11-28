@@ -26,6 +26,9 @@ During Giving Tuesday, because we understand how impactful each and every donor 
 
 **Giving Tuesday High 5's** <br>
 (Name, time gave) <br>
+Angel Reynolds, 5:20pm <br>
+Perri Smith, 5:19pm <br>
+Jalin C Hsu, 5:19pm <br>
 Stephanie Wolfram, 5:18pm <br>
 John Conte, 5:17pm <br>
 David Rivera, 5:16pm <br>
