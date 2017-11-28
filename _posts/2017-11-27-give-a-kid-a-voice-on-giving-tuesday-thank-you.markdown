@@ -26,6 +26,11 @@ During Giving Tuesday, because we understand how impactful each and every donor 
 
 **Giving Tuesday High 5's** <br>
 (Name, time gave) <br>
+Daniel Jeydel, 10:28am <br>
+Sarah C Helinek, 10:24am <br>
+Gabriella Albanna, 10:20am <br>
+David Barritt-Flatt, 10:17am <br>
+Brett Zalaski, 10:15am <br>
 Michael Riggins, 10:07am <br>
 William Sutton, 9:59am <br>
 Grant Klein, 9:57am <br>
