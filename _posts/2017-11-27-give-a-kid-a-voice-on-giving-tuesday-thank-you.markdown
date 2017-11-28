@@ -26,6 +26,13 @@ During Giving Tuesday, because we understand how impactful each and every donor 
 
 **Giving Tuesday High 5's** <br>
 (Name, time gave) <br>
+Daniel Klain, 3:36pm <br>
+John Conte, 3:24pm <br>
+Jean Maguire, 3:24pm <br>
+Brittany Bennett, 3:21pm <br>
+Kerry Rose, 3:20pm <br>
+Aeon Clarke, 3:19pm <br>
+Sara Kushma, 3:17pm <br>
 Anthony's Transmission Center, 3:13pm <br>
 Anthony Piccari, 3:03pm <br>
 Julie Anne Rogers, 2:56pm <br>
