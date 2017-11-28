@@ -58,6 +58,7 @@ Jay Carmel, 5:07pm <br>
 Dimi Venkov, 5:06pm <br>
 Matthew Field, 5:06pm <br>
 Lorena Palacios, 5:04pm <br>
+Patty Meagher and Jeff Kuenzi, 5:03pm <br>
 Tamar Levenberg, 5:00pm <br>
 Sandra Zawacki, 4:57pm <br>
 Jennifer Halvaksz, 4:57pm <br>
@@ -67,6 +68,7 @@ Peter Gartrell, 4:29pm <br>
 Rachael Levine, 4:26pm <br>
 Jane Stevens, 4:26pm <br>
 Joe Maloy, 4:23pm <br>
+Jana Sharp, 4:16pm <br>
 Marni Karlin, 4:11pm <br>
 Sharyn Sutton, 4:11pm <br>
 Simon Thavaseelan, 4:09pm <br>
@@ -167,6 +169,7 @@ Judi Glickman, 11:33am <br>
 Dori & Mark Hazan, 11:31am <br>
 Joshua Shnider, 11:29am <br>
 Andrew Crouter, 11:29am <br>
+Renee Jones, 11:28am <br>
 Sarah Senty, 11:27am <br>
 Yuzhang Li, 11:26am <br>
 Andrew Bellwoar, 11:25am <br>
@@ -236,6 +239,7 @@ Jonah Mose Owens, 9:19am <br>
 Nancy, 9:17am <br>
 David Owens, 9:16am <br>
 Jake B Lloyd, 9:15am <br>
+Catherine Albright, 9:14am <br>
 Walter Okpych IIII, 9:13am <br>
 Katrina Hochstetler, 9:13am <br>
 Chris John, 9:12am <br>
