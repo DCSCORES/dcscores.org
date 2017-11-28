@@ -26,6 +26,14 @@ During Giving Tuesday, because we understand how impactful each and every donor 
 
 **Giving Tuesday High 5's** <br>
 (Name, time gave) <br>
+Michael McRae, 8:55am <br>
+William Lucas, 8:55am <br>
+Lisa Freda, 8:53am <br>
+Emily Baskin, 8:53am <br>
+Nancy Fax, 8:52am <br>
+Aya Takeuchi, 8:49am <br>
+Maria Randazoo, 8:32am <br>
+Anne Woodworth, 8:31am <br>
 Sue Budin and John Lloyd, 7:59am <br>
 Jenny Medvene-Collins, 7:57am <br>
 Kristin Whitten, 7:54am <br>
