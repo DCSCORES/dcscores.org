@@ -26,6 +26,8 @@ During Giving Tuesday, because we understand how impactful each and every donor 
 
 **Giving Tuesday High 5's** <br>
 (Name, time gave) <br>
+Elizabeth Watkins, 12:37pm <br>
+Joshua W Coolidge, 12:36pm <br>
 Eric Finney, 12:34pm <br>
 Katie Johnston-Davis, 12:32pm <br>
 Bethany Nash, 12:31pm <br>
