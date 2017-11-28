@@ -26,6 +26,9 @@ During Giving Tuesday, because we understand how impactful each and every donor 
 
 **Giving Tuesday High 5's** <br>
 (Name, time gave) <br>
+Christine Okpych, 12:57pm <br>
+Katie Magnus, 12:57pm <br>
+Ella Trevelyan, 12:57pm <br>
 Greta Poku-Adjei, 12:55pm <br>
 David Crespo, 12:55pm <br>
 Calder Trevelyan, 12:54pm <br>
