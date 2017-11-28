@@ -26,6 +26,16 @@ During Giving Tuesday, because we understand how impactful each and every donor 
 
 **Giving Tuesday High 5's** <br>
 (Name, time gave) <br>
+Greta Poku-Adjei, 12:55pm <br>
+David Crespo, 12:55pm <br>
+Calder Trevelyan, 12:54pm <br>
+Nicholas Poitras, 12:54pm <br>
+Geoffrey Okpych, 12:54pm <br>
+Stuart Trevelyan, 12:53pm <br>
+Marie Okpych, 12:51pm <br>
+Jessica G Trevelyan, 12:51pm <br>
+Jill Preotle, 12:50pm <br>
+Bethany Perryman, 12:50pm <br>
 John Carmel, 12:46pm <br>
 Walter Okpych IV, 12:46pm <br>
 Dahna Goldstein, 12:44pm <br>
