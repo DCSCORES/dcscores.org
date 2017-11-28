@@ -26,6 +26,7 @@ During Giving Tuesday, because we understand how impactful each and every donor 
 
 **Giving Tuesday High 5's** <br>
 (Name, time gave) <br>
+Fairbanks Family, 5:49pm <br>
 Ben, 5:44pm <br>
 Ann Maguire, 5:41pm <br>
 Peter Richardson, 5:30pm <br>
