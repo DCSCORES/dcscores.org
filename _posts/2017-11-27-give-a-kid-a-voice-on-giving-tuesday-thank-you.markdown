@@ -26,6 +26,7 @@ During Giving Tuesday, because we understand how impactful each and every donor 
 
 **Giving Tuesday High 5's** <br>
 (Name, time gave) <br>
+Karina Martinez, 5:25pm <br>
 James Webber, 6:20pm <br>
 Mary Grace Oakes, 6:19pm <br>
 Brian Yi, 6:09pm <br>
