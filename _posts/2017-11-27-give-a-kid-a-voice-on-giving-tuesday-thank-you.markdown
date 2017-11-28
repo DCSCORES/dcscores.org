@@ -26,6 +26,8 @@ During Giving Tuesday, because we understand how impactful each and every donor 
 
 **Giving Tuesday High 5's** <br>
 (Name, time gave) <br>
+Anthony Piccari, 3:03pm <br>
+Julie Anne Rogers, 2:56pm <br>
 Mira Smith, 2:52pm <br>
 Anonymouns, 2:52pm <br>
 Sean Tipton, 2:49pm <br>
