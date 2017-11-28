@@ -26,6 +26,10 @@ During Giving Tuesday, because we understand how impactful each and every donor 
 
 **Giving Tuesday High 5's** <br>
 (Name, time gave) <br>
+Bethany Henderson, 12:20pm <br>
+Roy Tewell, 12:20pm <br>
+Anonymous, 12:20pm <br>
+Olga Kuzmina, 12:19pm <br>
 Kasha Hunt, 12:18pm <br>
 Emily Shinogle, 12:16pm <br>
 Christopher S. Richardson, 12:15pm <br>
