@@ -26,6 +26,8 @@ During Giving Tuesday, because we understand how impactful each and every donor 
 
 **Giving Tuesday High 5's** <br>
 (Name, time gave) <br>
+Yang Yu, 10:50am <br>
+Sarah Wolf, 10:48am <br>
 Ziqi Chen, 10:42am <br>
 Wendy Rilling LeBolt, 10:40am <br>
 Emma Cowan-Young, 10:38am <br>
