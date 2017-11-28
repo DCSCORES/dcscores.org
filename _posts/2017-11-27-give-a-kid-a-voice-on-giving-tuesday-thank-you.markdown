@@ -26,6 +26,7 @@ During Giving Tuesday, because we understand how impactful each and every donor 
 
 **Giving Tuesday High 5's** <br>
 (Name, time gave) <br>
+Lorena Palacios, 5:04pm <br>
 Tamar Levenberg, 5:00pm <br>
 Sandra Zawacki, 4:57pm <br>
 Jennifer Halvaksz, 4:57pm <br>
