@@ -26,6 +26,8 @@ During Giving Tuesday, because we understand how impactful each and every donor 
 
 **Giving Tuesday High 5's** <br>
 (Name, time gave) <br>
+William Sutton, 9:59am <br>
+Grant Klein, 9:57am <br>
 Samuel Healy, 9:56am <br>
 Jacqueline Kemp, 9:55am <br>
 Ian McQuade, 9:54am <br>
