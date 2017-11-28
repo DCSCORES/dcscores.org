@@ -26,6 +26,8 @@ During Giving Tuesday, because we understand how impactful each and every donor 
 
 **Giving Tuesday High 5's** <br>
 (Name, time gave) <br>
+Jongwook Kim, 11:17am <br>
+Jen Ehlers, 11:17am <br>
 Rose Stark, 11:11am <br>
 Antonio Mazza, 11:10am <br>
 Tim Preotle, 11:09am <br>
