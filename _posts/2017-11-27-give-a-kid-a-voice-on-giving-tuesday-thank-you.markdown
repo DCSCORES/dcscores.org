@@ -26,6 +26,10 @@ During Giving Tuesday, because we understand how impactful each and every donor 
 
 **Giving Tuesday High 5's** <br>
 (Name, time gave) <br>
+Tamar Levenberg, 5:00pm <br>
+Sandra Zawacki, 4:57pm <br>
+Jennifer Halvaksz, 4:57pm <br>
+Cristine Romano, 4:52pm <br>
 Rachel Klepper, 4:42pm <br>
 Peter Gartrell, 4:29pm <br>
 Rachael Levine, 4:26pm <br>
