@@ -26,6 +26,10 @@ During Giving Tuesday, because we understand how impactful each and every donor 
 
 **Giving Tuesday High 5's** <br>
 (Name, time gave) <br>
+Sue Budin and John Lloyd, 7:59am <br>
+Jenny Medvene-Collins, 7:57am <br>
+Kristin Whitten, 7:54am <br>
+Lee Goldstein, 7:45am <br>
 James Armold, 7:17am <br>
 Karen Lovitch, 5:49am <br>
 Joshua McGee, 5:02am (GIVING TUESDAY!)<br> 
