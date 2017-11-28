@@ -26,6 +26,13 @@ During Giving Tuesday, because we understand how impactful each and every donor 
 
 **Giving Tuesday High 5's** <br>
 (Name, time gave) <br>
+Kenny Owens, 9:21am <br>
+Peter Case, 9:20am <br>
+Joseph Mark Beninati, 9:19am <br>
+Jonah Mose Owens, 9:19am <br>
+Nancy, 9:17am <br>
+David Owens, 9:16am <br>
+Jake B Lloyd, 9:15am <br>
 Walter Okpych IIII, 9:13am <br>
 Katrina Hochstetler, 9:13am <br>
 Chris John, 9:12am <br>
