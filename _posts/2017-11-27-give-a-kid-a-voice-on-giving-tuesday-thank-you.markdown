@@ -26,6 +26,8 @@ During Giving Tuesday, because we understand how impactful each and every donor 
 
 **Giving Tuesday High 5's** <br>
 (Name, time gave) <br>
+Joseph Starnes, 9:37am <br>
+Jennifer Jacobs, 9:32am <br>
 Owen Maguire, 9:31am <br>
 Tim Spear, 9:29am <br>
 Stanley Kober, 9:25am <br>
