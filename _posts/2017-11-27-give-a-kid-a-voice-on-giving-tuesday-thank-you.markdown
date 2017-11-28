@@ -26,6 +26,15 @@ During Giving Tuesday, because we understand how impactful each and every donor 
 
 **Giving Tuesday High 5's** <br>
 (Name, time gave) <br>
+Beth Powell, 1:14pm <br>
+Brian Wright, 1:14pm <br>
+Gabriel Michael Rosen, 1:14pm <br>
+Donald Wine, 1:14pm <br>
+Hilary Gorosh, 1:12pm <br>
+Dahlia Chaudhury, 1:10pm <br>
+Scott Ratner, 1:08pm <br>
+Ellen Manning, 1:08pm <br>
+Estee Portnoy, 1:02pm <br>
 Brian Sanker, 1:01pm <br>
 Beth Hofer, 1:00pm <br>
 Carl Cohen, 12:58pm <br>
