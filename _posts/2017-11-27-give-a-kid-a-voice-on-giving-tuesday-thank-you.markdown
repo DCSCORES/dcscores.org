@@ -26,6 +26,14 @@ During Giving Tuesday, because we understand how impactful each and every donor 
 
 **Giving Tuesday High 5's** <br>
 (Name, time gave) <br>
+Katie Johnston-Davis, 12:32pm <br>
+Bethany Nash, 12:31pm <br>
+Robert Finney, 12:28pm <br>
+Henry Rogatz, 12:28pm <br>
+Jason Finney, 12:25pm <br>
+Anonymous, 12:24pm <br>
+Anonymous, 12:22pm <br>
+Anonymous, 12:22pm <br>
 Bethany Henderson, 12:20pm <br>
 Roy Tewell, 12:20pm <br>
 Anonymous, 12:20pm <br>
