@@ -26,6 +26,7 @@ During Giving Tuesday, because we understand how impactful each and every donor 
 
 **Giving Tuesday High 5's** <br>
 (Name, time gave) <br>
+Traci Lee, 11:39am <br>
 Judi Glickman, 11:33am <br>
 Dori & Mark Hazan, 11:31am <br>
 Joshua Shnider, 11:29am <br>
