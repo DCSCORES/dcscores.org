@@ -26,6 +26,7 @@ During Giving Tuesday, because we understand how impactful each and every donor 
 
 **Giving Tuesday High 5's** <br>
 (Name, time gave) <br>
+Michael Parrish, 2:28pm <br>
 Elizabeth Watkins, 2:23pm <br>
 Richard Gersten, 2:22pm <br>
 Martin Weiss, 2:15pm <br>
