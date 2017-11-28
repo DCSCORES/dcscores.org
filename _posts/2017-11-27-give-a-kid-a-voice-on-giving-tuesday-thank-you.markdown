@@ -26,6 +26,9 @@ During Giving Tuesday, because we understand how impactful each and every donor 
 
 **Giving Tuesday High 5's** <br>
 (Name, time gave) <br>
+Anonymous, 5:59pm <br>
+Evan Kemp, 5:59pm <br>
+Bruce D. Schulman, 5:58pm <br>
 Ellen Moore, 5:57pm <br>
 Bertha Arreola, 5:56pm <br>
 Kirsten Karttunen, 5:56pm <br>
