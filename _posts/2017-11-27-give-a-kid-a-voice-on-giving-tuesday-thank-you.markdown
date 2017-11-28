@@ -26,6 +26,8 @@ During Giving Tuesday, because we understand how impactful each and every donor 
 
 **Giving Tuesday High 5's** <br>
 (Name, time gave) <br>
+Brian Yi, 6:09pm <br>
+Gary Drean, 6:09pm <br>
 Rockford Weitz, 6:06pm <br>
 Anonymous, 5:59pm <br>
 Evan Kemp, 5:59pm <br>
