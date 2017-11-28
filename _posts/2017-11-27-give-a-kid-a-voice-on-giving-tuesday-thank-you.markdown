@@ -26,6 +26,9 @@ During Giving Tuesday, because we understand how impactful each and every donor 
 
 **Giving Tuesday High 5's** <br>
 (Name, time gave) <br>
+Jay Carmel, 5:07pm <br>
+Dimi Venkov, 5:06pm <br>
+Matthew Field, 5:06pm <br>
 Lorena Palacios, 5:04pm <br>
 Tamar Levenberg, 5:00pm <br>
 Sandra Zawacki, 4:57pm <br>
