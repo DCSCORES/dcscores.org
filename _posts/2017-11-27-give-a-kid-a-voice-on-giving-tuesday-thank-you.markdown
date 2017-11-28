@@ -26,6 +26,15 @@ During Giving Tuesday, because we understand how impactful each and every donor 
 
 **Giving Tuesday High 5's** <br>
 (Name, time gave) <br>
+Samuel Healy, 9:56am <br>
+Jacqueline Kemp, 9:55am <br>
+Ian McQuade, 9:54am <br>
+Alex Hyman, 9:54am <br>
+Sean Hinkle, 9:54am <br>
+Melanie Fineman, 9:53am <br>
+Ignacio Fernandez Stearns, 9:52am <br>
+Olga Palacios, 9:52am <br>
+Christine Brooks, 9:51am <br>
 Ella Trevelyan, 9:49am <br>
 Kerry Kellogg, 9:49am <br>
 Calder Trevelyan, 9:48am <br>
