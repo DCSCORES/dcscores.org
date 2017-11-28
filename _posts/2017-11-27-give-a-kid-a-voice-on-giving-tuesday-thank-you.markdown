@@ -26,6 +26,13 @@ During Giving Tuesday, because we understand how impactful each and every donor 
 
 **Giving Tuesday High 5's** <br>
 (Name, time gave) <br>
+Tom Hinkle, 5:14pm <br>
+Stephanie Badger, 5:13pm <br>
+David Freedholm, 5:13pm <br>
+Kemba Ford, 5:12pm <br>
+Linda Gebric, 5:12pm <br>
+Christina Brown, 5:11pm <br>
+Erich Walizer, 5:10pm <br>
 Lorena Palacios, 5:09pm <br>
 Frank Polley, 5:08pm <br>
 Ian Kline, 5:08pm <br>
