@@ -26,6 +26,9 @@ During Giving Tuesday, because we understand how impactful each and every donor 
 
 **Giving Tuesday High 5's** <br>
 (Name, time gave) <br>
+Ellen Moore, 5:57pm <br>
+Bertha Arreola, 5:56pm <br>
+Kirsten Karttunen, 5:56pm <br>
 Elaine Walizer, 5:55pm <br>
 Martin Palacios, 5:55pm <br>
 Megan M Tackney, 5:50pm <br>
