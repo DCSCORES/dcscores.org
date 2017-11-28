@@ -26,6 +26,9 @@ During Giving Tuesday, because we understand how impactful each and every donor 
 
 **Giving Tuesday High 5's** <br>
 (Name, time gave) <br>
+Emily Shinogle, 12:16pm <br>
+Christopher S. Richardson, 12:15pm <br>
+Kathleen M Hinkle, 12:12pm <br>
 Amy and Fred Rubin, 12:07pm <br>
 Tim Preotle, 12:05pm <br>
 Emily Schulman, 12:04pm <br>
