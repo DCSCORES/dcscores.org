@@ -26,6 +26,7 @@ During Giving Tuesday, because we understand how impactful each and every donor 
 
 **Giving Tuesday High 5's** <br>
 (Name, time gave) <br>
+Rockford Weitz, 6:06pm <br>
 Anonymous, 5:59pm <br>
 Evan Kemp, 5:59pm <br>
 Bruce D. Schulman, 5:58pm <br>
