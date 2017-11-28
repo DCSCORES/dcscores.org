@@ -26,6 +26,10 @@ During Giving Tuesday, because we understand how impactful each and every donor 
 
 **Giving Tuesday High 5's** <br>
 (Name, time gave) <br>
+Christopher Stewart, 5:30pm <br>
+Carol Sweig, 5:30pm <br>
+Gregory Jenkins, 5:25pm <br>
+Drew Bausher, 5:25pm <br>
 Larry Hinkle, 5:25pm <br>
 Jerry Hinkle, 5:24pm <br>
 Ruth Swanson, 5:23pm <br>
