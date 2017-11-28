@@ -26,6 +26,22 @@ During Giving Tuesday, because we understand how impactful each and every donor 
 
 **Giving Tuesday High 5's** <br>
 (Name, time gave) <br>
+Walter Okpych IIII, 9:13am <br>
+Katrina Hochstetler, 9:13am <br>
+Chris John, 9:12am <br>
+John Conte, 9:12am <br>
+Kelly Harley, 9:11am <br>
+Gerald Andriole, 9:10am <br>
+Dan Henderson, 9:09am <br>
+Daniel Henderson, 9:08am <br>
+Bethany Henderson, 9:08am <br>
+Bethany Rubin Henderson, 9:06am <br>
+Tony Francavilla, 9:06am <br>
+Eliana Henderson, 9:05am <br>
+Heidi Hochstetler, 9:05am <br>
+Adi Rose Henderson, 9:05am <br>
+Katrina Owens, 9:04am <br>
+Daniel Henderson, 9:03am <br>
 Michael McRae, 8:55am <br>
 William Lucas, 8:55am <br>
 Lisa Freda, 8:53am <br>
