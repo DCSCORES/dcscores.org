@@ -26,6 +26,18 @@ During Giving Tuesday, because we understand how impactful each and every donor 
 
 **Giving Tuesday High 5's** <br>
 (Name, time gave) <br>
+Jessica Morris, 5:47pm <br>
+Christopher Carmel, 5:47pm <br>
+John Kemp, 5:47pm <br>
+Rachel Gorosh, 5:46pm <br>
+Elizabeth Bradley, 5:46pm <br>
+Anonymous, 5:45pm <br>
+Anonymous, 5:45pm <br>
+Noelle Carne, 5:44pm <br>
+Emma Okpych, 5:44pm <br>
+Anthony Brown, 5:42pm <br>
+Walter Okpych, 5:42pm <br>
+Amy Nakamoto, 5:42pm <br>
 Timothy Borysowski, 5:41pm <br>
 Adam Rupe, 5:40pm <br>
 William Magioncalda, 5:38pm <br>
