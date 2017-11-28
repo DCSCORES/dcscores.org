@@ -26,6 +26,10 @@ During Giving Tuesday, because we understand how impactful each and every donor 
 
 **Giving Tuesday High 5's** <br>
 (Name, time gave) <br>
+Lorena Palacios, 5:09pm <br>
+Frank Polley, 5:08pm <br>
+Ian Kline, 5:08pm <br>
+Layla Zaidane, 5:07pm <br>
 Jay Carmel, 5:07pm <br>
 Dimi Venkov, 5:06pm <br>
 Matthew Field, 5:06pm <br>
