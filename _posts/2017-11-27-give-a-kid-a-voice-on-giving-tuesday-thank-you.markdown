@@ -26,6 +26,9 @@ During Giving Tuesday, because we understand how impactful each and every donor 
 
 **Giving Tuesday High 5's** <br>
 (Name, time gave) <br>
+Beth Hofer, 1:00pm <br>
+Carl Cohen, 12:58pm <br>
+Rachel Shnider, 12:58pm <br>
 Christine Okpych, 12:57pm <br>
 Katie Magnus, 12:57pm <br>
 Ella Trevelyan, 12:57pm <br>
