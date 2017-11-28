@@ -26,6 +26,11 @@ During Giving Tuesday, because we understand how impactful each and every donor 
 
 **Giving Tuesday High 5's** <br>
 (Name, time gave) <br>
+Sarah Senty, 11:27am <br>
+Yuzhang Li, 11:26am <br>
+Andrew Bellwoar, 11:25am <br>
+Hansheng Chen, 11:25am <br>
+Beth Myers, 11:24am <br>
 Loretta Reinersmann, 11:23am <br>
 Jongwook Kim, 11:17am <br>
 Jen Ehlers, 11:17am <br>
