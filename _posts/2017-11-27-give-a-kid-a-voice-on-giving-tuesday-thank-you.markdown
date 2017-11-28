@@ -26,6 +26,8 @@ During Giving Tuesday, because we understand how impactful each and every donor 
 
 **Giving Tuesday High 5's** <br>
 (Name, time gave) <br>
+Stanley Kober, 9:25am <br>
+Tim Swartzendruber, 9:22am <br>
 Kenny Owens, 9:21am <br>
 Peter Case, 9:20am <br>
 Joseph Mark Beninati, 9:19am <br>
