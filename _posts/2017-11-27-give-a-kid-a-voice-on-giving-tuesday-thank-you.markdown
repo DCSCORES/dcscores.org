@@ -26,10 +26,6 @@ During Giving Tuesday, because we understand how impactful each and every donor 
 
 **Giving Tuesday High 5's** <br>
 (Name, time gave) <br>
-Anonymous, 3:47pm <br>
-Elaine Lu, 3:46pm <br>
-Robert Watkins/Patty Farrell, 3:46pm <br>
-Katherine Egger Makris, 3:45 <br>
 Daniel Klain, 3:36pm <br>
 John Conte, 3:24pm <br>
 Jean Maguire, 3:24pm <br>
