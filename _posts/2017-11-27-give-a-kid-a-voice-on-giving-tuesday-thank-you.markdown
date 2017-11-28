@@ -26,6 +26,9 @@ During Giving Tuesday, because we understand how impactful each and every donor 
 
 **Giving Tuesday High 5's** <br>
 (Name, time gave) <br>
+Larry Hinkle, 5:25pm <br>
+Jerry Hinkle, 5:24pm <br>
+Ruth Swanson, 5:23pm <br>
 Angel Reynolds, 5:20pm <br>
 Perri Smith, 5:19pm <br>
 Jalin C Hsu, 5:19pm <br>
