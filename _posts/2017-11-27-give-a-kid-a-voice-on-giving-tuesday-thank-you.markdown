@@ -26,6 +26,10 @@ During Giving Tuesday, because we understand how impactful each and every donor 
 
 **Giving Tuesday High 5's** <br>
 (Name, time gave) <br>
+Antonio Mazza, 11:10am <br>
+Tim Preotle, 11:09am <br>
+Chang Liu, 11:05am <br>
+Stevie Lyn Smith, 11:04am <br>
 Brian Levine, 11:03am <br>
 Andrianna Dunbar, 10:57am <br>
 Yang Yu, 10:50am <br>
