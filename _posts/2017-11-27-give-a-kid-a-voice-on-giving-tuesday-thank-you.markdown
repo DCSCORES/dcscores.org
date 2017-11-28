@@ -26,6 +26,10 @@ During Giving Tuesday, because we understand how impactful each and every donor 
 
 **Giving Tuesday High 5's** <br>
 (Name, time gave) <br>
+John Carmel, 12:46pm <br>
+Walter Okpych IV, 12:46pm <br>
+Dahna Goldstein, 12:44pm <br>
+Lauren Richardson, 12:42pm <br>
 Elizabeth Watkins, 12:37pm <br>
 Joshua W Coolidge, 12:36pm <br>
 Eric Finney, 12:34pm <br>
