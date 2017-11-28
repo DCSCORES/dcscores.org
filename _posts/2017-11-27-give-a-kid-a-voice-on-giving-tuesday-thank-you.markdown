@@ -26,6 +26,8 @@ During Giving Tuesday, because we understand how impactful each and every donor 
 
 **Giving Tuesday High 5's** <br>
 (Name, time gave) <br>
+Brian Levine, 11:03am <br>
+Andrianna Dunbar, 10:57am <br>
 Yang Yu, 10:50am <br>
 Sarah Wolf, 10:48am <br>
 Ziqi Chen, 10:42am <br>
