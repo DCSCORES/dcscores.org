@@ -26,6 +26,8 @@ During Giving Tuesday, because we understand how impactful each and every donor 
 
 **Giving Tuesday High 5's** <br>
 (Name, time gave) <br>
+Ann Carmel, 1:50pm <br>
+Gail Clougherty, 1:47pm <br>
 Washington DC - Real Madrid Supporters Club 1:36pm <br>
 Susan Goodenow, 1:26pm <br>
 Ira Rickman, 1:18pm <br>
