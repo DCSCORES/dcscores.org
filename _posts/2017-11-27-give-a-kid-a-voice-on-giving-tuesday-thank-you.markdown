@@ -26,6 +26,8 @@ During Giving Tuesday, because we understand how impactful each and every donor 
 
 **Giving Tuesday High 5's** <br>
 (Name, time gave) <br>
+Alanna Sobel, 9:53pm <br>
+Alyson Blair, 9:45pm <br>
 Rodney Turner, 9:40pm <br>
 Emily Thompson, 9:34pm <br>
 Forrest Smith, 9:32pm <br>
