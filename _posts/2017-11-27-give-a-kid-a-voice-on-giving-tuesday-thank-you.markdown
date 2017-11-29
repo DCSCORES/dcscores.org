@@ -26,6 +26,8 @@ During Giving Tuesday, because we understand how impactful each and every donor 
 **Giving Tuesday High 5's** <br>
 \(Name, time gave) <br>
 
+Alex Gorosh, 2:47pm <br>
+
 Harper Lovegrove, 2:35pm <br>
 
 Debra L Clark, 2:25pm <br>
