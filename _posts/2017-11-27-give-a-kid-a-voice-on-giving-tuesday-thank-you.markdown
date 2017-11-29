@@ -26,6 +26,13 @@ During Giving Tuesday, because we understand how impactful each and every donor 
 
 **Giving Tuesday High 5's** <br>
 (Name, time gave) <br>
+Sharon Plonsker, 7:58pm <br>
+Barbara Harman, 7:58pm <br>
+Michael Elliott, 7:57pm <br>
+Jeff carmel, 7:53pm <br>
+Jason Ferreri, 7:50pm <br>
+Amy Rogers, 7:47pm <br>
+Brian Pate, 7:47pm <br>
 Jessica Farnsworth, 7:44pm <br>
 John Brendan Guinan, 7:41pm <br>
 David Aidekman, 7:38pm <br>
