@@ -26,6 +26,11 @@ During Giving Tuesday, because we understand how impactful each and every donor 
 
 **Giving Tuesday High 5's** <br>
 (Name, time gave) <br>
+Brian Brussel, 10:29pm <br>
+Mary Kusler, 10:26pm <br>
+Monisha Kapila, 10:25pm <br>
+Chris Silvester, 10:18pm <br>
+Zach Warren, 10:18pm <br>
 Debra Freedholm, 10:14pm <br>
 Kim Fellenz, 10:13pm <br>
 Kelsie Wendelberger, 10:11pm <br>
