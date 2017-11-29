@@ -26,6 +26,9 @@ During Giving Tuesday, because we understand how impactful each and every donor 
 
 **Giving Tuesday High 5's** <br>
 (Name, time gave) <br>
+Edith Rosen Erdberg, 8:44pm <br>
+Maria Shepard, 8:41pm <br>
+Jane Preotle, 8:31pm <br>
 Kathy Jacquart, 8:22pm <br>
 Cheryl L Gregory, 8:19pm <br>
 Judith Kemp, 8:18pm <br>
@@ -38,7 +41,7 @@ Marisa Majsak, 8:10pm <br>
 Sharon Plonsker, 7:58pm <br>
 Barbara Harman, 7:58pm <br>
 Michael Elliott, 7:57pm <br>
-Jeff carmel, 7:53pm <br>
+Jeff Carmel, 7:53pm <br>
 Jason Ferreri, 7:50pm <br>
 Amy Rogers, 7:47pm <br>
 Brian Pate, 7:47pm <br>
