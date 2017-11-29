@@ -26,6 +26,10 @@ During Giving Tuesday, because we understand how impactful each and every donor 
 
 **Giving Tuesday High 5's** <br>
 (Name, time gave) <br>
+Devon McTavish, 9:06pm <br>
+Sue Bell, 9:05pm <br>
+Lauren Smith, 9:03pm <br>
+Anonymous, 9:03pm <br>
 Joanna F Barrett, 8:56pm <br>
 John Lewis Guzman, 8:55pm <br>
 David Crespo, 8:55pm <br>
