@@ -26,4 +26,4 @@ From the beginning of the season to the end, I witnessed not only one student’
 
 Thanks to your generous donation, thousands of poet-athletes like Natalia and the rest of the Brightwood Panthers will be able to build their confidence and find their voices.
 
-Thank you for donating taking the time to “*Think*” yesterday and donate to this amazing cause.
+Thank you for taking the time to “*Think*” yesterday and donate to this amazing cause.
