@@ -26,6 +26,9 @@ During Giving Tuesday, because we understand how impactful each and every donor 
 
 **Giving Tuesday High 5's** <br>
 (Name, time gave) <br>
+Lauren Bogard, 7:10pm <br>
+Annabelle Baehr, 7:10pm <br>
+Peter Gilmore, 7:05pm <br>
 Fairbanks Family, 5:49pm <br>
 Ben, 5:44pm <br>
 Ann Maguire, 5:41pm <br>
