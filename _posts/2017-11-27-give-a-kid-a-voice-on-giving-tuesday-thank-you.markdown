@@ -26,6 +26,11 @@ During Giving Tuesday, because we understand how impactful each and every donor 
 
 **Giving Tuesday High 5's** <br>
 (Name, time gave) <br>
+Donald Hill, 8:14pm <br>
+Bryan Hinkle, 8:13pm <br>
+Corey Timbers, 8:10 <br>
+Tim Preotle, 8:10pm <br>
+Marisa Majsak, 8:10pm <br>
 Sharon Plonsker, 7:58pm <br>
 Barbara Harman, 7:58pm <br>
 Michael Elliott, 7:57pm <br>
