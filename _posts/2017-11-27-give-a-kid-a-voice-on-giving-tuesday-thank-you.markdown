@@ -26,6 +26,10 @@ During Giving Tuesday, because we understand how impactful each and every donor 
 
 **Giving Tuesday High 5's** <br>
 (Name, time gave) <br>
+Debra Freedholm, 10:14pm <br>
+Kim Fellenz, 10:13pm <br>
+Kelsie Wendelberger, 10:11pm <br>
+Lauren Young, 10:09pm <br>
 Alanna Sobel, 9:53pm <br>
 Alyson Blair, 9:45pm <br>
 Rodney Turner, 9:40pm <br>
