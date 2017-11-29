@@ -26,6 +26,11 @@ During Giving Tuesday, because we understand how impactful each and every donor 
 
 **Giving Tuesday High 5's** <br>
 (Name, time gave) <br>
+David Goodwin, 10:54pm <br>
+Philippe Monfiston, 10:50pm <br>
+Amelia Walters, 10:47pm <br>
+Christen Gallagher, 10:36pm <br>
+Kate Rust, 10:33pm <br>
 Brian Brussel, 10:29pm <br>
 Mary Kusler, 10:26pm <br>
 Monisha Kapila, 10:25pm <br>
