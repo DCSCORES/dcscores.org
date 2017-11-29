@@ -26,6 +26,10 @@ During Giving Tuesday, because we understand how impactful each and every donor 
 
 **Giving Tuesday High 5's** <br>
 (Name, time gave) <br>
+Kathy Jacquart, 8:22pm <br>
+Cheryl L Gregory, 8:19pm <br>
+Judith Kemp, 8:18pm <br>
+Seth Halvaksz, 8:18pm <br>
 Donald Hill, 8:14pm <br>
 Bryan Hinkle, 8:13pm <br>
 Corey Timbers, 8:10 <br>
