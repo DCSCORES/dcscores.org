@@ -26,6 +26,9 @@ During Giving Tuesday, because we understand how impactful each and every donor 
 
 **Giving Tuesday High 5's** <br>
 (Name, time gave) <br>
+Jennifer Oxley, 9:29pm <br>
+Anonymous, 9:28pm <br>
+Marissa Hanley, 9:25pm <br>
 Devon McTavish, 9:06pm <br>
 Sue Bell, 9:05pm <br>
 Lauren Smith, 9:03pm <br>
