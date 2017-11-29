@@ -26,6 +26,7 @@ During Giving Tuesday, because we understand how impactful each and every donor 
 
 **Giving Tuesday High 5's** <br>
 (Name, time gave) <br>
+Robert Kraus, 7:22pm <br>
 Lauren Bogard, 7:10pm <br>
 Annabelle Baehr, 7:10pm <br>
 Peter Gilmore, 7:05pm <br>
