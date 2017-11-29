@@ -26,6 +26,11 @@ During Giving Tuesday, because we understand how impactful each and every donor 
 
 **Giving Tuesday High 5's** <br>
 (Name, time gave) <br>
+Philip D. Duncan, 11:43pm <br>
+Charles E Meisch Jr., 11:42pm <br>
+Jacob Baron, 11:42pm <br>
+Tracy Manrique, 11:41pm <br>
+Susan Seutter, 11:40pm <br>
 Antonia Preciado, 11:37pm <br>
 Amanda Potter Sacks, 11:20pm <br>
 Marcy Karin, 11:13pm <br>
