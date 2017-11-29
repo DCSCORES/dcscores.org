@@ -26,6 +26,10 @@ During Giving Tuesday, because we understand how impactful each and every donor 
 
 **Giving Tuesday High 5's** <br>
 (Name, time gave) <br>
+Jessica Farnsworth, 7:44pm <br>
+John Brendan Guinan, 7:41pm <br>
+David Aidekman, 7:38pm <br>
+John and Mary Jo Vrem Ydstie, 7:36pm <br>
 Robert Kraus, 7:22pm <br>
 Lauren Bogard, 7:10pm <br>
 Annabelle Baehr, 7:10pm <br>
