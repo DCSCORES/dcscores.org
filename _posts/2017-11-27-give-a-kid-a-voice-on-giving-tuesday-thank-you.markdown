@@ -26,6 +26,10 @@ During Giving Tuesday, because we understand how impactful each and every donor 
 
 **Giving Tuesday High 5's** <br>
 (Name, time gave) <br>
+Rodney Turner, 9:40pm <br>
+Emily Thompson, 9:34pm <br>
+Forrest Smith, 9:32pm <br>
+Andrew Klein, 9:31pm <br>
 Jennifer Oxley, 9:29pm <br>
 Anonymous, 9:28pm <br>
 Marissa Hanley, 9:25pm <br>
