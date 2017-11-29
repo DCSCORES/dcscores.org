@@ -26,6 +26,7 @@ During Giving Tuesday, because we understand how impactful each and every donor 
 
 **Giving Tuesday High 5's** <br>
 (Name, time gave) <br>
+Maryam Yamadi, 9:09am <br>
 Kyle Wakayama, 1:25am <br>
 Maryann Jacobsen, 12:05am (Wednesday) <br>
 Emily Green, 11:51pm <br>
