@@ -26,6 +26,11 @@ During Giving Tuesday, because we understand how impactful each and every donor 
 
 **Giving Tuesday High 5's** <br>
 (Name, time gave) <br>
+Amanda Potter Sacks, 11:20pm <br>
+Marcy Karin, 11:13pm <br>
+Jennifer Mueller, 11:11pm <br>
+Mary Lord, 11:10pm <br>
+Eileen Shields-West, 11:07pm <br>
 David Goodwin, 10:54pm <br>
 Philippe Monfiston, 10:50pm <br>
 Amelia Walters, 10:47pm <br>
