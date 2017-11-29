@@ -26,6 +26,7 @@ During Giving Tuesday, because we understand how impactful each and every donor 
 
 **Giving Tuesday High 5's** <br>
 (Name, time gave) <br>
+Antonia Preciado, 11:37pm <br>
 Amanda Potter Sacks, 11:20pm <br>
 Marcy Karin, 11:13pm <br>
 Jennifer Mueller, 11:11pm <br>
