@@ -26,6 +26,8 @@ During Giving Tuesday, because we understand how impactful each and every donor 
 **Giving Tuesday High 5's** <br>
 \(Name, time gave) <br>
 
+Debra L Clark, 2:25pm <br>
+
 Paula Hoffman, 1:48pm <br>
 Nancy Perryman, 12:15pm <br>
 Skye Perryman, 10:33am <br>
