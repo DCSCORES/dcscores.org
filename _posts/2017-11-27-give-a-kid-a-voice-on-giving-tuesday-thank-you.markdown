@@ -26,6 +26,13 @@ During Giving Tuesday, because we understand how impactful each and every donor 
 
 **Giving Tuesday High 5's** <br>
 (Name, time gave) <br>
+Joanna F Barrett, 8:56pm <br>
+John Lewis Guzman, 8:55pm <br>
+David Crespo, 8:55pm <br>
+Rebecca Freedholm, 8:52pm <br>
+Marie Wang, 8:52pm <br>
+Jack Francis, 8:49pm <br>
+Tamara and Bruce Gorosh, 8:47pm <br>
 Edith Rosen Erdberg, 8:44pm <br>
 Maria Shepard, 8:41pm <br>
 Jane Preotle, 8:31pm <br>
