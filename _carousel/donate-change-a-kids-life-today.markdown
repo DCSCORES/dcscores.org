@@ -1,7 +1,7 @@
 ---
 title: Giving Tuesday Success
 date: 2017-10-24 14:02:00 Z
-position: 0
+position: 1
 Image: "/uploads/thank%20you.jpg"
 Link: http://bit.ly/GTthankyou
 ---
