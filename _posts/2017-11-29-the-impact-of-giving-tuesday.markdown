@@ -9,7 +9,7 @@ Thumbnail Image: "/uploads/38464301686_337118d7f6_o.jpg"
 
 *THANK YOU!*
 
-*That's all there is to say to the **396 individual donors** that made a donation to DC SCORES during this year's Giving Tuesday. Together, **$29,812** was raised to give kids a voice. That's a FULL YEAR of SCORES for nearly 30 kids! *
+*That's all there is to say to the **405 individual donors** that made a donation to DC SCORES during this year's Giving Tuesday. Together we reached our goal of raising more than **$30,000** to give kids a voice. That's a FULL YEAR of SCORES for nearly 30 kids!*
 
 *Rachel Gorosh, DC SCORES program coordinator and Brightwood Education Campus - Middle School poetry coach, saw the impact of giving a kid a voice this season as she coached the Panthers. Read her testimonial below and watch Natalia's Poetry Slam! performance.*
 
