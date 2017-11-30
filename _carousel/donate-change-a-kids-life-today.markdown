@@ -1,5 +1,5 @@
 ---
-title: Give a kid voice on November 28
+title: Giving Tuesday Success
 date: 2017-10-24 14:02:00 Z
 position: 0
 Image: "/uploads/thank%20you.jpg"
