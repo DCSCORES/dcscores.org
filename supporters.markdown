@@ -17,12 +17,10 @@ Team Champions:
 - United Way of the National Capital Region
 - Target
 Scoring Champions:
-- Office of the D.C. Deputy Mayor for Planning and Economic Development (New Communities
-  Youth Development & Community Wellness)
+- Office of the D.C. Deputy Mayor for Planning and Economic Development
 - Audi of America
 - Butterfields Butter LLC
 - Capital for Children
-- D.C. Commission on the Arts and Humanities
 - Foundation for Advancing Alcohol Responsibility
 - John Edward Fowler Memorial Foundation
 - Near Southeast Community Partners
@@ -37,11 +35,11 @@ Mvps:
 - D.C. Mayor’s Office on Latino Affairs (MOLA)
 - The Diplomat Group
 - District Sports
-- Richard E. and Nancy P. Marriott Foundation
-- Lainoff Family Foundation
 - Koons of Silver Spring
-- The George Preston Marshall Foundation
+- Lainoff Family Foundation
+- Richard E. and Nancy P. Marriott Foundation
 - The Morningstar Foundation
+- Nike
 - PriceWaterhouseCoopers
 - Share Fund
 - Washington Area Women's Foundation - Rainmakers Giving Circle
@@ -67,11 +65,10 @@ Fans:
 - Merrill Lynch
 - Moore & Van Allen
 - Nando’s Restaurant Group
-- Nike
 - Pepco/Exelon
 - Promontory Financial Group
 - RSN
-- Subaru of America Foundation, Inc
+- Subaru of America Foundation, Inc.
 - TEGNA
 - Venable Foundation
 - Verizon Foundation
@@ -127,6 +124,7 @@ League Of Champions:
 - Elle Carne
 - Ronya Corey and Devon McFadden
 - Mark Cowan
+- David Crespo
 - Timothy J.H. Delaney
 - Alex Diaz-Asper
 - Clem Dinsmore
@@ -136,6 +134,7 @@ League Of Champions:
 - Jason Finney
 - Kemba Ford
 - Tony Francavilla
+- Josh Freedholm
 - Steve and Michelle Goodman
 - Jay and Cheryl Grauberger
 - Andrew Howell
