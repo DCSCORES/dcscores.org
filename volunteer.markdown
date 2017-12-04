@@ -8,26 +8,24 @@ layout: volunteer
 
 <span id="volunteer-referee"></span>
 
-## Referee soccer!
+## Game Day Referee
 
 ![Referee](/uploads/volunteer-referee-float-left.jpg)
 
 **Description:**
-DC SCORES’ soccer leagues are recreational and small sided (8v8) with an emphasis on sportsmanship and learning. ​Only a basic soccer knowledge is required and training will be given on the basics of our games.  Referee only when you are available.
+DC SCORES’ soccer leagues focus on our three values: teamwork, leadership, and commitment. Basic soccer knowledge is required and volunteers are asked to complete a brief, one-time mandatory training on DC SCORES league rules. 
 
 **Requirements:**
-For elementary school games, only general knowledge of the game is needed.
-Refs for Friday middle school games should be more comfortable calling fouls and offsides.
-​Volunteers must be at least 15 years of age.
+For elementary school games: volunteers will be asked to make basic calls, such as throw-ins, corner kicks, and goal kicks. For middle school games: volunteers will be expected to call additional fouls, indirect/direct kicks, and offside. Volunteers much be at least 15 years of age.
 
 **When?**
-3:45 pm to 6:00 pm, Thursdays (Elementary) & Fridays (Middle)
+Thursdays (Elementary) & Fridays (Middle) from 3:35pm to 6pm.
 
 **Where?**
 At <a href="/our-program/program-sites/" target="_blank">sites</a> throughout DC. We will do our best to place you based on your location and mode of transportation.
 
 **Schedule**
-See the latest schedule on our <a href="https://www.dcscores.org/our-program/participants/" target="_blank">participants page</a>
+Spring 2018 schedule coming soon.
 
 **Want to get involved?**
 Contact Lindsey Sharp at lsharp@dcscores.org
@@ -36,24 +34,25 @@ Contact Lindsey Sharp at lsharp@dcscores.org
 
 <span id="volunteer-assistant-coach"></span>
 
-## Assistant coach
+## Assistant Coach
 
 ![Assistant coach](/uploads/volunteer-assistant-coach-float-left.jpg)
 
 **Description:**
-Help a soccer coach oversee students and run structured practices to build skills and knowledge of the game. Or help a writing coach teach the fundamentals of poetry (fall season) or design and implement the school service-learning project (spring).
+Assistant coaches are able to sign up for soccer and/or writing programming. Soccer coaches assist with after school practices and game days as need (Thursdays - Elementary and Friday - Middle). Writing coaches help with teaching the fundamentals of poetry (fall season) or designing and implementing the school service-learning project (spring).
 
 **Requirements & process:**
-18 years or older, commit to 1-2 days a week & have a TB test from the last two years.
+18 years or older, commit to at least 2-3 days a week and have a negative TB test from the last two years.
 
 1. Fill out our volunteer application.
 
-2. Pass background check and attend coach training.
+2. Pass background check, submit negative TB test and attend coach training.
 
 3. Start coaching!
 
 **When?**
-The fall season runs from September 5-November 22.
+
+The Spring 2018 season runs from March 12 to June 2.
 
 **Where?**
 At <a href="/our-program/program-sites/" target="_blank">sites</a> throughout DC. We will do our best to place you based on your location and mode of transportation.
@@ -65,37 +64,7 @@ Contact Lindsey Sharp at lsharp@dcscores.org
 
 <span id="volunteer-special-events"></span>
 
-## Special events
-
-![Fall Frenzy](/uploads/volunteer-fall-frenzy-float-left-small.jpg)
-
-### Fall Frenzy
-
-A day-long celebration of our fall season that includes soccer games and outdoor activities for our elementary school students and their families.
-
-**Date:** Saturday, October 14
-
-**Location:** Trinity University
-
-<a href="http://events.constantcontact.com/register/event?llr=sr4zb7aab&oeidk=a07eejpmh98f4413586" class="Article-contentButton" target="_blank">
-<i class="Icon  Icon-document"></i>
-Sign Up
-</a>
-
----
-
-![Poetry Slam](/uploads/volunteer-poetry-slam-float-right.jpg)
-
-### Poetry Slam!
-
-This two-night, spoken-word competition features DC SCORES students performing their original poetry. Volunteer roles include setup/breakdown, registration, ushers, scoring assistants, and stagehands.
-
-**Dates:** November 15 & 16
-
-**Want to get involved?**
-Contact Lindsey Sharp at lsharp@dcscores.org
-
----
+## Special Events
 
 ![Jamboree](/uploads/volunteer-jamboree-float-left-small.jpg)
 
@@ -104,6 +73,8 @@ Contact Lindsey Sharp at lsharp@dcscores.org
 The culminating event of the DC SCORES programming year, filled with soccer games, arts and crafts, and more for DC SCORES students and their families.
 
 **Date:** Saturday, June 2, 2018
+
+**Location: **Anacostia Park
 
 **Want to get involved?**
 Contact Lindsey Sharp at lsharp@dcscores.org
@@ -120,19 +91,43 @@ Our largest fundraiser – an annual adult soccer tournament made up of local co
 
 ---
 
+![Fall Frenzy](/uploads/volunteer-fall-frenzy-float-left-small.jpg)
+
+### Fall Frenzy
+
+A day-long celebration of our fall season that includes soccer games and outdoor activities for our elementary school students and their families.
+
+**Date:** October 2018 (TBD)
+
+**Location:** TBD
+
+---
+
+![Poetry Slam](/uploads/volunteer-poetry-slam-float-right.jpg)
+
+### Poetry Slam!
+
+This two-night, spoken-word competition features DC SCORES students performing their original poetry. Volunteer roles include set-up/breakdown, registration, ushers, scoring assistants, and stagehands.
+
+**Dates:** November 2018 (TBD)
+
+**Location: **TBD
+
+---
+
 <span id="volunteer-summer-camp"></span>
 
-## Summer camp counselor
+## Summer Camp Counselor
 
 ![Summer camp](/uploads/volunteer-summer-camp-float-left.jpg)
 
-Check back in the spring of 2018 for next year's application.
+Application will go live in Spring 2018.
 
 **Requirements:**
 Must be entering your sophomore year of high school, at minimum.
 Apply only for weeks you are able to attend fully, Monday-Friday.
 Students applying to work full camps or multiple weeks will be given priority.
-Experience working with kids is a plus.
+Experience working with kids and general interest in soccer/arts is a plus.
 
 ---
 
