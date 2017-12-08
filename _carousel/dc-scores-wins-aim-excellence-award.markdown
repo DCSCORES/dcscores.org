@@ -2,7 +2,6 @@
 title: Henderson named Executive Director of the year
 position: 0
 Image: "/uploads/brh3.jpg"
-Image Position: 50% 25%
 Link: http://bit.ly/HendersonWBJ
 ---
 
