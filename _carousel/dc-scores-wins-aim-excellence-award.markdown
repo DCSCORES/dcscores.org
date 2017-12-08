@@ -1,7 +1,7 @@
 ---
 title: Henderson named Executive Director of the year
 position: 0
-Image: "/uploads/Bethany%20Henderson%20(by%20Aya%20Takeuchi).jpg"
+Image: "/uploads/brh3.jpg"
 Image Position: 50% 25%
 Link: http://bit.ly/HendersonWBJ
 ---
