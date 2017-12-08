@@ -1,9 +1,9 @@
 ---
-title: Two months, three stamps of approval
+title: Henderson named Executive Director of the year
 position: 3
-Image: "/uploads/aim-excellence-award.jpg"
+Image: "/uploads/Bethany%20Henderson%20(by%20Aya%20Takeuchi).jpg"
 Image Position: 50% 25%
-Link: "/blog/2017/06/awards-day-dc-scores-wins-twice-in-one-morning"
+Link: http://bit.ly/HendersonWBJ
 ---
 
-DC SCORES was honored by the Center for Nonprofit Advancement (twice) and the Catalogue for Philanthropy, validating us as DC's best-run nonprofit! 
+Bethany Rubin Henderson was named a Washington Business Journal Executive Director of the Year, adding to DC SCORES' year of work-validating honors. 
