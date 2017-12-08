@@ -1,7 +1,7 @@
 ---
 title: 20th Annual Poetry Slam! WOWS
 date: 2017-10-24 13:58:00 Z
-position: 0
+position: 1
 Image: "/uploads/Tubman.jpg"
 Link: http://bit.ly/EastsideRecap17
 ---
