@@ -10,8 +10,8 @@ Thumbnail Image: "/uploads/Bethany%20Henderson%20(by%20Aya%20Takeuchi).jpg"
 
 ![Bethany Henderson (by Aya Takeuchi).jpg](/uploads/Bethany%20Henderson%20(by%20Aya%20Takeuchi).jpg)
 
-DC SCORES Executive Director receives distinguished honor at 2017 C-Suite Awards 
-
+**DC SCORES Executive Director receives distinguished honor at 2017 C-Suite Awards 
+**
 [Washington, DC] – [December 8, 2017] – DC SCORES Executive Director Bethany Rubin Henderson was named an inaugural Nonprofit Executive Director of the Year by the Washington Business Journal Thursday night, further validating DC SCORES’ position as one of the area’s best nonprofits. Henderson is at the helm of an organization that is changing the way nonprofits do business, and this award is the latest feather in her and DC SCORES’ cap. Earlier this year, DC SCORES won three other awards for nonprofit management – the AIM for Excellence Award (for best-managed nonprofit in the DC-Maryland-Virginia area); the Center for Nonprofit Advancement Board Leadership Award (for best nonprofit Board in the region); and inclusion in the 2017-18 Catalogue for Philanthropy as “one of the best small charities in the Greater Washington region.”
 
 
@@ -25,5 +25,5 @@ Since becoming DC SCORES Executive Director in 2014, Henderson has grown the num
  
 ###
  
-About DC SCORES
+About DC SCORES <br>
 DC SCORES creates neighborhood teams that give kids in need the confidence and skills to succeed on the playing field, in the classroom, and in life. Since 1994 DC SCORES has served more than 10,000 DC schoolchildren in high-poverty neighborhoods. Each year DC SCORES provides >400,000 child-hours of programming, runs 600 soccer games, trains and supports 225 community-based coaches, and gives kids the opportunity to write and perform over 12,500 original poems and spoken word pieces. All of its programs are free. Learn more: www.DCSCORES.org 
