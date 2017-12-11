@@ -9,13 +9,13 @@ Thumbnail Image: "/uploads/38951280512_d6c8f6229d_o-879193.jpg"
 
 ![38951280512_d6c8f6229d_o.jpg](/uploads/38951280512_d6c8f6229d_o.jpg)
 
-On Thursday, December 7th, two DC SCORES alumni testified during the DC Council Roundtable on Education. Ana Galeas and Christian Allen spoke about their experiences within DCPS schools and the positive impact DC SCORES has had in their lives.
+On Thursday, December 7, two DC SCORES alumni testified during the DC Council Roundtable on Education. Ana Galeas and Christian Allen spoke about their experiences within DCPS schools and the positive impact DC SCORES has had in their lives.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/qotylgOm46M" frameborder="0" gesture="media" allow="encrypted-media" allowfullscreen></iframe>
 
-> “I felt welcome when I joined the DC SCORES team at Raymond.  Many of my friends today - including my closest friend - were on my Raymond DC SCORES team.”
+> “I felt welcome when I joined the DC SCORES team at Raymond. Many of my friends today - including my closest friend - were on my Raymond DC SCORES team.”
 
-Ana currently works as a Soccer Coordinator for DC SCORES and studies General Studies at Montgomery College.
+Ana currently works as a Soccer Coordinator for DC SCORES and is a General Studies major at Montgomery College.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/-WeE3TnvV8Y" frameborder="0" gesture="media" allow="encrypted-media" allowfullscreen></iframe>
 
@@ -25,4 +25,4 @@ Ana currently works as a Soccer Coordinator for DC SCORES and studies General St
 
 Christian is currently a senior at Roosevelt High School and plans on attending college to study hospitality management. 
 
-Thanks for sharing your [DC SCORES impact](https://www.dcscores.org/impact/) stories Ana and Christian!
+Thanks for sharing your [DC SCORES impact](https://www.dcscores.org/impact/) stories, Ana and Christian!
