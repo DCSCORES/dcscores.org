@@ -13,6 +13,7 @@ So powerful.
 
 That's what YOU can provide low-income DC kids on Giving Tuesday Nov. 28 with a [donation to DC SCORES](http://bit.ly/GiveToSCORES). It's that simple. Your support means allowing kids [like Uniyah](http://bit.ly/UniyahBravery) to be heard.
 
+
 **$28** = Giving a kid the tools to succeed with a poetry journal and pencil, and a soccer uniform with school name on the back.
 
 **$51** = Providing a microphone so a kid can be HEARD on stage.
