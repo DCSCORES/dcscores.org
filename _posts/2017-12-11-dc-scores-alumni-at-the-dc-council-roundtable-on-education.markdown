@@ -11,6 +11,7 @@ Thumbnail Image: "/uploads/38951280512_d6c8f6229d_o-879193.jpg"
 
 On Thursday, December 7, two DC SCORES alumni testified during the DC Council Roundtable on Education. Ana Galeas and Christian Allen spoke about their experiences within DCPS schools and the positive impact DC SCORES has had in their lives.
 
+
 <iframe width="560" height="315" src="https://www.youtube.com/embed/qotylgOm46M" frameborder="0" gesture="media" allow="encrypted-media" allowfullscreen></iframe>
 
 > “I felt welcome when I joined the DC SCORES team at Raymond. Many of my friends today - including my closest friend - were on my Raymond DC SCORES team.”
