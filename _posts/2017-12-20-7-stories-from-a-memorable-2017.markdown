@@ -42,7 +42,7 @@ For every new kid whom we're able to provide DC SCORES for, there's another on t
 [PROGRAM SITES](https://www.dcscores.org/our-program/program-sites/)
 
 **5. Kids perform everywhere!**\
-From groundbreakings to anniversaries, to in front of the TV camera, DC SCORES poet-athletes were in high demand this year. They [performed at the groundbreaking](http://dcscores.blogspot.com/2017/03/dc-united-breaks-ground-on-audi-field.html) of the new D.C. United stadium, Audi Field; at the World Bank Group; at the 15th anniversary of the Catalogue for Philanthropy; and live on NBC, to name a few. 
+From groundbreakings to anniversaries, to in front of the TV camera, DC SCORES poet-athletes were in high demand this year. They [performed at the groundbreaking](http://dcscores.blogspot.com/2017/03/dc-united-breaks-ground-on-audi-field.html) of the new D.C. United stadium, Audi Field; at the World Bank Group; at the 15th anniversary of the Catalogue for Philanthropy; and live on NBC, to name a few.
 
 [WATCH NBC CLIP](http://bit.ly/UniyahCristianNBC)
 
@@ -54,6 +54,6 @@ Adding Charity Blackwell as our Director of Writing was a huge boost to our writ
 [READ MORE](https://www.dcscores.org/about-us/leadership/charity-blackwell)
 
 **7. And finally, we're moving!**\
-Breaking news — DC SCORES is moving! While 1224 M St. NW has been our beloved home for 12 years, we are excited to join the U.S. Soccer Foundation in our new shared space. See below and come visit in 2018. Happy New Year, everyone!
+Breaking news — DC SCORES is moving! While 1224 M St. NW has been our beloved home for 13 years, we are excited to join the U.S. Soccer Foundation in our new shared space. See below and come visit in 2018. Happy New Year, everyone!
 
 ![we have moved .png](/uploads/we%20have%20moved%20.png)
