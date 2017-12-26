@@ -13,6 +13,7 @@ Wow, what a year! 2017 was the year of special events for DC SCORES. From a comm
 
 But an afternoon at any of our 59 sites from NW DC to SE or from SW to NE reminded us that DC SCORES core programming remains the heart of what we do — giving kids a team, on the soccer field and in the classroom, and a safe space every day after school.
 
+
 While this was a near-impossible exercise, here are 7 Highlights from 2017 (in no particular order):
 
 **1. Our Words Our City**<br>
