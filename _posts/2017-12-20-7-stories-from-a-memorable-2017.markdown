@@ -1,7 +1,6 @@
 ---
 title: 7 stories from a memorable 2017
 date: 2017-12-20 17:21:00 Z
-published: false
 tags:
 - '2017'
 Author: Jake Lloyd
