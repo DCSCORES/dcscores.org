@@ -568,9 +568,8 @@
 
     border-top: 2px solid darken($americaScoresBlue, 15%);
 
-    @media (min-width: 42em) {
-      @include align-items(flex-end);
-      @include justify-content(space-between);
+    @media (min-width: 48em) {
+      @include align-items(flex-start);
       @include flex-direction(row);
     }
   }
@@ -583,16 +582,33 @@
       @include flex-direction(column);
     }
 
+    .Footer-auxiliaryColumn--address {
+      margin-top: 1em;
+      margin-left: 0;
+
+      @media (min-width: 48em) {
+        margin-top: 0;
+        margin-left: 2em;
+      }
+
+    }
+
+    .Footer-auxiliaryColumn--goAway {
+      margin-left: auto;
+      margin-top: auto;
+    }
+
       .Footer-auxiliaryColumnCite {
         display: block;
 
         margin-bottom: 0.5em;
 
         font-size: 0.7rem;
-        font-weight: 600;
+        font-weight: 700;
         font-style: normal;
         line-height: 1;
-        letter-spacing: -0.0175em;
+        letter-spacing: -0.0125em;
+        text-transform: uppercase;
         color: white;
       }
 
@@ -600,11 +616,9 @@
         display: block;
         margin-bottom: 0;
 
-        max-width: 34em;
-
         font-size: 0.7rem;
         font-weight: 600;
-        line-height: 1.5;
+        line-height: 1.625;
         color: rgba(255, 255, 255, 0.87);
 
         a {
@@ -614,6 +628,10 @@
           &:hover {
             border-bottom-color: rgba(255, 255, 255, 0.6);
           }
+        }
+
+        @media (min-width: 38em) {
+          max-width: 24em;
         }
       }
 
