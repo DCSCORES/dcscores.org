@@ -1,6 +1,7 @@
 ---
 title: Jamboree
 date: 2017-06-03 00:00:00 Z
+published: false
 position: 3
 Blurb: Don’t miss our largest event of the year, Jamboree! Saturday, June 3. Join
   2,000 others for an action-packed day.
