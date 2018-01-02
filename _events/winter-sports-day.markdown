@@ -6,6 +6,7 @@ Blurb: 'All Winter SCORES teams come together for an afternoon of soccer games a
 Link: https://www.youtube.com/watch?v=2kKvF3KtcRs&list=PLaMKH-_ipEg_AsBx6sWfY5mR4G-cJh5QY
 Image: "/uploads/IMG_7501.jpg"
 Image Position: 50% 50%
+Color: "#76955c"
 Is Finished: 'No'
 ---
 
