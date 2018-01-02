@@ -26,7 +26,7 @@ Scoring Champions:
 - Near Southeast Community Partners
 - Singing for Change
 - Volkswagen Group of America, Inc.
-Mvps:
+MVPs:
 - Blank Rome LLP
 - Herb Block Foundation
 - BrightView
@@ -35,6 +35,7 @@ Mvps:
 - D.C. Mayor’s Office on Latino Affairs (MOLA)
 - The Diplomat Group
 - District Sports
+- 'Carl Kraviz '
 - Koons of Silver Spring
 - Lainoff Family Foundation
 - Richard E. and Nancy P. Marriott Foundation
@@ -120,6 +121,7 @@ League Of Champions:
 - Ben Brewster
 - Anthony Brown
 - David and Brigitte Burgett
+- Graeme Bush
 - James Cain
 - Elle Carne
 - Ronya Corey and Devon McFadden
@@ -145,8 +147,6 @@ League Of Champions:
 - Ian Kline
 - Dan and Kathleen Knise
 - Lisa Koteen Gerchick
-- Carl Kravitz and Elizabeth Werner
-- Sara Kushma
 - Peter Leibold and Liz McCloskey
 - Edwin “Chip” Lohmeyer
 - Karen Lovitch
