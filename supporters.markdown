@@ -26,7 +26,7 @@ Scoring Champions:
 - Near Southeast Community Partners
 - Singing for Change
 - Volkswagen Group of America, Inc.
-MVPs:
+MVP Champions:
 - Blank Rome LLP
 - Herb Block Foundation
 - BrightView
