@@ -1,7 +1,7 @@
 ---
 title: New Headquarters!
 date: 2017-10-24 14:02:00 Z
-position: 3
+position: 2
 Image: "/uploads/Moving.png"
 ---
 
