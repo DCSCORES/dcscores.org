@@ -1,7 +1,7 @@
 ---
 title: Our Words Our City GREAT Poetry
 date: 2017-08-14 16:26:00 Z
-position: 3
+position: 4
 Image: "/uploads/DSC_0801.jpg"
 Image Position: 50% 30%
 Link: http://bit.ly/OWOC17Photos
