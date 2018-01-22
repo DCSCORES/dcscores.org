@@ -1,7 +1,7 @@
 ---
 title: Olga Palacios
 date: 2017-09-19 12:48:00 Z
-position: 39
+position: 38
 Details: Valley Consulting and Support LLC
 Section: board
 Link: https://www.linkedin.com/in/olga-palacios-68b29b5/

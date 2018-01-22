@@ -1,7 +1,7 @@
 ---
 title: Rachel Gorosh
 date: 2017-09-08 13:46:00 Z
-position: 9
+position: 8
 Details: Program Coordinator
 Email: rgorosh@dcscores.org
 Profile Image: "/uploads/FullSizeRender.jpg"
