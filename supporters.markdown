@@ -21,6 +21,7 @@ Scoring Champions:
 - Audi of America
 - Butterfields Butter LLC
 - Capital for Children
+- District Sports
 - Foundation for Advancing Alcohol Responsibility
 - John Edward Fowler Memorial Foundation
 - Near Southeast Community Partners
@@ -34,10 +35,11 @@ MVP Champions:
 - Cresa Washington DC
 - D.C. Mayor’s Office on Latino Affairs (MOLA)
 - The Diplomat Group
-- District Sports
+- Hogan Lovells US LLP
 - 'Carl Kraviz '
 - Koons of Silver Spring
 - Lainoff Family Foundation
+- Manchester City F.C.
 - Richard E. and Nancy P. Marriott Foundation
 - The Morningstar Foundation
 - Nike
@@ -59,10 +61,10 @@ Fans:
 - Enlightenment Capital
 - Grant Thornton LLP
 - Corina Higginson Trust
-- Hogan Lovells US LLP
 - Kirkland & Ellis LLP
 - Leidos
 - Marriott International, Inc.
+- Masonic and Eastern Star Home of the District of Columbia Charities
 - Merrill Lynch
 - Moore & Van Allen
 - Nando’s Restaurant Group
@@ -83,6 +85,7 @@ Supporters:
 - CIT Group
 - The Covello Foundation
 - Dimick Foundation
+- Discovery Communications
 - Claude and Nancy Keener Charitable Fund
 - Jacob & Charlotte Lehrman Foundation
 - Meltzer Group Employee Giving Fund
@@ -109,8 +112,11 @@ In Kind:
 - Starbucks
 - Venable LLP
 Matching Gifts:
+- 21st Century Fox
 - Breckinridge Capital Advisors
+- International Monetary Fund
 - Merrill Lynch
+- Microsoft
 - The Pew Charitable Trusts
 - Pimco Foundation
 - VentureCount LLC
@@ -118,6 +124,7 @@ Matching Gifts:
 League Of Champions:
 - Anonymous
 - David Barritt-Flatt
+- Joseph Beninati
 - Ben Brewster
 - Anthony Brown
 - David and Brigitte Burgett
@@ -147,6 +154,9 @@ League Of Champions:
 - Ian Kline
 - Dan and Kathleen Knise
 - Lisa Koteen Gerchick
+- Laurie Gonzalez
+- Debra and Michael Kushma
+- Sara Kushma
 - Peter Leibold and Liz McCloskey
 - Edwin “Chip” Lohmeyer
 - Karen Lovitch
