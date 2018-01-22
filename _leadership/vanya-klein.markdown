@@ -1,7 +1,7 @@
 ---
 title: Vanya Klein
 date: 2017-08-22 00:05:00 Z
-position: 10
+position: 11
 Details: Soccer Coordinator
 Email: iklein@dcscores.org
 Profile Image: "/uploads/35831579740_ec388ab09e_o.jpg"
