@@ -111,7 +111,7 @@ This two-night, spoken-word competition features DC SCORES students performing t
 
 **Dates:** November 2018 (TBD)
 
-**Location: **TBD
+**Location:** TBD
 
 ---
 
