@@ -74,7 +74,7 @@ The culminating event of the DC SCORES programming year, filled with soccer game
 
 **Date:** Saturday, June 2, 2018
 
-**Location: **Anacostia Park
+**Location:** Anacostia Park
 
 **Want to get involved?**
 Contact Lindsey Sharp at lsharp@dcscores.org
