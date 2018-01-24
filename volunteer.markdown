@@ -28,7 +28,7 @@ At <a href="/our-program/program-sites/" target="_blank">sites</a> throughout DC
 Spring 2018 schedule coming soon.
 
 **Want to get involved?**
-Fill out the [Volunteer Referee Application](https://docs.google.com/forms/d/e/1FAIpQLSc1VZEcstFQrCDi44g0zcpKS-42ym4qz_zNZUF7U2NVx-IIqA/viewform?c=0&w=1)
+Please check back soon for official gameday dates!
 
 ---
 
