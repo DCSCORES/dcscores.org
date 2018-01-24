@@ -1,8 +1,8 @@
 ---
 title: Anthony Brown
 position: 21
-Details: Chair, Towne Park
-Link: http://www.townepark.com/about/leadership/anthony-brown/
+Details: Chair
 Section: board
+Link: https://www.linkedin.com/in/anthony-brown-027b604/
 ---
 
