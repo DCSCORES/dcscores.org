@@ -28,7 +28,7 @@ At <a href="/our-program/program-sites/" target="_blank">sites</a> throughout DC
 Spring 2018 schedule coming soon.
 
 **Want to get involved?**
-Contact Lindsey Sharp at lsharp@dcscores.org
+Fill out the [Volunteer Referee Application](https://docs.google.com/forms/d/e/1FAIpQLSc1VZEcstFQrCDi44g0zcpKS-42ym4qz_zNZUF7U2NVx-IIqA/viewform?c=0&w=1)
 
 ---
 
@@ -58,7 +58,7 @@ The Spring 2018 season runs from March 12 to June 2.
 At <a href="/our-program/program-sites/" target="_blank">sites</a> throughout DC. We will do our best to place you based on your location and mode of transportation.
 
 **Want to get involved?**
-Contact Lindsey Sharp at lsharp@dcscores.org
+Fill out the [Volunteer Assistant Coach Application](https://docs.google.com/forms/d/e/1FAIpQLSdsNE3qy4dOX62EFW2LNsRBPWzYnjy_OT01NFFpgK7ZVj8oDA/viewform?c=0&w=1)
 
 ---
 
