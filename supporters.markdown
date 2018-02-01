@@ -24,8 +24,6 @@ Scoring Champions:
 - District Sports
 - Foundation for Advancing Alcohol Responsibility
 - John Edward Fowler Memorial Foundation
-- Near Southeast Community Partners
-- Singing for Change
 - Volkswagen Group of America, Inc.
 MVP Champions:
 - Blank Rome LLP
@@ -36,7 +34,7 @@ MVP Champions:
 - D.C. Mayor’s Office on Latino Affairs (MOLA)
 - The Diplomat Group
 - Hogan Lovells US LLP
-- 'Carl Kraviz '
+- 'Carl Kravitz '
 - Koons of Silver Spring
 - Lainoff Family Foundation
 - Manchester City F.C.
@@ -72,7 +70,6 @@ Fans:
 - Promontory Financial Group
 - RSN
 - Subaru of America Foundation, Inc.
-- TEGNA
 - Venable Foundation
 - Verizon Foundation
 - George Wasserman Family Foundation
@@ -89,7 +86,6 @@ Supporters:
 - Claude and Nancy Keener Charitable Fund
 - Jacob & Charlotte Lehrman Foundation
 - Meltzer Group Employee Giving Fund
-- Mount Vernon Place United Methodist Church
 - Phase One
 - Howard and Geraldine Polinger Family Foundation
 - Training Resources Group
