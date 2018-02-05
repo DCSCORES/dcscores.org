@@ -16,10 +16,10 @@ layout: volunteer
 DC SCORES’ soccer leagues focus on our three values: teamwork, leadership, and commitment. Basic soccer knowledge is required and volunteers are asked to complete a brief, one-time mandatory training on DC SCORES league rules. 
 
 **Requirements:**
-For elementary school games: volunteers will be asked to make basic calls, such as throw-ins, corner kicks, and goal kicks. For middle school games: volunteers will be expected to call additional fouls, indirect/direct kicks, and offside. Volunteers much be at least 15 years of age.
+For elementary school games: volunteers will be asked to make basic calls, such as throw-ins, corner kicks, and goal kicks. For middle school games: volunteers will be expected to call additional fouls, indirect/direct kicks, and offside. Volunteers must be at least 15 years of age.
 
 **When?**
-Thursdays (Elementary) & Fridays (Middle) from 3:35pm to 6pm.
+Thursdays (Elementary) & Fridays (Middle) from 3:45pm to 6pm.
 
 **Where?**
 At <a href="/our-program/program-sites/" target="_blank">sites</a> throughout DC. We will do our best to place you based on your location and mode of transportation.
