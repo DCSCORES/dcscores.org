@@ -14,6 +14,7 @@ Thumbnail Image: "/uploads/We're%20going%20to%20the%20world%20cup!.png"
 
 **Life-changing experience awaits nine DC teens**
 
+
 Washington, DC — We're going to the World Cup in Moscow! That's right — while the U.S. Men's National Team will not be in Russia, a special group of young women is set to represent the United States at the Street Child World Cup in Russia this May, and make a difference in doing so. The Street Child World Cup is a soccer tournament and a child rights conference for young people from across the world who are at-risk of or have faced homelessness.
 According to a recent study, more than 4 million young people in America face homelessness on their own. Team USA's participation is made possible by the [National Network for Youth](https://www.nn4youth.org/), in collaboration with [America SCORES](http://www.americascores.org/) and [Open Goal Project](http://www.opengoalproject.org/).
 
