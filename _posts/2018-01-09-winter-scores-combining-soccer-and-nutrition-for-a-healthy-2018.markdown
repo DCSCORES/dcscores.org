@@ -12,6 +12,7 @@ The break is officially over and DC SCORES is back!
 <iframe width="560" height="315" src="https://www.youtube.com/embed/AKPVVxxLFQc" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
 It’s been two months since the fall SCORES season ended but time flies by when you’re having fun. Today (finally), DC SCORES programming is back at four sites.
+
  
 Winter SCORES consists of a six-week, scaled-down nutrition and soccer program that will take place this year at [Lincoln Middle School](https://www.google.com/maps/place/Lincoln+Middle+School/@38.9295223,-77.0379509,17z/data=!3m1!4b1!4m5!3m4!1s0x89b7c821b2ee785b:0x42f319cf472977ae!8m2!3d38.9295181!4d-77.0357569), [Thomas Elementary School](https://www.google.com/maps/place/Thomas+Elementary+School/@38.9015291,-76.9541674,17z/data=!3m1!4b1!4m5!3m4!1s0x89b7b8921019c081:0x45a27879eda76e85!8m2!3d38.9015249!4d-76.9519734), [Truesdell Education Campus-Elementary](https://www.google.com/maps/place/Truesdell+Education+Campus/@38.9539298,-77.0266098,17z/data=!3m1!4b1!4m5!3m4!1s0x89b7c86fb1b2d9dd:0x124f9e35509909d1!8m2!3d38.9539256!4d-77.0244158), and [Tubman Elementary School](https://www.google.com/maps/place/Tubman+Elementary+School/@38.9288642,-77.0314175,17z/data=!3m1!4b1!4m5!3m4!1s0x89b7c81ef18d2a51:0xc1d3f456c3c763e6!8m2!3d38.92886!4d-77.0292235). 
 
