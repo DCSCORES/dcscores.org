@@ -42,4 +42,4 @@ A national nonprofit organization, America SCORES partners with public schools i
 **About Open Goal Project:**
 Through financial and logistical support, Open Goal Project is a Washington, DC, non-profit that identifies and aides talented youth soccer players from low-income families to overcome costs and lack of resources to make the most of their potential on and off the field. Since launching in 2015, Open Goal has helped register more than a dozen local players for travel soccer teams, has covered registration and costs for numerous players to attend summer and ID camps and provided free clinics and high-level training for dozens of youth players in DC. The Open Goal Project is a fiscally sponsored project of [DC SCORES](www.dcscores.org), a 501(c)(3) registered non-profit organization.
 
-### **###**
+\###
