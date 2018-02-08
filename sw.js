@@ -1,4 +1,4 @@
-var cacheName = 'dcscores:0001';
+var cacheName = 'dcscores:0002';
 var cacheFiles = [
   '/',
   '/impact/',
@@ -46,7 +46,7 @@ self.addEventListener('fetch', function(event) {
 // Empty out any caches that don’t match the ones listed.
 self.addEventListener('activate', function(event) {
 
-  var cacheWhitelist = ['dcscores:0001'];
+  var cacheWhitelist = ['dcscores:0002'];
 
   event.waitUntil(
     caches.keys().then(function(cacheNames) {

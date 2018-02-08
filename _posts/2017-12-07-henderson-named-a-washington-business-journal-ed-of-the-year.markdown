@@ -5,10 +5,10 @@ tags:
 - Bethany Rubin Henderson
 - Awards
 Author: DC SCORES
-Thumbnail Image: "/uploads/Bethany%20Henderson%20(by%20Aya%20Takeuchi).jpg"
+Thumbnail Image: "/uploads/Bethany-Henderson.jpg"
 ---
 
-![Bethany Henderson (by Aya Takeuchi).jpg](/uploads/Bethany%20Henderson%20(by%20Aya%20Takeuchi).jpg)
+![Bethany-Henderson.jpg](/uploads/Bethany-Henderson.jpg)
 
 **DC SCORES Executive Director receives distinguished honor at 2017 C-Suite Awards**
 

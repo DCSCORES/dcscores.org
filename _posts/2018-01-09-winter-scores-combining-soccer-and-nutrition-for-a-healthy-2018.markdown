@@ -4,7 +4,7 @@ date: 2018-01-09 16:24:00 Z
 tags:
 - Winter SCORES
 Author: Lorena Palacios
-Thumbnail Image: "/uploads/32784306016_869092c45c_o%20(1).jpg"
+Thumbnail Image: "/uploads/32784306016_869092c45c_o.jpg"
 ---
 
 The break is officially over and DC SCORES is back!
