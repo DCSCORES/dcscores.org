@@ -1,14 +1,22 @@
-var cacheName = 'dcscores:0002';
+---
+---
+
+const version = '{{site.time | date: '%Y%m%d%H%M%S'}}::';
+const cacheName = `dcscores::${version}`;
+
+{% raw %}
 var cacheFiles = [
   '/',
   '/impact/',
   '/about-us/mission-and-history/',
 ];
+{% endraw %}
 
 
 
 
 
+{% raw %}
 self.addEventListener('install', function(event) {
   event.waitUntil(
     caches.open(cacheName)
@@ -18,11 +26,13 @@ self.addEventListener('install', function(event) {
     })
   );
 });
+{% endraw %}
 
 
 
 
 
+{% raw %}
 self.addEventListener('fetch', function(event) {
   event.respondWith(
     caches.match(event.request)
@@ -38,16 +48,20 @@ self.addEventListener('fetch', function(event) {
     })
   );
 });
+{% endraw %}
 
 
 
 
 
+{% raw %}
 // Empty out any caches that don’t match the ones listed.
 self.addEventListener('activate', function(event) {
+  {% endraw %}
 
-  var cacheWhitelist = ['dcscores:0002'];
+  const cacheWhitelist = `dcscores::${version}`;
 
+  {% raw %}
   event.waitUntil(
     caches.keys().then(function(cacheNames) {
       return Promise.all(
@@ -60,3 +74,4 @@ self.addEventListener('activate', function(event) {
     })
   );
 });
+{% endraw %}
