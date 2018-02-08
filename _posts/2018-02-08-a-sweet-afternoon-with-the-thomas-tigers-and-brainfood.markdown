@@ -11,7 +11,7 @@ Thumbnail Image: "/uploads/DSC_0051.jpg"
 
 ![DSC_0051-d42004.jpg](/uploads/DSC_0051-d42004.jpg)
 
-\*\*Check out the winter SCORES [Flickr album](http://bit.ly/winterSCORES2018)!\*\*
+**Check out the winter SCORES [Flickr album](http://bit.ly/winterSCORES2018)!**
 
 On a cold Tuesday afternoon, the Thomas Tigers traveled to [Brainfood](https://brain-food.org/)'s kitchen for a special workshop as part of the Community Cooking Coaches Program that emphasized the importance of healthy eating.
 
