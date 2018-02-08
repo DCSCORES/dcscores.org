@@ -1,5 +1,5 @@
 ---
-title: A Sweet Afternoon with the Thomas Tigers and BrainFood
+title: A Sweet Afternoon with the Thomas Tigers and Brainfood
 date: 2018-02-08 16:59:00 Z
 tags:
 - BrainFood
