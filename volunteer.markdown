@@ -13,7 +13,7 @@ layout: volunteer
 ![Referee](/uploads/volunteer-referee-float-left.jpg)
 
 **Description:**
-DC SCORES’ soccer leagues focus on our three values: teamwork, leadership, and commitment. Basic soccer knowledge is required and volunteers are asked to complete a brief, one-time mandatory training on DC SCORES league rules. 
+DC SCORES’ soccer leagues focus on our three values: teamwork, leadership, and commitment. Basic soccer knowledge is required and volunteers are asked to complete a brief, one-time mandatory training on DC SCORES league rules.
 
 **Requirements:**
 For elementary school games: volunteers will be asked to make basic calls, such as throw-ins, corner kicks, and goal kicks. For middle school games: volunteers will be expected to call additional fouls, indirect/direct kicks, and offside. Volunteers must be at least 15 years of age.
@@ -28,7 +28,7 @@ At <a href="/our-program/program-sites/" target="_blank">sites</a> throughout DC
 Spring 2018 schedule coming soon.
 
 **Want to get involved?**
-Please check back soon for official gameday dates!
+Please fill out the [Volunteer Referee Application](https://docs.google.com/forms/d/e/1FAIpQLSc1VZEcstFQrCDi44g0zcpKS-42ym4qz_zNZUF7U2NVx-IIqA/viewform?c=0&w=1) form!
 
 ---
 
