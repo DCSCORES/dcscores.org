@@ -1,6 +1,6 @@
 ---
 title: Our Words Our City
-date: 2018-03-01 18:00:00 Z
+date: 2018-03-08 18:00:00 Z
 position: 1
 Blurb: Don't miss our premier poetry showcase of the winter!
 Link: http://bit.ly/OWOC2018
