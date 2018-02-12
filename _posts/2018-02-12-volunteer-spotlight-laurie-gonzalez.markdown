@@ -6,12 +6,12 @@ tags:
 Author: Lindsey Sharp
 ---
 
-![Laurie Gonzalez.jpg](/uploads/Laurie%20Gonzalez.jpg)
+![Untitled design.png](/uploads/Untitled%20design.png)
 
 *DC SCORES has more than 500 volunteers who help make our program possible for 2,500 low-income DC kids. From assistant coaching, to tackling our big events, to providing expert services and advice, to folding newsletters in our office, to reffing weekly soccer games, to taking photos and videos, and much more, our volunteers make a difference in many ways and with varying schedules.*
 
-*Today we highlight Laurie Gonzalez, assistant coach at Jefferson Middle School and soccer fanatic. Laurie is an established member of Screaming Eagles, one of D.C. United's supporters groups. She is in her second year of coaching Jefferson, and helped her team win the Eastside Poetry Slam! last year. Laurie's team feeds off of her contagiously energetic personality, and she recently furthered her support of DC SCORES by joining League of Champions and our Advisory Council. Want to get involved like Laurie? Sign up to volunteer [HERE](https://www.dcscores.org/volunteer/).*
 
+*Today we highlight Laurie Gonzalez, assistant coach at Jefferson Middle School and soccer fanatic. Laurie is an established member of Screaming Eagles, one of D.C. United's supporters groups. She is in her second year of coaching Jefferson, and helped her team win the Eastside Poetry Slam! last year. Laurie's team feeds off of her contagiously energetic personality, and she recently furthered her support of DC SCORES by joining League of Champions and our Advisory Council. Want to get involved like Laurie? Sign up to volunteer [HERE](https://www.dcscores.org/volunteer/).*
 
 ---
 
