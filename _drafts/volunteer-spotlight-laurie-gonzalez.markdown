@@ -1,7 +1,6 @@
 ---
 title: 'Volunteer spotlight: Laurie Gonzalez'
 date: 2018-02-12 16:47:00 Z
-published: false
 tags:
 - Volunteer spotlight
 Author: Lindsey Sharp
