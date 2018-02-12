@@ -12,7 +12,8 @@ Author: Lindsey Sharp
 
 *Today we highlight Laurie Gonzalez, assistant coach at Jefferson Middle School and soccer fanatic. Laurie is an established member of Screaming Eagles, one of D.C. United's supporters groups. She is in her second year of coaching Jefferson, and helped her team win the Eastside Poetry Slam! last year. Laurie's team feeds off of her contagiously energetic personality, and she recently furthered her support of DC SCORES by joining League of Champions and our Advisory Council. Want to get involved like Laurie? Sign up to volunteer [HERE](https://www.dcscores.org/volunteer/).*
 
---------------------
+
+---
 
 **What do you do for a living?**
 I’ve worked for Deloitte in their federal consulting practice for over a decade and I have had a number of different roles. In my current position, I work with the leaders in the firm to help advise them on the best ways to deploy our consultants so that we can appropriately staff projects and expand our growth.
