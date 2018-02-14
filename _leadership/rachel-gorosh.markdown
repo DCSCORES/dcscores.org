@@ -4,7 +4,7 @@ date: 2017-09-08 13:46:00 Z
 position: 9
 Details: Program Coordinator
 Email: rgorosh@dcscores.org
-Profile Image: "/uploads/FullSizeRender.jpg"
+Profile Image: "/uploads/CP8A3567.jpg"
 Section: staff
 ---
 
