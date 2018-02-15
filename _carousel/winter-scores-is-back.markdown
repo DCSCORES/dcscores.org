@@ -1,9 +1,11 @@
 ---
-title: Winter SCORES is back!
+title: Vote DC SCORES!
 date: 2018-01-10 22:07:00 Z
+tags:
+- Contest
 position: 1
-Image: "/uploads/32701870261_08e9de9aa2_o.jpg"
-Link: https://www.dcscores.org/blog/2018/01/winter-scores-combining-soccer-and-nutrition-for-a-healthy-2018
+Image: "/uploads/Twitter.png"
+Link: http://bit.ly/DCSbestofDC
 ---
 
-Our six-week season combines nutrition and soccer to teach our poet-athletes about the importance of properly fueling their bodies to perform their best on the field.
+Vote for DC SCORES for "Best Nonprofit" in the Washington City Paper competition. Voting goes through March 4! 
