@@ -4,6 +4,7 @@ date: 2018-02-12 16:47:00 Z
 tags:
 - Volunteer spotlight
 Author: Lindsey Sharp
+Thumbnail Image: "/uploads/Laurie%20Gonzalez-e2012b.jpg"
 ---
 
 ![Untitled design.png](/uploads/Untitled%20design.png)
