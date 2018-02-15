@@ -36,7 +36,7 @@ MVP Champions:
 - Hogan Lovells US LLP
 - 'Carl Kravitz '
 - Koons of Silver Spring
-- Lainoff Family Foundation
+- 'Lainoff Family '
 - Manchester City F.C.
 - Richard E. and Nancy P. Marriott Foundation
 - The Morningstar Foundation
