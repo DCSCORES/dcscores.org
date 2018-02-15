@@ -12,7 +12,6 @@ Thumbnail Image: "/uploads/32828705921_4694caf634_o-738294.jpg"
 In the State of Qatar, [National Sport Day](http://portal.www.gov.qa/wps/portal/about-qatar/nationalsportday) is celebrated on the second Tuesday of February. This day is celebrated by encouraging everyone to participate in sporting activities with family and friends.
 
 This is the third year DC SCORES celebrated the day by hosting “Winter Sports Day” for schools that participate in winter SCORES programming. What set this year apart is that two other [America SCORES affiliates](http://www.americascores.org/affiliates) participated as well in New York City and Los Angeles! Here's a recap of the events in the three cities.
- 
 
 **[America SCORES New York](http://www.newyorkscores.org/)**
 
@@ -50,4 +49,4 @@ On a day that’s meant to celebrate sports, our poet-athletes couldn’t help b
 
 DC SCORES is happy to be able to host an event, at the conclusion of the Winter SCORES season, that celebrates the importance of sports in the daily lives of our poet-athletes.
 
-All of these individual celebrations would not have been possible without the sponsorship of the [Embassy of the State of Qatar](http://washington.embassy.qa/en). Thank you for making America SCORES Winter Sports Day a reality for so many kids!
+All of these individual celebrations would not have been possible without the sponsorship of the Embassy of the State of Qatar. Thank you for making America SCORES Winter Sports Day a reality for so many kids!
