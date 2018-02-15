@@ -3,7 +3,7 @@ title: Vote DC SCORES!
 date: 2018-01-10 22:07:00 Z
 tags:
 - Contest
-position: 1
+position: 0
 Image: "/uploads/Twitter.png"
 Link: http://bit.ly/DCSbestofDC
 ---
