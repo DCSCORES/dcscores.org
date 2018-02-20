@@ -543,8 +543,8 @@
 
   margin-top: 4.5em;
 
-  padding-top: 0.5em;
-  padding-bottom: 0.5em;
+  padding-top: 0.75em;
+  padding-bottom: 0.75em;
   padding-right: 0.5em;
   padding-left: 0.5em;
 
@@ -561,26 +561,9 @@
     font-size: 0.8rem;
     font-weight: 600;
     line-height: 1.25;
+    text-align: center;
+
+    @media (min-width: 48em) {
+      font-size: 0.875rem;
+    }
   }
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-

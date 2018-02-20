@@ -1,0 +1,72 @@
+---
+layout: default
+---
+
+<main class="Main  Main--noTop">
+
+  <!-- Masthead -->
+  <header class="Masthead"  style="background-image: url({{ page["Top Image"] }}); background-position: {{ page["Top Image Position"] }};">
+    <div class="Masthead-header">
+      <div class="Grid  Grid--large">
+        <h1 class="Masthead-headerTitle">Blog archive</h1>
+      </div>
+    </div>
+  </header>
+
+  <section class="Grid  Grid--large">
+    <div class="Grid__d2-d5  Grid__m1-m6">
+
+      <!-- List of all blog posts -->
+      <div class="Archive">
+        <ol class="Archive-list">
+          {% for post in site.posts %}
+          {% assign month = post.date | date: '%B %Y' %}
+          {% unless post.next %}<!-- first post -->
+          <span class="Archive-listMonth">
+            <h4 class="Archive-listMonthName">{{ month }}</h4>
+          </span>
+          {% else %}
+          {% capture next_month %}{{ post.next.date | date: '%B %Y' }}{% endcapture %}
+          {% if month != next_month %}
+          <span class="Archive-listMonth">
+            <h4 class="Archive-listMonthName">{{ month }}</h4>
+          </span>
+          {% endif %}
+          {% endunless %}
+
+          <li class="Archive-listItem">
+
+            <!-- Use article component -->
+            <article class="Article">
+              <header class="Article-header">
+                <h2 class="Article-headerTitle"><a href="{{ post.url }}" class="Article-headerTitleLink">{{ post.title }}</a></h2>
+              </header>
+
+              <section class="Article-meta">
+                <div class="Article-metaAuthored">
+                  <span class="Article-metaAuthoredSpeaker">By
+                    <span class="Article-metaAuthoredSpeakerName">{{ post["Author"] }}</span>
+                  </span>
+
+                  <span class="Article-metaAuthoredOn">on
+                    <time class="Article-metaAuthoredOnDate" datetime="{{ post.date | date_to_xmlschema }}">{{ post.date | date: '%d' }}th</time>
+                  </span>
+                </div>
+              </section>
+            </article>
+          </li>
+
+          {% endfor %}
+        </ol>
+      </div>
+
+    </div>
+
+    <div class="Grid__d2-d5  Grid__d-newline  Grid__m1-m6  Grid__m-newline">
+      <div class="OlderArticles">
+        <p class="OlderArticles-message">For older DC SCORES blog posts dating back to 2009, visit <a href="http://dcscores.blogspot.com/" target="_blank">www.DCSCORES.blogspot.com</a></p>
+      </div>
+    </div>
+  </section>
+
+</main>
