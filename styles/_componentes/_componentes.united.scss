@@ -1,0 +1,118 @@
+.United {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -moz-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-flex-wrap: wrap;
+  -moz-flex-wrap: wrap;
+  -ms-flex-wrap: wrap;
+  flex-wrap: wrap;
+  -webkit-box-pack: justify;
+  -ms-flex-pack: justify;
+  -webkit-justify-content: space-between;
+  -moz-justify-content: space-between;
+  justify-content: space-between;
+
+  margin-top: 4.5em;
+
+  padding-right: 1em;
+  padding-left: 1em;
+
+  width: 100%;
+
+  @media (min-width: 48em) {
+    padding-right: 2em;
+    padding-left: 2em;
+  }
+}
+
+  .United-box {
+    position: relative;
+    display: block;
+
+    width: 32%;
+
+    background-color: lightgrey;
+    background-repeat: no-repeat;
+    background-size: cover;
+
+    border: 0.2em solid #e5e6e7;
+    border-radius: 3px;
+
+    transition: transform .25s ease;
+
+    &:before {
+      content: "";
+      position: absolute;
+      display: block;
+      top: 0;
+      left: 0;
+      width: 100%;
+      height: 100%;
+      background-image: linear-gradient(to top, rgba(0, 0, 0, 0.87), transparent 50%);
+    }
+
+    &:after {
+      content: "";
+      display: block;
+      padding-bottom: 100%;
+      height: 0;
+    }
+
+    @media (max-width: 34em) {
+      margin-top: 1em;
+      width: 100%;
+    }
+  }
+
+  .United-box:hover {
+    transform: scale(1.03);
+  }
+
+    .United-box .Icon {
+      position: absolute;
+      display: block;
+      top: 0.6em;
+      right: 0.6em;
+
+      font-size: 1.2rem;
+      line-height: 1;
+      color: white;
+
+      @media (min-width: 48em) {
+        font-size: 1.4rem;
+      }
+    }
+
+    .United-boxContent {
+      position: absolute;
+      display: block;
+      bottom: 0;
+      left: 0;
+      padding-top: 0.75em;
+      padding-bottom: 0.75em;
+      padding-right: 1em;
+      padding-left: 1em;
+      width: 100%;
+
+      @media (min-width: 48em) {
+        padding-top: 1em;
+        padding-bottom: 1em;
+        padding-right: 1.25em;
+        padding-left: 1.25em;
+      }
+    }
+
+      .United-boxContentTitle {
+        margin-top: 0;
+        margin-bottom: 0;
+        font-size: 1.2rem;
+        line-height: 1;
+        letter-spacing: -0.0125em;
+        color: white;
+
+        @media (min-width: 48em) {
+          font-size: 1.6rem;
+        }
+      }
