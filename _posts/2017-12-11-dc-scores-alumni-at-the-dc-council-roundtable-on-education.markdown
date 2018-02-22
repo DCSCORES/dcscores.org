@@ -2,7 +2,7 @@
 title: DC SCORES alumni at the DC Council Roundtable on Education
 date: 2017-12-11 20:08:00 Z
 tags:
-- Alumni Story
+- alumni
 Author: Lorena Palacios
 Thumbnail Image: "/uploads/38951280512_d6c8f6229d_o-879193.jpg"
 ---
@@ -24,6 +24,6 @@ Ana currently works as a Soccer Coordinator for DC SCORES and is a General Studi
 
 > “Being a part of the DC SCORES community has also helped me because there are so many resources I can use as far as applying to colleges or helping with resumes.”
 
-Christian is currently a senior at Roosevelt High School and plans on attending college to study hospitality management. 
+Christian is currently a senior at Roosevelt High School and plans on attending college to study hospitality management.
 
 Thanks for sharing your [DC SCORES impact](https://www.dcscores.org/impact/) stories, Ana and Christian!

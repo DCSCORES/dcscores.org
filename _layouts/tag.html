@@ -2,3 +2,54 @@
 layout: default
 ---
 
+<main class="Main  Main--noTop">
+
+  <!-- Masthead -->
+  <header class="Masthead"  style="background-image: url({{ page["Top Image"] }}); background-position: {{ page["Top Image Position"] }};">
+    <div class="Masthead-header">
+      <div class="Grid  Grid--large">
+        <h1 class="Masthead-headerTitle">#{{ page.title }}</h1>
+      </div>
+    </div>
+  </header>
+
+  <section class="Grid  Grid--large">
+    <div class="Grid__d2-d5  Grid__m1-m6">
+
+      <!-- List of all blog posts -->
+      <div class="Archive  Archive--tagPage">
+        <ol class="Archive-list">
+
+          {% assign tag = page.title | downcase %}
+          {% assign tag_posts = site.tags[tag] %}
+          {% for post in tag_posts %}
+          <li class="Archive-listItem  Archive-listItem--tagPage">
+
+            <!-- Use article component -->
+            <article class="Article">
+              <header class="Article-header">
+                <h2 class="Article-headerTitle"><a href="{{ post.url }}" class="Article-headerTitleLink">{{ post.title }}</a></h2>
+              </header>
+
+              <section class="Article-meta">
+                <div class="Article-metaAuthored">
+                  <span class="Article-metaAuthoredSpeaker">By
+                    <span class="Article-metaAuthoredSpeakerName">{{ post["Author"] }}</span>
+                  </span>
+
+                  <span class="Article-metaAuthoredOn">on
+                    <time class="Article-metaAuthoredOnDate" datetime="{{ post.date | date_to_xmlschema }}">{{ post.date | date: site.date_format }}</time>
+                  </span>
+                </div>
+              </section>
+            </article>
+          </li>
+
+          {% endfor %}
+        </ol>
+      </div>
+
+    </div>
+  </section>
+
+</main>

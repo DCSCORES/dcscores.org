@@ -2,7 +2,7 @@
 title: Celebrating "America SCORES Winter Sports Day!"
 date: 2018-02-15 16:27:00 Z
 tags:
-- Winter SCORES
+- winter scores
 Author: Lorena Palacios
 Thumbnail Image: "/uploads/32828705921_4694caf634_o-738294.jpg"
 ---

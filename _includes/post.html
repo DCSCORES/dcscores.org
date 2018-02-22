@@ -14,6 +14,7 @@
 
   <!-- Article meta -->
   <section class="Article-meta">
+
     <div class="Article-metaAuthored">
       <span class="Article-metaAuthoredSpeaker">By
         {% comment %}<a href="#" class="Article-metaAuthoredSpeakerLink">{{ post.author }}</a>{% endcomment %}
@@ -40,29 +41,22 @@
     {% endunless %}
   </section>
 
-  {% comment %}
-  <section class="Article-meta">
-
-    <ul class="Article-metaList">
+  <!-- Article tags -->
+  <div class="Article-tags">
+    <ul class="Article-tagsList">
       {% for post_tag in post.tags %}
         {% assign post_tag_downcase = post_tag | downcase %}
         {% for site_tag in site.blog_tags %}
           {% assign site_tag_title = site_tag.title | downcase %}
           {% if site_tag_title == post_tag_downcase %}
-            <li class="Article-metaListItem">
-              <a href="{{ site_tag.permalink }}" class="Article-metaListItemLink">{{ site_tag.title }}</a>
+            <li class="Article-tagsListItem">
+              <a href="{{ site_tag.permalink }}" class="Article-tagsListItemLink">#{{ site_tag.title }}</a>
             </li>
           {% endif %}
         {% endfor %}
       {% endfor %}
     </ul>
-
-    {% if post.date %}
-    <time class="Article-metaDate" datetime="{{ post.date | date_to_xmlschema }}">{{ post.date | date: site.date_format }}</time>
-    {% endif %}
-
-  </section>
-  {% endcomment %}
+  </div>
 
   <section class="Article-content">
 
@@ -102,24 +96,3 @@
   </div>
   {% endunless %}
 </article>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-

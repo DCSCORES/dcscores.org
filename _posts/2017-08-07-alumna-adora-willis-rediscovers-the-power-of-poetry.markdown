@@ -2,7 +2,7 @@
 title: Alumna A'dora Willis rediscovers the power of poetry
 date: 2017-08-07 17:30:00 Z
 tags:
-- Alumni Story
+- alumni
 Author: Jake Lloyd
 Thumbnail Image: "/uploads/Adora.jpg"
 ---

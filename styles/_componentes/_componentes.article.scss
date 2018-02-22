@@ -59,17 +59,17 @@
     @include flex-direction(column);
     @include justify-content(space-between);
 
-    margin-bottom: 1.25em;
+    margin-bottom: 0.5em;
 
     @media (min-width: 34em) {
       @include align-items(center);
       @include flex-direction(row);
 
-      margin-bottom: 1.5em;
+      margin-bottom: 0.5em;
     }
 
     @media (min-width: 48em) {
-      margin-bottom: 2em;
+      margin-bottom: 0.25em;
     }
   }
 
@@ -197,6 +197,59 @@
 
 
 
+  .Article-tags {
+    margin-bottom: 2em;
+    padding-right: 2em;
+  }
+
+    .Article-tagsList {
+      list-style: none;
+      margin: 0;
+      padding: 0;
+
+      @include flexbox;
+      @include flex-wrap(wrap);
+    }
+
+      .Article-tagsListItem {
+        display: block;
+
+        &:not(:last-child) {
+          margin-right: 0.5em;
+        }
+      }
+
+        .Article-tagsListItemLink {
+          display: block;
+
+          margin-top: 0.25em;
+          margin-bottom: 0.25em;
+
+          padding-top: 0.5em;
+          padding-bottom: 0.5em;
+          padding-right: 0.75em;
+          padding-left: 0.75em;
+
+          font-size: 0.8rem;
+          font-weight: 600;
+          line-height: 1;
+          letter-spacing: -0.0175em;
+          color: white;
+
+          background-color: lighten(#8C95A3, 10%);
+          border-radius: 4px;
+
+          box-shadow: none!important;
+
+          &:hover {
+            background-color: lighten(#8C95A3, 5%);
+          }
+
+          &:focus {
+            box-shadow: 0 0 0 0.175em rgba(168, 175, 186, 0.3)!important;
+            transform: translateY(1px);
+          }
+        }
 
 
 

@@ -1,8 +1,11 @@
 .Archive {
   display: block;
 
-  margin-top: -4.25em;
-  //background: #ccc;
+  margin-top: -4.5em;
+}
+
+.Archive--tagPage {
+  margin-top: -2em;
 }
 
   .Archive-list {
@@ -48,7 +51,11 @@
       }
 
     .Archive-listItem {
-      margin-top: 1em;
+      margin-top: 1.25em;
+    }
+
+    .Archive-listItem--tagPage {
+      margin-top: 2em;
     }
 
     .Archive-listItem .Article-header {

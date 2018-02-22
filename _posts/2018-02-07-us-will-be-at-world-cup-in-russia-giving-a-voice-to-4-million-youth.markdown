@@ -2,9 +2,9 @@
 title: US will be at World Cup in Russia - giving a voice to 4 million youth
 date: 2018-02-07 16:45:00 Z
 tags:
-- America SCORES
-- Open Goal Project
-- Alumni
+- america scores
+- open goal project
+- alumni
 Author: DC SCORES
 Thumbnail Image: "/uploads/We're%20going%20to%20the%20world%20cup!.png"
 ---

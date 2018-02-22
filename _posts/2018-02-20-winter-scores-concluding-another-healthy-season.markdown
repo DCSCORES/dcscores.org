@@ -2,7 +2,7 @@
 title: 'Winter SCORES: Concluding another healthy season'
 date: 2018-02-20 15:24:00 Z
 tags:
-- Winter SCORES
+- winter scores
 - BrainFood
 Author: Rachel Gorosh
 Thumbnail Image: "/uploads/IMG_0012.JPG"
