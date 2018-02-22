@@ -2,7 +2,7 @@
 title: DC SCORES wins Center for Nonprofit Advancement Board Award
 date: 2017-07-27 12:43:00 Z
 tags:
-- Awards
+- awards
 Author: Jake Lloyd
 Thumbnail Image: "/uploads/IMG_9524.JPG"
 ---

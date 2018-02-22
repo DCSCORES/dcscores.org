@@ -2,7 +2,7 @@
 title: DC SCORES adds eight leaders to Board of Directors
 date: 2017-09-29 15:14:00 Z
 tags:
-- Board of Directors
+- board of directors
 Author: Jake Lloyd
 Thumbnail Image: "/uploads/DC%20SCORES%20PNG%20logo.png"
 ---

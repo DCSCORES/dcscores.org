@@ -4,7 +4,7 @@ date: 2017-09-12 15:32:00 Z
 categories:
 - Staff
 tags:
-- Staff
+- staff
 Author: Lorena Palacios
 Thumbnail Image: "/uploads/IMG_4483-054072.JPG"
 ---
@@ -15,7 +15,7 @@ As new opportunities guided some long-time staff members on different paths, the
 
 ![Image-1.jpeg](/uploads/Image-1.jpeg)
 
-Nine new staff members joined the team, filling in vacant roles and also creating brand new roles within the organization. The members bring fresh ideas and come from diverse backgrounds, which will help guide us in continuing to elevate our high-quality programming across Washington, DC. 
+Nine new staff members joined the team, filling in vacant roles and also creating brand new roles within the organization. The members bring fresh ideas and come from diverse backgrounds, which will help guide us in continuing to elevate our high-quality programming across Washington, DC.
 
 
 Each new staff member shared what their experience with the organization has been like since they started their new role:
@@ -36,7 +36,7 @@ Each new staff member shared what their experience with the organization has bee
 
 * DC SCORES' values of commitment, leadership, and teamwork transcend the office space; the team lives through these values and it is reflected in the work I have seen in the schools and communities. It's great to work with such a powerful group of people all passionate about the organization's mission.
 
-The new members that are new to DC SCORES have fit in seamlessly since they stepped through the front door on their first day. As exciting as all the new additions are, it is also great to see how many of the new roles are filled with people that were familiar with the work done at DC SCORES before joining us. 
+The new members that are new to DC SCORES have fit in seamlessly since they stepped through the front door on their first day. As exciting as all the new additions are, it is also great to see how many of the new roles are filled with people that were familiar with the work done at DC SCORES before joining us.
 
 ![FullSizeRender-f09887.jpg](/uploads/FullSizeRender-f09887.jpg)
 

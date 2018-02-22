@@ -2,7 +2,7 @@
 title: 'Faces of Summer SCORES: Rey C., new addition to the DC SCORES family'
 date: 2017-08-02 15:26:00 Z
 tags:
-- summerSCORES
+- summer scores
 Author: Lorena Palacios
 Thumbnail Image: "/uploads/FullSizeRender%2019%20copy%204-f2c146.jpg"
 ---

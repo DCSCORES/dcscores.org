@@ -2,7 +2,7 @@
 title: The start of the fall SCORES season!
 date: 2017-09-05 19:44:00 Z
 tags:
-- Fall SCORES
+- fall scores
 Author: Lorena Palacios
 Thumbnail Image: "/uploads/23038598606_cd5c4bd63b_o.jpg"
 ---

@@ -2,7 +2,7 @@
 title: 'Coach Guzmán: Making an impact for more than 10 years'
 date: 2017-10-12 14:05:00 Z
 tags:
-- Coaches
+- coaches
 Author: Lorena Palacios
 Thumbnail Image: "/uploads/DLzmLpEW4AIHiOI-85fa4b.jpg-large"
 ---
