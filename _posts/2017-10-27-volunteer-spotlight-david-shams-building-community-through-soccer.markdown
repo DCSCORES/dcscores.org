@@ -2,7 +2,7 @@
 title: 'Volunteer spotlight: David Shams, building community through soccer'
 date: 2017-10-27 20:11:00 Z
 tags:
-- Volunteer spotlight
+- volunteer spotlight
 Author: Jake Lloyd
 Thumbnail Image: "/uploads/12651307_10101089305560239_2905940663693956791_n-80e344.jpg"
 ---

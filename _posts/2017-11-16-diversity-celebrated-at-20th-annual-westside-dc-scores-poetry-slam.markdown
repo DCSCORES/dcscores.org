@@ -3,7 +3,6 @@ title: Diversity celebrated at 20th Annual Westside DC SCORES Poetry Slam!
 date: 2017-11-16 12:53:00 Z
 tags:
 - poetry
-- poetry slam
 Author: Jake Lloyd
 Thumbnail Image: "/uploads/IMG_4668.jpg"
 ---

@@ -1,6 +1,8 @@
 ---
 title: Fall soccer season provides hundreds of games, practices and exercise
 date: 2017-11-22 16:52:00 Z
+tags:
+- fall scores
 Author: Jake Lloyd
 Thumbnail Image: "/uploads/4H2A5971.jpg"
 ---

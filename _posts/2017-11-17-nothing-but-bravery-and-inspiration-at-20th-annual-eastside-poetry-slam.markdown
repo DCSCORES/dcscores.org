@@ -3,7 +3,6 @@ title: Nothing but bravery and inspiration at 20th Annual Eastside Poetry Slam!
 date: 2017-11-17 14:19:00 Z
 tags:
 - poetry
-- poetry slam
 Author: Jake Lloyd
 Thumbnail Image: "/uploads/IMG_5047.jpg"
 ---

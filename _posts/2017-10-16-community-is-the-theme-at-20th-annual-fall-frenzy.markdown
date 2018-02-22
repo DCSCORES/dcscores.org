@@ -2,9 +2,8 @@
 title: Community is the theme at 20th Annual Fall Frenzy
 date: 2017-10-16 15:40:00 Z
 tags:
-- Fall Frenzy
-- Events
-- Fall SCORES
+- events
+- fall scores
 Author: Jake Lloyd
 Thumbnail Image: "/uploads/MarkRoth1-394f06.jpg"
 ---
