@@ -18,15 +18,15 @@ collections:
   posts:
     title: Posts
     output: true
-  blog_tags:
-    title: Tags
-    output: true
   press:
     title: Press
     output: false
   success_stories:
     title: Success stories
     output: false
+  blog_tags:
+    title: Tags
+    output: true
   uploads:
     title: Uploads
     output: true
@@ -64,7 +64,7 @@ email: your-email@domain.com
 description: Write an awesome description for your new site here. You can edit this
   line in _config.yml. It will appear in your document head meta (for Google search
   results) and in your feed.xml site description.
-baseurl:
+baseurl: 
 url: https://www.dcscores.org
 markdown: kramdown
 kramdown:
