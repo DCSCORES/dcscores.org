@@ -1,8 +1,8 @@
 ---
 title: Mark Cowan
 position: 27
-Details: Cowan Strategies
-Link: http://www.cowanstrategies.net/mcowan
+Details: Potomac International Partners
 Section: board
+Link: https://www.potomacinternationalpartners.com/
 ---
 
