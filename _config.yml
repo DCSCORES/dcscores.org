@@ -43,6 +43,7 @@ defaults:
     path: ''
     type: blog_tags
   values:
+    permalink: "/blog/tags/:title/"
     layout: tag
 - scope:
     path: ''
