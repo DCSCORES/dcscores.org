@@ -14,6 +14,7 @@ Thumbnail Image: "/uploads/IMG_0012.JPG"
 
 Another great Winter SCORES season is in the books as Tubman Elementary School, Neval Thomas Elementary School, Truesdell Education Campus- Elementary School and Lincoln Middle School completed their six-weeks of soccer and nutrition sessions.
 
+
 Our poet-athletes got a chance to improve their soccer skills during the off-season, while learning about how a healthy diet can be fun and easy to maintain.
 
 During week one, teams reconnected to set goals and expectations for the season and jumped right into the [Common Threads](http://www.commonthreads.org/) curriculum. Poet-athletes learned about elements of the “Chef’s Plate,” discovering the components of a balanced meal- dairy, protein, grains, fruits and vegetables.
