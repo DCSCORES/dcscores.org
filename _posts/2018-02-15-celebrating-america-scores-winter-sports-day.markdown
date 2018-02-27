@@ -13,6 +13,7 @@ In the State of Qatar, [National Sport Day](http://portal.www.gov.qa/wps/portal/
 
 This is the third year DC SCORES celebrated the day by hosting “Winter Sports Day” for schools that participate in winter SCORES programming. What set this year apart is that two other [America SCORES affiliates](http://www.americascores.org/affiliates) participated as well in New York City and Los Angeles! Here's a recap of the events in the three cities.
 
+
 **[America SCORES New York](http://www.newyorkscores.org/)**
 
 ![ASNY Winter Sports Day 004.jpg](/uploads/ASNY%20Winter%20Sports%20Day%20004.jpg)
