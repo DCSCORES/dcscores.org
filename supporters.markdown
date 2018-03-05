@@ -68,7 +68,7 @@ Fans:
 - Nando’s Restaurant Group
 - Pepco/Exelon
 - Promontory Financial Group
-- RSN
+- RSM US LLP
 - Subaru of America Foundation, Inc.
 - Venable Foundation
 - Verizon Foundation
