@@ -1,11 +1,11 @@
 ---
-title: Vote DC SCORES!
+title: Spring DC SCORES
 date: 2018-01-10 22:07:00 Z
 tags:
 - Contest
 position: 0
-Image: "/uploads/Twitter.png"
-Link: http://bit.ly/DCSbestofDC
+Image: "/uploads/springsoccer.jpg"
+Link: https://www.dcscores.org/volunteer/
 ---
 
-Vote for DC SCORES for "Best Nonprofit" in the Washington City Paper competition. Voting goes through March 4! 
+Spring DC SCORES begins March 12. Get involved! Sign up to volunteer! 
