@@ -1,8 +1,9 @@
 ---
-title: New Headquarters!
+title: Our Words Our City
 date: 2017-10-24 14:02:00 Z
 position: 3
-Image: "/uploads/Moving.png"
+Image: "/uploads/DSC_0769.jpg"
+Link: youtube.com/dcscores
 ---
 
-As of Jan. 2, we have a new home office. Visit us at 1140 Connecticut Ave., NW, Suite 1200, Washington, DC 20036.
+On March 8, a group of DC SCORES poets took the stage at Studio Theatre and put on a show to remember. 
