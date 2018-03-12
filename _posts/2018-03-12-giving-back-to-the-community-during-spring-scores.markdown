@@ -17,17 +17,17 @@ DC SCORES runs the only consistent public soccer leagues for both elementary and
 
 During our spring season, kids at each site work together to identify and then research an issue in their school community, and then address it with a service-learning plan. Projects in the past have ranged from neighborhood and school cleanups, to awareness campaigns, to raising money for the homeless, and much more!
 
-**Program Schedule**\
+**Program Schedule**<br>
 Elementary schools have programming five days a week. Two days a week are designated for soccer practices and two days for service-learning. Each Thursday, poet-athletes participate in game days, where schools play against other schools in separate girls and boys soccer games.
 
 Middle schools have programming three days a week, but have the same amount of program hours as elementary schools. In a block scheduling format, middle schools have both soccer and service-learning two days a week and game days on Fridays. We have girls, boys and a co-ed league for middle schools.
 
 ![34730822660_bb7cbf447e_o.jpg](/uploads/34730822660_bb7cbf447e_o.jpg)
 
-**Special Events**\
+**Special Events**<br>
 **[Jamboree!](http://dcscores.blogspot.com/2017/06/the-22nd-edition-of-jamboree-bring.html)**, June 2 at Anacostia Park - Jamboree! is the culminating event of the DC SCORES programming year, filled with soccer games, arts and crafts, and more for DC SCORES students and their families.
 
-**How do I get involved?**\
+**How do I get involved?**<br>
 There are many ways to be a part of our team this spring:
 
 * Volunteer Opportunities:
