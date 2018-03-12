@@ -17,8 +17,7 @@ DC SCORES runs the only consistent public soccer leagues for both elementary and
 
 During our spring season, kids at each site work together to identify and then research an issue in their school community, and then address it with a service-learning plan. Projects in the past have ranged from neighborhood and school cleanups, to awareness campaigns, to raising money for the homeless, and much more!
 
-**Program Schedule**
-
+**Program Schedule**\
 Elementary schools have programming five days a week. Two days a week are designated for soccer practices and two days for service-learning. Each Thursday, poet-athletes participate in game days, where schools play against other schools in separate girls and boys soccer games.
 
 Middle schools have programming three days a week, but have the same amount of program hours as elementary schools. In a block scheduling format, middle schools have both soccer and service-learning two days a week and game days on Fridays. We have girls, boys and a co-ed league for middle schools.
