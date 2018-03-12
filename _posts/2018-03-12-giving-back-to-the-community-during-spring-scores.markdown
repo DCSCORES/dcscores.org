@@ -23,7 +23,7 @@ Elementary schools have programming five days a week. Two days a week are design
 
 Middle schools have programming three days a week, but have the same amount of program hours as elementary schools. In a block scheduling format, middle schools have both soccer and service-learning two days a week and game days on Fridays.
 
-![34937031240_66ef8f11b0_o.jpg](/uploads/34937031240_66ef8f11b0_o.jpg)
+![34730822660_bb7cbf447e_o.jpg](/uploads/34730822660_bb7cbf447e_o.jpg)
 
 **Special Events**
 
@@ -34,14 +34,16 @@ Middle schools have programming three days a week, but have the same amount of p
 There are many ways to be a part of our team this spring:
 
 * Volunteer Opportunities:
-  - [Become a referee](https://docs.google.com/forms/d/e/1FAIpQLSc1VZEcstFQrCDi44g0zcpKS-42ym4qz_zNZUF7U2NVx-IIqA/viewform?c=0&w=1): DC SCORES’ soccer leagues are recreational and small sided (8v8) with an emphasis on sportsmanship and learning.
-  - Help out during Jamboree!: Email lsharp@dcscores.org
+
+  * [Become a referee](https://docs.google.com/forms/d/e/1FAIpQLSc1VZEcstFQrCDi44g0zcpKS-42ym4qz_zNZUF7U2NVx-IIqA/viewform?c=0&w=1): DC SCORES’ soccer leagues are recreational and small sided (8v8) with an emphasis on sportsmanship and learning.
+
+  * Help out during Jamboree!: Email lsharp@dcscores.org
 
 
 * [GIVE](https://connect.clickandpledge.com/w/Form/38684abc-e195-4fdb-aef3-2ed5aeb51d61?636153321160038799) a DC child a voice and the power of self expression!
 
-**Stay up-to-date with us online!
-**Follow us on Twitter: [@DCSCORES](https://twitter.com/DCSCORES) and [@DCSCORESinterns](https://twitter.com/DCSCORESInterns)
+\*\*Stay up-to-date with us online!
+\*\*Follow us on Twitter: [@DCSCORES](https://twitter.com/DCSCORES) and [@DCSCORESinterns](https://twitter.com/DCSCORESInterns)
 Like us on [Facebook](https://www.facebook.com/DCSCORES/)
 Subscribe to our [YouTube channel](https://www.youtube.com/channel/UCNUQxAB_LRA7OyH9GtDs7LA?view_as=subscriber)
 Follow us on [Instagram](https://www.instagram.com/dc_scores/)
