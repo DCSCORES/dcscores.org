@@ -4,12 +4,21 @@ permalink: "/our-program/participants/"
 Top Image: "/assets/images/masthead-resources.jpg"
 Top Image Position: 50% 40%
 soccerSchedule:
-- |-
-  ## Soccer Schedule
-
-  DC SCORES runs the only consistent elementary and middle public school soccer leagues for both boys and girls in the District of Columbia. Additionally, beginning in the fall of 2016, DC SCORES is running the DC SCORES City League, a District-wide recreation center soccer league run in partnership with the DC Department of Parks and Recreation. <a href="https://www.google.com/maps/d/u/0/viewer?mid=1ArueGtkLKryfnhjFva-7hHSZlD8&ll=38.8939219214454%2C-77.01469049999997&z=12" target="_blank">MAP of SITES</a>
-
-  #### The spring season begins March 22. Schedule coming soon!
+- "## Soccer Schedule\n\nDC SCORES runs the only consistent elementary and middle
+  public school soccer leagues for both boys and girls in the District of Columbia.
+  Additionally, beginning in the fall of 2016, DC SCORES is running the DC SCORES
+  City League, a District-wide recreation center soccer league run in partnership
+  with the DC Department of Parks and Recreation. <a href=\"https://www.google.com/maps/d/u/0/viewer?mid=1ArueGtkLKryfnhjFva-7hHSZlD8&ll=38.8939219214454%2C-77.01469049999997&z=12\"
+  target=\"_blank\">MAP of SITES</a>\n\n#### Thursday, March 22\nKickoff is at 4pm
+  with the girls playing first, followed by the boys.\n\n- Tuner at Miner\n- Smothers
+  at Aiton\n- Orr at Beers\n- Amidon at Burrville\n- Bancroft at Capital City\n- Bruce-Monroe
+  at Reed\n- HD Cooke at Seaton\n- Imagine Hope- Tolson at Thomas\n- LaSalle at Truesdell\n-
+  Powell at Tubman\n- Thomson at Walker-Jones\n\n#### Friday, March 23\nKickoff is
+  at 4pm with the girls playing first, followed by the boys. \n- EL Haynes at Capital
+  City\n- LaSalle at Chavez Prep\n- MacFarland at DCI\n- Lincoln at Brightwood\n-
+  Truesdell at Cardozo\n- Raymond at KIPP WILL\n\nCo-Ed\n4pm kickoff\n- Inspired Teaching
+  at Jefferson\n- Paul at Kelly Miller\n- Hart at DC Scholars\n- BASIS at Leckie\n-
+  Brookland at Imagine-Hope Lamond"
 soccerScheduleMap: "/uploads/image-program-sites-map.png"
 forFamilies:
 - "## For Families\n\nDC SCORES is free to all participants. <a href=\"http://register.dcscores.org\"
