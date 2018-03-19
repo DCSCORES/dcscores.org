@@ -16,7 +16,7 @@ soccerSchedule:
   LaSalle at Truesdell\n- Powell at Tubman\n- Thomson at Walker-Jones\n\n#### Friday,
   March 23 - Middle School\nKickoff is at 4pm with the girls playing first, followed
   by the boys. \n- EL Haynes at Capital City\n- LaSalle at Chavez Prep\n- MacFarland
-  at DCI\n- Lincoln at Brightwood\n- Truesdell at Cardozo\n- Raymond at KIPP WILL\n\n#Co-Ed#\n4pm
+  at DCI\n- Lincoln at Brightwood\n- Truesdell at Cardozo\n- Raymond at KIPP WILL\n\n#Co-Ed\n4pm
   kickoff\n- Inspired Teaching at Jefferson\n- Paul at Kelly Miller\n- Hart at DC
   Scholars\n- BASIS at Leckie\n- Brookland at Imagine-Hope Lamond"
 soccerScheduleMap: "/uploads/image-program-sites-map.png"
