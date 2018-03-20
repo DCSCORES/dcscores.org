@@ -29,8 +29,8 @@ forFamilies:
   target=\"_blank\">application form</a>."
 programAlumni:
 - "### Program Alumni\n\n#### Alumni Tournament March 29!\nThe 7th Annual Alumni Tournament
-  is Thursday, March 29. More details to come! See photos from the 2017 tournament
-  <a href=\"https://www.flickr.com/photos/dcscorespictures/albums/72157682843707995\"
+  is Thursday, March 29. More details <a href=\"https://www.facebook.com/events/188999061706669/\"_blank\">HERE</a>.
+  See photos from the 2017 tournament <a href=\"https://www.flickr.com/photos/dcscorespictures/albums/72157682843707995\"
   target=\"_blank\">HERE</a>. \n\n#### Reconnect!\nAre you a DC SCORES alumnus interested
   in getting involved with DC SCORES? It’s easy to do! Simply email <a href=\"mailto:alumni@dcscores.org\"
   target=\"_blank\">alumni@dcscores.org</a>. You can also connect on social media
