@@ -32,7 +32,7 @@ programAlumni:
   ### Program Alumni
 
   #### Alumni Tournament March 29!
-  The 7th Annual Alumni Tournament is Thursday, March 29. More details <a href="https://www.facebook.com/events/188999061706669/"_blank">HERE</a>.
+  The 7th Annual Alumni Tournament is Thursday, March 29. More details <a href="https://www.facebook.com/events/188999061706669/" target="_blank">HERE</a>
 
   #### Reconnect!
   Are you a DC SCORES alumnus interested in getting involved with DC SCORES? It’s easy to do! Simply email <a href="mailto:alumni@dcscores.org" target="_blank">alumni@dcscores.org</a>. You can also connect on social media by following <a href="https://www.instagram.com/DCSalumni/" target="_blank">@DCSalumni</a> on Instagram and @dcscores on Snapchat.
