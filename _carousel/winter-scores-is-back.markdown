@@ -5,6 +5,7 @@ tags:
 - Contest
 position: 0
 Image: "/uploads/DSC_9513.jpg"
+Image Position: 50% 25%
 Link: https://www.dcscores.org/volunteer/
 ---
 
