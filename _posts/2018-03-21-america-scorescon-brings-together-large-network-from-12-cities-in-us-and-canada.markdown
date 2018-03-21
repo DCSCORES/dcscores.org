@@ -4,6 +4,7 @@ title: America SCOREScon brings together large network from 12 cities in U.S. an
 date: 2018-03-21 15:29:00 Z
 tags:
 - america scores
+Thumbnail Image: "/uploads/scorescon-ac0a34.JPG"
 ---
 
 ![scorescon.JPG](/uploads/scorescon.JPG)
