@@ -9,10 +9,11 @@ Thumbnail Image: "/uploads/scorescon-ac0a34.JPG"
 
 ![scorescon.JPG](/uploads/scorescon.JPG)
 
+*[Photo album](http://bit.ly/SCORESCon18Photos)*
+
 Earlier this month, more than 60 SCORES staff and coaches from all 12 programs convened in Washington, DC, for SCORESCon 2018.
 
 SCORESCon is always an exciting time for America SCORES staff. One attendee said about the conference, “Honestly the best part of SCORES Con is getting everyone in the network to share the unique and innovative things they are doing in their city - whether it's a small tweak to Game Day structure or a new external partner like UpMetrics.”
-
 
 SCORESCon attendees were lucky enough to meet for breakfast and breakout sessions at the historic Charles Sumner School Museum and Archives. The Sumner School is one of the earliest schools for African Americans in the District of Columbia, and SCORES staff admired the exhibits, archives and art that now adorns each room in the building.
 
