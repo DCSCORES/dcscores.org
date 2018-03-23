@@ -10,9 +10,9 @@ soccerSchedule:
   City League, a District-wide recreation center soccer league run in partnership
   with the DC Department of Parks and Recreation. <a href=\"https://www.google.com/maps/d/u/0/viewer?mid=1ArueGtkLKryfnhjFva-7hHSZlD8&ll=38.8939219214454%2C-77.01469049999997&z=12\"
   target=\"_blank\">MAP of SITES</a>\n\n#### Thursday, March 22 - Elementary School
-  - CANCELED \nKickoff is at 4pm with the girls playing first, followed by the boys.\n\n\n####
-  Friday, March 23 - Middle School - CANCELED \nKickoff is at 4pm with the girls playing
-  first, followed by the boys. \n"
+  - CANCELLED \nKickoff is at 4pm with the girls playing first, followed by the boys.\n\n\n####
+  Friday, March 23 - Middle School - CANCELLED \nKickoff is at 4pm with the girls
+  playing first, followed by the boys. \n"
 soccerScheduleMap: "/uploads/image-program-sites-map.png"
 forFamilies:
 - "## For Families\n\nDC SCORES is free to all participants. <a href=\"http://register.dcscores.org\"
