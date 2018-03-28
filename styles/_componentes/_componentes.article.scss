@@ -351,6 +351,53 @@
           display: inline-block;
         }
 
+    .Article-content ul {
+      list-style: none;
+      padding-left: 1.25em;
+
+      font-size: 0.9rem;
+
+      @media (min-width: 48em) {
+        padding-left: 1em;
+      }
+    }
+
+      .Article-content ul li {
+
+        &::before {
+          content: "";
+          display: inline-block;
+
+          margin-right: 0.75em;
+
+          width: 1.4em;
+          height: 1.4em;
+
+          font-size: 0.5rem;
+          font-weight: 700;
+          line-height: 1;
+          text-align: center;
+          color: #fff;
+
+          background-color: lighten($americaScoresBlue, 15%);
+          border-radius: 100%;
+        }
+
+        &:first-child {
+          > p {
+            margin-top: 0!important;
+          }
+        }
+      }
+
+      .Article-content ul li + li {
+        margin-top: 0.45em;
+      }
+
+        .Article-content ul li p {
+          display: inline-block;
+        }
+
     .Article-content blockquote {
       display: block;
 
