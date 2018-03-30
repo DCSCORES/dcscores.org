@@ -68,7 +68,7 @@ Fill out the [Volunteer Assistant Coach Application](https://docs.google.com/for
 
 ![Jamboree](/uploads/volunteer-jamboree-float-left-small.jpg)
 
-### Jamboree!
+### [Jamboree!](https://www.dcscores.org/jamboree/)
 
 The culminating event of the DC SCORES programming year, filled with soccer games, arts and crafts, and more for DC SCORES students and their families.
 
@@ -76,8 +76,8 @@ The culminating event of the DC SCORES programming year, filled with soccer game
 
 **Location:** Anacostia Park
 
-**Want to get involved?**
-Contact Lindsey Sharp at lsharp@dcscores.org
+**Want to get involved? [CLICK HERE](https://www.dcscores.org/jamboree/)**
+Any additional questions: Contact Lindsey Sharp at volunteer@dcscores.org 
 
 ---
 
