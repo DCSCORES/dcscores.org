@@ -6,7 +6,7 @@ Top Image Position: 50% 35%
 layout: jamboree
 ---
 
-### Jamboree! 2018 Volunteer Information
+### Jamboree 2018 Volunteer Information
 
 Jamboree! is our culminating event of the year where all 2,500 of our participants and their families are invited to an all-day soccer tournament & community festival.
 
@@ -38,7 +38,7 @@ Jamboree! is our culminating event of the year where all 2,500 of our participan
 
 #### Weather Policy
 
-* Jamboree! is a “drizzle-or-shine” event. In the case that there is an absolute downpour, we will notify you via email on Friday, June 1st.
+* Jamboree is a “drizzle-or-shine” event. In the case that there is an absolute downpour, we will notify you via email on Friday, June 1st.
 
 #### What do I need to check-in on the day of the event?
 
