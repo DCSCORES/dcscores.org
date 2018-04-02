@@ -2,7 +2,7 @@
 title: Jamboree
 permalink: "/jamboree/"
 Top Image: "/uploads/jamboree-header.jpg"
-Top Image Position: 50% 35%
+Top Image Position: 50% 25%
 layout: jamboree
 ---
 
@@ -16,7 +16,7 @@ Jamboree! is our culminating event of the year where all 2,500 of our participan
 
 * Anacostia Park, Field 6
 
-* All volunteers will receive a light lunch (vegetarian options available) and water stations will be placed throughout the venue. 
+* All volunteers will receive a light lunch (vegetarian options available) and water stations will be placed throughout the venue.
 
 <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d12423.687902750902!2d-76.9758658621453!3d38.880026923171506!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x0!2zMzjCsDUyJzQ4LjEiTiA3NsKwNTgnMDEuNiJX!5e0!3m2!1sen!2slt!4v1522262924446" width="820" height="600" frameborder="0" style="margin-top:0.5em;border:4px solid #f9f9f9;border-radius: 3px" allowfullscreen></iframe>
 
