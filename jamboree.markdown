@@ -42,7 +42,7 @@ Jamboree! is our culminating event of the year where all 2,500 of our participan
 
 #### What do I need to check-in on the day of the event?
 
-* Upon arrival, please check in at the volunteer tent with a DC SCORES Member.
+* Upon arrival, please check in at the volunteer tent with a DC SCORES Staff Member.
 
 * To speed up your check-in process, please try to fill out the Volunteer Waiver at <a href="https://app.pandadoc.com/templates/NDg5ODgwODg4MDY1NjYyNzA4NDIzOTkxMjU5MjAzMDg1MDY2MTM4NjcwMDgzNjQ0NDIyMDExNzkwMDQ1MTc3MTg3MTAxODY3NjE0OTcwMTQxOTUyODg5OTQzODcxNjI1/embed#/templates/embed" target="_blank">this link</a> before arriving. If you cannot complete it in advance, we will have paper copies available on the day of.
 
