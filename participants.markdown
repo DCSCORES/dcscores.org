@@ -9,10 +9,12 @@ soccerSchedule:
   Additionally, beginning in the fall of 2016, DC SCORES is running the DC SCORES
   City League, a District-wide recreation center soccer league run in partnership
   with the DC Department of Parks and Recreation. <a href=\"https://www.google.com/maps/d/u/0/viewer?mid=1ArueGtkLKryfnhjFva-7hHSZlD8&ll=38.8939219214454%2C-77.01469049999997&z=12\"
-  target=\"_blank\">MAP of SITES</a>\n\n#### Thursday, March 29 - Elementary School
-  \ \nKickoff is at 4pm with the girls playing first, followed by the boys.\n- No
-  games\n\n\n#### Friday, March 30 - Middle School \nKickoff is at 4pm with the girls
-  playing first, followed by the boys. \n- No games\n"
+  target=\"_blank\">MAP of SITES</a>\n\n#### Thursday, April 5 - Elementary School
+  \ \nKickoff is at 4pm with the girls playing first, followed by the boys.\n- Beers
+  at Amidon\n- JC Nalle at Burrville\n- Brightwood at Capital City\n- Bruce-Monroe
+  at Imagine Hope-Lamond\n- Kimball at KIPP Quest\n- Smothers at Leckie\n- Imagine
+  Hope-Tolson at Miner\n- Orr at Aiton\n- LaSalle at Reed\n- Powell at Seaton\n- Thomson
+  at Truesdell\n- Bancroft at Tubman\n- Barnard at Walker-Jones\n"
 soccerScheduleMap: "/uploads/image-program-sites-map.png"
 forFamilies:
 - "## For Families\n\nDC SCORES is free to all participants. <a href=\"http://register.dcscores.org\"
