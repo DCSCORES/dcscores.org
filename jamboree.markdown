@@ -8,7 +8,7 @@ layout: jamboree
 
 ### Jamboree 2018 Volunteer Information
 
-Jamboree! is our culminating event of the year where all 2,500 of our participants and their families are invited to an all-day soccer tournament & community festival.
+Jamboree is our culminating event of the year where all 2,500 of our participants and their families are invited to an all-day soccer tournament & community festival.
 
 #### Logistics
 
