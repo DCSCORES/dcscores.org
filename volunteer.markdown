@@ -129,7 +129,8 @@ Apply only for weeks you are able to attend fully, Monday-Friday.
 Students applying to work full camps or multiple weeks will be given priority.
 Experience working with kids and general interest in soccer/arts is a plus.
 
-**Want to get invovled?** Fill out the [summer camp counselor interest form](https://goo.gl/forms/j17NJDBYIKJU8o3H3)! 
+
+**Want to get invovled?** Please fill out the [summer camp counselor interest form](https://goo.gl/forms/j17NJDBYIKJU8o3H3)! 
 
 ---
 
