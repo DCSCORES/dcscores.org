@@ -9,12 +9,18 @@ soccerSchedule:
   Additionally, beginning in the fall of 2016, DC SCORES is running the DC SCORES
   City League, a District-wide recreation center soccer league run in partnership
   with the DC Department of Parks and Recreation. <a href=\"https://www.google.com/maps/d/u/0/viewer?mid=1ArueGtkLKryfnhjFva-7hHSZlD8&ll=38.8939219214454%2C-77.01469049999997&z=12\"
-  target=\"_blank\">MAP of SITES</a>\n\n#### Thursday, April 5 - Elementary School
-  \ \nKickoff is at 4pm with the girls playing first, followed by the boys.\n- Beers
-  at Amidon\n- JC Nalle at Burrville\n- Brightwood at Capital City\n- Bruce-Monroe
-  at Imagine Hope-Lamond\n- Kimball at KIPP Quest\n- Smothers at Leckie\n- Imagine
-  Hope-Tolson at Miner\n- Orr at Aiton\n- LaSalle at Reed\n- Powell at Seaton\n- Thomson
-  at Truesdell\n- Bancroft at Tubman\n- Barnard at Walker-Jones\n"
+  target=\"_blank\">MAP of SITES</a>\n\n#### Thursday, April 12 - Elementary School
+  \ \nKickoff is at 4pm with the girls playing first, followed by the boys.\n- Imagine
+  Hope-Tolson at Aiton\n- Orr at Amidon-Bowen\n- Barnard at Capital City\n- Brightwood
+  at Imagine Hope-Lamond\n- Smothers at JC Nalle\n- Burrville at KIPP Quest\n- Turner
+  at Leckie\n- Miner at Beers\n- Bruce-Monroe at Raymond\n- HD Cooke at Reed\n- LaSalle
+  at Seaton\n- Kimball at Thomas\n- Powell at Truesdell\n- Thomson at Tubman\n- Bancroft
+  at Walker-Jones\n\n#### Friday, April 13 - Middle School\nKickoff is at 4pm with
+  the girls playing first, followed by the boys.\n- MacFarland at Brightwood\n- Truesdell
+  at Capital City\n- Chavez Prep at EL Haynes\n- Raymond at Cardozo\n- DCI at KIPP
+  WILL\n- LaSalle at Lincoln\n\n#### Friday, April 13 - Coed Middle School\n4pm Kickoff\n-
+  Paul Public at DC Scholars\n- SEED at Jefferson\n- BASIS at Kelly Miller\n- Imagine
+  Hope-Lamond at Leckie\n- Inspired Teaching at Brookland"
 soccerScheduleMap: "/uploads/image-program-sites-map.png"
 forFamilies:
 - "## For Families\n\nDC SCORES is free to all participants. <a href=\"http://register.dcscores.org\"
