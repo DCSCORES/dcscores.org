@@ -1,7 +1,7 @@
 ---
 title: Lindsey Sharp
 date: 2017-08-14 14:51:00 Z
-position: 19
+position: 20
 Details: Community Engagement Coordinator
 Email: lsharp@dcscores.org
 Profile Image: "/uploads/FullSizeRender%2012.jpg"
