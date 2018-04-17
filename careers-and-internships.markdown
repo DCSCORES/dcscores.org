@@ -14,6 +14,6 @@ We have no job openings at this time. If you would like to get involved in anoth
 
 ## Internships
 
-* [Development Internship](https://docs.google.com/document/d/e/2PACX-1vTfWEjZx2ZqQw6I8PcARIJkEYnrOF0k9NAMzV9eyJuFzninHd0VxfQ1_uGPt18cuAjhN8UpGmqmfUu3/pub) - Summer 2018
+* [Development Internship](https://drive.google.com/file/d/160GrbTdbdscHCpFOI2FwM4e5nkkz8jHZ/view?usp=sharing) - Summer 2018
 
-* [Communications Internship](https://docs.google.com/document/d/e/2PACX-1vTl-9SD5oEXq3D0Hz87Q4EbD4C40qwH0PvXes5vPZX-QcmnEMAt7dDNzr4MjK-qG6IaiXcGHPjojaE5/pub) - Summer 2018
+* [Communications Internship](https://drive.google.com/file/d/1QXHW5udR-TVCvTZLf9CxdiHEuFZc9MVb/view?usp=sharing) - Summer 2018
