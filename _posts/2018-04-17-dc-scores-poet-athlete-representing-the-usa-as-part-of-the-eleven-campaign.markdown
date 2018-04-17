@@ -11,7 +11,7 @@ This week, Uniyah C. from Miner Elementary School is in Geneva, Switzerland repr
 
 “Eleven” is a non-profit documentary that aspires to use the power of soccer (football) to break communication barriers, celebrate diversity and create social cohesion.
 
-The DC SCORES 11-year-old poet-athlete is one of 11,11-year-old kids from 11 different countries, including Australia, Brazil, Denmark, Greece, Japan, Qatar, South Africa, Spain, Trinidad & Tobago, and the UK.
+The DC SCORES poet-athlete is one of 11,11-year-old kids from 11 different countries, including Australia, Brazil, Denmark, Greece, Japan, Qatar, South Africa, Spain, Trinidad & Tobago, and the UK.
 
 Joining her on her journey overseas, are her father Antonio and DC SCORES Director of Writing, Charity Blackwell. 
 
