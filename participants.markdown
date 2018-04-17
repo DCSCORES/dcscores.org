@@ -9,18 +9,20 @@ soccerSchedule:
   Additionally, beginning in the fall of 2016, DC SCORES is running the DC SCORES
   City League, a District-wide recreation center soccer league run in partnership
   with the DC Department of Parks and Recreation. <a href=\"https://www.google.com/maps/d/u/0/viewer?mid=1ArueGtkLKryfnhjFva-7hHSZlD8&ll=38.8939219214454%2C-77.01469049999997&z=12\"
-  target=\"_blank\">MAP of SITES</a>\n\n#### Thursday, April 12 - Elementary School
-  \ \nKickoff is at 4pm with the girls playing first, followed by the boys.\n- Imagine
-  Hope-Tolson at Aiton\n- Orr at Amidon-Bowen\n- Barnard at Capital City\n- Brightwood
-  at Imagine Hope-Lamond\n- Smothers at JC Nalle\n- Burrville at KIPP Quest\n- Turner
-  at Leckie\n- Miner at Beers\n- Bruce-Monroe at Raymond\n- HD Cooke at Reed\n- LaSalle
-  at Seaton\n- Kimball at Thomas\n- Powell at Truesdell\n- Thomson at Tubman\n- Bancroft
-  at Walker-Jones\n\n#### Friday, April 13 - Middle School\nKickoff is at 4pm with
-  the girls playing first, followed by the boys.\n- MacFarland at Brightwood\n- Truesdell
-  at Capital City\n- Chavez Prep at EL Haynes\n- Raymond at Cardozo\n- DCI at KIPP
-  WILL\n- LaSalle at Lincoln\n\n#### Friday, April 13 - Coed Middle School\n4pm Kickoff\n-
-  Paul Public at DC Scholars\n- SEED at Jefferson\n- BASIS at Kelly Miller\n- Imagine
-  Hope-Lamond at Leckie\n- Inspired Teaching at Brookland"
+  target=\"_blank\">MAP of SITES</a>\n\n#### Wednesday, April 18\n- Washington School
+  for Girls at Barry Farm Rec (Friendly)\n- Harrison Rec at Turkey Thicket (City Soccer
+  League)\n- Park View Rec at Turkey Thicket (JR. SCORES)\n\n#### Thursday, April
+  19 - Elementary School  \nKickoff is at 4pm with the girls playing first, followed
+  by the boys.\n- Turner at Miner\n- Smothers at Aiton\n- Orr at Beers\n- Amidon-Bowen
+  at Burrville\n- Bancroft at Capital City\n- Barnard at Imagine Hope-Lamond\n- JC
+  Nalle at KIPP Quest\n- Kimball at Leckie\n- Brightwood at Raymond\n- Bruce-Monroe
+  at Reed\n- Imagine Hope-Tolson at Thomas\n- LaSalle at Truesdell \n- Powell at Tubman\n-
+  Thomson at Walker-Jones\n\n#### Friday, April 20 - Middle School\nKickoff is at
+  4pm with the girls playing first, followed by the boys.\n- DCI at Brightwood\n-
+  Raymond at Capital City\n- LaSalle at Cardozo\n- MacFarland at KIPP WILL\n- Lincoln
+  at EL Haynes\n- Truesdell at Chavez Prep\n\n#### Friday, April 13 - Coed Middle
+  School\n4pm Kickoff\n- Inspired Teaching at Hart\n- Paul Public at Jefferson\n-
+  Imagine Hope-Tolson at Kelly Miller\n- SEED at Leckie\n- BASIS DC at DC Scholars"
 soccerScheduleMap: "/uploads/image-program-sites-map.png"
 forFamilies:
 - "## For Families\n\nDC SCORES is free to all participants. <a href=\"http://register.dcscores.org\"
