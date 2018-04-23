@@ -13,6 +13,7 @@ Thumbnail Image: "/uploads/CuisineSolutions_032RedU-25422e.jpg"
 
 DC SCORES is excited to announce its first-ever presenting sponsor, Cuisine Solutions, for the 16th annual DC SCORES Cup, that will be held on Saturday, June 23 at the Maryland SoccerPlex. 
 
+
 Cuisine Solutions, pioneers of the sous-vide method of cooking and meal preparation, will help elevate the experience for all participants by providing an extensive breakfast bar and lunch during the tournament, as well as participate with two teams in the tournament. Chefs will also be onsite throughout the day to assist with any dietary restrictions and answer any questions about their sous-vide method. 
 
 The DC SCORES Cup is the largest corporate soccer tournament in the DMV area and one of DC SCORES’ largest fundraisers. The World Cup-style, co-ed tournament, created in 2003, pits local law firms and corporations against each other in a fun, competitive environment. The one-day tournament has grown each year — to a record 40 teams in 2017. The DC SCORES Cup has been highlighted as an effective team-builder in Capital Community News, Legal Bisnow and Washington Business Journal. All tournament proceeds benefit the DC SCORES program. 
