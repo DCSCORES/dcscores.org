@@ -14,6 +14,8 @@ Thumbnail Image: "/uploads/DSC_0037.jpg"
 
 *Today we highlight Henry Mader, he is a brand new volunteer elementary school referee that started this spring season. He has been playing soccer for over 7 years and currently attend Blyth Templeton Academy. In addition to attending school and volunteering with DC SCORES, Henry also plays center back for D.C. United's U17 Academy. Want to get involved like Henry? Sign up to volunteer **[HERE](https://www.dcscores.org/volunteer/)**.*
 
+---
+
 **What are you plans after high school?**
 
 After high school I hope to go on and play soccer at the collegiate level while continuing to challenge myself academically. I have visited a few schools so far including Tulane University, Harvard, and Cornell.
