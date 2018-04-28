@@ -8,6 +8,8 @@ Author: Lorena Palacios
 Thumbnail Image: "/uploads/DSC_0037.jpg"
 ---
 
+![DSC_0037.jpg](/uploads/DSC_0037.jpg)
+
 *DC SCORES has more than 500 volunteers who help make our program possible for 2,500 low-income DC kids. From assistant coaching, to tackling our big events, to providing expert services and advice, to folding newsletters in our office, to reffing weekly soccer games, to taking photos and videos, and much more, our volunteers make a difference in many ways and with varying schedules.*
 
 *Today we highlight Henry Mader, he is a brand new volunteer elementary school referee that started this spring season. He has been playing soccer for over 7 years and currently attend Blyth Templeton Academy. In addition to attending school and volunteering with DC SCORES, Henry also plays center back for D.C. United's U17 Academy. Want to get involved like Henry? Sign up to volunteer **[HERE](https://www.dcscores.org/volunteer/)**.*
