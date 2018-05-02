@@ -188,3 +188,5 @@ The ball was their religion, their praise
 And their one language and one love
 
 Was soccer
+
+[IMG_3727 (1).JPG](/uploads/IMG_3727%20(1).JPG)
