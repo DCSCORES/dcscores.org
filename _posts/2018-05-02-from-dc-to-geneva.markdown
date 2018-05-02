@@ -16,21 +16,37 @@ Thumbnail Image: "/uploads/IMG_3741%20(1)-ce3699.JPG"
 **From DC to Geneva**
 
 For a week
+
 A young fearless black girl from Washington DC
+
 Congregated with eleven kids
+
 From eleven different countries
+
 In Geneva, Switzerland
+
 For the same cause
+
 She was foreign to them as they were to her
+
 Broken translations
+
 Cultural background barriers and variations
+
 It took only a matter of two 10 minute halves
+
 For her to speak fluently, effortlessly to them
+
 For they became a country of their own
+
 Where phonetics became movement
+
 The field became home
+
 The players stood tall as their village
+
 The ball was their religion, their praise
+
 And their language was soccer
 
 It takes 9 hours to fly from DC to Switzerland
