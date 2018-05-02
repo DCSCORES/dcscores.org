@@ -7,9 +7,10 @@ Thumbnail Image: "/uploads/IMG_3741%20(1)-ce3699.JPG"
 
 ![IMG_3741 (1).JPG](/uploads/IMG_3741%20(1).JPG)
 
-*Poet-athlete, Uniyah C. from Miner Elementary School, had the unique opportunity to be a part of the [Eleven Campaign](http://elevencampaign.org/) and represent the USA. She spent a week in Geneva, Switzerland with 11 other 11-year-olds from around the world and explored the similarities and differences of their daily lives.*
+*Poet-athlete Uniyah C. from Miner Elementary School had the unique opportunity to be a part of the [Eleven Campaign](http://elevencampaign.org/) and represent the USA. She spent a week in Geneva, Switzerland with 10 other 11-year-olds from around the world and explored the similarities and differences of their daily lives.*
 
 *Uniyah's father, Antonio, and DC SCORES Director of Writing, Charity Blackwell, joined her overseas during this once-in-a-lifetime journey. Below is a poem Charity wrote inspired by their experience in Switzerland.*
+
 
 ---
 
