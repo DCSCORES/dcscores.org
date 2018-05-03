@@ -593,6 +593,29 @@
 
     }
 
+    // Terrible css, ujujuju
+    .Footer-auxiliaryColumn--smile {
+      background-color: #fff;
+      border-radius: 3px;
+
+      > a {
+        display: block;
+        padding: 0.75em 0.75em 0.75em 0.75em;
+
+        &:hover {
+          opacity: 0.72;
+        }
+      }
+
+      img {
+        max-width: 8rem;
+      }
+
+      @media (min-width: 38em) {
+        margin-left: 2em;
+      }
+    }
+
     .Footer-auxiliaryColumn--goAway {
       margin-left: auto;
       margin-top: auto;
@@ -664,30 +687,3 @@
 
           font-size: 0.9rem;
         }
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
