@@ -1,9 +1,9 @@
 ---
-title: Our Words Our City
+title: Street Child World Cup
 date: 2017-10-24 14:02:00 Z
 position: 3
-Image: "/uploads/DSC_0769.jpg"
-Link: https://www.youtube.com/DCSCORES
+Image: "/uploads/IMG_6822.jpg"
+Link: http://bit.ly/SCWC_SCORES
 ---
 
-On March 8, a group of DC SCORES poets took the stage at Studio Theatre and put on a show to remember. 
+From May 10-19, nine DC SCORES alumnae will be in Moscow, Russia, representing their country and America SCORES at the Street Child World Cup!
