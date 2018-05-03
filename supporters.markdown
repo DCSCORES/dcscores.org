@@ -21,27 +21,33 @@ Scoring Champions:
 - Audi of America
 - Butterfields Butter LLC
 - Capital for Children
+- The Diplomat Group
 - District Sports
 - Foundation for Advancing Alcohol Responsibility
 - John Edward Fowler Memorial Foundation
+- Pepco/Exelon
 - Volkswagen Group of America, Inc.
 MVP Champions:
 - Blank Rome LLP
 - Herb Block Foundation
 - BrightView
+- ByteCubed
 - Clark Construction
 - Cresa Washington DC
+- Crowell & Moring Foundation
 - D.C. Mayor’s Office on Latino Affairs (MOLA)
-- The Diplomat Group
 - Hogan Lovells US LLP
+- Ian, Evan & Alexander Corp
 - 'Carl Kravitz '
 - Koons of Silver Spring
 - 'Lainoff Family '
 - Manchester City F.C.
 - Richard E. and Nancy P. Marriott Foundation
+- Moore & Van Allen
 - The Morningstar Foundation
 - Nike
 - PriceWaterhouseCoopers
+- Embassy of Qatar
 - Share Fund
 - Washington Area Women's Foundation - Rainmakers Giving Circle
 - Wells Fargo Foundation
@@ -59,6 +65,7 @@ Fans:
 - Enlightenment Capital
 - Grant Thornton LLP
 - Corina Higginson Trust
+- Emagine IT
 - Kirkland & Ellis LLP
 - Leidos
 - Marriott International, Inc.
@@ -66,11 +73,12 @@ Fans:
 - Merrill Lynch
 - Moore & Van Allen
 - Nando’s Restaurant Group
-- Pepco/Exelon
+- The Northern Ireland Bureau
 - Promontory Financial Group
 - RSM US LLP
 - Safeway
 - Subaru of America Foundation, Inc.
+- Telos
 - Venable Foundation
 - Verizon Foundation
 - George Wasserman Family Foundation
