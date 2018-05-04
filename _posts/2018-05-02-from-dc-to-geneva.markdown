@@ -6,6 +6,7 @@ Thumbnail Image: "/uploads/IMG_3741%20(1)-ce3699.JPG"
 ---
 
 ![IMG_3741 (1).JPG](/uploads/IMG_3741%20(1).JPG)
+*Check out the [photo album](http://bit.ly/Uniyah11photos) from Uniyah's trip on Flickr!*
 
 *Poet-athlete Uniyah C. from Miner Elementary School had the unique opportunity to be a part of the [Eleven Campaign](http://elevencampaign.org/) and represent the USA. She spent a week in Geneva, Switzerland with 10 other 11-year-olds from around the world and explored the similarities and differences of their daily lives.*
 
