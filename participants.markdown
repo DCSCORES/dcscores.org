@@ -16,7 +16,7 @@ soccerSchedule:
   MacFarland at E.L. Haynes \n- Cesar Chavez Prep at CCPCS\n\n#### Friday, May 11
   - Middle School Coed\nKickoff is at 4pm\n- Jefferson at Kelly Miller\n- DC Scholars
   at Leckie\n- SEED at Imagine Hope - Tolson\n- PPCS at Inspired Teaching\n- Brookland
-  at Hart\n- BASIS at BYE"
+  at Hart\n"
 soccerScheduleMap: "/uploads/image-program-sites-map.png"
 forFamilies:
 - "## For Families\n\nDC SCORES is free to all participants. <a href=\"http://register.dcscores.org\"
