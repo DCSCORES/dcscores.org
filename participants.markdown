@@ -9,21 +9,14 @@ soccerSchedule:
   Additionally, beginning in the fall of 2016, DC SCORES is running the DC SCORES
   City League, a District-wide recreation center soccer league run in partnership
   with the DC Department of Parks and Recreation. <a href=\"https://www.google.com/maps/d/u/0/viewer?mid=1ArueGtkLKryfnhjFva-7hHSZlD8&ll=38.8939219214454%2C-77.01469049999997&z=12\"
-  target=\"_blank\">MAP of SITES</a>\n\n#### Wednesday, May 2 - JR. SCORES\n5pm Kickoff
-  \n- Upshur Rec at Park View Rec\n\n#### Wednesday, May 2 - Friendly\n4pm Kickoff
-  \n- Harrison Rec at  Barry Farm Rec\n\n#### Thursday, May 3 - Elementary School
-  \ \nKickoff is at 4pm with the girls playing first, followed by the boys.\n- Kimball
-  at Aiton\n- Smothers at Beers\n- Miner at Burrville\n- HD Cooke at Capital City\n-
-  LaSalle at Imagine Hope-Lamond\n- Leckie at JC Nalle\n- Amidon-Bowen at KIPP Quest\n-
-  Imagine Hope-Tolson at Turner\n- Powell at Raymond\n- Thomson at Reed\n- Bancroft
-  at Seaton\n- Orr at Thomas\n- Barnard at Truesdell\n- Brightwood at Tubman\n- Bruce-Monroe
-  at Walker-Jones\n\n#### Thursday, May 3 - JR. SCORES\n4:30pm Kickoff\n- Turkey Thicket
-  Rec at Trinidad Rec\n\n#### Friday, May 4 - Middle school\nKickoff is at 4pm with
-  the girls playing first, followed by the boys.\n- Chavez Prep at Lincoln\n- EL Haynes
-  at KIPP WILL\n- Brightwood at Cardozo\n- MacFarland at LaSalle\n- DCI at Capital
-  City\n- Raymond at Truesdell\n\n#### Friday, May 4 - Middle School Coed\n4pm Kickoff\n-
-  Brookland at Jefferson\n- BASIS DC at Hart\n- Paul Public at Imagine Hope-Tolson\n-
-  Inspired Teaching at Leckie\n- SEED at DC Scholars"
+  target=\"_blank\">MAP of SITES</a>\n\n#### Thursday, May 10 - Elementary School\nKickoff
+  is at 4pm\n- Bancroft at Truesdell\n- HD Cooke at Seaton\n- Imagine Hope-Tolson
+  at Thomas\n\n#### Friday, May 11 - Middle School  \nKickoff is at 4pm \n- Truesdell
+  at Brightwood\n- Cardozo at KIPP - WILL\n- DCI at LaSalle-Backus\n- Raymond at Lincoln\n-
+  MacFarland at E.L. Haynes \n- Cesar Chavez Prep at CCPCS\n\n#### Friday, May 11
+  - Middle School Coed\nKickoff is at 4pm\n- Jefferson at Kelly Miller\n- DC Scholars
+  at Leckie\n- SEED at Imagine Hope-Tolson\n- PPCS at Inspired Teaching\n- Brookland
+  at Hart\n- BASIS at BYE"
 soccerScheduleMap: "/uploads/image-program-sites-map.png"
 forFamilies:
 - "## For Families\n\nDC SCORES is free to all participants. <a href=\"http://register.dcscores.org\"
