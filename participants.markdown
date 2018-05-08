@@ -12,10 +12,10 @@ soccerSchedule:
   target=\"_blank\">MAP of SITES</a>\n\n#### Thursday, May 10 - Elementary School\nKickoff
   is at 4pm\n- Bancroft at Truesdell\n- HD Cooke at Seaton\n- Imagine Hope - Tolson
   at Thomas\n\n#### Friday, May 11 - Middle School  \nKickoff is at 4pm \n- Truesdell
-  at Brightwood\n- Cardozo at KIPP - WILL\n- DCI at LaSalle-Backus\n- Raymond at Lincoln\n-
-  MacFarland at E.L. Haynes \n- Cesar Chavez Prep at CCPCS\n\n#### Friday, May 11
-  - Middle School Coed\nKickoff is at 4pm\n- Jefferson at Kelly Miller\n- DC Scholars
-  at Leckie\n- SEED at Imagine Hope - Tolson\n- PPCS at Inspired Teaching\n- Brookland
+  at Brightwood\n- Cardozo at KIPP WILL\n- DCI at LaSalle-Backus\n- Raymond at Lincoln\n-
+  MacFarland at EL Haynes \n- Chavez Prep at Capital City\n\n#### Friday, May 11 -
+  Middle School Coed\nKickoff is at 4pm\n- Jefferson at Kelly Miller\n- DC Scholars
+  at Leckie\n- SEED at Imagine Hope - Tolson\n- Paul at Inspired Teaching\n- Brookland
   at Hart\n"
 soccerScheduleMap: "/uploads/image-program-sites-map.png"
 forFamilies:
