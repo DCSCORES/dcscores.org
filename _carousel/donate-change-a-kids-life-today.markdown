@@ -3,7 +3,7 @@ title: Street Child World Cup
 date: 2017-10-24 14:02:00 Z
 position: 1
 Image: "/uploads/IMG_6822.jpg"
-Image Position: 75% 50%
+Image Position: 80% 50%
 Link: http://bit.ly/SCWC_SCORES
 ---
 
