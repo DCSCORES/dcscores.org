@@ -48,7 +48,7 @@ The new members that are new to DC SCORES have fit in seamlessly since they step
 
 * I’m beyond grateful for the team for believing in me and offering me a chance to join them full-time. It’s been a great summer with DC SCORES as an intern and I’m so excited for the seasons to come!
 
-[Lindsey Sharp, Community Engagement Coordinator (former Soccer Coordnator)](https://www.dcscores.org/about-us/leadership/lindsey-sharp)
+[Lindsey Sharp, Community Engagement Coordinator (former Soccer Coordinator)](https://www.dcscores.org/about-us/leadership/lindsey-sharp)
 
 * Most of all, I'm looking forward to effectively engaging the larger community in my new role. Our volunteers allow us to serve as many kids as we do and become part of our tight-knit DC SCORES family - because of their commitment I'm excited to learn more about them and keep each team member involved in our mission.
 
