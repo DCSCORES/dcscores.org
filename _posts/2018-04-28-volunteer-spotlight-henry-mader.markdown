@@ -17,7 +17,7 @@ Thumbnail Image: "/uploads/DSC_0037.jpg"
 
 ---
 
-**What are you plans after high school?**
+**What are your plans after high school?**
 
 After high school I hope to go on and play soccer at the collegiate level while continuing to challenge myself academically. I have visited a few schools so far including Tulane University, Harvard, and Cornell.
 
