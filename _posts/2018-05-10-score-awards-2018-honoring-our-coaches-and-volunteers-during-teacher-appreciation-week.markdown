@@ -14,13 +14,13 @@ Thumbnail Image: "/uploads/40191057790_f87cd332c4_o-3d63c8.jpg"
 
 [2018 SCORE Awards photo album](https://www.flickr.com/photos/dcscorespictures/sets/72157696627618695)
 
-Over 70 percent of DC SCORES coaches are teachers, so what better time to celebrate the 6th annual SCORE Awards than Teacher Appreciation Week! 
+Over 70 percent of DC SCORES coaches are teachers, so what better time to celebrate the 6th annual SCORE Awards than Teacher Appreciation Week!
 
 Every year, SCORE Awards celebrates DC SCORES coaches, teachers, and volunteers for all the hard work and dedication they put into helping make an impact for 2,500 poet-athletes.
 
 We held the event at the [D.C. United Preview Center](https://www.dcunited.com/tickets/premium/learn-more) for the second consecutive year, an idyllic outdoor setting on an impeccable spring evening.
 
-Shortly after the reception began -- the smells of fresh-out-of-the-oven [Timber Pizza](http://www.timberpizza.com/) pies ubiquitous -- past **Poetry Slam! Shine Award** winners and **Our Words Our City** performers stopped by to show off their original poetry before the awards were given out. There’s no equal for a DC SCORES party with some inspirational poetry thrown in. 
+Shortly after the reception began -- the smells of fresh-out-of-the-oven [Timber Pizza](http://www.timberpizza.com/) pies ubiquitous -- past **Poetry Slam! Shine Award** winners and **Our Words Our City** performers stopped by to show off their original poetry before the awards were given out. There’s no equal for a DC SCORES party with some inspirational poetry thrown in.
 
 This year, three coaching teams and 11 individuals received awards highlighting the impact they have made on the lives of DC SCORES participants. Each award recipient received a customized plaque and D.C. United jersey, given out by players **Chris Durkin** and **Chris Odio-Atsem**. See below for the award winners.
 
