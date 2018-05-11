@@ -16,6 +16,7 @@ Thumbnail Image: "/uploads/40191057790_f87cd332c4_o-3d63c8.jpg"
 
 Over 70 percent of DC SCORES coaches are teachers, so what better time to celebrate the 6th annual SCORE Awards than Teacher Appreciation Week!
 
+
 Every year, SCORE Awards celebrates DC SCORES coaches, teachers, and volunteers for all the hard work and dedication they put into helping make an impact for 2,500 poet-athletes.
 
 We held the event at the [D.C. United Preview Center](https://www.dcunited.com/tickets/premium/learn-more) for the second consecutive year, an idyllic outdoor setting on an impeccable spring evening.
