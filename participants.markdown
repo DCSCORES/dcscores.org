@@ -10,9 +10,9 @@ soccerSchedule:
   City League, a District-wide recreation center soccer league run in partnership
   with the DC Department of Parks and Recreation. <a href=\"https://www.google.com/maps/d/u/0/viewer?mid=1ArueGtkLKryfnhjFva-7hHSZlD8&ll=38.8939219214454%2C-77.01469049999997&z=12\"
   target=\"_blank\">MAP of SITES</a>\n\n#### Monday, May 14 - Elementary School Friendly\nKickoff
-  is at 4pm\n- Truesdell at Washington School for Girls - View \n\n#### Monday, May
-  14 - Middle School  \nKickoff is at 4pm \n- Truesdell EC at Raymond\n\n#### Tuesday,
-  May 15 - Middle School Coed\nKickoff is at 4pm\n- PPCS at Inspired Teaching\n\n####
+  is at 4pm\n- Truesdell EC at Washington School for Girls - View \n\n#### Monday,
+  May 14 - Middle School  \nKickoff is at 4pm \n- Truesdell EC at Raymond\n\n####
+  Tuesday, May 15 - Middle School Coed\nKickoff is at 4pm\n- PPCS at Inspired Teaching\n\n####
   Wednesday, May 16 - Jr. Scores \nKickoff is at 4pm \n- Amidon-Bowen at Upshur \n-
   Turkey Thicket at Park View \n- Benning Road at Trinidad \n\n#### Wednesday, May
   16 - CSL\nKickoff is at 4 pm \n- Harrison at Turkey Thicket \n\n#### Thursday, May
