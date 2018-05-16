@@ -28,9 +28,13 @@ These opportunities wouldn’t be possible if DC SCORES did not equip kids with 
 This Do More 24 — Thursday, May 17, 12pm until Friday, May 18, 12pm — please help provide DC children with a team by donating!
 
 **$24:** Provide a soccer kit for a kid in need.
+
 **$48:** A soccer uniform for a boy and girl.
+
 **$96:** Writing supplies for an entire team.
+
 **$299:** Soccer jerseys for an entire team.
+
 **$500:** Full DC SCORES season for a child.
 
 During Do More 24, each and every donor makes a direct impact. So we will give thanks below in real time — by listing every one of you. Keep refreshing to see your name added to the list of high 5’s. And...
