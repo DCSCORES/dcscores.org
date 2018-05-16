@@ -9,11 +9,13 @@ Thumbnail Image: "/uploads/Jessica-603012.jpg"
 
 ![Jessica.jpg](/uploads/Jessica.jpg)
 
-An opportunity. That’s all it takes to change someone’s life.
+An opportunity. 
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/sP-fFc6cIds" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+That’s all it takes to change someone’s life.
 
 DC SCORES has been providing opportunities for kids for over 23 years, and in the past six weeks, we've seen incredible evidence of where this program can take a child.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/sP-fFc6cIds" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
 In late March, more than 150 high school alumni showed off an incredible amount of skill and teamwork — traits learned DC SCORES coaches over many years — during our largest alumni tournament EVER.
 
@@ -36,4 +38,4 @@ During Do More 24, each and every donor makes a direct impact. So we will give t
 **THANK YOU!**
 
 **Do More 24 High 5’s**
-(Name, time gave)!
+\(Name, time gave)!
