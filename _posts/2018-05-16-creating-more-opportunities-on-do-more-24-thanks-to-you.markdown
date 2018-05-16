@@ -13,6 +13,9 @@ An opportunity.
 
 That’s all it takes to change someone’s life.
 
+
+
+
 DC SCORES has been providing opportunities for kids for over 23 years, and in the past six weeks, we've seen incredible evidence of where this program can take a child.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/sP-fFc6cIds" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
