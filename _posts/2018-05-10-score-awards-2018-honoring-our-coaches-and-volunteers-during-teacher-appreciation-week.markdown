@@ -14,8 +14,7 @@ Thumbnail Image: "/uploads/40191057790_f87cd332c4_o-3d63c8.jpg"
 
 [2018 SCORE Awards photo album](https://www.flickr.com/photos/dcscorespictures/sets/72157696627618695)
 
-Over 70 percent of DC SCORES coaches are teachers, so what better time to celebrate the 6th annual SCORE Awards than Teacher Appreciation Week!
-
+More than 70 percent of DC SCORES coaches are teachers, so what better time to celebrate the 6th annual SCORE Awards than Teacher Appreciation Week!
 
 Every year, SCORE Awards celebrates DC SCORES coaches, teachers, and volunteers for all the hard work and dedication they put into helping make an impact for 2,500 poet-athletes.
 
@@ -30,29 +29,29 @@ This year, three coaching teams and 11 individuals received awards highlighting 
 ---
 
 **Teamwork Award**
-Tubman Elementary School
-Aiton Elementary School
+Tubman Elementary School\
+Aiton Elementary School\
 Brightwood Education Campus - Elementary School
 
 **Rookie of the Year Award**
-Justin Morgan, Truesdell Education Campus - Elementary School
-William Miller, LaSalle Backus Education Campus - Middle School
+Justin Morgan, Truesdell Education Campus - Elementary School\
+William Miller, LaSalle Backus Education Campus - Middle School\
 Peter Bailey, Kimball Elementary School
 
 **Chris Richardson Community Service Award**
-Sarah Helinek - Volunteer Referee
+Sarah Helinek - Volunteer Referee\
 Josh Freedholm - Lincoln Middle School assistant coach
 
 **Kennedy Award for Commitment**
-Chelsea Charland, Cesar Chavez-Prep
+Chelsea Charland, Cesar Chavez-Prep\
 Coralis Moreno, Powell Elementary School
 
 **Mingo Roberts Coaching Excellence Award**
-Liana Ponce, HD Cooke Elementary School
+Liana Ponce, HD Cooke Elementary School\
 Joyce Hill, LaSalle-Backus Education Campus - Elementary School
 
 **Carl Cohen Community Service Award**
-Chris Finley, Cresa Washington DC
+Chris Finley, Cresa Washington DC\
 Sharon Miller, Audi/Designory
 
 ---
