@@ -4,10 +4,10 @@ date: 2018-05-16 18:03:00 Z
 tags:
 - Do More 24
 Author: Lorena Palacios
-Thumbnail Image: "/uploads/IMG_8252-aaf683.JPG"
+Thumbnail Image: "/uploads/Jessica-603012.jpg"
 ---
 
-[IMG_8252.JPG](/uploads/IMG_8252.JPG)
+![Jessica.jpg](/uploads/Jessica.jpg)
 
 An opportunity. That’s all it takes to change someone’s life.
 
@@ -36,4 +36,4 @@ During Do More 24, each and every donor makes a direct impact. So we will give t
 **THANK YOU!**
 
 **Do More 24 High 5’s**
-(Name, time gave)
+(Name, time gave)!
