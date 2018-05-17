@@ -46,6 +46,16 @@ During Do More 24, each and every donor makes a direct impact. So we will give t
 
 **Do More 24 High 5’s**
 (Name, time gave)<br>
+Jesse Kofler, 2:48 PM <br>
+Paul Bugg, 2:40 PM <br>
+Katie Johnston-Davis, 2:39 PM <br>
+Karen Sutton, 2:35 PM <br>
+Mary Murphy, 2:27 PM <br>
+Garrett Schlosser, 2:45 PM <br>
+Christina Brown, 2:22 PM <br>
+Tim Spear, 2:18 PM <br>
+Kenny Clash, 2:03 PM <br>
+Anonymous, 2:01 PM <br>
 Anonymous, 1:54 PM <br> 
 Kelly Harley, 1:50 PM <br>
 Sam Vigersky, 1:32 PM <br>
