@@ -47,7 +47,7 @@ During Do More 24, each and every donor makes a direct impact. So we will give t
 **Do More 24 High 5’s**
 \(Name, time gave)!
 
-Anthony Francavilla, 12:39 <br>
+Anthony Francavilla, 12:39 PM <br>
 Sarah Gilman, 12:37 PM <br>
 Maria Randazzo, 12:37 PM <br>
 Dori Hazan, 12:36 PM <br>
