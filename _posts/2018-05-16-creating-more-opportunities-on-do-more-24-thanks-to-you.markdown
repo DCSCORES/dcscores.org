@@ -46,3 +46,24 @@ During Do More 24, each and every donor makes a direct impact. So we will give t
 
 **Do More 24 High 5’s**
 \(Name, time gave)!
+Dennis Elwell, 9:24 AM
+Liana Ponce, 8:39 AM
+Kyle Griggs, 7:29 AM
+Paul Johnston, 3:01 PM (May 16)
+Bill Stevens, 11:13 AM (May 16)
+Rachel Wardley, 8:45 AM (May 16)
+Anonymous, 4:39 PM (May 15)
+Brittany Bennett, 10:40 AM (May 15)
+Rosalia Miller, 6:41 AM (May 15)
+David Gooze, 11:25 AM (May 14)
+Antonio Mazza, 10:05 AM (May 14)
+Mal Catt, 4:28 PM (May 11)
+Courtney Littlejohn, 6:13 AM (May 11) 
+Anonymous, 1:13 PM (May 10)
+Caitlin Rogowski, 12:52 PM (May 10)
+Sara Guthrie, 9:32 PM (May 3)
+Anonymous, 3:41 PM (May 3)
+Nicole Gara, 3:34 PM (May 3)
+Emma Yourd, 12:02 PM (May 3)
+Jake Lloyd, 12:55 PM (May 1)
+Catherine Mackenzie, 11:11 AM (May 1)
