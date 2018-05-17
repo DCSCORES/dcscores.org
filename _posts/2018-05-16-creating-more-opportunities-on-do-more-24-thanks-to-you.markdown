@@ -46,6 +46,10 @@ During Do More 24, each and every donor makes a direct impact. So we will give t
 
 **Do More 24 High 5’s**
 (Name, time gave)<br>
+Liam Toomey, 7:05 PM <br>
+Joseph Heilman, 7:03 PM <br>
+Luke Mohamed, 6:59 PM <br>
+David Crespo, 6:59 PM <br>
 Rachael Levine, 6:55 PM <br>
 Anonymous, 6:52 PM <br>
 Erich Walizer, 6:51 PM <br>
