@@ -46,6 +46,15 @@ During Do More 24, each and every donor makes a direct impact. So we will give t
 
 **Do More 24 High 5’s**
 (Name, time gave)<br>
+David Owens, 6:03 PM <br>
+Jonah Owens, 6:02 PM <br>
+Nancy Perkins, 5:58 PM <br>
+Ian Kline, 5:56 PM <br>
+John Conte, 5:56 PM <br>
+Katrina	Owens, 5:55 PM <br>
+John Preotle, 5:48 PM <br>
+Mary Kelly, 5:47 PM <br>
+Todd Turner, 5:47 PM <br>
 Anonymous, 5:39 PM <br>
 Anonymous, 5:36 PM <br>
 Andrew Howell, 5:35 PM <br>
