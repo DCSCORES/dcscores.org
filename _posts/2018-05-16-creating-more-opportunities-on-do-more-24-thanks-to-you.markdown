@@ -46,6 +46,14 @@ During Do More 24, each and every donor makes a direct impact. So we will give t
 
 **Do More 24 High 5’s**
 (Name, time gave)<br>
+Anonymous, 1:54 PM <br> 
+Kelly Harley, 1:50 PM <br>
+Sam Vigersky, 1:32 PM <br>
+Lily Goldstein, 1:31 PM <br>
+Stephanie Badger, 1:29 PM <br>
+Katherine Makris, 1:26 PM <br>
+Mason Butler, 1:50 PM <br>
+Andres Garavito, 1:16 PM <br>
 Elizabeth Bradley, 1:16 PM <br>
 Mary Amorosino, 1:13 PM <br>
 Tim Swartzendruber, 1:12 PM <br>
