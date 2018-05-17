@@ -46,6 +46,16 @@ During Do More 24, each and every donor makes a direct impact. So we will give t
 
 **Do More 24 High 5’s**
 (Name, time gave)<br>
+Lorena Palacios, 5:12 PM <br>
+Anonymous 5:11 PM, <br>
+Anne H. Woodworth, 5:11 PM <br>
+Jason Riggins, 5:10 PM <br>
+Cal Klausner, 5:09 PM <br>
+Sean Hinkle, 5:06 PM <br>
+Diego King, 5:06 PM <br> 
+Anonymous, 5:06 PM <br>
+Olga Palacios, 5:05 PM <br>
+Christopher Richardson, 5:05 PM <br>
 Kevin Riley, 4:34 PM <br>
 Daniel Saltzberg, 4:29 PM <br> 
 Susana Hill, 4:29 PM <br>
