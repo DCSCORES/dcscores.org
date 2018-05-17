@@ -46,6 +46,10 @@ During Do More 24, each and every donor makes a direct impact. So we will give t
 
 **Do More 24 High 5’s**
 (Name, time gave)<br>
+Mary Fairbanks, 4:00 PM <br>
+Katie Magnus, 3:47 PM <br>
+Jessica Davis, 3:56 PM <br>
+Heidi Walters, 3:49 PM <br>
 Amanda Chamoun, 3:47 PM <br> 
 William Cundiff, 3:41 PM <br> 
 Anonymous, 3:34 PM <br>
