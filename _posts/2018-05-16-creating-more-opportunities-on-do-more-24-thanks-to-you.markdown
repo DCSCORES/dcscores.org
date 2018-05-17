@@ -47,6 +47,7 @@ During Do More 24, each and every donor makes a direct impact. So we will give t
 **Do More 24 High 5’s**
 \(Name, time gave)!
 
+Hannah Ehlers, 12:07 PM <br>
 Mary Badavi,12:03 PM <br>
 Brian Wright, 11:18 AM <br>
 Alexandra Tilsley, 11:06 AM <br>
