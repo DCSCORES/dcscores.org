@@ -46,6 +46,8 @@ During Do More 24, each and every donor makes a direct impact. So we will give t
 
 **Do More 24 High 5’s**
 (Name, time gave)<br>
+William Cundiff, 3:41 PM <br> 
+Anonymous, 3:34 PM <br>
 Ayan Rubin, 3:19 PM <br>
 Alex Diaz-Asper, 3:18 PM <br>
 Deirdre Chambers, 3:15 PM <br>
