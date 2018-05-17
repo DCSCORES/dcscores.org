@@ -46,6 +46,13 @@ During Do More 24, each and every donor makes a direct impact. So we will give t
 
 **Do More 24 High 5’s**
 (Name, time gave)<br>
+Peter Jardine, 6:37 PM <br>
+L William Hoffman, 6:34 PM <br>
+Anonymous, 6:34 PM <br>
+Yegor Kryukov, 6:33 PM <br>
+Julia Rao, 6:33 PM <br>
+Elizabeth Watkins, 6:33 PM <br>
+Brian Duncan, 6:33 PM <br>
 David Freedholm, 6:31 PM <br>
 Dimitar	Venkov, 6:31 PM <br>
 Walter	Okpych IV, 6:28 PM <br>
