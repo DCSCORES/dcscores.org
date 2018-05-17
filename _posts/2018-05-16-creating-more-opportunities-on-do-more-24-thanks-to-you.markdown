@@ -46,7 +46,44 @@ During Do More 24, each and every donor makes a direct impact. So we will give t
 
 **Do More 24 High 5’s**
 \(Name, time gave)!
-
+Elizabeth Bradley, 1:16 PM <br>
+Mary Amorosino, 1:13 PM <br>
+Tim Swartzendruber, 1:12 PM <br>
+Robert Warshaw, 1:10 PM <br>
+Launa Hochstetler, 1:09 PM <br>
+Mia Fredricks, 1:08 PM <br>
+Ruth Swanson, 1:06 PM <br>
+Anonymous, 1:06 PM <br>
+John Lloyd, 1:05 PM <br>
+Lauren Smith, 1:01 PM <br>
+Zabrina Krishnamoorthy, 12:58 PM <br>
+Dustin Fronczak, 12:58 PM <br>
+Joel Rubin, 12:56 PM <br>
+Vicky Dorn-Fontana, 12:56 PM
+Sarah Wolf, 12:53 PM <br>
+Ryan Lauer, 12:51 PM <br>
+Kristin Foti, 12:50 PM <br>
+Nicholaus Talarico, 12:49 PM <br>
+Marc Ronick, 12:48 PM <br>
+Suzanne Roske, 12:46 PM <br> 
+Gabriella Albanna, 12:42 PM <br>
+Aya Takeuchi, 12:40 PM <br>
+Brian Wright, 12:40 PM <br>
+Alexandra Tilsley, 12:40 PM <br>
+Michael Holstein, 12:40 PM <br>
+Rachel Storey, 12:30 PM <br>
+Dennis Elwell, 12:40 PM <br>
+Liana Ponce, 12:40 PM <br>
+Kyle Griggs, 12:40 PM <br>
+Marni Karlin, 12:40 PM <br>
+Paul Johnston, 12:40 PM <br>
+Bill Stevens, 12:40 PM <br>
+Rachel Wardley, 12:40 PM <br>
+Anonymous, 12:39 PM <br>
+Brittany Bennett, 12:39 PM <br>
+Antonio Mazza, 12:39 PM <br>
+Rosalia Miller, 12:39 PM <br>
+Mal Catt, 12:39 PM <br> 
 Anthony Francavilla, 12:39 PM <br>
 Sarah Gilman, 12:37 PM <br>
 Maria Randazzo, 12:37 PM <br>
