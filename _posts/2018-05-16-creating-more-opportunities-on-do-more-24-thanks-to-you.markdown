@@ -45,8 +45,7 @@ During Do More 24, each and every donor makes a direct impact. So we will give t
 **THANK YOU!**
 
 **Do More 24 High 5’s**
-\(Name, time gave)!
-<br>
+(Name, time gave)<br>
 Elizabeth Bradley, 1:16 PM <br>
 Mary Amorosino, 1:13 PM <br>
 Tim Swartzendruber, 1:12 PM <br>
