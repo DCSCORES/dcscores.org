@@ -13,6 +13,9 @@ An opportunity.
 
 That’s all it takes to change someone’s life.
 
+
+
+
 DC SCORES has been providing opportunities for kids for over 23 years, and in the past six weeks, we've seen incredible evidence of where this program can take a child.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/sP-fFc6cIds" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
@@ -43,26 +46,24 @@ During Do More 24, each and every donor makes a direct impact. So we will give t
 
 **Do More 24 High 5’s**
 \(Name, time gave)!
-
-
-Dennis Elwell, 9:24 AM
-Liana Ponce, 8:39 AM
-Kyle Griggs, 7:29 AM
-Paul Johnston, 3:01 PM (May 16)
-Bill Stevens, 11:13 AM (May 16)
-Rachel Wardley, 8:45 AM (May 16)
-Anonymous, 4:39 PM (May 15)
-Brittany Bennett, 10:40 AM (May 15)
-Rosalia Miller, 6:41 AM (May 15)
-David Gooze, 11:25 AM (May 14)
-Antonio Mazza, 10:05 AM (May 14)
-Mal Catt, 4:28 PM (May 11)
-Courtney Littlejohn, 6:13 AM (May 11)
-Anonymous, 1:13 PM (May 10)
-Caitlin Rogowski, 12:52 PM (May 10)
-Sara Guthrie, 9:32 PM (May 3)
-Anonymous, 3:41 PM (May 3)
-Nicole Gara, 3:34 PM (May 3)
-Emma Yourd, 12:02 PM (May 3)
-Jake Lloyd, 12:55 PM (May 1)
-Catherine Mackenzie, 11:11 AM (May 1)
+Dennis Elwell, 9:24 AM <br>
+Liana Ponce, 8:39 AM <br>
+Kyle Griggs, 7:29 AM <br>
+Paul Johnston, 3:01 PM (May 16) <br>
+Bill Stevens, 11:13 AM (May 16) <br>
+Rachel Wardley, 8:45 AM (May 16) <br>
+Anonymous, 4:39 PM (May 15) <br>
+Brittany Bennett, 10:40 AM (May 15) <br>
+Rosalia Miller, 6:41 AM (May 15) <br>
+David Gooze, 11:25 AM (May 14) <br>
+Antonio Mazza, 10:05 AM (May 14) <br>
+Mal Catt, 4:28 PM (May 11) <br>
+Courtney Littlejohn, 6:13 AM (May 11) <br>
+Anonymous, 1:13 PM (May 10) <br>
+Caitlin Rogowski, 12:52 PM (May 10) <br>
+Sara Guthrie, 9:32 PM (May 3) <br>
+Anonymous, 3:41 PM (May 3) <br>
+Nicole Gara, 3:34 PM (May 3) <br>
+Emma Yourd, 12:02 PM (May 3) <br>
+Jake Lloyd, 12:55 PM (May 1) <br>
+Catherine Mackenzie, 11:11 AM (May 1) <br>
