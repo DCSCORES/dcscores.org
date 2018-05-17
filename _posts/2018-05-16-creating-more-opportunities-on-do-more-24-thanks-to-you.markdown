@@ -46,6 +46,8 @@ During Do More 24, each and every donor makes a direct impact. So we will give t
 
 **Do More 24 High 5’s**
 (Name, time gave)<br>
+Chad Robertson, 7:30 PM <br>
+Rosemarie Connelly, 7:28 PM <br>
 Liam Toomey, 7:05 PM <br>
 Joseph Heilman, 7:03 PM <br>
 Luke Mohamed, 6:59 PM <br>
