@@ -47,6 +47,17 @@ During Do More 24, each and every donor makes a direct impact. So we will give t
 **Do More 24 High 5’s**
 \(Name, time gave)!
 
+Susan John, 12:31 PM <br>
+Bethany Robertson, 12:29 PM <br>
+Jason Ornelis, 12:28 PM <br>
+Jessica Trevelyan, 12:24 PM <br>
+Loretta Reinersmann, 12:22 PM <br>
+Emily Schulman, 12:20 PM <br>
+Todd Turner, 12:18 PM <br>
+Alexandra Hyman, 12:17 PM <br>
+Matthew Falk, 12:13 PM <br>
+Julie Rogers, 12:12 PM <br>
+Aya Takeuchi, 12:11 PM <br>
 Hannah Ehlers, 12:07 PM <br>
 Mary Badavi,12:03 PM <br>
 Brian Wright, 11:18 AM <br>
