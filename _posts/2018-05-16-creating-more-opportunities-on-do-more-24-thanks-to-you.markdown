@@ -46,6 +46,8 @@ During Do More 24, each and every donor makes a direct impact. So we will give t
 
 **Do More 24 High 5’s**
 (Name, time gave)<br>
+David Freedholm, 6:31 PM <br>
+Dimitar	Venkov, 6:31 PM <br>
 Walter	Okpych IV, 6:28 PM <br>
 Martin	Palacios, 6:28 PM <br>
 Allison	Brown, 6:26 PM <br>
