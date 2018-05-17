@@ -46,6 +46,7 @@ During Do More 24, each and every donor makes a direct impact. So we will give t
 
 **Do More 24 High 5’s**
 (Name, time gave)<br>
+Travis Featherby, 7:45 PM <br>
 Allen Pulsifer, 7:35 PM <br>
 Chad Robertson, 7:30 PM <br>
 Rosemarie Connelly, 7:28 PM <br>
