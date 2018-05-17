@@ -46,6 +46,9 @@ During Do More 24, each and every donor makes a direct impact. So we will give t
 
 **Do More 24 High 5’s**
 (Name, time gave)<br>
+Walter Okpych IV, 6:17 PM <br>
+Kenny Owens, 6:15 PM <br>
+Anonymous, 6:15 PM <br>
 Mariel	Wallace, 6:12 PM <br>
 Anonymous, 6:11 PM <br>
 Walter	Okpych IV, 6:08 PM <br>
