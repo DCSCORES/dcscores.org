@@ -46,6 +46,8 @@ During Do More 24, each and every donor makes a direct impact. So we will give t
 
 **Do More 24 High 5’s**
 (Name, time gave)<br>
+Daniel Saltzberg, 4:29 PM <br> 
+Susana Hill, 4:29 PM <br>
 Aleta Greer, 4:26 PM <br>
 Jeffrey Howdeshell, 4:11 PM <br>
 Mary Fairbanks, 4:00 PM <br>
