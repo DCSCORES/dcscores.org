@@ -9,12 +9,9 @@ Thumbnail Image: "/uploads/Jessica-603012.jpg"
 
 ![Jessica.jpg](/uploads/Jessica.jpg)
 
-An opportunity. 
+An opportunity.
 
 That’s all it takes to change someone’s life.
-
-
-
 
 DC SCORES has been providing opportunities for kids for over 23 years, and in the past six weeks, we've seen incredible evidence of where this program can take a child.
 
@@ -46,6 +43,8 @@ During Do More 24, each and every donor makes a direct impact. So we will give t
 
 **Do More 24 High 5’s**
 \(Name, time gave)!
+
+
 Dennis Elwell, 9:24 AM
 Liana Ponce, 8:39 AM
 Kyle Griggs, 7:29 AM
@@ -58,7 +57,7 @@ Rosalia Miller, 6:41 AM (May 15)
 David Gooze, 11:25 AM (May 14)
 Antonio Mazza, 10:05 AM (May 14)
 Mal Catt, 4:28 PM (May 11)
-Courtney Littlejohn, 6:13 AM (May 11) 
+Courtney Littlejohn, 6:13 AM (May 11)
 Anonymous, 1:13 PM (May 10)
 Caitlin Rogowski, 12:52 PM (May 10)
 Sara Guthrie, 9:32 PM (May 3)
