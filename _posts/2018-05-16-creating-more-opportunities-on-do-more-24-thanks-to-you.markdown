@@ -46,6 +46,11 @@ During Do More 24, each and every donor makes a direct impact. So we will give t
 
 **Do More 24 High 5’s**
 (Name, time gave)<br>
+Anonymous, 6:21 PM <br>
+Anonymous, 6:19 PM <br>
+Elaine	Walizer, 6:19 PM <br>
+Gerald	Andriole, 6:19 PM <br>
+Bethany	Henderson, 6:18 PM <br>
 Walter Okpych IV, 6:17 PM <br>
 Kenny Owens, 6:15 PM <br>
 Anonymous, 6:15 PM <br>
