@@ -47,6 +47,12 @@ During Do More 24, each and every donor makes a direct impact. So we will give t
 **Do More 24 High 5’s**
 \(Name, time gave)!
 
+Sarah Gilman, 12:37 PM <br>
+Maria Randazzo, 12:37 PM <br>
+Dori Hazan, 12:36 PM <br>
+John Carmel, 12:36 PM <br>
+Anonymous, 12:35 PM <br>
+Samuel Healy, 12:35 PM <br>
 Susan John, 12:31 PM <br>
 Bethany Robertson, 12:29 PM <br>
 Jason Ornelis, 12:28 PM <br>
