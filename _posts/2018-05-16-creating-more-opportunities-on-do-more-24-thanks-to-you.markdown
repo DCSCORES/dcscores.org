@@ -46,6 +46,28 @@ During Do More 24, each and every donor makes a direct impact. So we will give t
 
 **Do More 24 High 5’s**
 (Name, time gave)<br>
+Anonymous, 5:39 PM <br>
+Anonymous, 5:36 PM <br>
+Andrew Howell, 5:35 PM <br>
+Perri Smith, 5:31 PM <br>
+Debra Freedholm, 5:30 PM <br>
+Chris Silvester, 5:26 PM <br> 
+Kathleen Hinkle, 5:26 PM <br>
+Matthew Tiberii, 5:24 PM <br>
+Matt Pigott, 5:23 PM <br>
+Ellen Moore, 5:23 PM <br>
+Michael Riggins, 5:20 PM <br>
+Steven Riggins, 5:19 PM <br>
+Tim Preotle, 5:19 PM <br>
+Nicole Gara, 5:18 PM <br>
+Catherine Sutton, 5:18 PM <br>
+Andrew Bellwoar, 5:15 PM <br>
+Stevie Smith, 5:15 PM <br>
+Noelle Carne, 5:15 PM <br>
+Sarah C. Helinek, 5:15 PM <br>
+Stephanie Wolfram, 5:14 PM <br>
+Nicholas McAlister, 5:14 PM <br> 
+Jesse Dondero, 5:14 PM <br>
 Lorena Palacios, 5:12 PM <br>
 Anonymous 5:11 PM, <br>
 Anne H. Woodworth, 5:11 PM <br>
