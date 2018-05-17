@@ -46,6 +46,7 @@ During Do More 24, each and every donor makes a direct impact. So we will give t
 
 **Do More 24 High 5’s**
 (Name, time gave)<br>
+Rachael Levine, 6:55 PM <br>
 Anonymous, 6:52 PM <br>
 Erich Walizer, 6:51 PM <br>
 Peter Jardine, 6:37 PM <br>
