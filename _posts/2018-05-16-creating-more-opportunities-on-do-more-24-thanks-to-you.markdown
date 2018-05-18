@@ -46,6 +46,15 @@ During Do More 24, each and every donor makes a direct impact. So we will give t
 
 **Do More 24 High 5’s**
 (Name, time gave)<br>
+Oscar Leon, 8:07 AM <br>
+Simon Landau, 8:04 AM <br>
+Christina Tunison, 7:42 AM <br>
+Timothy Lloyd, 7:32 AM <br>
+Jack Reagan, 6:48 AM <br>
+Roxana Cruz, 6:15 AM <br>
+Heidi Hochstetler, 12:10 AM <br>
+**Friday, May 18** <br>
+Christopher Nelsen, 11:50 PM <br>
 Thomas Sutton, 10:37 PM <br>
 Anonymous, 10:17 PM <br>
 Mary Kusler, 10:17 PM <br>
