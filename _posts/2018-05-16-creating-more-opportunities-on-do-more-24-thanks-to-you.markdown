@@ -47,6 +47,14 @@ During Do More 24, each and every donor makes a direct impact. So we will give t
 **Do More 24 High 5’s**
 (Name, time gave)<br>
 **Friday, May 18** <br>
+Karen Lovitch, 9:55 AM <br>
+Joshua Freedholm, 9:52 AM <br>
+John Guzman, 9:52 AM <br>
+Laurie Gonzalez, 9:44 AM <br>
+Traci Lee, 9:41 AM <br>
+Dahlia Chaudhury, 9:37 AM <br>
+Mara McLaurin, 9:37 AM <br>
+Kegun Ream, 9:36 AM <br>
 Jerry Leach, 9:34 AM <br>
 Hahva Gallagher, 9:12 AM <br>
 Ann Teras, 9:05 AM <br>
