@@ -46,6 +46,7 @@ During Do More 24, each and every donor makes a direct impact. So we will give t
 
 **Do More 24 High 5’s**
 (Name, time gave)<br>
+Matt Leemhuis, 8:54 PM <br>
 Rachel Klepper, 8:43 PM <br>
 Douglas Wentzel, 8:15 PM <br>
 Debra Riggins, 8:14 PM <br>
