@@ -47,6 +47,10 @@ During Do More 24, each and every donor makes a direct impact. So we will give t
 **Do More 24 High 5’s**
 (Name, time gave)<br>
 **Friday, May 18** <br>
+Dennis Castellon, 11:09 AM <br>
+Jacqueline Kemp, 11:08 AM <br>
+Matthew	Winton, 11:05 AM <br>
+Justin Feltman, 11:03 AM <br>
 Timothy	Borysowski, 10:50 AM <br>
 Everett	Whiteley, 10:47 AM <br>
 Alexander Harris, 10:46 AM <br>
