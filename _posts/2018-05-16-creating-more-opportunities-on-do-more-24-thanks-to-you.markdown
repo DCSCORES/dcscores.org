@@ -47,6 +47,8 @@ During Do More 24, each and every donor makes a direct impact. So we will give t
 **Do More 24 High 5’s**
 (Name, time gave)<br>
 **Friday, May 18** <br>
+Michael	Rocco, 10:10 AM <br>
+Rachel Gorosh, 10:10 AM <br>
 Karen Lovitch, 9:55 AM <br>
 Joshua Freedholm, 9:52 AM <br>
 John Guzman, 9:52 AM <br>
