@@ -47,6 +47,7 @@ During Do More 24, each and every donor makes a direct impact. So we will give t
 **Do More 24 High 5’s**
 (Name, time gave)<br>
 **Friday, May 18** <br>
+Walter Okpych IV, 11:44 AM <br>
 Linda R	Munich, 11:27 AM <br>
 Dennis Castellon, 11:09 AM <br>
 Jacqueline Kemp, 11:08 AM <br>
