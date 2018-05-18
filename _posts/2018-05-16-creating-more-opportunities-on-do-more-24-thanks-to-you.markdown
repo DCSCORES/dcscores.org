@@ -1,5 +1,5 @@
 ---
-title: Creating More Opportunities on Do More 24 Thanks to YOU!
+title: Creating More Opportunities during Do More 24 Thanks to YOU!
 date: 2018-05-16 18:03:00 Z
 tags:
 - Do More 24
