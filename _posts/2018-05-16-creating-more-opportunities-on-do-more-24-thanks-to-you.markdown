@@ -47,6 +47,11 @@ During Do More 24, each and every donor makes a direct impact. So we will give t
 **Do More 24 High 5’s**
 (Name, time gave)<br>
 **Friday, May 18** <br>
+James Harkness, 12:00 PM <br>
+Heidi Hermisson, 11:59 AM <br>
+John Harkes, 11:59 AM <br>
+Kami Veltri, 11:58 AM <br>
+Howard McMillan, 11:58 AM <br>
 Mark Lewis, 11:56 AM <br>
 Blake Statham, 11:52 AM <br>
 Anonymous, 11:51 AM <br>
