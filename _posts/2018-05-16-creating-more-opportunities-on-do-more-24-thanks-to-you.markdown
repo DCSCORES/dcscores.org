@@ -46,6 +46,8 @@ During Do More 24, each and every donor makes a direct impact. So we will give t
 
 **Do More 24 High 5’s**
 (Name, time gave)<br>
+Donald Hill, 10:13 PM <br>
+Andrea Murino, 10:13 PM <br>
 Deborah	Eckbreth, 10:11 PM <br>
 Virginia Merrill, 10:07 PM <br>
 Jette Findsen, 9:59 PM <br>
