@@ -46,6 +46,7 @@ During Do More 24, each and every donor makes a direct impact. So we will give t
 
 **Do More 24 High 5’s**
 (Name, time gave)<br>
+Thomas Sutton, 10:37 PM <br>
 Anonymous, 10:17 PM <br>
 Mary Kusler, 10:17 PM <br>
 Donald Hill, 10:13 PM <br>
