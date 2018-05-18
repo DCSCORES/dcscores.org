@@ -47,6 +47,11 @@ During Do More 24, each and every donor makes a direct impact. So we will give t
 **Do More 24 High 5’s**
 (Name, time gave)<br>
 **Friday, May 18** <br>
+Bruce Schulman, 11:49 AM <br>
+Laurie Gonzalez, 11:48 AM <br>
+Anonymous, 11:47 AM <br>
+Joseph Palladino, 11:47 AM <br>
+Erica Johnson, 11:47 AM <br>
 Walter Okpych IV, 11:44 AM <br>
 Linda R	Munich, 11:27 AM <br>
 Dennis Castellon, 11:09 AM <br>
