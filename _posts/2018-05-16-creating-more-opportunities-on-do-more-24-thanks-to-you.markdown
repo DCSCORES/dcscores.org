@@ -47,6 +47,13 @@ During Do More 24, each and every donor makes a direct impact. So we will give t
 **Do More 24 High 5’s**
 (Name, time gave)<br>
 **Friday, May 18** <br>
+Kara Dunford, 8:50 AM <br>
+Anonymous, 8:40 AM <br>
+Martha Kirk Richardson, 8:35 AM <br>
+Analia D Stadthagen, 8:32 AM <br>
+Anonymous, 8:18 AM <br>
+Connor Ahearn, 8:16 AM <br>
+Kathy Jacquart, 8:12 AM <br>
 Oscar Leon, 8:07 AM <br>
 Simon Landau, 8:04 AM <br>
 Christina Tunison, 7:42 AM <br>
