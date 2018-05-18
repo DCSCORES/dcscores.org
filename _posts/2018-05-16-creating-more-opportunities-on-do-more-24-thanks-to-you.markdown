@@ -46,6 +46,10 @@ During Do More 24, each and every donor makes a direct impact. So we will give t
 
 **Do More 24 High 5’s**
 (Name, time gave)<br>
+Dahna Goldstein, 9:53 PM <br>
+Carlos Fonseca, 9:53 PM <br>
+Mary Ryan, 9:47 PM <br>
+Monisha	Kapila, 9:28 PM <br>
 Jeffrey Burnett, 9:20 PM <br>
 Gia Veronica Boado, 9:05 PM <br>
 Jimmy Collins, 9:02 PM <br>
