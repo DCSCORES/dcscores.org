@@ -46,6 +46,11 @@ During Do More 24, each and every donor makes a direct impact. So we will give t
 
 **Do More 24 High 5’s**
 (Name, time gave)<br>
+Douglas Wentzel, 8:15 PM <br>
+Debra Riggins, 8:14 PM <br>
+Cassandra Forgey, 8:10 PM <br>
+Jalin Hsu, 8:10 PM <br>
+Raquel Carson, 8:06 PM <br>
 Travis Featherby, 7:45 PM <br>
 Allen Pulsifer, 7:35 PM <br>
 Chad Robertson, 7:30 PM <br>
