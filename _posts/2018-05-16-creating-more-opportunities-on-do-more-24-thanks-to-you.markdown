@@ -46,6 +46,8 @@ During Do More 24, each and every donor makes a direct impact. So we will give t
 
 **Do More 24 High 5’s**
 (Name, time gave)<br>
+Virginia Merrill, 10:07 PM <br>
+Jette Findsen, 9:59 PM <br>
 Dahna Goldstein, 9:53 PM <br>
 Carlos Fonseca, 9:53 PM <br>
 Mary Ryan, 9:47 PM <br>
