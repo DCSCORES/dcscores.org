@@ -47,6 +47,7 @@ During Do More 24, each and every donor makes a direct impact. So we will give t
 **Do More 24 High 5’s**
 (Name, time gave)<br>
 **Friday, May 18** <br>
+Jerry Leach, 9:34 AM <br>
 Hahva Gallagher, 9:12 AM <br>
 Ann Teras, 9:05 AM <br>
 Kara Dunford, 8:50 AM <br>
