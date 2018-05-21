@@ -25,10 +25,10 @@ Tatiana, 12, a DC SCORES students says “my favorite part of the program is tha
 
 Students are able to translate their sportsmanship and teamwork they have learned on the field in the classroom among their classmates.
 
-“We’ve gotten a few ESL (English as a Second Language) students who are in the program. I have been able to see them grow as students, as team members and as community members. They \[the students\] have really come out of their shell” says Ms. Belinda Ominitsch.
+“We’ve gotten a few ESL (English as a Second Language) students who are in the program. I have been able to see them grow as students, as team members and as community members. They \[the students\] have really come out of their shell” says Ms. Belinda Omenitsch.
 
 ![IMG_0526.JPG](/api/v2/sites/596caad2457ba06d5104972a/source/_uploads/IMG_0526.JPG?download)
 
 On Tuesday, May 22nd , Brightwood students will have the opportunity to attend the [6th Annual Congressional Soccer Match](https://ussoccerfoundation.org/events/congressional-soccer-match) held at Gonzaga College High School as ball girls.
 
-This exciting occasion celebrates the end of a successful Spring 2018 service learning program at the school but marks a vibrant future for the DC SCORES program at Brightwood Education Campus.
+This exciting occasion celebrates the end of a successful Spring 2018 service learning program at the school and marks a vibrant future for the DC SCORES program at Brightwood Education Campus.
