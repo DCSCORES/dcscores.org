@@ -1,11 +1,10 @@
 ---
-title: Do More 24
-date: 2017-06-08 00:00:00 Z
+title: DC SCORES Cup
+date: 2018-06-23 09:00:00 Z
 position: 0
-Blurb: May 17-18 is Do More 24, the annual day of giving for Washington, DC, area
-  nonprofits.
-Link: http://bit.ly/dm24SCORES
-Image: "/uploads/poster17.jpg"
+Blurb: 'The DC SCORES Cup is the largest corporate soccer tournament in the DC area '
+Link: https://www.dcscorescup.org/
+Image: "/uploads/IMG_2246.jpg"
 Image Position: left 50%
 Color: "#db0065"
 Is Finished: 'Yes'
