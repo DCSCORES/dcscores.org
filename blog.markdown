@@ -1,10 +1,12 @@
 ---
-title: Brightwood Education Campus Learns How to Spread Kindness
+title: Blog
 permalink: "/blog/"
 Top Image: "/assets/images/masthead-blog.jpg"
 Top Image Position: 50% 60%
 layout: blog
 ---
+
+**Brightwood Educations Campus Spreads Acts of Kindness**
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/J3BD_1rqGVo" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
@@ -26,6 +28,6 @@ Students are able to translate their sportsmanship and teamwork they have learne
 
 ![IMG_0526.JPG](/uploads/IMG_0526.JPG)
 
-On Tuesday, May 22nd , Brightwood students will have the opportunity to attend the [6th Annual Congressional Soccer Match](https://ussoccerfoundation.org/events/congressional-soccer-match) held at Gonzaga College High School as ball girls.  
+On Tuesday, May 22nd , Brightwood students will have the opportunity to attend the [6th Annual Congressional Soccer Match](https://ussoccerfoundation.org/events/congressional-soccer-match) held at Gonzaga College High School as ball girls.
 
 This exciting occasion celebrates the end of a successful Spring 2018 service learning program at the school but marks a vibrant future for the DC SCORES program at Brightwood Education Campus.
