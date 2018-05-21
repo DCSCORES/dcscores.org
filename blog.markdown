@@ -1,7 +1,6 @@
 ---
 title: Blog
 permalink: "/blog/"
-published: false
 Top Image: "/assets/images/masthead-blog.jpg"
 Top Image Position: 50% 60%
 layout: blog
