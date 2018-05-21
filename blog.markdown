@@ -1,5 +1,5 @@
 ---
-title: "**Brightwood Education Campus Learns How to Spread Kindness**"
+title: Brightwood Education Campus Learns How to Spread Kindness
 permalink: "/blog/"
 Top Image: "/assets/images/masthead-blog.jpg"
 Top Image Position: 50% 60%
