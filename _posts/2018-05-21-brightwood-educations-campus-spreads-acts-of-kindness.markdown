@@ -2,7 +2,6 @@
 title: Brightwood Education Campus Spreads Acts of Kindness
 date: 2018-05-21 22:38:00 Z
 tags:
-- spring SCORES
 - service learning 2018
 - service learning
 Author: Emily Yankana
