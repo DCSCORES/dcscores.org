@@ -1,5 +1,5 @@
 ---
-title: Brightwood Educations Campus Spreads Acts of Kindness
+title: Brightwood Education Campus Spreads Acts of Kindness
 date: 2018-05-21 22:38:00 Z
 tags:
 - spring SCORES
