@@ -12,7 +12,7 @@ Thumbnail Image: "/uploads/IMG_0479%202.JPG"
 
 This Spring at [Brightwood Education Campus](http://www.brightwoodec.org/) sixth, seventh and eighth graders are learning how to spread acts of kindness throughout their school as their service learning project.
 
-Through the [service learning ](https://www.dcscores.org/our-program/program-model/)component of the [DC SCORES](https://www.dcscores.org/) program, Brightwood DC SCORES students are learning how to give back to their school community through the arts, poetry and service-learning.
+Through the [service-learning ](https://www.dcscores.org/our-program/program-model/)component of the [DC SCORES](https://www.dcscores.org/) program, Brightwood DC SCORES students are learning how to give back to their school community through the arts, poetry and service-learning.
 
 Students are researching how to promote acts of kindness in their community by creating a paper tree that will have acts of kindness written on the leaves that students can take part in. The tree will be displayed in the school hallways. They will also make acts of kindness announcements and flyers and posters to share with their classmates.
 
@@ -20,7 +20,7 @@ Students are researching how to promote acts of kindness in their community by c
 
 Lead by DC SCORES writing coach, Belinda Omenitsch, students are taught how to engage in leadership and creativity skills that otherwise would not have been gained on the soccer field but through the arts and service learning.
 
-Tatiana, 12, a DC SCORES students says “my favorite part of service - learning is that we learn how to be better at being kind to each other”.
+Tatiana, 12, a DC SCORES students says “my favorite part of service-learning is that we learn how to be better at being kind to each other”.
 
 Students are able to translate their sportsmanship and teamwork skills they have learned on the field in the classroom among their classmates.
 
