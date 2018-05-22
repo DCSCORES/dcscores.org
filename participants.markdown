@@ -9,24 +9,14 @@ soccerSchedule:
   Additionally, beginning in the fall of 2016, DC SCORES is running the DC SCORES
   City League, a District-wide recreation center soccer league run in partnership
   with the DC Department of Parks and Recreation. <a href=\"https://www.google.com/maps/d/u/0/viewer?mid=1ArueGtkLKryfnhjFva-7hHSZlD8&ll=38.8939219214454%2C-77.01469049999997&z=12\"
-  target=\"_blank\">MAP of SITES</a>\n\n#### Monday, May 14 - Elementary School Friendly\nKickoff
-  is at 4pm\n- Truesdell EC at Washington School for Girls - View \n\n#### Monday,
-  May 14 - Middle School  \nKickoff is at 4pm \n- Truesdell EC at Raymond\n\n####
-  Tuesday, May 15 - Middle School Coed\nKickoff is at 4pm\n- PPCS at Inspired Teaching\n\n####
-  Wednesday, May 16 - Jr. Scores \nKickoff is at 4pm \n- Amidon-Bowen at Upshur \n-
-  Turkey Thicket at Park View \n- Benning Road at Trinidad \n\n#### Wednesday, May
-  16 - CSL\nKickoff is at 4 pm \n- Harrison at Turkey Thicket \n\n#### Thursday, May
-  17 - Elementary School \nKickoff is at 4 pm \n- Beers at Aiton \n- Imagine Hope
-  - Tolson at Amidon-Bowen \n- Kimball at Burrville \n- LaSalle - Backus at Capital
-  City \n- Powell at Imagine Hope - Lamond \n- Turner at JC Nalle \n- Orr at Leckie
-  \n- Smothers at KIPP DC - Quest \n- Thomson at Raymond \n- Bancroft at Reed \n-
-  Barnard at Seaton \n- Miner at Thomas \n- Brightwood EC at Truesdell EC \n- Bruce
-  - Monroe at Tubman\n- HD Cooke at Walker-Jones EC \n\n#### Friday, May 18 - Middle
-  School \nKickoff is at 4 pm \n- MacFarland at Cardozo EC\n- Brightwood EC at Capital
-  City \n- Truesdell EC at E.L. Haynes \n- Ceasar Chavez - Prep at KIPP DC - WILL
-  \n- Raymond EC at LaSalle - Backus \n- DCI at Lincoln \n\n#### Friday, May 18 -
-  Middle School Coed \nKickoff is at 4pm\n- SEED at Kelly Miller \n- Hart at Jefferson
-  \n- Brookland at DC Scholars \n- BASIS DC at Imagine Hope - Tolson \n\n"
+  target=\"_blank\">MAP of SITES</a>\n\n\n#### Wednesday, May 23 - Jr. Scores \nKickoff
+  is at 4pm \n- Trinidad Recreation Center at Park View Recreation Center\n- Turkey
+  Thicket Recreation Center at Upshur Recreation Center\n\n#### Wednesday, May 23
+  - CSL\nKickoff is at 4 pm \n-  Barry Farms Recreation Center at Turkey Thicket Recreation
+  Center\n\n#### Wednesday, May 23 - Middle School \nKickoff is at 4 pm \n- LaSalle
+  - Backus at Cesar Chavez - Prep \n- Lincoln at Brightwood\n- Truesdell at Cardozo\n-
+  Raymond at KIPP DC - WILL\n- Inspired Teaching at Jefferson\n- PPCS at Kelly Miller\n-
+  BASIS DC at Leckie\n- Brookland at Imagine Hope - Tolson\n\n\n"
 soccerScheduleMap: "/uploads/image-program-sites-map.png"
 forFamilies:
 - "## For Families\n\nDC SCORES is free to all participants. <a href=\"http://register.dcscores.org\"
