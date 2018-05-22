@@ -9,14 +9,14 @@ soccerSchedule:
   Additionally, beginning in the fall of 2016, DC SCORES is running the DC SCORES
   City League, a District-wide recreation center soccer league run in partnership
   with the DC Department of Parks and Recreation. <a href=\"https://www.google.com/maps/d/u/0/viewer?mid=1ArueGtkLKryfnhjFva-7hHSZlD8&ll=38.8939219214454%2C-77.01469049999997&z=12\"
-  target=\"_blank\">MAP of SITES</a>\n\n\n#### Wednesday, May 23 - Jr. Scores \nKickoff
-  is at 4pm \n- Trinidad Recreation Center at Park View Recreation Center\n- Turkey
-  Thicket Recreation Center at Upshur Recreation Center\n\n#### Wednesday, May 23
-  - CSL\nKickoff is at 4 pm \n-  Barry Farms Recreation Center at Turkey Thicket Recreation
-  Center\n\n#### Wednesday, May 23 - Middle School \nKickoff is at 4 pm \n- LaSalle
-  - Backus at Cesar Chavez - Prep \n- Lincoln at Brightwood\n- Truesdell at Cardozo\n-
-  Raymond at KIPP DC - WILL\n- Inspired Teaching at Jefferson\n- PPCS at Kelly Miller\n-
-  BASIS DC at Leckie\n- Brookland at Imagine Hope - Tolson\n\n\n"
+  target=\"_blank\">MAP of SITES</a>\n\n\n#### Wednesday, May 23 - JR. Scores \nKickoff
+  is at 4pm \n- Trinidad Rec. Center at Park View Rec.\n- Turkey Thicket Rec. at Upshur
+  Rec.\n\n#### Wednesday, May 23 - CSL\nKickoff is at 4 pm \n-  Barry Farms Rec. at
+  Turkey Thicket Rec.\n\n#### Wednesday, May 23 - Middle School \nGirls game starts
+  at 4pm, followed by the boys game\n- LaSalle at Chavez Prep \n- Lincoln at Brightwood\n-
+  Truesdell at Cardozo\n- Raymond at KIPP WILL\n\n#### Wednesday, May 23 - Middle
+  School Coed\nKickoff is at 4pm\n- Inspired Teaching at Jefferson\n- Paul Public
+  at Kelly Miller\n- BASIS DC at Leckie\n- Brookland at Imagine Hope - Tolson"
 soccerScheduleMap: "/uploads/image-program-sites-map.png"
 forFamilies:
 - "## For Families\n\nDC SCORES is free to all participants. <a href=\"http://register.dcscores.org\"
