@@ -20,7 +20,7 @@ Students are researching how to promote acts of kindness in their community by c
 
 Lead by DC SCORES writing coach, Belinda Omenitsch, students are taught how to engage in leadership and creativity skills that otherwise would not have been gained on the soccer field but through the arts and service learning.
 
-Tatiana, 12, a DC SCORES students says “my favorite part of the program is that we learn how to be better at being kind to each other”.
+Tatiana, 12, a DC SCORES students says “my favorite part of service - learning is that we learn how to be better at being kind to each other”.
 
 Students are able to translate their sportsmanship and teamwork skills they have learned on the field in the classroom among their classmates.
 
