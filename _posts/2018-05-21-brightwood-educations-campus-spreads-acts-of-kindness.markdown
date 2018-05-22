@@ -16,7 +16,7 @@ Through the [service learning ](https://www.dcscores.org/our-program/program-mod
 
 Students are researching how to promote acts of kindness in their community by creating a paper tree that will have acts of kindness written on the leaves that students can take part in. The tree will be displayed in the school hallways. They will also make acts of kindness announcements and flyers and posters to share with their classmates.
 
-[IMG_0581-95a643.JPG](/uploads/IMG_0581-95a643.JPG)
+![IMG_0526-97337e.JPG](/uploads/IMG_0526-97337e.JPG)
 
 Lead by DC SCORES writing coach, Belinda Omenitsch, students are taught how to engage in leadership and creativity skills that otherwise would not have been gained on the soccer field but through the arts and service learning.
 
@@ -26,7 +26,7 @@ Students are able to translate their sportsmanship and teamwork skills they have
 
 “We’ve gotten a few ESL (English as a Second Language) students who are in the program. I have been able to see them grow as students, as team members and as community members. They \[the students\] have really come out of their shell” says Ms. Belinda Omenitsch.
 
-[IMG_0526-5bfb57.JPG](/uploads/IMG_0526-5bfb57.JPG)
+![IMG_0581-e4c44e.JPG](/uploads/IMG_0581-e4c44e.JPG)
 
 On Tuesday, May 22nd , Brightwood students will have the opportunity to attend the [6th Annual Congressional Soccer Match](https://ussoccerfoundation.org/events/congressional-soccer-match) held at Gonzaga College High School as ball girls.
 
