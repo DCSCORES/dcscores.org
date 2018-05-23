@@ -22,9 +22,9 @@ Led by DC SCORES writing coach Belinda Omenitsch, students are taught how to eng
 
 "My favorite part of service-learning is that we learn how to be better at being kind to each other," says Tatiana, 12.
 
-Students are able to translate their sportsmanship and teamwork skills from the field to service-learning and working together to better their community. 
+Students are able to translate their sportsmanship and teamwork skills from the field to service-learning and working together to better their community.
 
-“We’ve gotten a few ESL (English as a second language) students who are in the program," says Omenitsch. "I have been able to see them grow as students, as team members and as community members. They [the students] have really come out of their shell” 
+“We’ve gotten a few ESL (English as a second language) students who are in the program," says Omenitsch. "I have been able to see them grow as students, as team members and as community members. They \[the students\] have really come out of their shell”
 
 ![IMG_0581-e4c44e.JPG](/uploads/IMG_0581-e4c44e.JPG)
 
