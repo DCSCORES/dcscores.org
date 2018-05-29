@@ -2,6 +2,7 @@
 title: 'Seaton Elementary Celebrates Multiculturalism: Building a more Diverse & Inclusive
   Community'
 date: 2018-05-29 00:40:00 Z
+published: false
 ---
 
 **insert video here**
