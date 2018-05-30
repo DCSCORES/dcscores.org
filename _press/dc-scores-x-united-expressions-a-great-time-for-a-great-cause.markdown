@@ -1,7 +1,7 @@
 ---
 title: DC SCORES x United Expressions&#58; A great time for a great cause
 date: 2017-05-09 00:00:00 Z
-position: 54
+position: 62
 link: http://bit.ly/GMWandSCORES
 source: WJLA ABC-7
 ---
