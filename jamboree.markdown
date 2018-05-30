@@ -14,7 +14,7 @@ Jamboree is our culminating event of the year where all 2,500 of our participant
 
 * Saturday, June 2
 
-* Anacostia Park, Field 6
+* Anacostia Park, Field 6 (1800 Anacostia Drive SE, Washington, DC 20020)
 
 * All volunteers will receive a light lunch (vegetarian options available) and water stations will be placed throughout the venue.
 
