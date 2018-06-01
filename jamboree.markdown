@@ -6,9 +6,9 @@ Top Image Position: 50% 25%
 layout: jamboree
 ---
 
-## **IMPORTANT UPDATE** 
+## **IMPORTANT UPDATE**
 
-Unfortunately, due to unplayable field conditions with standing water and a forecast of severe thunderstorms throughout the day, we are canceling Jamboree tomorrow. Thank you for your continued support of DC SCORES and our poet-athletes.
+> Unfortunately, due to unplayable field conditions with standing water and a forecast of severe thunderstorms throughout the day, we are canceling Jamboree June 2. Thank you for your continued support of DC SCORES and our poet-athletes.
 
 <br>
 
