@@ -4,10 +4,13 @@ permalink: "/our-program/participants/"
 Top Image: "/assets/images/masthead-resources.jpg"
 Top Image Position: 50% 40%
 soccerSchedule:
-- "## Soccer Schedule\n\nDC SCORES runs the only consistent elementary and middle
-  public school soccer leagues for both boys and girls in the District of Columbia.
-  Additionally, beginning in the fall of 2016, DC SCORES is running the DC SCORES
-  City League, a District-wide recreation center soccer league run in partnership
+- "**IMPORTANT UPDATE**\n\nUnfortunately, due to unplayable field conditions with
+  standing water and a forecast of severe thunderstorms throughout the day, we are
+  canceling Jamboree June 2. Thank you for your continued support of DC SCORES and
+  our poet-athletes.\n\n## Soccer Schedule\n\nDC SCORES runs the only consistent elementary
+  and middle public school soccer leagues for both boys and girls in the District
+  of Columbia. Additionally, beginning in the fall of 2016, DC SCORES is running the
+  DC SCORES City League, a District-wide recreation center soccer league run in partnership
   with the DC Department of Parks and Recreation. <a href=\"https://www.google.com/maps/d/u/0/viewer?mid=1ArueGtkLKryfnhjFva-7hHSZlD8&ll=38.8939219214454%2C-77.01469049999997&z=12\"
   target=\"_blank\">MAP of SITES</a>\n\n\n#### Wednesday, May 23 - JR. Scores \nKickoff
   is at 4pm \n- Trinidad Rec. Center at Park View Rec.\n- Turkey Thicket Rec. at Upshur
@@ -41,6 +44,4 @@ programAlumni:
 layout: participants
 ---
 
-# **IMPORTANT UPDATE**
-
-> Unfortunately, due to unplayable field conditions with standing water and a forecast of severe thunderstorms throughout the day, we are canceling Jamboree June 2. Thank you for your continued support of DC SCORES and our poet-athletes.
+> # 
