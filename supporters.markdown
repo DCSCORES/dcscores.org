@@ -14,8 +14,9 @@ Team Champions:
 - Ralph S. and Frances R. Dweck Family Foundation, Inc.
 - The John G. and Jean R. Gosnell Foundation
 - Eugene & Agnes E. Meyer Foundation
-- United Way of the National Capital Region
 - Target
+- United Way of the National Capital Region
+- 'Wells Fargo Foundation '
 Scoring Champions:
 - Office of the D.C. Deputy Mayor for Planning and Economic Development
 - Audi of America
@@ -50,7 +51,6 @@ MVP Champions:
 - Embassy of Qatar
 - Share Fund
 - Washington Area Women's Foundation - Rainmakers Giving Circle
-- Wells Fargo Foundation
 - World Bank Community Outreach Program
 Fans:
 - Arent Fox LLP
