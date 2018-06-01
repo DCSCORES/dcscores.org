@@ -10,6 +10,8 @@ layout: jamboree
 
 Unfortunately, due to unplayable field conditions with standing water and a forecast of severe thunderstorms throughout the day, we are canceling Jamboree tomorrow. Thank you for your continued support of DC SCORES and our poet-athletes.
 
+<br>
+
 ### Jamboree 2018 Volunteer Information
 
 Jamboree is our culminating event of the year where all 2,500 of our participants and their families are invited to an all-day soccer tournament & community festival.
