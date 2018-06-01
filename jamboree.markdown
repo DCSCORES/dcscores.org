@@ -8,7 +8,9 @@ layout: jamboree
 
 ## **IMPORTANT UPDATE**
 
-> Unfortunately, due to unplayable field conditions with standing water and a forecast of severe thunderstorms throughout the day, we are canceling Jamboree June 2. Thank you for your continued support of DC SCORES and our poet-athletes. 
+> Unfortunately, due to unplayable field conditions with standing water and a forecast of severe thunderstorms throughout the day, we are canceling Jamboree June 2. Thank you for your continued support of DC SCORES and our poet-athletes. {color: rgb(201, 76, 76);}
+
+<br>
 
 ### Jamboree 2018 Volunteer Information
 
@@ -60,7 +62,6 @@ Referees will be asked to work with other referees at their field and will contr
 
 For this role, there are **AM**, **PM**, and **All-Day** shifts available.
 
-<a href="http://scores.force.com/volunteer/GW_Volunteers__VolunteersJobListingFS?Calendar=1&volunteerShiftId=a0V5000000DJvYhEAL&jobId=a0T5000000gkdgBEAQ&dtMonthFilter=2018-6-2%208:30:0" class="Article-contentButton  Icon-document" target="_blank">Register</a>
 
 #### Activity Booths
 
@@ -68,7 +69,6 @@ Great team-building experience for different departments for groups of 2-12 empl
 
 For this role, there are **AM**, **PM**, and **All-Day** shifts available.
 
-<a href="http://scores.force.com/volunteer/GW_Volunteers__VolunteersJobListingFS?Calendar=1&volunteerShiftId=a0V5000000DJvYXEA1&jobId=a0T5000000gkdgGEAQ&dtMonthFilter=2018-6-2%208:30:0" class="Article-contentButton  Icon-document" target="_blank">Register</a>
 
 #### Lunch Distribution
 
@@ -76,15 +76,12 @@ Recommended for a group (e.g. a company). This station will consist of organizin
 
 For this role, one shift will be available.
 
-<a href="http://scores.force.com/volunteer/GW_Volunteers__VolunteersJobListingFS?Calendar=1&volunteerShiftId=a0V5000000DJvXoEAL&jobId=a0T5000000gkdgCEAQ&dtMonthFilter=2018-6-2%209:45:0" class="Article-contentButton  Icon-document" target="_blank">Register</a>
-
 #### Photography/Videography
 
 *Please bring your own camera*. In this position, volunteers will be assigned to capture a certain area/set of games.
 
 For this role, there are **AM**, **PM**, and **All-Day** shifts available.
 
-<a href="http://scores.force.com/volunteer/GW_Volunteers__VolunteersJobListingFS?Calendar=1&volunteerShiftId=a0V5000000DJvYYEA1&jobId=a0T5000000gkdgLEAQ&dtMonthFilter=2018-6-2%209:0:0" class="Article-contentButton  Icon-document" target="_blank">Register</a>
 
 #### Set-Up/Closing Crew
 
@@ -94,12 +91,8 @@ Closing shift includes assistance with breaking down goals, tents, art booths, a
 
 There is one shift for set-up and one for closing crew available.
 
-<a href="http://scores.force.com/volunteer/GW_Volunteers__VolunteersJobListingFS?Calendar=1&volunteerShiftId=a0V5000000DJvaJEAT&jobId=a0T5000000gkdgVEAQ&dtMonthFilter=2018-6-2%207:0:0" class="Article-contentButton  Icon-document" target="_blank">Register</a>
-
 #### General
 
 Other duties will be assigned as needed and volunteers may be asked to float between various volunteer roles.
 
 There are **AM**, **PM**, and **All-Day** shifts available for this role.
-
-<a href="http://scores.force.com/volunteer/GW_Volunteers__VolunteersJobListingFS?Calendar=1&volunteerShiftId=a0V5000000DJvZfEAL&jobId=a0T5000000gkdgQEAQ&dtMonthFilter=2018-6-2%208:45:0" class="Article-contentButton  Icon-document" target="_blank">Register</a>
