@@ -83,29 +83,31 @@ body {
       }
     }
 
+// Temp component for message
+.NoticeMePlease {
+  padding: 1rem 1rem 1rem 1rem;
 
+  width: 100%;
+  text-align: center;
+  background: #fd0;
 
+  @media (min-width: 48em) {
+    padding: 1.25rem 1rem 1.25rem 1rem;
+  }
+}
 
+  .NoticeMePlease > p {
+    display: block;
+    margin-top: 0;
+    margin-bottom: -0.245em;
 
+    font-family: "DCSCORES", serif;
+    font-size: 0.9rem;
+    line-height: 1.15;
+    font-weight: normal;
+    color: darken(#43100A, 5%);
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+    @media (min-width: 48em) {
+      font-size: 1rem;
+    }
+  }
