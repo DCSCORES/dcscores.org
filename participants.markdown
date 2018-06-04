@@ -11,7 +11,9 @@ soccerSchedule:
   with the DC Department of Parks and Recreation. <a href=\"https://www.google.com/maps/d/u/0/viewer?mid=1ArueGtkLKryfnhjFva-7hHSZlD8&ll=38.8939219214454%2C-77.01469049999997&z=12\"
   target=\"_blank\">MAP of SITES</a>\n\n\n#### Tuesday, June 5 - Elementary School
   Finals (at Emery Heights Community Center) \n- Girls Final, 4pm: Aiton vs. Brightwood\n-
-  Boys Final, 5pm: Amidon vs. Brightwood"
+  Boys Final, 5pm: Amidon vs. Brightwood \n\nThank you to our schools, coaches and
+  volunteers for their hard work this Spring season! The Fall 2018 soccer season schedule
+  is to come following our summer camp programming! "
 soccerScheduleMap: "/uploads/image-program-sites-map.png"
 forFamilies:
 - "## For Families\n\nDC SCORES is free to all participants. <a href=\"http://register.dcscores.org\"
