@@ -14,6 +14,9 @@ This Spring at [Brightwood Education Campus](http://www.brightwoodec.org/) sixth
 
 Through the [service-learning ](https://www.dcscores.org/our-program/program-model/)component of the [DC SCORES](https://www.dcscores.org/) program, Brightwood DC SCORES students are feeling empowered and learning how to give back to their school community.
 
+
+
+
 Students researched how to promote acts of kindness in their community by creating a paper tree with acts of kindness written on the leaves that students can take part in. The tree will eventually be displayed in the school hallways. They are also making acts of kindness announcements and flyers and posters to share with their classmates.
 
 ![IMG_0526-97337e.JPG](/uploads/IMG_0526-97337e.JPG)
