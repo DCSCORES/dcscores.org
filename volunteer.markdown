@@ -121,16 +121,9 @@ This two-night, spoken-word competition features DC SCORES students performing t
 
 ![Summer camp](/uploads/volunteer-summer-camp-float-left.jpg)
 
-Application will go live in Spring 2018.
+Thanks so much for your interest! Our summer camp counselors slots have been filled. 
 
-**Requirements:**
-Must be entering your sophomore year of high school, at minimum.
-Apply only for weeks you are able to attend fully, Monday-Friday.
-Students applying to work full camps or multiple weeks will be given priority.
-Experience working with kids and general interest in soccer/arts is a plus.
-
-
-**Want to get invovled?** Please fill out the [summer camp counselor interest form](https://goo.gl/forms/j17NJDBYIKJU8o3H3)! 
+Applications for 2019 Summer Camps will go out in May 2019.
 
 ---
 
