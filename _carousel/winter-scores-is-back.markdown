@@ -1,11 +1,11 @@
 ---
-title: Spring DC SCORES
+title: Summer DC SCORES
 date: 2018-01-10 22:07:00 Z
 published: false
 position: 3
-Image: "/uploads/DSC_9513.jpg"
+Image: "/uploads/summer%20camp.jpg"
 Image Position: 50% 25%
-Link: https://www.dcscores.org/volunteer/
+Link: https://summer.dcscores.org/
 ---
 
-Spring DC SCORES begins March 12. Get involved! Sign up to volunteer!
+DC SCORES doesn't stop during summer. Learn more about our four free summer camps open to DC kids. 
