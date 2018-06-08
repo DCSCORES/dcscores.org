@@ -10,6 +10,8 @@ When you walk through the halls of [Seaton Elementary school](http://https://sea
 
 ![IMG_5345-1f79f0.JPG](/uploads/IMG_5345-1f79f0.JPG)
 
+## *`DC SCORES students support their teammates from the sideline at a game with H.D. Cooke Elementary.`*
+
 But on May 23, Seaton’s student body was more upbeat than usual because it was [multicultural day](https://seatondc.org/2018/05/23/multicultural-day/). An initiative DC SCORES students have been working toward since the beginning of the spring season.
 
 At the beginning of the season in mid-March, students set their service-learning project goal to be celebrating diversity within their school community by engaging in a school-wide multicultural research initiative aimed at making students, faculty and community members aware and educated about different cultures.
@@ -36,7 +38,7 @@ When speaking to her students about the impact of their service-learning project
 
 ![IMG_4832.JPG](/uploads/IMG_4832.JPG)
 
-# *`DC SCORES poet-athlete, Diamond 11, and her writing coach Ms. Claire Sontag reflect on the spring season together.`*
+# *`DC SCORES poet-athlete, Diamond, 11, and her writing coach Ms. Claire Sontag reflect on the spring season together.`*
 
 Through the multicultural day project, Seaton’s DC SCORES students reminded their school community to celebrate diversity not just on a single day but every day. The student’s service-learning project was created with the intention of celebrating all that Seaton Elementary is **as a school, as students, as faculty and as impactful community members**.
 
