@@ -1,6 +1,6 @@
 ---
-title: 'Seaton Elementary Celebrates Multiculturalism: Building a more Diverse & Inclusive
-  Community'
+title: 'Seaton Elementary Celebrates Multiculturalism: Building a more diverse and
+  inclusive community'
 date: 2018-06-08 17:18:00 Z
 Author: Emily Yankana
 ---
