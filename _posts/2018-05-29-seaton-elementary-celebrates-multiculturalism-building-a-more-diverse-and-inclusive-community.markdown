@@ -1,28 +1,43 @@
 ---
-title: 'Seaton Elementary Celebrates Multiculturalism: Building a more Diverse & Inclusive
+title: 'Seaton Elementary Celebrates Multiculturalism: Building a More Diverse & Inclusive
   Community'
 date: 2018-05-29 00:40:00 Z
 published: false
+Author: Emily Yankana
 ---
 
-**insert video here**
+When you walk through the halls of [Seaton Elementary school](http://https://seatondc.org/), you’ll notice that one classroom is not like the other. Maybe it’s the vibrant attitudes of the students sitting at their desks. Or maybe it’s the teachers eagerly standing before their students knowing that their words and actions will have a profound impact on who they will become in the next week, months, and years to come. This is the spirit of Seaton Elementary.
 
-In the heart of the Shaw Neighborhood, multiculturalism is celebrated each and everyday at Seaton Elementary in each and every person. Multitudes of students and teachers from all walks of life strive to make their school community a more enriching experience. An experience that allows students and teachers alike to be proud of who they are individually and collectively as a student body.
+![IMG_5345-1f79f0.JPG](/uploads/IMG_5345-1f79f0.JPG)
 
-This past spring, [DC SCORES ](https://www.dcscores.org/)students at Seaton Elementary School researched how to get students and teachers at their school to learn about different cultures. With the leadership of DC SCORES service - learning coach, Claire Sontag,  they decided to assign each classroom in their school a country to research. The class would need to create the best looking, most creative or most informative door with all the information they learned about that country.
+But on May 23, Seaton’s student body was more upbeat than usual because it was [multicultural day](https://seatondc.org/2018/05/23/multicultural-day/). An initiative DC SCORES students have been working toward since the beginning of the spring season.
 
-![Screen Shot 2018-05-28 at 7.50.43 PM.png](/uploads/Screen%20Shot%202018-05-28%20at%207.50.43%20PM.png)
+At the beginning of the season in mid-March, students set their service-learning project goal to be celebrating diversity within their school community by engaging in a school-wide multicultural research initiative aimed at making students, faculty and community members aware and educated about different cultures.
 
-Source: Seaton Elementary
+To accomplish this, they first researched the aspects of a culture by gaining an understanding about the things that were tangible like food, arts and ethnic clothing to the things that were not as visible such as customs and languages. The students then made them into a culture tree that showed all of these factors. They learned that while it may be respectful to kiss both cheeks when greeting someone in Spain, this might not be received well in Thailand.
 
-Whichever three classrooms had the best looking, most creative or most informative door would win the annual door decorating contest for the year!
+With this information, Seaton’s poet-athletes turned to their families to gain more insight into how culture plays a role in their own lives. They interviewed their parents, aunts and uncles, and grandparents, asking thought-provoking questionssuch as:
 
-![Screen Shot 2018-05-28 at 4.43.23 PM.png](/uploads/Screen%20Shot%202018-05-28%20at%204.43.23%20PM.png)
+“What ethnic traditions does our family celebrate?” and “How do we practice tolerance and understanding?”
 
-But learning and understanding different cultures is **more** than just a door decorating contest for the students and faculty at Seaton Elementary. It meant celebrating who they are as a student body. This meant only one thing. That a multicultural celebration was in order!
+Then DC SCORES students took their interview takeaways and transformed them into activities that would take place on multicultural day.
 
-Ms. Sontag and her DC SCORES students arranged for a multicultural day to take place. 
+Some activities included having each classroom pick a country to research and decorating their doors with the different things they learned about the country’s culture.
 
-On May 23rd, students and teachers would organize cultural festivities including a parade, artistic performances and a food potluck festival that invited the school community to try foods and dishes from different countries. Students, parents and teachers were able to celebrate their own cultures whilst learning about other cultures. 
+To celebrate all that was learned, a school-wide multicultural day was held which invited teachers, students, parents and community members to share different parts of their culture through food, performances and even a celebratory parade.
 
-This enriching experience goes to show that learning does not start and end at the classroom door. It occurs beyond the walls of Seaton Elementary and in the community they have created. DC SCORES students at Seaton Elementary were able to tie their community together by celebrating the cultural experiences that make each Seaton Elementary community member unique. 
+Shai Walker, 11, reflected on what she learned and said, “I think the best part about learning about different cultures means that everyone is included and they get a chance to share what makes them different from me.”
+
+“It’s also fun to try new things and when you get others to try new things it makes them excited to celebrate those things too.”
+
+This is the second consecutive year that Seaton Elementary has celebrated multicultural day. Its founding falls directly in line with Seaton Elementary’s goal to promote diversity and inclusion within its community.
+
+When speaking to her students about the impact of their service-learning project, Ms. Sontag, Seaton’s service-learning coach, said, “You guys are leaders in this school. You teach others about how to appreciate and understand different cultures even though it’s different from your own. The younger kids look up to you because of that.”
+
+![IMG_4832.JPG](/uploads/IMG_4832.JPG)
+
+# *`DC SCORES poet-athlete, Diamond 11, and her writing coach Ms. Claire Sontag reflect on the spring season together.`*
+
+Through the multicultural day project, Seaton’s DC SCORES students reminded their school community to celebrate diversity not just on a single day but every day. The student’s service-learning project was created with the intention of celebrating all that Seaton Elementary is **as a school, as students, as faculty and as impactful community members**.
+
+Mission accomplished.
