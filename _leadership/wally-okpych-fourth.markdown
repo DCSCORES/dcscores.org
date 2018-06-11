@@ -1,6 +1,6 @@
 ---
 title: Wally Okpych IV
-position: 39
+position: 40
 Details: Assistant Treasurer, PricewaterhouseCoopers
 Section: board
 Link: https://www.linkedin.com/in/wallyokpych/

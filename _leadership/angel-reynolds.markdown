@@ -1,6 +1,6 @@
 ---
 title: Angel Reynolds
-position: 19
+position: 20
 Details: Finance Manager
 Email: areynolds@dcscores.org
 Profile Image: "/uploads/profile--angel-reynolds.jpg"

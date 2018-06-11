@@ -1,6 +1,6 @@
 ---
 title: Jason Finney
-position: 48
+position: 49
 Details: Ruffalo Noel Levitz
 Section: advisory
 ---
