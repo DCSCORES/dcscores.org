@@ -1,6 +1,6 @@
 ---
 title: John Guinan
-position: 53
+position: 52
 Details: Artist
 Section: advisory
 ---

@@ -1,7 +1,7 @@
 ---
 title: Charity Blackwell
 date: 2017-08-14 13:42:00 Z
-position: 6
+position: 5
 Details: Director of Writing
 Email: cblackwell@dcscores.org
 Profile Image: "/uploads/10580907_10153177275886965_8507756754471767558_o.jpg"

@@ -1,7 +1,7 @@
 ---
 title: Will Sutton
 date: 2017-08-14 14:54:00 Z
-position: 22
+position: 20
 Details: Middle School Program Manager
 Email: wsutton@dcscores.org
 Profile Image: "/uploads/32038697914_a9c1a776be_o.jpg"
