@@ -6,7 +6,10 @@ Author: Emily Yankana
 Thumbnail Image: "/uploads/Screen%20Shot%202018-06-05%20at%2011.40.56%20AM.png"
 ---
 
-**500 games**
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Z6Gt5t1fYzk" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+
+
+**Over 500 games**
 
 **59 schools**
 
@@ -33,7 +36,7 @@ At the middle school level, Brightwood students observed differences in the way 
 Brightwood poet-athletes even had the opportunity to attend the 6th Annual Congressional Soccer Match at Gonzaga College High School as ball boys and girls where they met politicians, D.C. United players and Washington Spirit players.
 ![Screen Shot 2018-06-11 at 7.33.47 PM.png](/uploads/Screen%20Shot%202018-06-11%20at%207.33.47%20PM.png)*`Poet-athletes stand eagerly with professional soccer players and politicians at the 6th Annual Congressional Soccer Match before they walk onto the field.`*
 
-At Cesar Chavez Prep, poet-athletes took initiative with a trash/litter school clean-up. And at Jefferson Middle School, students used the leadership skills they learned through soccer and service-learning to be role models and encourage younger students to read more.\
+At Cesar Chavez Prep, poet-athletes took initiative with a trash/litter school clean-up. And at Jefferson Middle School, students used the leadership skills they learned through soccer and service-learning to be role models and encourage younger students to read more.\\
 
 ![Screen Shot 2018-06-11 at 7.39.49 PM.png](/uploads/Screen%20Shot%202018-06-11%20at%207.39.49%20PM.png)
 *`Pictured above is Cesar Chavez-Prep’s service-learning poster, which mentions their plan to clean up their school community.`*
