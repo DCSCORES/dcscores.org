@@ -1,5 +1,5 @@
 ---
-title: 'Looking Back on the Spring Season: How Teams Inspired Change On & off the
+title: 'Looking Back on the Spring Season: How Teams Inspired Change On & Off the
   Field'
 date: 2018-06-13 01:51:00 Z
 Author: Emily Yankana
