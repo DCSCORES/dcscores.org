@@ -1,6 +1,8 @@
 ---
 title: The 2018 Summer SCORES season is officially underway!
 date: 2018-06-18 16:51:00 Z
+tags:
+- summer scores
 Author: Lorena Palacios
 Thumbnail Image: "/uploads/Screen%20Shot%202018-06-18%20at%2012.31.20%20PM-5383ab.png"
 ---
