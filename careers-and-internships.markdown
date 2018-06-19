@@ -12,7 +12,7 @@ layout: careers-and-internships
 This position is perfect for a highly detail-oriented, numbers-loving, Salesforce-knowledgeable go-getter eager to get an inside look at -- and hands-on experience in using data to drive -- fundraising at a high-performing nonprofit.\
 \([APPLY HERE](https://dcscores.recruiterbox.com/jobs/fk013pd/))
 
-**Staff Accountant (full-time)**
+**Nonprofit Finance Manager (full-time)**
 This position will be part of the Operations Team at DC SCORES and will report to the Chief of Staff to ensure all grant requirements and financial obligations are met.  Our organization needs a full-time staff accountant in house to help meet our unique financial needs. This position will be responsible for processing the day-to-day financial activities of the organization as well as creating and maintaining efficient financial practices.\
 \([APPLY HERE)](https://dcscores.recruiterbox.com/jobs/fk01fxf/)
 
