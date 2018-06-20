@@ -112,6 +112,20 @@ Applications for 2019 Summer Camps will go out in May 2019.
 
 ---
 
+![Jamboree](/uploads/volunteer-jamboree-float-left-small.jpg)
+
+### [Jamboree!](https://www.dcscores.org/jamboree/)
+
+The culminating event of the DC SCORES programming year, filled with soccer games, arts and crafts, and more for DC SCORES students and their families.
+
+**Date:** Early June 2019
+
+**Location:** Anacostia Park
+
+**Want to get involved? [CLICK HERE](https://www.dcscores.org/jamboree/)** for more information about volunteer tasks and registration. 
+
+---
+
 <span id="volunteer-other"></span>
 
 ## Other
@@ -128,17 +142,3 @@ At sites throughout DC. We will do our best to place you based on your location 
 
 **Want to get involved?**
 Contact Lindsey Sharp at lsharp@dcscores.org
-
----
-
-![Jamboree](/uploads/volunteer-jamboree-float-left-small.jpg)
-
-### [Jamboree!](https://www.dcscores.org/jamboree/)
-
-The culminating event of the DC SCORES programming year, filled with soccer games, arts and crafts, and more for DC SCORES students and their families.
-
-**Date:** Early June 2019
-
-**Location:** Anacostia Park
-
-**Want to get involved? [CLICK HERE](https://www.dcscores.org/jamboree/)** for more information about volunteer tasks and registration. 
