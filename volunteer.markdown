@@ -66,20 +66,6 @@ Fill out the [Volunteer Assistant Coach Application](https://docs.google.com/for
 
 ## Special Events
 
-![Jamboree](/uploads/volunteer-jamboree-float-left-small.jpg)
-
-### [Jamboree!](https://www.dcscores.org/jamboree/)
-
-The culminating event of the DC SCORES programming year, filled with soccer games, arts and crafts, and more for DC SCORES students and their families.
-
-**Date:** Saturday, June 2, 2018
-
-**Location:** Anacostia Park
-
-**Want to get involved? [CLICK HERE](https://www.dcscores.org/jamboree/)** to register to volunteer. 
-
----
-
 ![DC SCORES Cup](/uploads/volunteer-scores-cup-float-right.jpg)
 
 ### DC SCORES Cup
@@ -142,3 +128,17 @@ At sites throughout DC. We will do our best to place you based on your location 
 
 **Want to get involved?**
 Contact Lindsey Sharp at lsharp@dcscores.org
+
+---
+
+![Jamboree](/uploads/volunteer-jamboree-float-left-small.jpg)
+
+### [Jamboree!](https://www.dcscores.org/jamboree/)
+
+The culminating event of the DC SCORES programming year, filled with soccer games, arts and crafts, and more for DC SCORES students and their families.
+
+**Date:** Early June 2019
+
+**Location:** Anacostia Park
+
+**Want to get involved? [CLICK HERE](https://www.dcscores.org/jamboree/)** for more information about volunteer tasks and registration. 
