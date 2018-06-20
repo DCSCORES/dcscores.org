@@ -76,8 +76,7 @@ The culminating event of the DC SCORES programming year, filled with soccer game
 
 **Location:** Anacostia Park
 
-**Want to get involved? [CLICK HERE](https://www.dcscores.org/jamboree/)**
-Any additional questions: Contact Lindsey Sharp at volunteer@dcscores.org 
+**Want to get involved? [CLICK HERE](https://www.dcscores.org/jamboree/)** to register to volunteer. 
 
 ---
 
