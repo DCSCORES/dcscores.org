@@ -27,6 +27,7 @@ Everyone stayed hydrated thanks to longtime supporter **DrinkMore Water**, and C
 ![Cuisine Solutions.jpg](/uploads/Cuisine%20Solutions.jpg)
 
 > View 2018 DC SCORES Cup photos [HERE](http://bit.ly/SCORESCup18Photos)
+
 > Learn more and get a head-start on 2019 at [www.DCSCORESCup.org](https://www.dcscorescup.org/)
 
 We're sure it will be even bigger and better. Let the tradition continue!
