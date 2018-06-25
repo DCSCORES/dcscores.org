@@ -3,6 +3,7 @@ title: 'Seaton Elementary Celebrates Multiculturalism: Building a more diverse a
   inclusive community'
 date: 2018-06-08 17:18:00 Z
 Author: Emily Yankana
+Thumbnail Image: "/uploads/Screen%20Shot%202018-05-28%20at%208.16.37%20PM.png"
 ---
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/K5WPmQvfg9k" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
