@@ -4,6 +4,7 @@ date: 2018-06-25 11:34:00 Z
 tags:
 - DC SCORES Cup
 Author: Jake Lloyd
+Thumbnail Image: "/uploads/IMG_7868.jpg"
 ---
 
 ![Group photo hands up.jpg](/uploads/Group%20photo%20hands%20up.jpg)
