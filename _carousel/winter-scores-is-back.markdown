@@ -1,7 +1,7 @@
 ---
 title: Summer DC SCORES
 date: 2018-01-10 22:07:00 Z
-position: 1
+position: 0
 Image: "/uploads/summer%20camp.jpg"
 Image Position: 50% 25%
 Link: https://summer.dcscores.org/

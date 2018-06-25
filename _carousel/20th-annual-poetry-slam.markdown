@@ -1,7 +1,7 @@
 ---
 title: 16th Annual DC SCORES Cup
 date: 2017-10-24 13:58:00 Z
-position: 0
+position: 1
 Image: "/uploads/scores%20cup%202.jpg"
 Link: http://dcscorescup.org/
 ---
