@@ -24,7 +24,7 @@ Students learned how to keep their communities clean; they advocated for safe dr
 
 On the field and in the classroom, poet-athletes learned how to use sportsmanship and teamwork skills to support their classmates and their community.
 
-Brightwood Education Campus is one school that excelled this spring at putting soccer and service-learning hand-in-hand. At the elementary school level, poet-athletes researched how to address hunger in their community by putting on a food drive.
+[Brightwood Education Campus](http://www.brightwoodec.org/) is one school that excelled this spring at putting soccer and service-learning hand-in-hand. At the elementary school level, poet-athletes researched how to address hunger in their community by putting on a food drive.
 
 At the middle school level, Brightwood students observed differences in the way cafeteria staff and students were treating one another and decided to create a [kindness campaign](https://www.dcscores.org/blog/2018/05/brightwood-educations-campus-spreads-acts-of-kindness) featuring a hallway kindness tree that had acts of kindness written on its leaves. They also made announcements and distributed kindness messages to classrooms.
 
@@ -34,9 +34,7 @@ At the middle school level, Brightwood students observed differences in the way 
 
 Brightwood poet-athletes even had the opportunity to attend the 6th Annual Congressional Soccer Match at Gonzaga College High School as ball boys and girls where they met politicians, D.C. United players and Washington Spirit players.
 
-![Screen Shot 2018-06-25 at 11.13.08 AM.png](/uploads/Screen%20Shot%202018-06-25%20at%2011.13.08%20AM.png)
-
-*`Poet-athletes, D.C. United players, and Washington Sprit players show how excited they are to be at the 6th Annual Congressional Soccer Match. `*
+![Screen Shot 2018-06-25 at 11.13.08 AM.png](/uploads/Screen%20Shot%202018-06-25%20at%2011.13.08%20AM.png)*`Poet-athletes, D.C. United players, and Washington Sprit players show how excited they are to be at the 6th Annual Congressional Soccer Match.`*
 
 At Cesar Chavez Prep, poet-athletes took initiative with a trash/litter school clean-up. And at Jefferson Middle School, students used the leadership skills they learned through soccer and service-learning to be role models and encourage younger students to read more.
 
