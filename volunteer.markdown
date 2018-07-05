@@ -19,7 +19,7 @@ DC SCORES’ soccer leagues focus on our three values: teamwork, leadership, and
 For elementary school games: volunteers will be asked to make basic calls, such as throw-ins, corner kicks, and goal kicks. For middle school games: volunteers will be expected to call additional fouls, indirect/direct kicks, and offside. Volunteers must be at least 15 years of age.
 
 **When?**
-Thursdays (Elementary) & Fridays (Middle) from 3:45pm to 6pm.
+Thursdays (Elementary) from 3:45pm to 6pm.
 
 **Where?**
 At <a href="/our-program/program-sites/" target="_blank">sites</a> throughout DC. We will do our best to place you based on your location and mode of transportation.
@@ -52,7 +52,7 @@ Assistant coaches are able to sign up for soccer and/or writing programming. Soc
 
 **When?**
 
-The Spring 2018 season runs from March 12 to June 2.
+Fall 2018 schedule coming soon (September - Early November).
 
 **Where?**
 At <a href="/our-program/program-sites/" target="_blank">sites</a> throughout DC. We will do our best to place you based on your location and mode of transportation.
@@ -65,16 +65,6 @@ Fill out the [Volunteer Assistant Coach Application](https://docs.google.com/for
 <span id="volunteer-special-events"></span>
 
 ## Special Events
-
-![DC SCORES Cup](/uploads/volunteer-scores-cup-float-right.jpg)
-
-### DC SCORES Cup
-
-Our largest fundraiser – an annual adult soccer tournament made up of local companies, law firms, small businesses and soccer organizations. Volunteer roles include setup/breakdown, registration, field marshals, lunch servers, and photography.
-
-**Date:** June 23, 2018
-
----
 
 ![Fall Frenzy](/uploads/volunteer-fall-frenzy-float-left-small.jpg)
 
@@ -123,6 +113,16 @@ The culminating event of the DC SCORES programming year, filled with soccer game
 **Location:** Anacostia Park
 
 **Want to get involved? [CLICK HERE](https://www.dcscores.org/jamboree/)** for more information about volunteer tasks and registration. 
+
+---
+
+![DC SCORES Cup](/uploads/volunteer-scores-cup-float-right.jpg)
+
+### DC SCORES Cup
+
+Our largest fundraiser – an annual adult soccer tournament made up of local companies, law firms, small businesses and soccer organizations. Volunteer roles include setup/breakdown, registration, field marshals, lunch servers, and photography.
+
+**Date:** June 2019
 
 ---
 
