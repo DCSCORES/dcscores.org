@@ -90,18 +90,6 @@ This two-night, spoken-word competition features DC SCORES students performing t
 
 ---
 
-<span id="volunteer-summer-camp"></span>
-
-## Summer Camp Counselor
-
-![Summer camp](/uploads/volunteer-summer-camp-float-left.jpg)
-
-Thanks so much for your interest! Our summer camp counselors slots have been filled. 
-
-Applications for 2019 Summer Camps will go out in May 2019.
-
----
-
 ![Jamboree](/uploads/volunteer-jamboree-float-left-small.jpg)
 
 ### [Jamboree!](https://www.dcscores.org/jamboree/)
@@ -123,6 +111,18 @@ The culminating event of the DC SCORES programming year, filled with soccer game
 Our largest fundraiser – an annual adult soccer tournament made up of local companies, law firms, small businesses and soccer organizations. Volunteer roles include setup/breakdown, registration, field marshals, lunch servers, and photography.
 
 **Date:** June 2019
+
+---
+
+<span id="volunteer-summer-camp"></span>
+
+## Summer Camp Counselor
+
+![Summer camp](/uploads/volunteer-summer-camp-float-left.jpg)
+
+Thanks so much for your interest! Our summer camp counselors slots have been filled. 
+
+Applications for 2019 Summer Camps will go out in May 2019.
 
 ---
 
