@@ -1,6 +1,6 @@
 ---
 title: D.C. Girls Represent America In Street Child World Cup in Moscow
-date: 2018-07-09 19:10:00 Z
+date: 2018-07-07 19:10:00 Z
 link: https://afro.com/d-c-girls-represent-america-in-street-child-world-cup-in-moscow/
 source: The Afro-American
 ---
