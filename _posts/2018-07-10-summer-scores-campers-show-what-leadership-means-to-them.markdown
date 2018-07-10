@@ -13,7 +13,7 @@ I watch them from the sidelines as they show their younger teammates examples of
 
 ![Screen Shot 2018-07-10 at 11.53.00 AM.png](/uploads/Screen%20Shot%202018-07-10%20at%2011.53.00%20AM.png)
 
-*`Campers celebrate with each other and their counselors after a well-played final summer camp game. `*
+***`Campers celebrate with each other and their counselors after a well-played final summer camp game.`***
 
 When I ask them why they still come out to play soccer, they both agree on one thing: leadership. As experienced DC SCORES poet-athletes, they’ve learned to value this skill during the season in games and with [service-learning and poetry](https://www.dcscores.org/blog/2018/06/looking-back-on-the-spring-season-how-teams-inspired-change-on-and-off-the-field).
 
@@ -25,7 +25,7 @@ At Tubman’s soccer camp, they work all week long to sharpen the skills. Each d
 
 ![28307089467_9e29f27757_o.jpg](/uploads/28307089467_9e29f27757_o.jpg)
 
-# ***`Tubman campers learn how to work together during a practice game. `***
+# *`Tubman campers learn how to work together during a practice game.`*
 
 They play with kids of all different skill levels who may not necessarily have been in DC SCORES programs in their own schools. Their given the opportunity to be mentors to them and to lend them a helping hand.
 
