@@ -9,6 +9,9 @@ Thumbnail Image: "/uploads/43104603882_a3eee76df2_o.jpg"
 
 Even on  the hottest summer days, you can find Stephanie R. and Katie B., two soon-to-be [DC SCORES alumnae](https://www.instagram.com/dcsalumni/?hl=en), on the soccer field at Tubman Elementary School. During the two-week free soccer  camp, they show the younger campers all the right moves to make on the field.
 
+
+
+
 I watch them from the sidelines as they show their younger teammates examples of passing how to get just the right amount of touches. Despite the heat, their dedication is relentless.
 
 ![Screen Shot 2018-07-10 at 11.53.00 AM.png](/uploads/Screen%20Shot%202018-07-10%20at%2011.53.00%20AM.png)
