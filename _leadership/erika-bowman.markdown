@@ -2,7 +2,7 @@
 title: Erika Bowman
 date: 2018-06-11 14:00:00 Z
 position: 45
-Details: Hogan Lovells US LLP
-Section: advisory council
+Details: Hogan Lovells LLP
+Section: advisory
 ---
 
