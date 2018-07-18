@@ -1,7 +1,7 @@
 ---
 title: Jason Finney
 position: 48
-Details: Ruffalo Noel Levitz
+Details: Localist
 Section: advisory
 ---
 
