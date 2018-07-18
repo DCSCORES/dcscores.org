@@ -1,7 +1,7 @@
 ---
 title: Erich Walizer
 position: 58
-Details: Ruffalo Noel Levitz
+Details: ICF
 Section: advisory
 ---
 
