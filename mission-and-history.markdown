@@ -44,7 +44,7 @@ History:
   Description: Continue growth by consolidating with D.C. United “United Soccer Club,”
     becoming the official community partner of the Major League soccer team.
   Image: "/uploads/image-history--dcunited.jpg"
-- Year: 2017
+- Year: 2018
   Description: Serve 2,500 kids in all eight wards of Washington, DC. Have a waiting
     list of more than 20 schools.
 bottomText:
