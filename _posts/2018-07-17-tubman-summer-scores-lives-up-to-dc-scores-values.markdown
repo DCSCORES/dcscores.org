@@ -1,6 +1,8 @@
 ---
 title: Tubman Summer SCORES lives up to DC SCORES values
 date: 2018-07-17 22:10:00 Z
+tags:
+- summer scores
 Author: Emily Yankana
 Thumbnail Image: "/uploads/Screen%20Shot%202018-07-17%20at%206.37.44%20PM.png"
 ---
@@ -27,22 +29,22 @@ Newcomers are welcomed with open arms by campers and counselors alike who may ha
 
 `Photo by Ahmed Ahmed`
 
-> “It’s always so refreshing to get kids who haven’t played with us \[DC SCORES\] before but still come out day after day and bring the same positive attitude onto the field.” says longtime DC SCORES coach and counselor Mark “Popsie” Lewis.
+> “It’s always so refreshing to get kids who haven’t played with us \[DC SCORES\] before but still come out day after day and bring the same positive attitude onto the field,” says longtime DC SCORES coach and counselor Mark “Popsie” Lewis.
 
-At Tubman, Coach Popsie and several other counselors had the pleasure of meeting a handful of non-DC SCORES participants  who really brought their all to the camp.
+At Tubman, Coach Popsie and several other counselors had the pleasure of meeting a handful of non-DC SCORES participants who really brought their all to the camp.
 
-“Tsga (a non-DC SCORES participant) is someone who really embodies our values of teamwork, leadership and commitment. When I see a player harness those three values I think that’s something really special. It defines them from a team player into a leader” says Coach Popsie.
+“Tsga (a non-DC SCORES participant) is someone who really embodies our values of teamwork, leadership, and commitment," says Coach Popsie. When I see a player harness those three values I think that’s something really special. It defines them from a team player into a leader.” 
 
-Despite the scorching summer heat, campers still made it out onto the field each day of camp to play their hearts out not because anyone asked them too but for the love for the game, and maybe for the free food at the barbecue on the last day of camp.
+Despite the scorching summer heat, campers still made it out onto the field each day of camp to play their hearts out not because anyone asked them to but for the love for the game, and maybe for the free food at the barbecue on the last day of camp.
 
 ![Screen Shot 2018-07-17 at 6.15.33 PM.png](/uploads/Screen%20Shot%202018-07-17%20at%206.15.33%20PM.png)
 
 `Photo by Ahmed Ahmed`
 
-Some of the more experienced campers, including incoming DC SCORES alumni, play on [Coach Popsie’s ](http://dcscores.blogspot.com/2016/09/dc-scores-covers-dc-thomson-elementary.html)summer teams that compete with other teams in the area on a regular weekly basis.
+Some of the more experienced campers, including incoming DC SCORES alumni, play on [Coach Popsie’s ](http://dcscores.blogspot.com/2016/09/dc-scores-covers-dc-thomson-elementary.html)soccer teams that compete in the area on a regular weekly basis to keep them active during the summer season.
 
-> “I’m glad I stuck with it. Coming back to Summer SCORES after the fall and spring seasons gave me a chance to keep working on my skills and made me become an overall better player. I feel more confident about getting out there and playing” says DC SCORES Camper Antonio V.
+> “I’m glad I stuck with it. Coming back to Summer SCORES after the fall and spring seasons gave me a chance to keep working on my skills and made me become an overall better player. I feel more confident about getting out there and playing,” says DC SCORES Camper Antonio V.
 
-While  camp at Tubman wrapped up one thing is  clear, year after year, Summer SCORES continues to bring kids together  from all over DC to participate in a game that bridges gaps and communities and makes everyone feel more connected to each other. There’s nothing better than that.
+While camp at Tubman wrapped up one thing is clear, year after year, Summer SCORES continues to bring kids together from all over DC, to participate in a game that bridges gaps and communities and makes everyone feel more connected to each other. There’s nothing better than that.
 
 To learn more about Summer SCORES click [here](https://summer.dcscores.org/).
