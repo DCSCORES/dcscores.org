@@ -10,6 +10,9 @@ Thumbnail Image: "/uploads/Screen%20Shot%202018-05-28%20at%208.16.37%20PM.png"
 
 When you walk through the halls of Seaton Elementary School, you’ll notice that no classroom is alike. Maybe it’s the vibrant attitudes of the students sitting at their desks. Or maybe it’s the teachers eagerly standing before their students knowing that their words and actions will have a profound impact on who they will become in the next week, months, and years to come. This is the spirit of Seaton Elementary.
 
+
+
+
 But on May 23, Seaton’s student body was even more upbeat than usual because it was multicultural day, an initiative DC SCORES students have been working toward since the beginning of the spring season.
 
 In mid-March, students set their service-learning project goal to celebrate diversity within their school community by engaging in a school-wide multicultural research initiative aimed at making students, faculty and community members aware and educated about different cultures.
