@@ -13,6 +13,10 @@ These are three core tenets that distinguish good athletes from extraordinary at
 
 This summer at [Tubman Elementary School](http://teamtubman.com/), campers were given the opportunity to transform these values into actions on the field in a two-week long soccer intensive camp.
 
+
+
+
+
 When you step onto the field, you become witness to their dedication to demonstrating these values simply by the way the campers show respect to their counselors and to their fellow campers in scrimmages, drills and teamwork exercises.
 
 They pick each other up in moments of error. They tell each other “it’s okay you’ll get it next time” or “let me help you” and cheer each other on no matter what side they may be playing on.
@@ -33,7 +37,7 @@ Despite the scorching summer heat, campers still made it out onto the field each
 
 ![Screen Shot 2018-07-17 at 6.15.33 PM.png](/uploads/Screen%20Shot%202018-07-17%20at%206.15.33%20PM.png)
 
-`Photo by Ahmed Ahmed `
+`Photo by Ahmed Ahmed`
 
 Some of the more experienced campers, including incoming DC SCORES alumni, play on [Coach Popsie’s ](http://dcscores.blogspot.com/2016/09/dc-scores-covers-dc-thomson-elementary.html)summer teams that compete with other teams in the area on a regular weekly basis.
 
