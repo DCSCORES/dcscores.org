@@ -18,6 +18,10 @@ Thumbnail Image: "/uploads/Screen%20Shot%202018-06-05%20at%2011.40.56%20AM.png"
 
 **44 service-learning projects**
 
+
+
+
+
 This spring season DC SCORES poet-athletes did more than extraordinary things. While playing their hearts out on the field on game days, students also participated in service-learning projects that made their communities safer, healthier and all the more stronger.
 
 Students learned how to keep their communities clean; they advocated for safe drinking water for Flint; researched how to keep their communities safer; found ways to alleviate hunger among the homeless in their neighborhood; strengthened the reading levels of their classmates; helped their community gardens flourish; and ... learned how to spread kindness throughout their school
