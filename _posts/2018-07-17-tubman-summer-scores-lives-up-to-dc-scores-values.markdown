@@ -33,8 +33,6 @@ Newcomers are welcomed with open arms by campers and counselors alike who may ha
 
 At Tubman, Coach Popsie and several other counselors had the pleasure of meeting a handful of non-DC SCORES participants who really brought their all to the camp.
 
-![33796555312_5936e1307e_o.Float-right.jpg](/uploads/33796555312_5936e1307e_o.Float-right.jpg)
-
 “Tsga (a non-DC SCORES participant) is someone who really embodies our values of teamwork, leadership, and commitment," says Coach Popsie. When I see a player harness those three values I think that’s something really special. It defines them from a team player into a leader.” 
 
 Despite the scorching summer heat, campers still made it out onto the field each day of camp to play their hearts out not because anyone asked them to but for the love for the game, and maybe for the free food at the barbecue on the last day of camp.
