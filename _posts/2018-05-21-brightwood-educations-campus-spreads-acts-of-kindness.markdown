@@ -12,6 +12,10 @@ Thumbnail Image: "/uploads/IMG_0479%202.JPG"
 
 This Spring at [Brightwood Education Campus](http://www.brightwoodec.org/) sixth, seventh and eighth graders are learning how to spread acts of kindness throughout their school as their service learning project.
 
+
+
+
+
 Through the [service-learning ](https://www.dcscores.org/our-program/program-model/)component of the [DC SCORES](https://www.dcscores.org/) program, Brightwood DC SCORES students are feeling empowered and learning how to give back to their school community.
 
 
