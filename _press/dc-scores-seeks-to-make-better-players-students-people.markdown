@@ -1,6 +1,7 @@
 ---
 title: DC SCORES Seeks to Make Better Players, Students, People
 date: 2018-07-01 19:11:00 Z
+position: 2
 link: http://newsvideo.su/video/8989225
 source: Voice of America
 ---

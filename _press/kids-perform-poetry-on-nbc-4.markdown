@@ -3,7 +3,7 @@ title: Kids perform poetry on NBC-4
 date: 2017-12-15 15:37:00 Z
 tags:
 - Media
-position: 8
+position: 13
 link: http://bit.ly/UniyahCristianNBC
 source: NBC Washington
 ---
