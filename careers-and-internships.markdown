@@ -13,7 +13,7 @@ This position will be part of the Operations Team at DC SCORES and will report t
 utilizing financial data to find creative solutions to organizational challenges. [Click here for full job description.](https://drive.google.com/file/d/1ndVFLoNoji0H7j8Ky-ifJv0ZqNty84BA/view?usp=sharing)
 
 **To Apply:** Please send your resume and a cover letter explaining your interest to: Katrina Owens, Chief of
-Staff, [kowens@dcscores.org](kowens@dcscores.org)
+Staff, kowens@dcscores.org
 
 ---
 
