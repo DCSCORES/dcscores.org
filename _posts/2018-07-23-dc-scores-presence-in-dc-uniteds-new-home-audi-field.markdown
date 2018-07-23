@@ -13,6 +13,10 @@ Thumbnail Image: "/uploads/41575538570_67a61c5166_o-30d766.jpg"
 
 Audi Field is finally open and DC SCORES is part of the D.C. United gameday experience!
 
+
+
+
+
 DC SCORES Director of Writing, Charity Blackwell kicked off the opening week celebrations at the [Audi Field Ribbon Cutting Ceremony](https://www.flickr.com/photos/dcscorespictures/sets/72157697351543111) with a thought-provoking original poem. Truesdell summer campers also participated in the actual ribbon cutting next to Mayor Muriel Bowser; D.C. United’s Managing General Partner & CEO, Jason Levien; and General Partner, Erick Thohir.
 
 Before the inaugural match kicked off, Charity performed her poem again in front of a sold-out crowd to get the fans pumped for the game. The [girls representing the USA at the Street Child World Cup](http://www.americascores.org/about-us/street-child-world-cup) were also recognized during the game as part of the [Community Star program](https://www.dcunited.com/community/star) presented by Brightspot.
