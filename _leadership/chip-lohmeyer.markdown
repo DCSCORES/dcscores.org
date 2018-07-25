@@ -1,8 +1,8 @@
 ---
 title: Chip Lohmeyer
 position: 35
-Details: Management Consultant
+Details: Vectrus
 Section: board
-Link: https://www.linkedin.com/in/edwin-lohmeyer-9b92257/
+Link: https://www.linkedin.com/in/chiplohmeyer/
 ---
 
