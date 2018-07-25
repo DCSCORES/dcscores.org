@@ -12,6 +12,10 @@ Thumbnail Image: "/uploads/43089412471_ee1607e45b_o-18ec33.jpg"
 
 Oscar, is rising college freshman and [DC SCORES alumnus](https://www.instagram.com/dcsalumni/?hl=en). Everything that he has worked for has led him to this moment as he sits in this gymnasium with me. Nothing is ever simple and neither is his journey that has required an overwhelming amount of dedication, courage and humility to get him into college.
 
+
+
+
+
 This coming fall, Oscar will be a first generation college student — the first of his family members to pursue higher education. His journey is one of many firsts. He is the first in his family to experience college’s ups and downs; the first in his family to avoid the “Freshman 15” and the first in his family to find out what his college years will bring him.
 
 This undertaking is a daunting feat in itself but nonetheless one that brings him excitement and hope in his eyes as he continues to tell me about the future he envisions.
