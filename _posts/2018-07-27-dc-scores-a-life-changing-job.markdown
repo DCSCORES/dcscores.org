@@ -20,7 +20,7 @@ If you know me, you have probably heard me talk about DC SCORES. I have maybe em
 
 I have told those stories of impact over and over. My favorite story, the one I shared once more this week with staff and friends, was about the Wheatley Whales and my [one day of coaching](http://dcscores.blogspot.com/2010/10/dc-scores-fall-frenzy-from-coachs-eyes.html) a DC SCORES team -- an experience that taught me, some 13 months into my time here, how simple the meaning of our work can be: showing up, being there for the kids, providing a team and an opportunity for these kids, offering a safe space and trusted mentors for the kids. I felt this again yesterday, some eight years later, at summer camp as I kicked around a ball with a group of participants. By offering this free, fun space, we’re making a difference. Daily.
 
-But DC SCORES doesn’t just change kids’ lives. It has a profound impact on our adults’ lives, too.
+But DC SCORES doesn’t just change kids’ lives. It has a profound impact on adults’ lives, too.
 
 ....
 
