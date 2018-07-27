@@ -13,6 +13,7 @@ That’s when I stepped through the doors of 1224 M Street for my first day of w
 
 Wow.
 
+
 If you know me, you have probably heard me talk about DC SCORES. I have maybe emailed you around our giving days, telling a new story of inspiration each time ([A’dora’s](https://www.dcscores.org/blog/2017/08/alumna-adora-willis-rediscovers-the-power-of-poetry), [Uniyah’s](https://www.youtube.com/watch?v=eD4SddZUzyw&feature=youtu.be), [Edgar’s](https://www.youtube.com/watch?v=lbWwbyONtn4), [Edwin’s](http://dcscores.blogspot.com/2016/07/alumni-profile-edwin-blossoms-into.html), [Ingrid’s](http://dcscores.blogspot.com/2015/07/alumni-profile-ingrid-melendez.html), [Claudia's](http://dcscores.blogspot.com/2013/09/going-to-college-part-v-claudia-merlos.html), the list goes on), or you’ve seen a Facebook post of mine. Maybe I’ve inspired you to give with my [silly push-ups](https://www.youtube.com/watch?v=7QnZgmr49tg) or half marathons for the kids. Or perhaps we’ve just discussed SCORES at a happy hour, or over a cup of coffee. I’m sorry, but not sorry for talking frequently about my job.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/eD4SddZUzyw" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
@@ -64,26 +65,26 @@ PPS: I leave you with one of my all-time favorite DC SCORES poems (there are man
 ....
 
 **Let’s All Save the World Together**
-Do you like nature?
-Do you like playing outside?
-Do you like hiking or watching the beach tides?
-
-So Let’s Save the World Together!
-
-It’s getting warmer nowadays
-So don’t let the hot weather carry you away.
-Reuse, Recycle, Reduce and don’t litter.
-So tell this to relatives, friends and baby sitters!
-
-So let’s save the world Together!
-
-Go green, plant gardens, plant bushes or even a rose
-And bring back that fresh natural smell to your nose.
-Save electricity and cut off the lights and bring back those peaceful and cooler nights.
-Don’t waste the water we need to drink
-So please don’t let those precious drops go down the sink!
-
-So Let’s Save the World Together!
-
-**Jasia S.
+Do you like nature?  
+Do you like playing outside?  
+Do you like hiking or watching the beach tides?  
+  
+So Let’s Save the World Together!  
+  
+It’s getting warmer nowadays  
+So don’t let the hot weather carry you away.  
+Reuse, Recycle, Reduce and don’t litter.  
+So tell this to relatives, friends and baby sitters!  
+  
+So let’s save the world Together!  
+  
+Go green, plant gardens, plant bushes or even a rose  
+And bring back that fresh natural smell to your nose.  
+Save electricity and cut off the lights and bring back   those peaceful and cooler nights.  
+Don’t waste the water we need to drink  
+So please don’t let those precious drops go down the sink!  
+  
+So Let’s Save the World Together!  
+  
+**Jasia S.  
 Burrville Elementary School**
