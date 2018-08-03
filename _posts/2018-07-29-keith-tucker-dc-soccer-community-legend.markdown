@@ -1,7 +1,6 @@
 ---
-title: 'Keith Tucker: D.C. Soccer Community Legend'
+title: 'Keith Tucker: Making a difference in the D.C. soccer community'
 date: 2018-07-29 21:22:00 Z
-published: false
 tags:
 - coaches
 Author: Lorena Palacios
