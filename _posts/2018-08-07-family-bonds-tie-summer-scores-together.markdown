@@ -13,7 +13,7 @@ Campers and counselors forge their bonds through skill-building soccer exercises
 
 ![Truesdell Summer SCORES.jpg](/uploads/Truesdell%20Summer%20SCORES.jpg)
 
-## `Truesdell Summer SCORES visits the Smithsonian National Zoo!`
+### `Truesdell Summer SCORES visits the Smithsonian National Zoo!`
 
 Field trips hold a special place in the heart of each camper as it gives them the opportunity to make new connections with the world around them. During a trip to the Newseum on a Friday afternoon, I asked two campers, Yvette and Jamyra, what they thought about the “[Pictures of the Year” ](http://www.newseum.org/exhibits/current/pictures-of-the-year-75-years-of-the-worlds-best-photography/)exhibit we were in.
 
@@ -21,7 +21,7 @@ Yvette responded, “I like seeing how these events impacted other people in the
 
 ![Yvette Tie die-adfcb0.jpg](/uploads/Yvette%20Tie%20die-adfcb0.jpg)
 
-**`Yvette shows off her colorful tie-dyed pillowcase!`**
+### **`Yvette shows off her colorful tie-dyed pillowcase!`**
 
 In a matter of weeks, campers reach new personal heights—growing their confidence levels and developing interpersonal skills that prepare them for the upcoming school year. A shy camper may find their breakout moment in a DJ-ing lesson with [DJ Ra](https://pathbrite.com/portfolio/PpXHCPY6T/tyjuane-hodge) whilst an outgoing camper can focus their extra energy in a coding lesson with [Generation Code](https://www.generationcode.com/). The possibilities are endless.
 
