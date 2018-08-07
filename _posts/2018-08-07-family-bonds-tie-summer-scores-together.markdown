@@ -21,9 +21,7 @@ Yvette responded, “I like seeing how these events impacted other people in the
 
 ![Yvette Tie die-adfcb0.jpg](/uploads/Yvette%20Tie%20die-adfcb0.jpg)
 
-![IMG_2598.JPG](/uploads/IMG_2598.JPG)
-
-`Leckie campers visit the soon-to-be site of the Dwight D. Eisenhower memorial park where Clark Construction is leading the project.` 
+`Yvette shows off her colorful tie-dyed pillowcase!`
 
 In a matter of weeks, campers reach new personal heights—growing their confidence levels and developing interpersonal skills that prepare them for the upcoming school year. A shy camper may find their breakout moment in a DJ-ing lesson with [DJ Ra](https://pathbrite.com/portfolio/PpXHCPY6T/tyjuane-hodge) whilst an outgoing camper can focus their extra energy in a coding lesson with [Generation Code](https://www.generationcode.com/). The possibilities are endless.
 
