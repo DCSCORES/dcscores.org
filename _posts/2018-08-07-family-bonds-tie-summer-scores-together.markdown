@@ -5,6 +5,8 @@ Author: Emily Yankana
 Thumbnail Image: "/uploads/summer%20scors%20zoo.jpg"
 ---
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-Faw2TgHdyQ" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+
 Family is what strikes at the heart of DC SCORES. If you ask any of the campers and counselors at the Truesdell and Leckie summer camps they’ll tell you that’s what they’ve built here at [Summer SCORES](https://summer.dcscores.org/).
 
 It’s not necessarily the blood-related family ties that one would think of that are formed here. It’s the DC SCORES family that each camper and counselor can call home that makes Summer SCORES an experience like no other.
