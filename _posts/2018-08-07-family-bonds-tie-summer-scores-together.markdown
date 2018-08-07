@@ -1,5 +1,5 @@
 ---
-title: Family bonds tie Summer SCORES together
+title: 'Summer SCORES: A place for Leckie & Truesdell campers to call home'
 date: 2018-08-07 15:50:00 Z
 Author: Emily Yankana
 Thumbnail Image: "/uploads/summer%20scors%20zoo.jpg"
