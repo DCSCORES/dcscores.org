@@ -9,6 +9,10 @@ Thumbnail Image: "/uploads/IMG_2598-a48a36.JPG"
 
 At the foot of the Department of Education, the [Dwight D. Eisenhower Memorial Park](http://www.eisenhowermemorial.org/#memorial/site?p=0) will make its home and our Leckie campers got a sneak preview of the future park during a site visit with [Clark Construction](https://www.clarkconstruction.com/).
 
+
+
+
+
 Clark Construction, a long time supporter of DC SCORES and [DC SCORES Cup ](https://www.dcscorescup.org/)participant, invited our Leckie campers to the site where they spent some time understanding what goes into building the future Dwight D. Eisenhower Memorial Park and what kind of safety precautions must be taken by Clark Construction workers on the site.
 
 Campers and counselors learned about everything from what materials are required to building the park to what needs to happens to make sure everything runs smoothly and according to schedule.
