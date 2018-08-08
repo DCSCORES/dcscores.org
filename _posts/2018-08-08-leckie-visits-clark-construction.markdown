@@ -1,6 +1,9 @@
 ---
 title: Leckie visits Clark Construction
 date: 2018-08-08 17:50:00 Z
+tags:
+- summer scores
+- Clark Construction
 Author: Emily Yankana
 Thumbnail Image: "/uploads/IMG_2598-a48a36.JPG"
 ---
