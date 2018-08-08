@@ -9,6 +9,10 @@ Thumbnail Image: "/uploads/summer%20scors%20zoo.jpg"
 
 Family is what strikes at the heart of DC SCORES. If you ask any of the campers and counselors at the Truesdell and Leckie summer camps they’ll tell you that’s what they’ve built here at [Summer SCORES](https://summer.dcscores.org/).
 
+
+
+
+
 It’s not necessarily the blood-related family ties that one would think of that are formed here. It’s the DC SCORES family that each camper and counselor can call home that makes Summer SCORES an experience like no other.
 
 Campers and counselors forge their bonds through skill-building soccer exercises, exciting art lessons, refreshing pool days and adventurous field trips to places like the [Smithsonian National Zoo,](https://nationalzoo.si.edu/) [Newseum,](http://www.newseum.org/exhibits/current/) and the [GEICO MLB All-Star Fanfest](https://www.mlb.com/all-star/fanfest).
