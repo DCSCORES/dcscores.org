@@ -25,7 +25,7 @@ Thursdays (Elementary) from 3:45pm to 6pm.
 At <a href="/our-program/program-sites/" target="_blank">sites</a> throughout DC. We will do our best to place you based on your location and mode of transportation.
 
 **Schedule**
-Fall 2018 gamedays begin on September 13th until November 8th.
+Fall 2018 gamedays begin on September 13th end on November 8th.
 
 **Want to get involved?**
 Please fill out the [Volunteer Referee Application](https://docs.google.com/forms/d/e/1FAIpQLScYeaY_PwTM-smKm44dboDDO_IHNTs0pw1LchyJ9BGkC6qRjw/viewform) form!
