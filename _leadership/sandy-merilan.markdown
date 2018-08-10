@@ -1,7 +1,7 @@
 ---
 title: Sandy Merilan
 date: 2018-07-20 15:22:00 Z
-position: 15
+position: 13
 Details: Development Operations Coordinator
 Email: smerilan@dcscores.org
 Profile Image: "/uploads/IMG_2731.jpg"

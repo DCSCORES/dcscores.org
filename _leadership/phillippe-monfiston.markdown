@@ -1,6 +1,6 @@
 ---
 title: Philippe Monfiston
-position: 55
+position: 53
 Details: Consultant
 Section: advisory
 ---
