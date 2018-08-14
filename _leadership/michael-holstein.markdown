@@ -1,7 +1,7 @@
 ---
 title: Michael Holstein
 date: 2018-04-17 16:27:00 Z
-position: 1
+position: 3
 Details: Director of Marketing & Communications
 Email: mholstein@dcscores.org
 Profile Image: "/uploads/mdh3.jpg"
