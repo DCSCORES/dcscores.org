@@ -1,7 +1,7 @@
 ---
 title: Carl Cohen
 date: 2018-08-20 16:15:00 Z
-position: 6
+position: 7
 Details: Special Projects Fellow
 Email: ccohen@dcscores.org
 Profile Image: "/uploads/IMG_9713.jpg"
