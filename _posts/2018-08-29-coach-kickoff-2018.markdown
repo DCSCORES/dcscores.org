@@ -1,7 +1,6 @@
 ---
 title: Coaches gear up for the Fall SCORES season with Coach Kickoff
 date: 2018-08-29 15:32:00 Z
-published: false
 tags:
 - fall scores
 - Coach Kickoff
