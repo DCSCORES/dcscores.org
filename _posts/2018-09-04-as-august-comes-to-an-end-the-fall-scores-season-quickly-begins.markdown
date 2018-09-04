@@ -31,6 +31,7 @@ Middle schools have both soccer and writing two days a week and game days on Fri
 Over the course of the fall season there will be many events to attend!
 
 However, here’s two events you will want to mark on your calendar!
+[](https://www.youtube.com/watch?v=NbkbBe-Nnz8)
 
 On October 13 at Trinity University, DC SCORES puts on the largest event of the fall season, [Fall Frenzy](https://flic.kr/s/aHsm6ehGBm). This is a full day, outdoor celebration for our elementary school poet-athletes and their families! 
 
