@@ -2,7 +2,7 @@
 title: As August comes to an end the Fall SCORES season quickly begins!
 date: 2018-09-04 15:42:00 Z
 tags:
-- fall scores
+- Fall SCORES
 Author: Madeline Sita
 Thumbnail Image: "/uploads/38624243626_ba446b7aaa_z.jpg"
 ---
@@ -32,7 +32,7 @@ Over the course of the fall season there will be many events to attend!
 
 However, here’s two events you will want to mark on your calendar!
 
-[](https://www.youtube.com/watch?v=NbkbBe-Nnz8)
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NbkbBe-Nnz8" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
 On October 13 at Trinity University, DC SCORES puts on the largest event of the fall season, [Fall Frenzy](https://flic.kr/s/aHsm6ehGBm). This is a full day, outdoor celebration for our elementary school poet-athletes and their families! 
 
