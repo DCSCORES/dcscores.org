@@ -1,6 +1,6 @@
 ---
 title: Henderson named Executive Director of the year
-position: 2
+position: 3
 Image: "/uploads/brh3.jpg"
 Link: http://bit.ly/HendersonWBJ
 ---
