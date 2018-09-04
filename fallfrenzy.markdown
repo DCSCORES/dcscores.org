@@ -1,28 +1,28 @@
 ---
 title: Fall Frenzy
 permalink: "/fallfrenzy/"
-Top Image: "/uploads/fallfrenzy-header.jpg"
+Top Image: "/uploads/37026046674_47df852644_h.jpg"
 Top Image Position: 50% 50%
 layout: fallfrenzy
 ---
 
 ### Fall Frenzy 2018 Volunteer Information
 
-Jamboree is our culminating event of the year where all 2,500 of our participants and their families are invited to an all-day soccer tournament & community festival.
+Fall Frenzy is our annual elementary school soccer tournament and community festival! Over 1,000 of our participants and their families are invited to an all-day event.
 
 #### Logistics
 
-* Saturday, June 2
+* Saturday, October 13
 
-* Anacostia Park, Field 6 (1800 Anacostia Drive SE, Washington, DC 20020)
+* Trinity University Soccer Fields (125 Michigan Ave NE, Washington, DC 20017)
 
 * All volunteers will receive a light lunch (vegetarian options available) and water stations will be placed throughout the venue.
 
-<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3902.96810327731!2d-76.9882714808304!3d38.8715840449704!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x89b7b9c9d5d2268b%3A0x618b769148718457!2sAnacostia\+Dr%2C\+Washington%2C\+DC!5e0!3m2!1sen!2sus!4v1527020854648" width="600" height="450" frameborder="0" style="border:0" allowfullscreen></iframe>
+<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d1586.1373922152482!2d-77.00454643913571!3d38.92792977661588!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x89b7c7f95d00e459%3A0x5d7b60436fe81cce!2sTrinity+Washington+University!5e1!3m2!1sen!2sus!4v1536078239167" width="600" height="450" frameborder="0" style="border:0" allowfullscreen></iframe>
 
 #### Travel & Parking
 
-* There is a parking lot onsite. We recommend driving, but the nearest metro station is Anacostia Station.
+* There is a parking lot onsite. We recommend driving, but the nearest metro station is Brookland-CUA Station.
 
 #### This event is held outdoors, so please come prepared with the following items:
 
@@ -38,7 +38,7 @@ Jamboree is our culminating event of the year where all 2,500 of our participant
 
 #### Weather Policy
 
-* Jamboree is a “drizzle-or-shine” event. In the case that there is an absolute downpour, we will notify you via email on Friday, June 1st.
+* Fall Frenzy is a “drizzle-or-shine” event. In the case that there is an absolute downpour, we will notify you via email on Friday, October 12th.
 
 #### What do I need to check-in on the day of the event?
 
