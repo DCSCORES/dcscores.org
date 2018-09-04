@@ -8,6 +8,7 @@ Thumbnail Image: "/uploads/38624243626_ba446b7aaa_z.jpg"
 ---
 
 Today marks the start of the 24th Fall SCORES season!
+
 ![37703165902_a577faceaf_z.jpg](/uploads/37703165902_a577faceaf_z.jpg)
 
 
