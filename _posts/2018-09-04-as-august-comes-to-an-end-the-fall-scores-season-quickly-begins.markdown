@@ -4,7 +4,7 @@ date: 2018-09-04 15:42:00 Z
 tags:
 - fall scores
 Author: Madeline Sita
-Thumbnail Image: "/uploads/37703165902_a577faceaf_z.jpg"
+Thumbnail Image: "/uploads/38624243626_ba446b7aaa_z.jpg"
 ---
 
 Today marks the start of the 24th Fall SCORES season!
