@@ -1,6 +1,6 @@
 ---
 title: Philippe Monfiston
-position: 53
+position: 52
 Details: Deloitte
 Section: advisory
 ---

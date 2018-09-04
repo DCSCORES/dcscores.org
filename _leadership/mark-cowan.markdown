@@ -1,6 +1,6 @@
 ---
 title: Mark Cowan
-position: 26
+position: 27
 Details: Potomac International Partners
 Section: board
 Link: https://www.potomacinternationalpartners.com/
