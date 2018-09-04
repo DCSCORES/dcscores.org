@@ -1,7 +1,6 @@
 ---
-title: As August comes to an end the Fall SCORES season quickly begins
+title: As August comes to an end the Fall SCORES season quickly begins!
 date: 2018-09-04 15:42:00 Z
-published: false
 tags:
 - fall scores
 Author: Madeline Sita
