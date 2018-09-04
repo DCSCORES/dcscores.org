@@ -32,9 +32,9 @@ Over the course of the fall season there will be many events to attend!
 
 However, here’s two events you will want to mark on your calendar!
 
-On October 13 at Trinity University, DC SCORES puts on the largest event of the fall season, Fall Frenzy. This is a full day, outdoor celebration for our elementary school poet-athletes and their families! 
+On October 13 at Trinity University, DC SCORES puts on the largest event of the fall season, [Fall Frenzy](https://flic.kr/s/aHsm6ehGBm). This is a full day, outdoor celebration for our elementary school poet-athletes and their families! 
 
-During  November 13-15 DC SCORES will present three nights of Poetry Slam! One night for middle schools, one for our Westside sites, and one for our Eastside sites. 
+During  November 13-15 DC SCORES will present three nights of [Poetry Slam!](https://www.youtube.com/watch?reload=9&v=qJtSuqYmML0&feature=youtu.be) One night for middle schools, one for our Westside sites, and one for our Eastside sites. 
 
 Poet-athletes ages 8-14 come together to perform their original poems in-front of a live audience.
 
@@ -47,7 +47,7 @@ We cannot wait to be reunited with all our poet-athletes and witness all that th
 
 There will be other events throughout the season so stay tuned on DC SCORES website!
 
-Want to get involved with DC SCORES, check out all the different ways you can make an impact as a volunteer.
+Want to get involved with [DC SCORES](https://www.dcscores.org/), check out all the different ways you can make an impact as a volunteer.
 
-Also, be sure to stay up to date on our social platforms: Facebook, Twitter, LinkedIn, and Instagram!
+Also, be sure to stay up to date on our social platforms: [Facebook](https://www.facebook.com/DCSCORES), [Twitter](https://twitter.com/dcscores), [LinkedIn](https://www.linkedin.com/company/dc-scores/), and [Instagram](https://www.instagram.com/dc_scores/)!
 
