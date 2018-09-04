@@ -44,9 +44,9 @@ It’s D.C.’s biggest youth spoken-word competition!
 
 We cannot wait to be reunited with all our poet-athletes and witness all that they accomplish this Fall SCORES season!
 
-There will be other events throughout the season so stay tuned on DC SCORES website!
+There will be other events throughout the season so stay tuned on [DC SCORES](https://www.dcscores.org/) website!
 
-Want to get involved with [DC SCORES](https://www.dcscores.org/), check out all the different ways you can make an impact as a volunteer.
+Want to get involved with DC SCORES, check out all the different ways you can make an impact as a [volunteer](https://www.dcscores.org/volunteer/).
 
 Also, be sure to stay up to date on our social platforms: [Facebook](https://www.facebook.com/DCSCORES), [Twitter](https://twitter.com/dcscores), [LinkedIn](https://www.linkedin.com/company/dc-scores/), and [Instagram](https://www.instagram.com/dc_scores/)!
 
