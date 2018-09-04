@@ -39,6 +39,7 @@ During  November 13-15 DC SCORES will present three nights of [Poetry Slam!](htt
 Poet-athletes ages 8-14 come together to perform their original poems in-front of a live audience.
 
 Their original works address the most pressing and current issues facing their communities, including racial and gender equality, immigration, identity, bullying, and social justice.
+
 ![26681818789_77ef2a21de_z.jpg](/uploads/26681818789_77ef2a21de_z.jpg)
 
 It’s D.C.’s biggest youth spoken-word competition! 
