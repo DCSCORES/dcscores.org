@@ -1,5 +1,5 @@
 ---
-title: Fall SCORES is back!
+title: The fall SCORES season is back
 date: 2018-09-04 16:47:00 Z
 Image: "/uploads/41845487462_872cfcbf7a_o.jpg"
 Image Position: 50% 25%
