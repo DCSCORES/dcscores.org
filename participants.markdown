@@ -19,7 +19,7 @@ forFamilies:
 
   Are you a current parent? Do you want to get all the information you need? Click <a href="https://parents.dcscores.org/" target="_blank">HERE</a>
 
-  Work at a school interested in having DC SCORES? Print out the <a href="https://drive.google.com/file/d/11F1BG9gXQWi7vK1bQ2W-K74CERlA6aP1/view?usp=sharing"_blank">application form</a>.
+  Work at a school interested in having DC SCORES? Print out the <a href="https://drive.google.com/file/d/11F1BG9gXQWi7vK1bQ2W-K74CERlA6aP1/view?usp=sharing" target="_blank">application form</a>.
 programAlumni:
 - "### Program Alumni\n\n#### 7th Annual Alumni Tournament \nSee photos <a href=\"https://www.flickr.com/photos/dcscorespictures/albums/72157691961383872\"
   target=\"_blank\">HERE</a>\n\n#### Reconnect!\nAre you a DC SCORES alumnus interested
