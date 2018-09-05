@@ -19,4 +19,4 @@ Staff, kowens@dcscores.org
 
 ## Internships
 
-Stay tuned for Fall 2018 internship opportunities coming soon!
+Stay tuned for Spring 2019 internship opportunities coming soon!
