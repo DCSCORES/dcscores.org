@@ -6,7 +6,7 @@ Blurb: Join more than 1,000 elementary school kids, hundreds of family members, 
   and members of the community for the largest DC SCORES event of the fall!
 Link: https://www.youtube.com/watch?v=NbkbBe-Nnz8
 Image: "/uploads/37735525781_22a03a8a6c_k.jpg"
-Image Position: 83% 17%
+Image Position: 85% 15%
 Color: "#00467f"
 Is Finished: 'No'
 ---
