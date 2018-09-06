@@ -1,6 +1,7 @@
 ---
 title: Kyla Yager
 date: 2018-09-06 21:19:00 Z
+position: 23
 Details: Program Coordinator
 Email: kyager@dcscores.org
 Profile Image: "/uploads/IMG_0619.jpg"
