@@ -1,7 +1,7 @@
 ---
 title: Lindsey Sharp
 date: 2017-08-14 14:51:00 Z
-position: 18
+position: 19
 Details: Manager of Partnerships and Events
 Email: lsharp@dcscores.org
 Profile Image: "/uploads/FullSizeRender%2012.jpg"
