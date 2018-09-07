@@ -1,7 +1,7 @@
 ---
 title: One Night One Goal
 date: 2018-09-07 15:47:00 Z
-Image: "/uploads/one%20night%20one%20goal%20(4).png"
+Image: "/uploads/one%20night%20one%20goal%20(2)-3775ab.jpg"
 Image Position: 50% 50%
 Link: www.onenightonegoal.com
 ---
