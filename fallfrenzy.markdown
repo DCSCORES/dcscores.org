@@ -74,11 +74,14 @@ Recommended for a group (e.g. a company). This station will consist of organizin
 
 For this role, one shift will be available.
 
+
 #### Photography/Videography
 
 *Please bring your own camera*. In this position, volunteers will be assigned to capture a certain area/set of games.
 
 For this role, there are **AM**, **PM**, and **All-Day** shifts available.
+
+* [Register for Photography/Videography](http://scores.force.com/volunteer/GW_Volunteers__VolunteersJobListingFS?Calendar=1&volunteerShiftId=a0V5000000DJvYYEA1&jobId=a0T5000000gkdgLEAQ&dtMonthFilter=2018-10-13%209:0:0)
 
 
 #### Set-Up/Closing Crew
@@ -96,3 +99,5 @@ There is one shift for set-up and one for closing crew available.
 Other duties will be assigned as needed and volunteers may be asked to float between various volunteer roles.
 
 There are **AM**, **PM**, and **All-Day** shifts available for this role.
+
+* [Register for General](http://scores.force.com/volunteer/GW_Volunteers__VolunteersJobListingFS?Calendar=1&volunteerShiftId=a0V5000000DyOaXEAV&jobId=a0T5000000jUABxEAO&dtMonthFilter=2018-10-13%2011:30:0)
