@@ -63,6 +63,8 @@ Great team-building experience for different departments for groups of 2-12 empl
 
 For this role, there are **AM**, **PM**, and **All-Day** shifts available.
 
+* [Register for Activity Booths](http://scores.force.com/volunteer/GW_Volunteers__VolunteersJobListingFS?Calendar=1&volunteerShiftId=a0V5000000DyOZZEA3&jobId=a0T5000000jUAC2EAO&dtMonthFilter=2018-10-13%208:0:0)
+
 
 #### Lunch Distribution
 
