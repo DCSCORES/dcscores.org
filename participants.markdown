@@ -4,12 +4,23 @@ permalink: "/our-program/participants/"
 Top Image: "/assets/images/masthead-resources.jpg"
 Top Image Position: 50% 40%
 soccerSchedule:
-- |-
-  ## Soccer Schedule
-
-  DC SCORES runs the only consistent elementary and middle public school soccer leagues for both boys and girls in the District of Columbia. Additionally, beginning in the fall of 2016, DC SCORES is running the DC SCORES City League, a District-wide recreation center soccer league run in partnership with the DC Department of Parks and Recreation. <a href="https://www.google.com/maps/d/u/0/viewer?mid=1ArueGtkLKryfnhjFva-7hHSZlD8&ll=38.8939219214454%2C-77.01469049999997&z=12" target="_blank">MAP of SITES</a>
-
-  Thank you to our schools, coaches and volunteers for their hard work this spring season!
+- "## Soccer Schedule\n\nDC SCORES runs the only consistent elementary and middle
+  public school soccer leagues for both boys and girls in the District of Columbia.
+  Additionally, beginning in the fall of 2016, DC SCORES is running the DC SCORES
+  City League, a District-wide recreation center soccer league run in partnership
+  with the DC Department of Parks and Recreation. <a href=\"https://www.google.com/maps/d/u/0/viewer?mid=1ArueGtkLKryfnhjFva-7hHSZlD8&ll=38.8939219214454%2C-77.01469049999997&z=12\"
+  target=\"_blank\">MAP of SITES</a>\n\n#### Elementary School - Thursday, September
+  13\nGirls game kicks off at 4pm, followed by the boys game. \n\n- Boone at Aiton\n-
+  Smothers at Amidon-Bowen\n- Turner at Beers\n- Van Ness at Miner\n- Tyler at Burrville\n-
+  Thomson at Imagine Hope-Lamond\n- Washington School for Girls at Thomas\n- JC Nalle
+  at KIPP Quest\n- Imagine Hope-Tolson at Leckie\n- Bancroft at Tubman\n- Garrison
+  at Capital City\n- Barnard at LaSalle\n- Brightwood at Raymond\n- Bruce-Monroe at
+  Reed\n- HD Cooke at Seaton\n- Powell at Truesdell\n- Drew at Walker-Jones\n\n####
+  Middle School - Friday, September 14\nGirls game kicks off at 4pm, followed by the
+  boys game.\n- Basis at KIPP NE\n- Brookland at KIPP KEY\n- Chavez Prep at KIPP WILL\n-
+  LaSalle at Capital City\n- Truesdell at Lincoln\n- DCI at Brightwood\n\nCOED - CoEd
+  games start at 4pm\n- Cardozo at Jefferson\n- Paul Public at Hart\n- MacFarland
+  at Leckie\n- Inspired Teaching at KIPP AIM"
 soccerScheduleMap: "/uploads/image-program-sites-map.png"
 forFamilies:
 - |-
