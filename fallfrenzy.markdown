@@ -56,6 +56,8 @@ Referees will be asked to work with other referees at their field and will contr
 
 For this role, there are **AM**, **PM**, and **All-Day** shifts available.
 
+* [Register for Referees](http://scores.force.com/volunteer/GW_Volunteers__VolunteersJobListingFS?Calendar=1&volunteerShiftId=a0V5000000DyPDjEAN&jobId=a0T5000000jUACCEA4&dtMonthFilter=2018-10-13%208:30:0)
+
 
 #### Activity Booths
 
