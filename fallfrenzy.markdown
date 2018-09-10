@@ -85,7 +85,7 @@ Closing shift includes assistance with breaking down goals, tents, art booths, a
 
 There is one shift for set-up and one for closing crew available.
 
-#### [Register for Set-Up/Closing](http://scores.force.com/volunteer/GW_Volunteers__VolunteersJobListingFS?Calendar=1&volunteerShiftId=a0V5000000DyP9XEAV&jobId=a0T5000000jUAC7EAO&dtMonthFilter=2018-10-13%207:30:0)
+* [Register for Set-Up/Closing](http://scores.force.com/volunteer/GW_Volunteers__VolunteersJobListingFS?Calendar=1&volunteerShiftId=a0V5000000DyP9XEAV&jobId=a0T5000000jUAC7EAO&dtMonthFilter=2018-10-13%207:30:0)
 
 #### General
 
