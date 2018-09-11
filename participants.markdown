@@ -18,9 +18,10 @@ soccerSchedule:
   Reed\n- HD Cooke at Seaton\n- Powell at Truesdell\n- Drew at Walker-Jones\n\n####
   Middle School - Friday, September 14\nGirls game kicks off at 4pm, followed by the
   boys game.\n- Basis at KIPP NE\n- Brookland at KIPP KEY\n- Chavez Prep at KIPP WILL\n-
-  LaSalle at Capital City\n- Truesdell at Lincoln\n- DCI at Brightwood\n\nCOED - CoEd
-  games start at 4pm\n- Cardozo at Jefferson\n- Paul Public at Hart\n- MacFarland
-  at Leckie\n- Inspired Teaching at KIPP AIM"
+  LaSalle at Capital City\n- Truesdell at Lincoln\n- EL Haynes at Washington Latin\n-
+  DCI at Brightwood\n\nCOED - CoEd games start at 4pm\n- Cardozo at Jefferson\n- KIPP
+  Valor at Kelly Miller\n- Paul Public at Hart\n- MacFarland at Leckie\n- Inspired
+  Teaching at KIPP AIM"
 soccerScheduleMap: "/uploads/image-program-sites-map.png"
 forFamilies:
 - |-
