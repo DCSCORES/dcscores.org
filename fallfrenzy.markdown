@@ -74,6 +74,8 @@ Recommended for a group (e.g. a company). This station will consist of organizin
 
 For this role, one shift will be available.
 
+* [Register for Lunch Distribution](http://scores.force.com/volunteer/GW_Volunteers__VolunteersJobListingFS?Calendar=1&volunteerShiftId=a0V5000000DyRfMEAV&jobId=a0T5000000jZfZwEAK&dtMonthFilter=2018-10-13%209:45:0)
+
 
 #### Photography/Videography
 
