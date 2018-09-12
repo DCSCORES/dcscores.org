@@ -141,4 +141,4 @@ At your convenience. We always need help at our events, but also photos and vide
 At sites throughout DC. We will do our best to place you based on your location and mode of transportation.
 
 **Want to get involved?**
-Contact Lindsey Sharp at lsharp@dcscores.org
+Contact Lorena Palacios at lpalacios@dcscores.org
