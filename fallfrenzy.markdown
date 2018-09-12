@@ -50,6 +50,8 @@ Fall Frenzy is our annual elementary school soccer tournament and community fest
 
 ### Roles
 
+Please list your company/organization if you are volunteering as part of a group in the "Volunteer Organization" section.
+
 #### Referee
 
 Referees will be asked to work with other referees at their field and will control 3-5 games throughout the day. **Soccer experience necessary, although all referees will complete a brief overview with DC SCORES Staff before their shift, some light jogging required**.
