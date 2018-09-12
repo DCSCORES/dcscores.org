@@ -50,7 +50,7 @@ Fall Frenzy is our annual elementary school soccer tournament and community fest
 
 ### Roles
 
-Please list your company/organization if you are volunteering as part of a group in the "Volunteer Organization" section.
+**Please list your company/organization if you are volunteering as part of a group in the "Volunteer Organization" section.**
 
 #### Referee
 
