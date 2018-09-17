@@ -10,18 +10,17 @@ soccerSchedule:
   City League, a District-wide recreation center soccer league run in partnership
   with the DC Department of Parks and Recreation. <a href=\"https://www.google.com/maps/d/u/0/viewer?mid=1ArueGtkLKryfnhjFva-7hHSZlD8&ll=38.8939219214454%2C-77.01469049999997&z=12\"
   target=\"_blank\">MAP of SITES</a>\n\n#### Elementary School - Thursday, September
-  13\nGirls game kicks off at 4pm, followed by the boys game. \n\n- Boone at Aiton\n-
-  Smothers at Amidon-Bowen\n- Turner at Beers\n- Van Ness at Miner\n- Tyler at Burrville\n-
-  Thomson at Imagine Hope-Lamond\n- Washington School for Girls at Thomas\n- JC Nalle
-  at KIPP Quest\n- Imagine Hope-Tolson at Leckie\n- Bancroft at Tubman\n- Garrison
-  at Capital City\n- Barnard at LaSalle\n- Brightwood at Raymond\n- Bruce-Monroe at
-  Reed\n- HD Cooke at Seaton\n- Powell at Truesdell\n- Drew at Walker-Jones\n\n####
-  Middle School - Friday, September 14\nGirls game kicks off at 4pm, followed by the
-  boys game.\n- Basis at KIPP NE\n- Brookland at KIPP KEY\n- Chavez Prep at KIPP WILL\n-
-  LaSalle at Capital City\n- Truesdell at Lincoln\n- EL Haynes at Washington Latin\n-
-  DCI at Brightwood\n\nCOED - CoEd games start at 4pm\n- Cardozo at Jefferson\n- KIPP
-  Valor at Kelly Miller\n- Paul Public at Hart\n- MacFarland at Leckie\n- Inspired
-  Teaching at KIPP AIM"
+  20\nGirls game kicks off at 4pm, followed by the boys game. \n\n- Imagine Hope-Tolson
+  at Aiton\n- Boone at Amidon-Bowen\n- Drew at Burrville\n- Leckie at JC Nalle\n-
+  Thomas at KIPP Quest\n- Turner at Miner\n- Beers at Tyler\n- Smothers at Walker-Jones\n-
+  Brightwood at Garrison\n- Barnard at LaSalle\n- Capital City at Raymond\n- Bruce-Monroe
+  at Reed\n- HD Cooke at Seaton\n- Powell at Truesdell\n- Bancroft at Tubman\n- Thomson
+  at WSG and Imagine Hope-Lamond\n\n#### Middle School - Friday, September 21\nGirls
+  game kicks off at 4pm, followed by the boys game.\n- Washington Latin at Capital
+  City\n- Brookland at DCI\n- Truesdell at KIPP KEY\n- Chavez-Prep at KIPP NE\n- EL
+  Haynes at KIPP WILL\n- Raymond at LaSalle\n- Brightwood at Lincoln\n- MacFarland
+  at Cardozo\n\nCOED - CoEd games start at 4pm\n- KIPP Valor at Hart\n- Paul Public
+  at Kelly Miller\n- Jefferson at KIPP AIM\n- Inspired Teaching at Leckie"
 soccerScheduleMap: "/uploads/image-program-sites-map.png"
 forFamilies:
 - |-
