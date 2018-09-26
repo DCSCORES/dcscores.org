@@ -10,17 +10,16 @@ soccerSchedule:
   City League, a District-wide recreation center soccer league run in partnership
   with the DC Department of Parks and Recreation. <a href=\"https://www.google.com/maps/d/u/0/viewer?mid=1ArueGtkLKryfnhjFva-7hHSZlD8&ll=38.8939219214454%2C-77.01469049999997&z=12\"
   target=\"_blank\">MAP of SITES</a>\n\n#### Elementary School - Thursday, September
-  20\nGirls game kicks off at 4pm, followed by the boys game. \n\n- Imagine Hope-Tolson
-  at Aiton\n- Boone at Amidon-Bowen\n- Drew at Burrville\n- Leckie at JC Nalle\n-
-  Thomas at KIPP Quest\n- Turner at Miner\n- Beers at Tyler\n- Smothers at Walker-Jones\n-
-  Brightwood at Garrison\n- Barnard at LaSalle\n- Capital City at Raymond\n- Bruce-Monroe
-  at Reed\n- HD Cooke at Seaton\n- Powell at Truesdell\n- Bancroft at Tubman\n- Thomson
-  at WSG and Imagine Hope-Lamond\n\n#### Middle School - Friday, September 21\nGirls
-  game kicks off at 4pm, followed by the boys game.\n- Washington Latin at Capital
-  City\n- Brookland at DCI\n- Truesdell at KIPP KEY\n- Chavez-Prep at KIPP NE\n- EL
-  Haynes at KIPP WILL\n- Raymond at LaSalle\n- Brightwood at Lincoln\n- MacFarland
-  at Cardozo\n\nCOED - CoEd games start at 4pm\n- KIPP Valor at Hart\n- Paul Public
-  at Kelly Miller\n- Jefferson at KIPP AIM\n- Inspired Teaching at Leckie"
+  27\nGirls game kicks off at 4pm, followed by the boys game. \n- Thomas at Aiton\n-
+  JC Nalle at Amidon-Bowen\n- Imagine Hope - Tolson at Beers\n- Turner at Drew\n-
+  Burrville at KIPP Quest\n- Boone at Miner\n- Smothers at Tyler\n- Walker-Jones at
+  Leckie\n- Bruce Monroe at Capital City\n- Barnard at Garrison\n- HD Cooke at LaSalle\n-
+  Powell at Raymond\n- Thomson at Reed\n- Bancroft at Seaton\n- WSG & Imagine Hope
+  -Lamond at Truesdell\n- Brightwood at Tubman\n\n#### Middle School - Friday, September
+  28\nGirls game kicks off at 4pm, followed by the boys game.\n- Truesdell at Brightwood\n-
+  Basis at Capital City\n- Brookland at Chavez-Prep\n- Raymond at Washington Latin\n\nCOED
+  - CoEd games start at 4pm\n- Paul at Cardozo\n- Inspired Teaching at Hart\n- MacFarland
+  at Kelly Miller\n- Jefferson at Leckie"
 soccerScheduleMap: "/uploads/image-program-sites-map.png"
 forFamilies:
 - |-
