@@ -16,10 +16,9 @@ soccerSchedule:
   Leckie\n- Bruce Monroe at Capital City\n- Barnard at Garrison\n- HD Cooke at LaSalle\n-
   Powell at Raymond\n- Thomson at Reed\n- Bancroft at Seaton\n- WSG & Imagine Hope
   -Lamond at Truesdell\n- Brightwood at Tubman\n\n#### Middle School - Friday, September
-  28\nGirls game kicks off at 4pm, followed by the boys game.\n- Truesdell at Brightwood\n-
-  Basis at Capital City\n- Brookland at Chavez-Prep\n- Raymond at Washington Latin\n\nCOED
-  - CoEd games start at 4pm\n- Paul at Cardozo\n- Inspired Teaching at Hart\n- MacFarland
-  at Kelly Miller\n- Jefferson at Leckie"
+  28\nGirls game kicks off at 4pm, followed by the boys game.\n- Brookland at Chavez-Prep\n-
+  Lincoln at LaSalle\n\nCOED - CoEd games start at 4pm\n- Paul at Cardozo\n- Inspired
+  Teaching at Hart\n- Jefferson at Leckie"
 soccerScheduleMap: "/uploads/image-program-sites-map.png"
 forFamilies:
 - |-
