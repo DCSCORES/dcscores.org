@@ -9,16 +9,18 @@ soccerSchedule:
   Additionally, beginning in the fall of 2016, DC SCORES is running the DC SCORES
   City League, a District-wide recreation center soccer league run in partnership
   with the DC Department of Parks and Recreation. <a href=\"https://www.google.com/maps/d/u/0/viewer?mid=1ArueGtkLKryfnhjFva-7hHSZlD8&ll=38.8939219214454%2C-77.01469049999997&z=12\"
-  target=\"_blank\">MAP of SITES</a>\n\n#### Elementary School - Thursday, September
-  27\nGirls game kicks off at 4pm, followed by the boys game. \n- Thomas at Aiton\n-
-  JC Nalle at Amidon-Bowen\n- Imagine Hope - Tolson at Beers\n- Turner at Drew\n-
-  Burrville at KIPP Quest\n- Boone at Miner\n- Smothers at Tyler\n- Walker-Jones at
-  Leckie\n- Bruce Monroe at Capital City\n- Barnard at Garrison\n- HD Cooke at LaSalle\n-
-  Powell at Raymond\n- Thomson at Reed\n- Bancroft at Seaton\n- WSG & Imagine Hope
-  -Lamond at Truesdell\n- Brightwood at Tubman\n\n#### Middle School - Friday, September
-  28\nGirls game kicks off at 4pm, followed by the boys game.\n- Brookland at Chavez-Prep\n-
-  Lincoln at LaSalle\n\nCOED - CoEd games start at 4pm\n- Paul at Cardozo\n- Inspired
-  Teaching at Hart\n- Jefferson at Leckie"
+  target=\"_blank\">MAP of SITES</a>\n\n#### Elementary School - Thursday, October
+  4\nGirls game kicks off at 4pm, followed by the boys game. \n- Boone at Aiton\n-
+  Smothers at Amidon\n- Turner at Beers\n- Tyler at Burrville\n- JC Nalle at KIPP
+  Quest\n- Miner at Leckie\n- Van Ness at Thomas\n- Walker-Jones at Drew\n- Thomson
+  at Bancroft\n- HD Cooke at Capital City\n- Seaton at Garrison\n- Powell at LaSalle\n-
+  Brightwood at Raymond\n- WSG & Imagine Hope-Lamond at Reed\n- Barnard at Truesdell\n-
+  Bruce Monroe at Tubman\n- Imagine Hope - Tolson at Kimball\n\n#### Middle School
+  - Friday, October 5\nGirls game kicks off at 4pm, followed by the boys game.\n-
+  EL Haynes at KIPP KEY\n- Brightwood at KIPP NE\n- Basis at KIPP WILL\n- Brookland
+  at LaSalle\n- Raymond at Lincoln\n\nCOED - CoEd games start at 4pm\n- Kelly Miller
+  at Hart\n- KIPP Valor at Inspired Teaching\n- Paul at Jefferson\n- MacFarland at
+  KIPP AIM\n- Cardozo at Leckie"
 soccerScheduleMap: "/uploads/image-program-sites-map.png"
 forFamilies:
 - |-
