@@ -4,23 +4,31 @@ permalink: "/our-program/participants/"
 Top Image: "/assets/images/masthead-resources.jpg"
 Top Image Position: 50% 40%
 soccerSchedule:
-- "## Soccer Schedule\n\nDC SCORES runs the only consistent elementary and middle
-  public school soccer leagues for both boys and girls in the District of Columbia.
-  Additionally, beginning in the fall of 2016, DC SCORES is running the DC SCORES
-  City League, a District-wide recreation center soccer league run in partnership
-  with the DC Department of Parks and Recreation. <a href=\"https://www.google.com/maps/d/u/0/viewer?mid=1ArueGtkLKryfnhjFva-7hHSZlD8&ll=38.8939219214454%2C-77.01469049999997&z=12\"
-  target=\"_blank\">MAP of SITES</a>\n\n#### Elementary School - Thursday, October
-  4\nGirls game kicks off at 4pm, followed by the boys game. \n- Boone at Aiton\n-
-  Smothers at Amidon\n- Turner at Beers\n- Tyler at Burrville\n- JC Nalle at KIPP
-  Quest\n- Miner at Leckie\n- Van Ness at Thomas\n- Walker-Jones at Drew\n- Thomson
-  at Bancroft\n- HD Cooke at Capital City\n- Seaton at Garrison\n- Powell at LaSalle\n-
-  Brightwood at Raymond\n- WSG & Imagine Hope-Lamond at Reed\n- Barnard at Truesdell\n-
-  Bruce Monroe at Tubman\n- Imagine Hope - Tolson at Kimball\n\n#### Middle School
-  - Friday, October 5\nGirls game kicks off at 4pm, followed by the boys game.\n-
-  EL Haynes at KIPP KEY\n- Brightwood at KIPP NE\n- Basis at KIPP WILL\n- Brookland
-  at LaSalle\n- Raymond at Lincoln\n\nCOED - CoEd games start at 4pm\n- Kelly Miller
-  at Hart\n- KIPP Valor at Inspired Teaching\n- Paul at Jefferson\n- MacFarland at
-  KIPP AIM\n- Cardozo at Leckie"
+- |-
+  ## Soccer Schedule
+
+  DC SCORES runs the only consistent elementary and middle public school soccer leagues for both boys and girls in the District of Columbia. Additionally, beginning in the fall of 2016, DC SCORES is running the DC SCORES City League, a District-wide recreation center soccer league run in partnership with the DC Department of Parks and Recreation. <a href="https://www.google.com/maps/d/u/0/viewer?mid=1ArueGtkLKryfnhjFva-7hHSZlD8&ll=38.8939219214454%2C-77.01469049999997&z=12" target="_blank">MAP of SITES</a>
+
+  #### Elementary School - Thursday, October 11
+  No elementary school gamedays this week. Fall Frenzy will be on Saturday, October 13th.
+
+  #### Middle School - Friday, October 12
+  Girls game kicks off at 4pm, followed by the boys game.
+  - EL Haynes at Capital City
+  - Basis at DCI
+  - Brightwood at KIPP KEY
+  - Raymond at KIPP NE
+  - Truesdell at KIPP WILL
+  - Chavez Prep at Lincoln
+  - LaSalle at Washington Latin
+  - Brookland at WSG (girls only)
+
+  COED - CoEd games start at 4pm
+  - Kelly Miller at Cardozo
+  - MacFarland at Hart
+  - Inspired Teaching at Jefferson
+  - Paul Public at KIPP AIM
+  - KIPP Valor at Leckie
 soccerScheduleMap: "/uploads/image-program-sites-map.png"
 forFamilies:
 - |-
