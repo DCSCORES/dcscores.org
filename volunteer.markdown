@@ -86,9 +86,9 @@ A day-long celebration of our fall season that includes soccer games and outdoor
 
 This two-night, spoken-word competition features DC SCORES students performing their original poetry. Volunteer roles include set-up/breakdown, registration, ushers, scoring assistants, and stagehands.
 
-**Dates:** November 2018 (TBD)
+**Dates:** November 13-15, 2018
 
-**Location:** TBD
+**Location:** Middle School ([Cardozo Education Campus](https://www.google.com/maps/place/Cardozo+Education+Campus/@38.9214669,-77.0305685,17z/data=!3m1!4b1!4m5!3m4!1s0x89b7b7e13781d04b:0xe3284d4ef97f7210!8m2!3d38.9214669!4d-77.0283798)), Westside ([Roosevelt High School](https://www.google.com/maps/place/Theodore+Roosevelt+High+School/@38.943046,-77.0313638,17z/data=!3m1!4b1!4m5!3m4!1s0x89b7c81477c3b445:0xd912cd462abafb52!8m2!3d38.943046!4d-77.0291751)), Eastside ([HD Woodson High School](https://www.google.com/maps/place/H.D.+Woodson+High+School/@38.8967466,-76.9248145,17z/data=!3m1!4b1!4m5!3m4!1s0x89b7b8db6a45a6a1:0xee1293b8679afa77!8m2!3d38.8967466!4d-76.9226258))
 
 ---
 
