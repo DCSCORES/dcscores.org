@@ -50,43 +50,21 @@ Fall Frenzy is our annual elementary school soccer tournament and community fest
 
 ### Roles
 
-**Please list your company/organization if you are volunteering as part of a group in the "Volunteer Organization" section.**
-
 #### Referee
 
 Referees will be asked to work with other referees at their field and will control 3-5 games throughout the day. **Soccer experience necessary, although all referees will complete a brief overview with DC SCORES Staff before their shift, some light jogging required**.
-
-For this role, there are **AM**, **PM**, and **All-Day** shifts available.
-
-* [Register for Referees](http://scores.force.com/volunteer/GW_Volunteers__VolunteersJobListingFS?Calendar=1&volunteerShiftId=a0V5000000DyPDjEAN&jobId=a0T5000000jUACCEA4&dtMonthFilter=2018-10-13%208:30:0)
-
 
 #### Activity Booths
 
 Great team-building experience for different departments for groups of 2-12 employees. Booths include face-painting, art & soccer activities, etc.
 
-For this role, there are **AM**, **PM**, and **All-Day** shifts available.
-
-* [Register for Activity Booths](http://scores.force.com/volunteer/GW_Volunteers__VolunteersJobListingFS?Calendar=1&volunteerShiftId=a0V5000000DyOZZEA3&jobId=a0T5000000jUAC2EAO&dtMonthFilter=2018-10-13%208:0:0)
-
-
 #### Lunch Distribution
 
 Recommended for a group (e.g. a company). This station will consist of organizing boxed lunches and making sure they get to teams, family members, and volunteers properly.
 
-For this role, one shift will be available.
-
-* [Register for Lunch Distribution](http://scores.force.com/volunteer/GW_Volunteers__VolunteersJobListingFS?Calendar=1&volunteerShiftId=a0V5000000DyRfMEAV&jobId=a0T5000000jZfZwEAK&dtMonthFilter=2018-10-13%209:45:0)
-
-
 #### Photography/Videography
 
 *Please bring your own camera*. In this position, volunteers will be assigned to capture a certain area/set of games.
-
-For this role, there are **AM**, **PM**, and **All-Day** shifts available.
-
-* [Register for Photography/Videography](http://scores.force.com/volunteer/GW_Volunteers__VolunteersJobListingFS?Calendar=1&volunteerShiftId=a0V5000000DJvYYEA1&jobId=a0T5000000gkdgLEAQ&dtMonthFilter=2018-10-13%209:0:0)
-
 
 #### Set-Up/Closing Crew
 
@@ -94,14 +72,6 @@ Set-up includes setting up tables, goals, tents, art supplies, etc. *some heavy 
 
 Closing shift includes assistance with breaking down goals, tents, art booths, and other materials is needed at the end of the day.
 
-There is one shift for set-up and one for closing crew available.
-
-* [Register for Set-Up/Closing](http://scores.force.com/volunteer/GW_Volunteers__VolunteersJobListingFS?Calendar=1&volunteerShiftId=a0V5000000DyP9XEAV&jobId=a0T5000000jUAC7EAO&dtMonthFilter=2018-10-13%207:30:0)
-
 #### General
 
 Other duties will be assigned as needed and volunteers may be asked to float between various volunteer roles.
-
-There are **AM**, **PM**, and **All-Day** shifts available for this role.
-
-* [Register for General](http://scores.force.com/volunteer/GW_Volunteers__VolunteersJobListingFS?Calendar=1&volunteerShiftId=a0V5000000DyOaXEAV&jobId=a0T5000000jUABxEAO&dtMonthFilter=2018-10-13%2011:30:0)
