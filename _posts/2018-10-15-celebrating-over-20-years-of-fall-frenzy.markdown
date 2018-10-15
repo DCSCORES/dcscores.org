@@ -7,7 +7,7 @@ Author: Lorena Palacios
 Thumbnail Image: "/uploads/IMG_3021-59b392.jpg"
 ---
 
-[IMG_3041.JPG](/uploads/IMG_3041.JPG)
+[IMG_3041 (1).JPG](/uploads/IMG_3041%20(1).JPG)
 
 [2018 Fall Frenzy Photo Album](https://www.flickr.com/photos/dcscorespictures/albums/72157702242957694/with/31455195228/)
 
