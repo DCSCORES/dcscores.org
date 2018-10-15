@@ -7,7 +7,7 @@ Author: Lorena Palacios
 Thumbnail Image: "/uploads/IMG_3021-59b392.jpg"
 ---
 
-[IMG_3041 (1).JPG](/uploads/IMG_3041%20(1).JPG)
+[IMG_3041.jgp (2).JPG](/uploads/IMG_3041.jgp%20(2).JPG)
 
 [2018 Fall Frenzy Photo Album](https://www.flickr.com/photos/dcscorespictures/albums/72157702242957694/with/31455195228/)
 
@@ -25,7 +25,7 @@ Little by little, Trinity’s soccer field started to fill up with arriving team
 
 As tradition mandates, teams gathered around [DJ RBI](https://twitter.com/djRBI) waiting for Chief Program Officer, [Sean Hinkle](https://www.dcscores.org/about-us/leadership/sean-hinkle), to officially kick off the day with the DC SCORES sportsmanship speech and chant.
 
-![IMG_2991.jpg](/uploads/IMG_2991.jpg)
+![IMG_2991 (1).jpg](/uploads/IMG_2991%20(1).jpg)
 
 Throughout the day, teams rotated from soccer games to activity booths that included shooting accuracy drills, games from around the world, relay races, arts & crafts, and of course the ever-popular, face painting.
 
