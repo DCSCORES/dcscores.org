@@ -2,7 +2,7 @@
 title: Katie Lu Clougherty
 date: 2017-08-14 13:49:00 Z
 position: 6
-Details: Program Data Coordinator
+Details: Monitoring and Evaluation Manager
 Email: kclougherty@dcscores.org
 Profile Image: "/uploads/IMG_1752%20(1).jpg"
 Section: staff
