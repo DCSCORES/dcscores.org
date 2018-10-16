@@ -1,9 +1,9 @@
 ---
 title: One Night One Goal
 date: 2018-09-07 15:47:00 Z
-Image: "/uploads/one%20night%20one%20goal.png"
-Image Position: 70% 30%
-Link: https://onog.dcscores.org/home
+Image: "/uploads/44297984565_a993ba936e_k%20(1).jpg"
+Image Position: 60% 40%
+Link: https://www.flickr.com/photos/dcscorespictures/albums/72157674161621848
 ---
 
-Join us for a once-in-a-lifetime night out at Audi Field, the newest professional sports venue in the country! All proceeds benefit DC SCORES, D.C. United's official community partner.
+One Night One Goal exceeded all expectations. Guests helped raise enough money to bring DC SCORES to nearly 380 kids — 12 entire teams!
