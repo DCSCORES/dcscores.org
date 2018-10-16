@@ -1,7 +1,7 @@
 ---
 title: Tony Francavilla
 position: 3
-Details: Director of Individual Gifts & Corporate Partnerships
+Details: Chief Development Officer
 Email: afrancavilla@dcscores.org
 Profile Image: "/uploads/profile--tony-francavilla.jpg"
 Section: staff
