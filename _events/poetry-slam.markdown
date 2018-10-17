@@ -8,6 +8,6 @@ Link: http://bit.ly/Eastside17Highlights
 Image: "/uploads/event-poetry-slam.jpg"
 Image Position: 50% 50%
 Color: "#e31836"
-Is Finished: 'No'
+Is Finished: true
 ---
 
