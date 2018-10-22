@@ -1,6 +1,6 @@
 ---
 title: Jessica Trevelyan
-position: 22
+position: 21
 Details: Director of Foundation & Government Grants
 Email: jtrevelyan@dcscores.org
 Profile Image: "/uploads/profile--jessica-trevelyan.jpg"
