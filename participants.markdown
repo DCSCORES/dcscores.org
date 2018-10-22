@@ -9,44 +9,16 @@ soccerSchedule:
 
   DC SCORES runs the only consistent elementary and middle public school soccer leagues for both boys and girls in the District of Columbia. Additionally, beginning in the fall of 2016, DC SCORES is running the DC SCORES City League, a District-wide recreation center soccer league run in partnership with the DC Department of Parks and Recreation. <a href="https://www.google.com/maps/d/u/0/viewer?mid=1ArueGtkLKryfnhjFva-7hHSZlD8&ll=38.8939219214454%2C-77.01469049999997&z=12" target="_blank">MAP of SITES</a>
 
-  #### Junior SCORES - Wednesday, October 17
-  - LaSalle at Seaton
-  - Upshur Rec at Bancroft
-  - Van Ness at Amidon-Bowen
-  - Turkey Thicket Rec at Miner
-  - Reed at Park View
+  #### Junior SCORES - Wednesday, October 24
+  - Seaton at Amidon
+  - Van Ness at Miner
+  - Trinidad Rec. at Reed
+  - Powell at Truesdell
+  - Park View at Bancroft
 
-  #### Elementary School - Thursday, October 18
-  Girls game kicks off at 4pm, followed by the boys game.
-  - Smothers at Aiton
-  - Turner at Amidon-Bowen
-  - Van Ness at Beers
-  - Miner at Burrville
-  - Kimball at JC Nalle
-  - Imagine Hope-Tolson at KIPP Quest
-  - Boone at Leckie
-  - Drew at Thomas
-  - Walker-Jones at Tyler
-  - Brightwood at Capital City
-  - WSG & Imagine Hope-Lamond at Garrison
-  - Bruce-Monroe at LaSalle
-  - HD Cooke at Raymond
-  - Powell at Reed
-  - Thomson at Seaton
-  - Bancroft at Truesdell
-  - Barnard at Tubman
+  #### Elementary School - No games this week
 
-  #### Middle School - Friday, October 19
-  Girls game kicks off at 4pm, followed by the boys game.
-  - Truesdell at Chavez-Prep
-  - LaSalle at KIPP KEY
-  - EL Haynes at KIPP NE
-  - DCI at KIPP WILL
-  - Basis at Raymond
-
-  COED - CoEd games start at 4pm
-  - MacFarland at Kelly Miller
-  - KIPP Valor at KIPP AIM
+  #### Middle School - No games this week
 soccerScheduleMap: "/uploads/image-program-sites-map.png"
 forFamilies:
 - |-
