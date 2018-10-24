@@ -20,7 +20,7 @@ submitting a detailed grant report, or designing and implementing new Salesforce
 facilitate the tracking of grants and grant prospects through the development pipeline. [Click here for the full job description.](https://drive.google.com/file/d/12ft8mM_x56PDHrPoeoeLg3VxBqXHL4tv/view?usp=sharing)
 
 **To Apply:** Submit a resume and cover letter explaining your qualifications for and interest in this position
-to jobs@dcscores.org. Applications accepted until the position is filled. Target start date: ASAP
+to bhenderson@dcscores.org. Applications accepted until the position is filled. Target start date: ASAP
 
 ---
 
