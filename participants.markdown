@@ -4,21 +4,23 @@ permalink: "/our-program/participants/"
 Top Image: "/assets/images/masthead-resources.jpg"
 Top Image Position: 50% 40%
 soccerSchedule:
-- |-
-  ## Soccer Schedule
-
-  DC SCORES runs the only consistent elementary and middle public school soccer leagues for both boys and girls in the District of Columbia. Additionally, beginning in the fall of 2016, DC SCORES is running the DC SCORES City League, a District-wide recreation center soccer league run in partnership with the DC Department of Parks and Recreation. <a href="https://www.google.com/maps/d/u/0/viewer?mid=1ArueGtkLKryfnhjFva-7hHSZlD8&ll=38.8939219214454%2C-77.01469049999997&z=12" target="_blank">MAP of SITES</a>
-
-  #### Junior SCORES - Wednesday, October 24
-  - Seaton at Amidon
-  - Van Ness at Miner
-  - Trinidad Rec. at Reed
-  - Powell at Truesdell
-  - Park View at Bancroft
-
-  #### Elementary School - No games this week
-
-  #### Middle School - No games this week
+- "## Soccer Schedule\n\nDC SCORES runs the only consistent elementary and middle
+  public school soccer leagues for both boys and girls in the District of Columbia.
+  Additionally, beginning in the fall of 2016, DC SCORES is running the DC SCORES
+  City League, a District-wide recreation center soccer league run in partnership
+  with the DC Department of Parks and Recreation. <a href=\"https://www.google.com/maps/d/u/0/viewer?mid=1ArueGtkLKryfnhjFva-7hHSZlD8&ll=38.8939219214454%2C-77.01469049999997&z=12\"
+  target=\"_blank\">MAP of SITES</a>\n\n#### Elementary School - Thursday, November
+  1\n4pm kickoff for girls game, followed by boys\n- Beers at Amidon\n- Walker-Jones
+  at Burrville\n- Imagine Hope-Tolson at Drew\n- Tyler at JC Nalle\n- Boone at Kimball\n-
+  Smothers at KIPP Quest\n- Aiton at Leckie\n- Miner at Thomas\n- Van Ness at Turner\n-
+  Thomson at Capital City\n- HD Cooke at Garrison\n- Bancroft at LaSalle\n- WSG &
+  Imagine Hope-Lamond at Raymond\n- Barnard at Reed\n- Brightwood at Seaton\n- Bruce-Monroe
+  at Truesdell\n- Powell at Tubman \n\n#### Middle School - Friday, November 2\n4pm
+  kickoff for girls game, followed by boys\n- Chavez Prep at Capital City\n- Raymond
+  at DCI\n- Basis at KIPP KEY\n- Brookland at KIPP NE\n- Brightwood at KIPP WILL\n-
+  Washington Latin at Lincoln\n- EL Haynes at WSG (girls only)\n\nCOED games - 4pm
+  kickoff\n- KIPP Valor at Cardozo\n- Jefferson at Hart\n- MacFarland at Inspired
+  Teaching\n- Kelly Miller at KIPP AIM\n- Paul at Leckie\n"
 soccerScheduleMap: "/uploads/image-program-sites-map.png"
 forFamilies:
 - |-
