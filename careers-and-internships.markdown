@@ -26,7 +26,7 @@ to bhenderson@dcscores.org. Applications accepted until the position is filled. 
 
 ## Internships
 
-**Communications & Marketing Internship**
+** Spring 2019 Communications & Marketing Internship**
 
 DC SCORES is seeking a self-motivated and hard-working individual to serve as a Communications & Marketing Intern. This person will be a critical member of our team, will directly assist the Director of Communications & Marketing with events, PR, strategic planning, as well as creating and dispensing internal & external communications. [Click here for the full internship description](https://drive.google.com/file/d/1L9g1a81Wu-0UFHYX4L88TEVTRMInHeQp/view?usp=sharing).
 
