@@ -1,0 +1,29 @@
+---
+layout: default
+---
+
+<main class="Main  Main--noTop">
+
+  <!-- Masthead -->
+  <header class="Masthead"  style="background-image: url({{ page["Top Image"] }}); background-position: {{ page["Top Image Position"] }};">
+    <div class="Masthead-header">
+      <div class="Grid  Grid--large">
+        <h1 class="Masthead-headerTitle">{{ page.title }}</h1>
+      </div>
+    </div>
+  </header>
+
+  <section class="Grid  Grid--large">
+    <div class="Grid__d2-d5  Grid__m1-m6">
+
+      <!-- Develop article component further -->
+      <article class="Article">
+        <section class="Article-content">
+          {{ page.content | markdownify }}
+        </section>
+      </article>
+
+    </div>
+  </section>
+
+</main>
