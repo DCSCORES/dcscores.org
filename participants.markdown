@@ -4,59 +4,18 @@ permalink: "/our-program/participants/"
 Top Image: "/assets/images/masthead-resources.jpg"
 Top Image Position: 50% 40%
 soccerSchedule:
-- |
-  ## Soccer Schedule
-
-  DC SCORES runs the only consistent elementary and middle public school soccer leagues for both boys and girls in the District of Columbia. Additionally, beginning in the fall of 2016, DC SCORES is running the DC SCORES City League, a District-wide recreation center soccer league run in partnership with the DC Department of Parks and Recreation. <a href="https://www.google.com/maps/d/u/0/viewer?mid=1ArueGtkLKryfnhjFva-7hHSZlD8&ll=38.8939219214454%2C-77.01469049999997&z=12" target="_blank">MAP of SITES</a>
-
-  #### Junior SCORES - Wednesday, November 7
-  4pm kickoff
-  - Truesdell at Seaton
-  - Park View at Amidon-Bowen
-  - Turkey Thicket at Powell
-  - LaSalle at Bancroft
-  - Trinidad at Miner
-  - Van Ness at Reed
-
-  #### Middle School - Wednesday, November 7
-  4pm kickoff for girls game, followed by boys
-  - DCI at Brightwood
-  - EL Haynes at Washington Latin
-
-  #### Elementary School - Thursday, November 8
-  4pm kickoff for girls game, followed by boys
-  - Thomson at Tubman
-  - Thomas at Burrville
-  - Smothers at Drew
-  - Beers at JC Nalle
-  - Turner at Kimball
-  - Van Ness at KIPP Quest
-  - Amidon at Leckie
-  - Imagine Hope-Tolson at Miner
-  - Boone at Tyler
-  - Walker-Jones at Aiton
-  - Bancroft at Capital City
-  - Powell at Garrison
-  - LaSalle at Imagine Hope-Lamond & WSG
-  - Barnard at Raymond
-  - Brightwood at Reed
-  - Bruce Monroe at Seaton
-  - HD Cooke at Truesdell
-
-  #### Middle School - Friday, November 9
-  4pm kickoff for girls game, followed by boys
-  - LaSalle at Capital City
-  - Brookland at KIPP KEY
-  - Basis at KIPP NE
-  - Chavez Prep at KIPP WILL
-  - Truesdell at Lincoln
-
-  COED games - 4pm kickoff
-  - Paul at Hart
-  - Cardozo at Jefferson
-  - KIPP Valor at Kelly Miller
-  - Inspired Teaching at KIPP AIM
-  - MacFarland at Leckie
+- "## Soccer Schedule\n\nDC SCORES runs the only consistent elementary and middle
+  public school soccer leagues for both boys and girls in the District of Columbia.
+  Additionally, beginning in the fall of 2016, DC SCORES is running the DC SCORES
+  City League, a District-wide recreation center soccer league run in partnership
+  with the DC Department of Parks and Recreation. <a href=\"https://www.google.com/maps/d/u/0/viewer?mid=1ArueGtkLKryfnhjFva-7hHSZlD8&ll=38.8939219214454%2C-77.01469049999997&z=12\"
+  target=\"_blank\">MAP of SITES</a>\n\n\n#### The Fall SCORES elementary school soccer
+  season has ended. Stay tuned for Spring SCORES starting in March 2019!\n\n\n####
+  Middle School - Friday, November 16\n4pm kickoff \n- Boys Semifinal 1 - Raymond
+  at DCI\n- Boys Semifinal 2 - Brightwood at Capital City\n- Girls Semifinal 1 - EL
+  Haynes at DCI\n- Girls Semifinal 2 - Washington Latin at Brightwood\n\nCOED games
+  - 4pm kickoff\n- Semifinal 1 - MacFarland at Paul\n- Semifinal 2 - Inspired Teaching
+  at Cardozo"
 soccerScheduleMap: "/uploads/image-program-sites-map.png"
 forFamilies:
 - |-
