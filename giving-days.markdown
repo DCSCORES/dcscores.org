@@ -6,7 +6,6 @@ Top Image Position: 50% 50%
 layout: giving-days
 ---
 
-# First level heading
 ## Second level heading
 ### Third level heading
 
