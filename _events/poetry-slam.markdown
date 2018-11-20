@@ -1,6 +1,7 @@
 ---
 title: Poetry Slam!
 date: 2018-11-13 17:00:00 Z
+published: false
 position: 0
 Blurb: Don’t miss the three-night premier event of the fall season as kids perform
   their original poems live November 13-15!
