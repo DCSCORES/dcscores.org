@@ -11,11 +11,9 @@ soccerSchedule:
   with the DC Department of Parks and Recreation. <a href=\"https://www.google.com/maps/d/u/0/viewer?mid=1ArueGtkLKryfnhjFva-7hHSZlD8&ll=38.8939219214454%2C-77.01469049999997&z=12\"
   target=\"_blank\">MAP of SITES</a>\n\n\n#### The Fall SCORES elementary school soccer
   season has ended. Stay tuned for Spring SCORES starting in March 2019!\n\n\n####
-  Middle School - Friday, November 16\n4pm kickoff \n- Boys Semifinal 1 - Raymond
-  at DCI\n- Boys Semifinal 2 - Brightwood at Capital City\n- Girls Semifinal 1 - EL
-  Haynes at DCI\n- Girls Semifinal 2 - Washington Latin at Brightwood\n\nCOED games
-  - 4pm kickoff\n- Semifinal 1 - MacFarland at Paul\n- Semifinal 2 - Inspired Teaching
-  at Cardozo"
+  Middle School - Tuesday, November 20\nCapital Cup at Cardozo Education Campus\n\n-
+  COED Final (4pm) - Cardozo vs Paul \n- Girls Final (5pm) - DCI vs Washington Latin\n-
+  Boys Final (6pm) - Capital City vs Raymond"
 soccerScheduleMap: "/uploads/image-program-sites-map.png"
 forFamilies:
 - |-
