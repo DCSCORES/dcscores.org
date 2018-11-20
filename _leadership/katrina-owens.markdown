@@ -1,6 +1,6 @@
 ---
 title: Katrina Owens
-position: 1
+position: 2
 Details: Chief of Staff
 Email: kowens@dcscores.org
 Profile Image: "/uploads/profile--katrina-owens.jpg"

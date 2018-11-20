@@ -1,6 +1,6 @@
 ---
 title: Wally Okpych IV
-position: 29
+position: 28
 Details: Treasurer, PricewaterhouseCoopers
 Section: board
 Link: https://www.linkedin.com/in/wallyokpych/
