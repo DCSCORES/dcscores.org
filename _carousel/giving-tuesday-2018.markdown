@@ -2,7 +2,7 @@
 title: Giving Tuesday 2018
 date: 2018-11-26 00:18:00 Z
 Image: "/uploads/GT%202018.png"
-Image Position: 50% 50%
+Image Position: 60% 40%
 Link: http://bit.ly/DCSgivingtuesday
 ---
 
