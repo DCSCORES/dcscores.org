@@ -32,6 +32,13 @@ We've said it a lot, but we'll keep on saying it – THANK YOU!
 **Giving Tuesday High 5’s** <br>
 \(Name, time gave) <br>
 
+Joshua Freedholm, 5:28pm <br>
+Jocelyn Potts, 5:23pm <br>
+Gregory Ossi, 5:22pm <br>
+Rebecca Fifer, 5:21pm <br>
+James R Frison, 5:21pm <br>
+Rebecca Freedholm, 5:17pm <br>
+Joshua McGee, 5:18pm <br>
 Peter Case, 5:10pm <br>
 Dori Hazan, 5:09pm <br>
 Matt, 5:07pm <br>
