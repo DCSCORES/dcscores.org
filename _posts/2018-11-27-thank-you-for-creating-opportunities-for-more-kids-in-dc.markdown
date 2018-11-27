@@ -32,6 +32,13 @@ We've said it a lot, but we'll keep on saying it – THANK YOU!
 **Giving Tuesday High 5’s** <br>
 \(Name, time gave) <br>
 
+Cynthia Bohlin, 5:39pm <br>
+David Harrison, 5:39pm <br>
+Jordan Holtzman, 5:37pm <br>
+Charlie Shepard, 5:36pm <br>
+Anjana Bhagavan, 5:32pm <br>
+Michael Freedholm, 5:30pm <br>
+Charlotte Mace, 5:32pm <br>
 Joshua Freedholm, 5:28pm <br>
 Jocelyn Potts, 5:23pm <br>
 Gregory Ossi, 5:22pm <br>
