@@ -32,6 +32,7 @@ We've said it a lot, but we'll keep on saying it – THANK YOU!
 **Giving Tuesday High 5’s** <br>
 \(Name, time gave) <br>
 
+Sarah C Helinek, 2:26pm <br>
 Matthew Hosford, 2:08pm <br>
 Eric Skuse, 2:06pm <br>
 Ben Hsieh, 2:02pm <br>
