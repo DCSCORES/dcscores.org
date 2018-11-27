@@ -32,6 +32,12 @@ We've said it a lot, but we'll keep on saying it – THANK YOU!
 **Giving Tuesday High 5’s** <br>
 \(Name, time gave) <br>
 
+
+Elizabeth F Watkins, 12:29 <br>
+Sebastian Driver Salazar, 12:28pm <br>
+Magdaleno & Raquel Galeas, 12:24pm <br>
+Mary Stevens, 12:22pm <br>
+Eric Lyman, 12:17pm <br>
 Tom Gross, 12:13pm <br>
 Gerald Andriole, 12:12pm <br>
 Jordan Bookey, 12:12pm <br>
