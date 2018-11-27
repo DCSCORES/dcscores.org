@@ -32,6 +32,8 @@ We've said it a lot, but we'll keep on saying it – THANK YOU!
 **Giving Tuesday High 5’s** <br>
 \(Name, time gave) <br>
 
+Matthew Hosford, 2:08pm <br>
+Eric Skuse, 2:06pm <br>
 Ben Hsieh, 2:02pm <br>
 John J. Preotle, 1:47pm <br>
 Elaine Walizer, 1:40pm <br>
