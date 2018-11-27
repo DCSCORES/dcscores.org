@@ -32,6 +32,14 @@ We've said it a lot, but we'll keep on saying it – THANK YOU!
 **Giving Tuesday High 5’s** <br>
 \(Name, time gave) <br>
 
+Traci S Lee, 6:19pm <br>
+Debra Freedholm, 6:01pm <br>
+Emily Schulman, 6:00pm <br>
+Maria Shepard, 5:57pm <br>
+Chris Silvester, 5:57pm <br>
+Rob Freeman, 5:54pm <br>
+Anonymous, 5:52pm <br>
+Marisa Majsak, 5:45pm <br>
 Cynthia Bohlin, 5:39pm <br>
 David Harrison, 5:39pm <br>
 Jordan Holtzman, 5:37pm <br>
