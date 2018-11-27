@@ -32,6 +32,14 @@ We've said it a lot, but we'll keep on saying it – THANK YOU!
 **Giving Tuesday High 5’s** <br>
 \(Name, time gave) <br>
 
+Tom Gross, 12:13pm <br>
+Gerald Andriole, 12:12pm <br>
+Jordan Bookey, 12:12pm <br>
+Jake Lucas, 12:12pm <br>
+Laurie Gonzalez, 12:11pm <br>
+Tim Preotle, 12:07pm <br>
+Sabeena Rajpal, 12:07pm <br>
+Allison Hyra, 12:07pm <br>
 Margaret Riden, 11:53am <br>
 Joshua Shnider, 11:51am <br>
 Laurie Lane, 11:50am <br>
