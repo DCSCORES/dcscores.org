@@ -32,6 +32,12 @@ We've said it a lot, but we'll keep on saying it – THANK YOU!
 **Giving Tuesday High 5’s** <br>
 \(Name, time gave) <br>
 
+Michael Holstein, 1:13pm <br>
+Emily Thompson, 1:11pm <br>
+Nancy Lohman, 1:11pm <br>
+Gabby Albanna, 1:10pm <br>
+Kelsi Wilken, 1:04pm <br>
+Lee Perine, 1:04pm <br>
 Stephanie Wolfram, 12:58pm <br>
 Kelly Bonnie, 12:53pm <br>
 Donald Wine II, 12:45pm <br>
