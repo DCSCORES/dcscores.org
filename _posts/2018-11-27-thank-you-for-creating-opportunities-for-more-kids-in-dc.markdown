@@ -32,6 +32,9 @@ We've said it a lot, but we'll keep on saying it – THANK YOU!
 **Giving Tuesday High 5’s** <br>
 \(Name, time gave) <br>
 
+Stephanie Wolfram, 12:58pm <br>
+Kelly Bonnie, 12:53pm <br>
+Donald Wine II, 12:45pm <br>
 Robert Warshaw, 12:31pm <br>
 Elizabeth F Watkins, 12:29 <br>
 Sebastian Driver Salazar, 12:28pm <br>
