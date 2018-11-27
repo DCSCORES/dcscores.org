@@ -32,6 +32,7 @@ We've said it a lot, but we'll keep on saying it – THANK YOU!
 **Giving Tuesday High 5’s** <br>
 \(Name, time gave) <br>
 
+Zachary K Warren, 6:26pm <br>
 Traci S Lee, 6:19pm <br>
 Debra Freedholm, 6:01pm <br>
 Emily Schulman, 6:00pm <br>
@@ -66,6 +67,7 @@ Kemba Ford, 4:27pm <br>
 Linda Gebric, 4:23pm <br>
 Matt Preotle, 4:18pm <br>
 Walter Okpych IV, 4:17pm <br>
+Jana Sharp, 3:58pm <br>
 Cindy Dyballa, 3:43pm <br>
 Kristin Davis, 3:31pm <br>
 Rachel Klepper, 3:11pm <br>
