@@ -32,6 +32,8 @@ We've said it a lot, but we'll keep on saying it – THANK YOU!
 **Giving Tuesday High 5’s** <br>
 \(Name, time gave) <br>
 
+Chris Holm, 10:58am <br>
+Anonymous, 10:30am <br>
 John Conte, 10:27am <br>
 Jake Lloyd, 7:48am <br>
 Christina Tunison, 6:09am <br>
