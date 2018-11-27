@@ -32,6 +32,11 @@ We've said it a lot, but we'll keep on saying it – THANK YOU!
 **Giving Tuesday High 5’s** <br>
 \(Name, time gave) <br>
 
+
+Charles Cerf, 1:28pm <br>
+Debra Kushma, 1:24pm <br>
+Gail Clougherty, 1:23pm <br>
+Patrick Rohde, 1:22pm <br>
 Michael Holstein, 1:13pm <br>
 Emily Thompson, 1:11pm <br>
 Nancy Lohman, 1:11pm <br>
