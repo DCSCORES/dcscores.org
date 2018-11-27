@@ -32,6 +32,18 @@ We've said it a lot, but we'll keep on saying it – THANK YOU!
 **Giving Tuesday High 5’s** <br>
 \(Name, time gave) <br>
 
+Rachel Klepper, 3:11pm <br>
+David Angwin, 3:06pm <br>
+Jeanie Gordon, 3:02pm <br>
+Alexander Bearman, 2:58pm <br>
+Anonymous, 2:57pm <br>
+Andrea Caumont, 2:55pm <br>
+Carolyn White, 2:54pm <br>
+David Shams, 2:50pm <br>
+Michael Vaughan-Cherubin, 2:50pm <br>
+Eric Hoy, 2:49pm <br>
+Zabrina Krishnamoorthy, 2:48pm <br>
+Hannah Ehlers, 2:46pm <br>
 Nicky L., 2:38pm <br>
 Aniko Schwarcz, 2:35pm <br>
 Todd Turner, 2:32pm <br>
