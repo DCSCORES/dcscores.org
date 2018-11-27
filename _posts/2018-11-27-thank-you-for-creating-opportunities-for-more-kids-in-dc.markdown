@@ -32,7 +32,10 @@ We've said it a lot, but we'll keep on saying it – THANK YOU!
 **Giving Tuesday High 5’s** <br>
 \(Name, time gave) <br>
 
-
+Elaine Walizer, 1:40pm <br>
+Anne H Woodworth, 1:38pm <br>
+Gail Clougherty, 1:35pm <br>
+Kristin Foti, 1:34pm <br>
 Charles Cerf, 1:28pm <br>
 Debra Kushma, 1:24pm <br>
 Gail Clougherty, 1:23pm <br>
