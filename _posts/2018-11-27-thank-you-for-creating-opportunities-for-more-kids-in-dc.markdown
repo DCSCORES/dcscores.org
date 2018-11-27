@@ -32,6 +32,13 @@ We've said it a lot, but we'll keep on saying it – THANK YOU!
 **Giving Tuesday High 5’s** <br>
 \(Name, time gave) <br>
 
+Peter Case, 5:10pm <br>
+Dori Hazan, 5:09pm <br>
+Matt, 5:07pm <br>
+Sam C, 5:07pm <br>
+Matthew Prebble, 5:06pm <br>
+Abbie Ginis, 4:57pm <br>
+Ayan Rubin, 4:47pm <br>
 Benjamin Chrnelich, 4:34pm <br>
 Kemba Ford, 4:27pm <br>
 Linda Gebric, 4:23pm <br>
