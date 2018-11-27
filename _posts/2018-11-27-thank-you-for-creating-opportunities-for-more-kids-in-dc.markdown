@@ -32,6 +32,8 @@ We've said it a lot, but we'll keep on saying it – THANK YOU!
 **Giving Tuesday High 5’s** <br>
 \(Name, time gave) <br>
 
+Cindy Dyballa, 3:43pm <br>
+Kristin Davis, 3:31pm <br>
 Rachel Klepper, 3:11pm <br>
 David Angwin, 3:06pm <br>
 Jeanie Gordon, 3:02pm <br>
