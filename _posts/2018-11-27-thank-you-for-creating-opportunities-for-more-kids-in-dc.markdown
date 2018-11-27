@@ -32,6 +32,9 @@ We've said it a lot, but we'll keep on saying it – THANK YOU!
 **Giving Tuesday High 5’s** <br>
 \(Name, time gave) <br>
 
+Jake Lloyd, 7:48am <br>
+Christina Tunison, 6:09am <br>
+**Giving Tuesday** <br>
 Rachel Gorosh, 1:46pm (Nov. 26) <br>
 Jessica Lindenberg, 1:39pm (Nov. 26) <br>
 Laurie Stras, 1:18pm (Nov. 26) <br>
