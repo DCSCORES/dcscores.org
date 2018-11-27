@@ -33,13 +33,8 @@ We've said it a lot, but we'll keep on saying it – THANK YOU!
 \(Name, time gave)
 
 Rachel Gorosh, 1:46pm (Nov. 26)
-
 Jessica Lindenberg, 1:39pm (Nov. 26)
-
 Laurie Stras, 1:18pm (Nov. 26)
-
 Debbi and Howard Lindenberg, 12:13pm (Nov. 26)
-
 James Thomas, 11:15am (Nov. 26)
-
 Lorena Palacios, 9:01am (Nov. 26)
