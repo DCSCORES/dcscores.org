@@ -32,6 +32,9 @@ We've said it a lot, but we'll keep on saying it – THANK YOU!
 **Giving Tuesday High 5’s** <br>
 \(Name, time gave) <br>
 
+Nicky L., 2:38pm <br>
+Aniko Schwarcz, 2:35pm <br>
+Todd Turner, 2:32pm <br>
 Sarah C Helinek, 2:26pm <br>
 Matthew Hosford, 2:08pm <br>
 Eric Skuse, 2:06pm <br>
