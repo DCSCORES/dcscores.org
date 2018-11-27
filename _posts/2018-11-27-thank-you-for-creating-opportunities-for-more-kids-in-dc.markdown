@@ -32,6 +32,9 @@ We've said it a lot, but we'll keep on saying it – THANK YOU!
 **Giving Tuesday High 5’s** <br>
 \(Name, time gave) <br>
 
+
+Rani Harrison, 5:34pm <br>
+John Guzman, 5:32pm <br>
 Zachary K Warren, 6:26pm <br>
 Traci S Lee, 6:19pm <br>
 Debra Freedholm, 6:01pm <br>
