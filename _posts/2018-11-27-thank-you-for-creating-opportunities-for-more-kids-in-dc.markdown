@@ -32,6 +32,9 @@ We've said it a lot, but we'll keep on saying it – THANK YOU!
 **Giving Tuesday High 5’s** <br>
 \(Name, time gave) <br>
 
+Margaret Riden, 11:53am <br>
+Joshua Shnider, 11:51am <br>
+Laurie Lane, 11:50am <br>
 Christina Brown, 11:43am <br>
 Jane Stevens, 11:28am <br>
 Rafael Hernandez Toro, 11:13am <br>
