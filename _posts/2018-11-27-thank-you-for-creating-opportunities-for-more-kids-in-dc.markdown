@@ -32,7 +32,6 @@ We've said it a lot, but we'll keep on saying it – THANK YOU!
 **Giving Tuesday High 5’s** <br>
 \(Name, time gave) <br>
 
-
 Benjamin Chrnelich, 4:34pm <br>
 Kemba Ford, 4:27pm <br>
 Linda Gebric, 4:23pm <br>
