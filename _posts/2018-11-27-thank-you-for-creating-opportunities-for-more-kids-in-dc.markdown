@@ -32,6 +32,9 @@ We've said it a lot, but we'll keep on saying it – THANK YOU!
 **Giving Tuesday High 5’s** <br>
 \(Name, time gave) <br>
 
+Rafael Hernandez Toro, 11:13am <br>
+John Petersen, 11:08am <br>
+Anonymous, 11:01am <br>
 Chris Holm, 10:58am <br>
 Anonymous, 10:30am <br>
 John Conte, 10:27am <br>
