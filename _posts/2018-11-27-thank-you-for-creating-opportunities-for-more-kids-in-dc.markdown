@@ -32,11 +32,18 @@ We've said it a lot, but we'll keep on saying it – THANK YOU!
 **Giving Tuesday High 5’s** <br>
 \(Name, time gave) <br>
 
+Garrett Scanlon, 8:10pm <br>
 Andrew and Amy Mack, 8:09pm <br>
 Donna Borak, 8:09pm <br>
+Irene O. Aihie, 8:09pm <br>
 Walter Okpych IV, 8:08pm <br>
 Kelsi Wilken, 8:08pm <br>
+Jean-Christophe Deverines, 8:08pm <br>
+Raul Gutierrez, 8:08pm <br>
 Shante Sewell, 8:07pm <br>
+Rachel Lerman, 8:07pm <br>
+Ellen Esterhay, 8:07pm <br>
+Philippe Monfiston, 8:06pm <br>
 Allison Burket, 8:05pm <br>
 Amy Nakamoto, 8:03pm <br>
 Sita Raiter, 8:03pm <br>
