@@ -1,5 +1,5 @@
 ---
-title: The Impact of Providing a Team
+title: The impact of providing a team
 date: 2018-11-28 05:29:00 Z
 categories:
 - Giving Tuesday
