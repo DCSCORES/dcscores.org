@@ -32,6 +32,7 @@ We've said it a lot, but we'll keep on saying it – THANK YOU!
 **Giving Tuesday High 5’s** <br>
 \(Name, time gave) <br>
 
+Glenn Gray, 12:02am (Nov. 28) <br>
 Kirsten Karttunen, 11:43pm <br>
 Donald Ausherman, 11:41pm <br>
 Marguerite Lambert, 11:22pm <br>
