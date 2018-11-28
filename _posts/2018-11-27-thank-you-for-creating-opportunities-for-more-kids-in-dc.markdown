@@ -32,6 +32,13 @@ We've said it a lot, but we'll keep on saying it – THANK YOU!
 **Giving Tuesday High 5’s** <br>
 \(Name, time gave) <br>
 
+Arunjana Das, 7:53pm <br>
+Michael Goldwasser, 7:50pm <br>
+Ann L Maguire, 7:49pm <br>
+Michael M. McCarthy, 7:47pm <br>
+Ann Friedman, 7:47pm <br>
+Laurie, 7:47pm <br>
+Judith Liss, 7:45pm <br>
 Erika, 7:44pm <br>
 Anna Schneider, 7:44pm <br>
 Addison DeLancey, 7:43pm <br>
