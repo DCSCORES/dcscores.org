@@ -32,6 +32,7 @@ We've said it a lot, but we'll keep on saying it – THANK YOU!
 **Giving Tuesday High 5’s** <br>
 \(Name, time gave) <br>
 
+Erika, 7:44pm <br>
 Anna Schneider, 7:44pm <br>
 Addison DeLancey, 7:43pm <br>
 Tim Spear, 7:40pm <br>
