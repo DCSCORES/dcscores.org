@@ -32,6 +32,16 @@ We've said it a lot, but we'll keep on saying it – THANK YOU!
 **Giving Tuesday High 5’s** <br>
 \(Name, time gave) <br>
 
+Andrew and Amy Mack, 8:09pm <br>
+Donna Borak, 8:09pm <br>
+Walter Okpych IV, 8:08pm <br>
+Kelsi Wilken, 8:08pm <br>
+Shante Sewell, 8:07pm <br>
+Allison Burket, 8:05pm <br>
+Amy Nakamoto, 8:03pm <br>
+Sita Raiter, 8:03pm <br>
+Jeanine Bonds, 8:03pm <br>
+Kelly Sweeney McShane, 8:02pm <br>
 Arunjana Das, 7:53pm <br>
 Michael Goldwasser, 7:50pm <br>
 Ann L Maguire, 7:49pm <br>
