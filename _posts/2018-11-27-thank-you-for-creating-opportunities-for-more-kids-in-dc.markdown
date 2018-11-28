@@ -32,6 +32,14 @@ We've said it a lot, but we'll keep on saying it – THANK YOU!
 **Giving Tuesday High 5’s** <br>
 \(Name, time gave) <br>
 
+Anonymous, 10:25pm <br>
+Katherine Egger Makris, 10:25pm <br>
+Anita Kishore, 10:23pm <br>
+Anonymous, 10:20pm <br>
+Edward H Robbins, 10:14pm <br>
+Benjamin Pulliam, 10:11pm <br>
+Carmen BarrosHowell, 10:10pm <br>
+Darcy Kohn, 10:03pm <br>
 Karen B Giorgio, 9:55pm <br>
 Heidi Hochstetler, 9:52pm <br>
 Hannah Romick, 9:51pm <br>
