@@ -32,6 +32,7 @@ We've said it a lot, but we'll keep on saying it – THANK YOU!
 **Giving Tuesday High 5’s** <br>
 \(Name, time gave) <br>
 
+Jean Maguire, 10:54am (Nov. 28) <br>
 Phyllis Owens, 10:01am (Nov. 28) <br>
 Brent Brown, 9:43am (Nov. 28) <br>
 Defne Saral, 2:24am (Nov. 28) <br>
