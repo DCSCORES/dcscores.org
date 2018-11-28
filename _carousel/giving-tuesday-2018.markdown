@@ -1,7 +1,7 @@
 ---
 title: Giving Tuesday 2018
 date: 2018-11-28 18:48:00 Z
-Image: "/uploads/GT%202018%20Thank%20You%20(TW)%20(1).jpg"
+Image: "/uploads/GT%202018%20Thank%20You%20(TW).jpg"
 Image Position: 70% 30%
 Link: http://bit.ly/DCSthankyou18
 ---
