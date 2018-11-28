@@ -32,6 +32,20 @@ We've said it a lot, but we'll keep on saying it – THANK YOU!
 **Giving Tuesday High 5’s** <br>
 \(Name, time gave) <br>
 
+All Purpose Capitol Riverfront c/o Gareth Croke, 9:13pm
+Arthur Wilson, 9:10pm <br>
+Chris Vigilante, 9:10pm <br>
+Rita Holstein, 9:07pm <br>
+Robert G Watkins, 8:55pm <br>
+Jennifer Oxley, 8:41pm <br>
+Corey Timbers, 8:38pm <br>
+Angel Horacek, 8:28pm <br>
+Corey Timbers, 8:28pm <br>
+Leah Hochstetler, 8:28pm <br>
+Eileen Shields West, 8:24pm <br>
+Jan Hodges, 8:20p, <br>
+Olivia Brant, 8:16pm <br>
+Launa Hochstetler, 8:16pm <br>
 Garrett Scanlon, 8:10pm <br>
 Andrew and Amy Mack, 8:09pm <br>
 Donna Borak, 8:09pm <br>
