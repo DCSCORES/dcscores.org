@@ -32,6 +32,8 @@ We've said it a lot, but we'll keep on saying it – THANK YOU!
 **Giving Tuesday High 5’s** <br>
 \(Name, time gave) <br>
 
+Matthew Scallet, 10:40pm <br>
+Aaron S Fleisher, 10:32pm <br>
 Anonymous, 10:25pm <br>
 Katherine Egger Makris, 10:25pm <br>
 Anita Kishore, 10:23pm <br>
