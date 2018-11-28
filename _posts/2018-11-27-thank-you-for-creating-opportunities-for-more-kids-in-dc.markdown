@@ -32,6 +32,10 @@ We've said it a lot, but we'll keep on saying it – THANK YOU!
 **Giving Tuesday High 5’s** <br>
 \(Name, time gave) <br>
 
+David Crespo, 9:23pm <br>
+Emily Solan, 9:23pm <br>
+Daniel Sheerin, 9:18pm <br>
+Senovia L. Hurtado, 9:15pm <br>
 All Purpose Capitol Riverfront c/o Gareth Croke, 9:13pm
 Arthur Wilson, 9:10pm <br>
 Chris Vigilante, 9:10pm <br>
