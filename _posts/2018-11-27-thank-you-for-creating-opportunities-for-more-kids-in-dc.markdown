@@ -32,6 +32,11 @@ We've said it a lot, but we'll keep on saying it – THANK YOU!
 **Giving Tuesday High 5’s** <br>
 \(Name, time gave) <br>
 
+Karen B Giorgio, 9:55pm <br>
+Heidi Hochstetler, 9:52pm <br>
+Hannah Romick, 9:51pm <br>
+Ben and Sheri Shnider, 9:49pm <br>
+Brendan Sullivan, 9:46pm <br>
 Deborah Eckbreth, 9:43pm <br>
 David Crespo, 9:23pm <br>
 Emily Solan, 9:23pm <br>
