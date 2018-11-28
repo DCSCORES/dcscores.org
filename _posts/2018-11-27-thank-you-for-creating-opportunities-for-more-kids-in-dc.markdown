@@ -32,6 +32,27 @@ We've said it a lot, but we'll keep on saying it – THANK YOU!
 **Giving Tuesday High 5’s** <br>
 \(Name, time gave) <br>
 
+Anna Schneider, 7:44pm <br>
+Addison DeLancey, 7:43pm <br>
+Tim Spear, 7:40pm <br>
+Lorena Palacios, 7:39pm <br>
+John Kemp, 7:37pm <br>
+Charles Johnson, 7:36pm <br>
+Rachel Lerman, 7:35pm <br>
+Dan McCarthy, 7:35pm <br>
+Kelly Waldron, 7:35pm <br>
+Danielle McKenrick, 7:35pm <br>
+Camden Hillman, 7:35pm <br>
+Wally Okpych, 7:35pm <br>
+Jason Ferreri, 7:35pm <br>
+Ellen Esterhay, 7:35pm <br>
+Christina Brown, 7:34pm <br>
+Bethany Henderson, 7:34pm <br>
+Anthony Francavilla, 7:34pm <br>
+Lorena Palacios, 7:32pm <br>
+Jeff Howdeshell, 7:32pm <br>
+Susan John, 7:32pm <br>
+Shannon Schneeman, 7:32pm <br>
 Jessica Rosen, 7:29pm <br>
 Ian Kline, 7:26pm <br>
 Jake Conte, 7:25pm <br>
