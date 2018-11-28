@@ -32,6 +32,11 @@ We've said it a lot, but we'll keep on saying it – THANK YOU!
 **Giving Tuesday High 5’s** <br>
 \(Name, time gave) <br>
 
+Mariel Wallace, 10:57pm <br>
+Monisha Kapila, 10:53pm <br>
+Owen Maguire, 10:51pm <br>
+Barbara Harman, 10:51pm <br>
+Klu Clougherty, 10:45pm <br>
 Matthew Scallet, 10:40pm <br>
 Aaron S Fleisher, 10:32pm <br>
 Anonymous, 10:25pm <br>
