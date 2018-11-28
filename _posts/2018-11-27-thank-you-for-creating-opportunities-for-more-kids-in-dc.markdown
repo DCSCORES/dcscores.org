@@ -32,6 +32,18 @@ We've said it a lot, but we'll keep on saying it – THANK YOU!
 **Giving Tuesday High 5’s** <br>
 \(Name, time gave) <br>
 
+Erich Walizer, 7:12pm <br>
+Owen Maguire, 7:12pm <br>
+Colleen Manion, 7:12pm <br>
+Stephany Umana, 7:12pm <br>
+Erich Walizer, 7:11pm <br>
+Jason Finney, 7:09pm <br>
+Nia Pipes, 7:09pm <br>
+Jason Finney, 7;08pm <br>
+Julia Mascioli, 7:06pm <br>
+Jason Finney, 7:06pm <br>
+Timothy L Hinkle, 7:05pm <br>
+Rachel Gorosh, 7:04pm <br>
 Kyle Kelly, 6:56pm <br>
 Ashley Applefeld, 6:54pm <br>
 Jessica Davis, 6:50pm <br>
