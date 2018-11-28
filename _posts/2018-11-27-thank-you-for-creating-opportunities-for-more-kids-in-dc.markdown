@@ -41,7 +41,15 @@ Allison Burket, 8:05pm <br>
 Amy Nakamoto, 8:03pm <br>
 Sita Raiter, 8:03pm <br>
 Jeanine Bonds, 8:03pm <br>
+Lauren Richardson, 8:03pm <br>
 Kelly Sweeney McShane, 8:02pm <br>
+Julia Rao, 8:02pm <br>
+Julie Hawkins, 8:01pm <br>
+Morgan Hill, 8:01pm <br>
+Anthony Francavilla, 8:01pm <br>
+Alexander Bearman, 8:01pm <br>
+Tim Preotle, 8:00pm <br>
+Peter T. Gartrell, 8:00pm <br>
 Arunjana Das, 7:53pm <br>
 Michael Goldwasser, 7:50pm <br>
 Ann L Maguire, 7:49pm <br>
