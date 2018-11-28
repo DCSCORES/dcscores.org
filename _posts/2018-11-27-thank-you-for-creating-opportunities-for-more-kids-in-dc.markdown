@@ -32,6 +32,8 @@ We've said it a lot, but we'll keep on saying it – THANK YOU!
 **Giving Tuesday High 5’s** <br>
 \(Name, time gave) <br>
 
+Kirsten Karttunen, 11:43pm <br>
+Donald Ausherman, 11:41pm <br>
 Marguerite Lambert, 11:22pm <br>
 Mariel Wallace, 10:57pm <br>
 Monisha Kapila, 10:53pm <br>
