@@ -32,6 +32,13 @@ We've said it a lot, but we'll keep on saying it – THANK YOU!
 **Giving Tuesday High 5’s** <br>
 \(Name, time gave) <br>
 
+Jessica Rosen, 7:29pm <br>
+Ian Kline, 7:26pm <br>
+Jake Conte, 7:25pm <br>
+Dennis Castellon, 7:23pm <br>
+Jessica Trevelyan, 7:23pm <br>
+Bryan Hinkle, 7:17pm <br>
+Sean Hinkle, 7:15pm <br>
 Erich Walizer, 7:12pm <br>
 Owen Maguire, 7:12pm <br>
 Colleen Manion, 7:12pm <br>
