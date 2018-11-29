@@ -32,6 +32,7 @@ We've said it a lot, but we'll keep on saying it – THANK YOU!
 **Giving Tuesday High 5’s** <br>
 \(Name, time gave) <br>
 
+John Wilperws, 3:29pm (Nov. 29) <br>
 Edward Gross, 1:33pm (Nov. 29) <br>
 Gretchen Wilmouth, 12:33pm (Nov. 29) <br>
 Cynthia Angelo, 11:06am (Nov. 29) <br>
