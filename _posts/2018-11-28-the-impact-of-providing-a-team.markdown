@@ -17,7 +17,7 @@ Thumbnail Image: "/uploads/44190668410_95ecedf1ca_k%20(1)-3a7328.jpg"
 
 
 
-*Thanks to more than**[260 individual donors](http://bit.ly/DCSthankyou18)**, during the 24-hour Giving Tuesday period, we raised **over $23,000** to create opportunities for MORE kids in DC. If you're still interested in helping, there's still time to [give](http://bit.ly/DCSgivingtuesday).*
+*Thanks to more than **[260 individual donors](http://bit.ly/DCSthankyou18)**, during the 24-hour Giving Tuesday period, we raised **over $23,000** to create opportunities for MORE kids in DC. If you're still interested in helping, there's still time to [give](http://bit.ly/DCSgivingtuesday).*
 
 *[Alexandra Mack](https://www.dcscores.org/about-us/leadership/alexandra-mack), DC SCORES soccer program coordinator and KIPP DC: KEY Academy soccer coach, saw the impact of providing kids the opportunity to be a part of a team this fall season. Read about her experience below.*
 
