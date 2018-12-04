@@ -32,6 +32,7 @@ We've said it a lot, but we'll keep on saying it – THANK YOU!
 **Giving Tuesday High 5’s** <br>
 \(Name, time gave) <br>
 
+Lydia Crouthamel, 7:45pm (Nov. 30) <br>
 Michael Rocco, 11:22pm (Nov. 29) <br>
 John Wilperws, 3:29pm (Nov. 29) <br>
 Edward Gross, 1:33pm (Nov. 29) <br>
