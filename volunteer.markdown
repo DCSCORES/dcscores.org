@@ -39,7 +39,7 @@ Please fill out the [Volunteer Referee Application](https://docs.google.com/form
 ![Assistant coach](/uploads/volunteer-assistant-coach-float-left.jpg)
 
 **Description:**
-Assistant coaches are able to sign up for soccer and/or writing programming. Soccer coaches assist with after school practices and game days as need (Thursdays - Elementary and Friday - Middle). Writing coaches help with teaching the fundamentals of poetry (fall season) or designing and implementing the school service-learning project (spring).
+Assistant coaches are able to sign up for soccer and/or writing programming. Soccer coaches assist with after-school practices and game days as need (Thursdays - Elementary and Friday - Middle). Writing coaches help with teaching the fundamentals of poetry (fall season) or designing and implementing the school service-learning project (spring).
 
 **Requirements & process:**
 18 years or older, commit to at least 2-3 days a week and have a negative TB test from the last two years.
@@ -80,6 +80,28 @@ The culminating event of the DC SCORES programming year, filled with soccer game
 
 ---
 
+![DC SCORES Cup](/uploads/volunteer-scores-cup-float-right.jpg)
+
+### DC SCORES Cup
+
+Our largest fundraiser – an annual adult soccer tournament made up of local companies, law firms, small businesses and soccer organizations. Volunteer roles include setup/breakdown, registration, field marshals, lunch servers, and photography.
+
+**Date:** June 22, 2019
+
+**Where:** [Maryland SoccerPlex](https://www.google.com/maps?q=maryland+soccerplex&um=1&ie=UTF-8&sa=X&ved=0ahUKEwixw42ElYnfAhVqzlkKHeY2BY0Q_AUIDigB) 
+
+---
+
+![Summer camp](/uploads/volunteer-summer-camp-float-left.jpg)
+
+## Summer Camp Counselor
+
+Thanks so much for your interest! Our summer camp counselors slots have been filled. 
+
+Applications for 2019 Summer Camps will go out in May 2019.
+
+---
+
 ![Fall Frenzy](/uploads/volunteer-fall-frenzy-float-left-small.jpg)
 
 ### [Fall Frenzy](https://www.dcscores.org/fallfrenzy/)
@@ -103,28 +125,6 @@ This two-night, spoken-word competition features DC SCORES students performing t
 **Dates:** November 13-15, 2018
 
 **Location:** Middle School ([Cardozo Education Campus](https://www.google.com/maps/place/Cardozo+Education+Campus/@38.9214669,-77.0305685,17z/data=!3m1!4b1!4m5!3m4!1s0x89b7b7e13781d04b:0xe3284d4ef97f7210!8m2!3d38.9214669!4d-77.0283798)), Westside ([Roosevelt High School](https://www.google.com/maps/place/Theodore+Roosevelt+High+School/@38.943046,-77.0313638,17z/data=!3m1!4b1!4m5!3m4!1s0x89b7c81477c3b445:0xd912cd462abafb52!8m2!3d38.943046!4d-77.0291751)), Eastside ([HD Woodson High School](https://www.google.com/maps/place/H.D.+Woodson+High+School/@38.8967466,-76.9248145,17z/data=!3m1!4b1!4m5!3m4!1s0x89b7b8db6a45a6a1:0xee1293b8679afa77!8m2!3d38.8967466!4d-76.9226258))
-
----
-
-![DC SCORES Cup](/uploads/volunteer-scores-cup-float-right.jpg)
-
-### DC SCORES Cup
-
-Our largest fundraiser – an annual adult soccer tournament made up of local companies, law firms, small businesses and soccer organizations. Volunteer roles include setup/breakdown, registration, field marshals, lunch servers, and photography.
-
-**Date:** June 22, 2019
-
-**Where:** [Maryland SoccerPlex](https://www.google.com/maps?q=maryland+soccerplex&um=1&ie=UTF-8&sa=X&ved=0ahUKEwixw42ElYnfAhVqzlkKHeY2BY0Q_AUIDigB) 
-
----
-
-![Summer camp](/uploads/volunteer-summer-camp-float-left.jpg)
-
-## Summer Camp Counselor
-
-Thanks so much for your interest! Our summer camp counselors slots have been filled. 
-
-Applications for 2019 Summer Camps will go out in May 2019.
 
 ---
 
