@@ -66,6 +66,20 @@ Fill out the [Volunteer Assistant Coach Application](https://docs.google.com/for
 
 ## Special Events
 
+![Jamboree](/uploads/volunteer-jamboree-float-left-small.jpg)
+
+### [Jamboree!](https://www.dcscores.org/jamboree/)
+
+The culminating event of the DC SCORES programming year, filled with soccer games, arts and crafts, and more for DC SCORES students and their families.
+
+**Date:** Early June 2019
+
+**Location:** Anacostia Park
+
+**Want to get involved? [CLICK HERE](https://www.dcscores.org/jamboree/)** for more information about volunteer tasks and registration. 
+
+---
+
 ![Fall Frenzy](/uploads/volunteer-fall-frenzy-float-left-small.jpg)
 
 ### [Fall Frenzy](https://www.dcscores.org/fallfrenzy/)
@@ -92,27 +106,15 @@ This two-night, spoken-word competition features DC SCORES students performing t
 
 ---
 
-![Jamboree](/uploads/volunteer-jamboree-float-left-small.jpg)
-
-### [Jamboree!](https://www.dcscores.org/jamboree/)
-
-The culminating event of the DC SCORES programming year, filled with soccer games, arts and crafts, and more for DC SCORES students and their families.
-
-**Date:** Early June 2019
-
-**Location:** Anacostia Park
-
-**Want to get involved? [CLICK HERE](https://www.dcscores.org/jamboree/)** for more information about volunteer tasks and registration. 
-
----
-
 ![DC SCORES Cup](/uploads/volunteer-scores-cup-float-right.jpg)
 
 ### DC SCORES Cup
 
 Our largest fundraiser – an annual adult soccer tournament made up of local companies, law firms, small businesses and soccer organizations. Volunteer roles include setup/breakdown, registration, field marshals, lunch servers, and photography.
 
-**Date:** June 2019
+**Date:** June 22, 2019
+
+**Where:** [Maryland SoccerPlex](https://www.google.com/maps?q=maryland+soccerplex&um=1&ie=UTF-8&sa=X&ved=0ahUKEwixw42ElYnfAhVqzlkKHeY2BY0Q_AUIDigB) 
 
 ---
 
