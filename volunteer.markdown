@@ -25,7 +25,7 @@ Thursdays (Elementary) from 3:45pm to 6pm.
 At <a href="/our-program/program-sites/" target="_blank">sites</a> throughout DC. We will do our best to place you based on your location and mode of transportation.
 
 **Schedule**
-Fall 2018 gamedays begin on September 13th end on November 8th.
+Stay tuned for the Spring 2019 schedule.
 
 **Want to get involved?**
 Please fill out the [Volunteer Referee Application](https://docs.google.com/forms/d/e/1FAIpQLScYeaY_PwTM-smKm44dboDDO_IHNTs0pw1LchyJ9BGkC6qRjw/viewform) form!
@@ -52,7 +52,7 @@ Assistant coaches are able to sign up for soccer and/or writing programming. Soc
 
 **When?**
 
-Fall 2018 schedule coming soon (September - Early November).
+Spring 2019 schedule coming soon.
 
 **Where?**
 At <a href="/our-program/program-sites/" target="_blank">sites</a> throughout DC. We will do our best to place you based on your location and mode of transportation.
@@ -108,7 +108,7 @@ Applications for 2019 Summer Camps will go out in May 2019.
 
 A day-long celebration of our fall season that includes soccer games and outdoor activities for our elementary school students and their families.
 
-**Date:** October 13, 2018 
+**Date:** October 2019 
 
 **Location:** [Trinity Washington University](https://www.google.com/maps/place/Trinity+Washington+University/@38.9275815,-77.007104,17z/data=!3m1!4b1!4m5!3m4!1s0x89b7c7f95d00e459:0x5d7b60436fe81cce!8m2!3d38.9275815!4d-77.0049153)
 
@@ -122,9 +122,9 @@ A day-long celebration of our fall season that includes soccer games and outdoor
 
 This two-night, spoken-word competition features DC SCORES students performing their original poetry. Volunteer roles include set-up/breakdown, registration, ushers, scoring assistants, and stagehands.
 
-**Dates:** November 13-15, 2018
+**Dates:** November 2019
 
-**Location:** Middle School ([Cardozo Education Campus](https://www.google.com/maps/place/Cardozo+Education+Campus/@38.9214669,-77.0305685,17z/data=!3m1!4b1!4m5!3m4!1s0x89b7b7e13781d04b:0xe3284d4ef97f7210!8m2!3d38.9214669!4d-77.0283798)), Westside ([Roosevelt High School](https://www.google.com/maps/place/Theodore+Roosevelt+High+School/@38.943046,-77.0313638,17z/data=!3m1!4b1!4m5!3m4!1s0x89b7c81477c3b445:0xd912cd462abafb52!8m2!3d38.943046!4d-77.0291751)), Eastside ([HD Woodson High School](https://www.google.com/maps/place/H.D.+Woodson+High+School/@38.8967466,-76.9248145,17z/data=!3m1!4b1!4m5!3m4!1s0x89b7b8db6a45a6a1:0xee1293b8679afa77!8m2!3d38.8967466!4d-76.9226258))
+**Locations:** TBD
 
 ---
 
