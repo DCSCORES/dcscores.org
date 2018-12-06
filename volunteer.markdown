@@ -1,7 +1,7 @@
 ---
 title: Volunteer
 permalink: "/volunteer/"
-Top Image: "/uploads/Volunteer%20page%20banner%20(1).png"
+Top Image: "/uploads/Volunteer%20page%20banner-cfa7ec.png"
 Top Image Position: 50% 25%
 layout: volunteer
 ---
