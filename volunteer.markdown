@@ -28,7 +28,7 @@ At <a href="/our-program/program-sites/" target="_blank">sites</a> throughout DC
 Stay tuned for the Spring 2019 schedule.
 
 **Want to get involved?**
-Please fill out the [Volunteer Referee Application](https://docs.google.com/forms/d/e/1FAIpQLScYeaY_PwTM-smKm44dboDDO_IHNTs0pw1LchyJ9BGkC6qRjw/viewform) form!
+Our new Volunteer Referee Application form will be available soon. Please check back for updates in March 2019.
 
 ---
 
@@ -50,11 +50,11 @@ Assistant coaches are able to sign up for soccer and/or writing programming. Soc
 
 3. Start coaching!
 
-**When?**
+**When:**
 
-Spring 2019 schedule coming soon.
+Weekdays between 3-6 PM. Exact times vary across each site.
 
-**Where?**
+**Where:**
 At <a href="/our-program/program-sites/" target="_blank">sites</a> throughout DC. We will do our best to place you based on your location and mode of transportation.
 
 **Want to get involved?**
@@ -108,7 +108,7 @@ Applications for 2019 Summer Camps will go out in May 2019.
 
 A day-long celebration of our fall season that includes soccer games and outdoor activities for our elementary school students and their families.
 
-**Date:** October 2019 
+**Date:** Mid-October 2019 
 
 **Location:** [Trinity Washington University](https://www.google.com/maps/place/Trinity+Washington+University/@38.9275815,-77.007104,17z/data=!3m1!4b1!4m5!3m4!1s0x89b7c7f95d00e459:0x5d7b60436fe81cce!8m2!3d38.9275815!4d-77.0049153)
 
@@ -122,9 +122,9 @@ A day-long celebration of our fall season that includes soccer games and outdoor
 
 This two-night, spoken-word competition features DC SCORES students performing their original poetry. Volunteer roles include set-up/breakdown, registration, ushers, scoring assistants, and stagehands.
 
-**Dates:** November 2019
+**Dates:** Mid-November 2019 (three consecutive nights)
 
-**Locations:** TBD
+**Locations:** Three different locations are booked for each competition night, one for Middle Schools, Westside elementary schools, and Eastside elementary schools. Locations will be released in October 2019.
 
 ---
 
