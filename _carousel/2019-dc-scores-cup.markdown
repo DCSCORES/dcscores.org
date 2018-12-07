@@ -1,7 +1,7 @@
 ---
 title: 2019 DC SCORES Cup
 date: 2018-12-07 17:14:00 Z
-Image: "/uploads/Volunteer%20page%20banner%20(1)-541be9.png"
+Image: "/uploads/Volunteer%20page%20banner-d25aad.png"
 Link: www.dcscorescup.org
 ---
 
