@@ -1,6 +1,7 @@
 ---
 title: Henderson recognized with the EXCEL Award
 date: 2018-12-07 16:49:00 Z
+position: 1
 Image: "/uploads/Bethany%20Henderson.jpg"
 Link: http://bit.ly/brhEXCELaward
 ---
