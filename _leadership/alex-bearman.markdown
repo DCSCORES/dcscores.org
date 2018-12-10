@@ -1,6 +1,6 @@
 ---
 title: Alex Bearman
-position: 42
+position: 41
 Details: District Sports
 Section: advisory
 ---
