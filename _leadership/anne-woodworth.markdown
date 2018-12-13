@@ -1,6 +1,7 @@
 ---
 title: Anne Woodworth
 position: 58
-Details:
+Details: 
 Section: emeritus
 ---
+
