@@ -81,6 +81,26 @@ layout: default
       </div>
     </div>
   </section>
+  
+  <section class="Grid  Grid--large  u-marginTop--2em">
+    <h2 class="Grid__d2-d6  Grid__d-newline  Grid__m1-m5  Grid__m-newline">Board Emeritus Council</h2>
+
+    <div class="Grid__d2-d5  Grid__d-newline  Grid__m1-m6  Grid__m-newline">
+      <p>The Board Emeritus Council is a group of highly-esteemed former Board members who convene regularly to provide guidance and wisdom on important strategic issues facing DC SCORES.</p>
+    </div>
+
+    <div class="Grid__d2-d6  Grid__d-newline  Grid__m1-m6">
+      <div class="Leadership">
+        {% assign sorted_leadership = site.leadership | sort:'position' | where:"Section","emeritus" %}
+        {% for person in sorted_leadership %}
+        <div class="Leadership-cell">
+          <h3 class="Leadership-cellName">{{ person.title }}</h3>
+          <!--<h4 class="Leadership-cellMeta">{{ person["Details"] }}</h4>-->
+        </div>
+        {% endfor %}
+      </div>
+    </div>
+  </section>
 
 </main>
 
