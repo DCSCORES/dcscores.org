@@ -11,6 +11,10 @@ The new year is here and so is DC SCORES! The **Winter SCORES** season officiall
 
 ![27099100338_bc0a55d169_k (1)-ac5576.jpg](/uploads/27099100338_bc0a55d169_k%20(1)-ac5576.jpg)
 
+
+
+
+
 It’s been a long two months since the [Fall SCORES season](https://www.dcscores.org/blog/2018/09/as-august-comes-to-an-end-the-fall-scores-season-quickly-begins) ended in November so DC SCORES is glad to be back for a new season filled with soccer and nutrition.
 
 Winter SCORES consists of a **six-week, scaled-down nutrition and soccer program** that will take place this season at [LaSalle Education Campus - Elementary](https://www.lasallebackus.org/), [Seaton Elementary School](https://seatondc.org/), [Truesdell Education Campus-Elementary](https://www.facebook.com/truesdellec/), and [Lincoln Middle School](https://checdc.org/).
