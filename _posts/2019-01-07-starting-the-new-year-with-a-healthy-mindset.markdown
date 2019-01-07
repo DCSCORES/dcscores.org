@@ -1,6 +1,8 @@
 ---
 title: Starting the new year with a healthy mindset
 date: 2019-01-07 17:28:00 Z
+tags:
+- winter scores
 Author: Lorena Palacios
 Thumbnail Image: "/uploads/27099100338_bc0a55d169_k%20(1).jpg"
 ---
