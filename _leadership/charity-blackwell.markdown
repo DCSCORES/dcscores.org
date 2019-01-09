@@ -1,7 +1,7 @@
 ---
 title: Charity Blackwell
 date: 2017-08-14 13:42:00 Z
-position: 5
+position: 7
 Details: Director of Creative Arts and Education
 Email: cblackwell@dcscores.org
 Profile Image: "/uploads/10580907_10153177275886965_8507756754471767558_o.jpg"

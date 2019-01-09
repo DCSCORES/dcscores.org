@@ -1,7 +1,7 @@
 ---
 title: Tom Gross
 date: 2019-01-09 15:58:00 Z
-position: 9
+position: 11
 Details: League Administrator
 Email: tgross@dcscores.org
 Profile Image: "/uploads/IMG_0038.jpg"
