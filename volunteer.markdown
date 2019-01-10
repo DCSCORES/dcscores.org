@@ -25,10 +25,10 @@ Thursdays (Elementary) from 3:45pm to 6pm.
 At <a href="/our-program/program-sites/" target="_blank">sites</a> throughout DC. We will do our best to place you based on your location and mode of transportation.
 
 **Schedule**
-Stay tuned for the Spring 2019 schedule.
+The Spring SCORES season begins on March 11th.
 
 **Want to get involved?**
-Our new Volunteer Referee Application form will be available soon. Please check back for updates in March 2019.
+Sign up to volunteer by filling out the [Volunteer Referee Application](https://docs.google.com/forms/d/e/1FAIpQLSdtpW2rvPWQ-mzjq-XRo9frtaUwqTiURtSndRcggh1qTnBKcQ/viewform)!
 
 ---
 
