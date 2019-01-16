@@ -6,19 +6,13 @@ Top Image Position: 50% 25%
 layout: jamboree
 ---
 
-## **IMPORTANT UPDATE**
+### Jamboree 2019 Volunteer Information
 
-> Unfortunately, due to unplayable field conditions with standing water and a forecast of severe thunderstorms throughout the day, we are canceling Jamboree June 2. Thank you for your continued support of DC SCORES and our poet-athletes.
-
-<br>
-
-### Jamboree 2018 Volunteer Information
-
-Jamboree is our culminating event of the year where all 2,500 of our participants and their families are invited to an all-day soccer tournament & community festival.
+Jamboree is our culminating event of the year where all 3,000 of our participants and their families are invited to an all-day soccer tournament & community festival.
 
 #### Logistics
 
-* Saturday, June 2
+* Saturday, June 1
 
 * Anacostia Park, Field 6 (1800 Anacostia Drive SE, Washington, DC 20020)
 
