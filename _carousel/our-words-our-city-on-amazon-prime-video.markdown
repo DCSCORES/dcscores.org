@@ -5,4 +5,4 @@ Image: "/uploads/46165282581_3e06b32b12_k.jpg"
 Link: http://bit.ly/OWOCamazon
 ---
 
-The Fall 2018 Our Words Our City showcase on NOW AVAILABLE on Amazon Prime Video!
+The Fall 2018 Our Words Our City showcase is NOW AVAILABLE on Amazon Prime Video!
