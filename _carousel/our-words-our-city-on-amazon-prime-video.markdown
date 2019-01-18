@@ -1,7 +1,7 @@
 ---
 title: Our Words Our City on Amazon Prime Video
 date: 2019-01-18 17:52:00 Z
-Image: "/uploads/Untitled%20design%20(1)-bf530e.png"
+Image: "/uploads/46165282581_3e06b32b12_k.jpg"
 Link: http://bit.ly/OWOCamazon
 ---
 
