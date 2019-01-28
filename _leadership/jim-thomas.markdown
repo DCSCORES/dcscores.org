@@ -1,7 +1,7 @@
 ---
 title: Jim Thomas
 date: 2018-08-15 18:29:00 Z
-position: 18
+position: 19
 Details: Soccer Program Coordinator
 Email: jthomas@dcscores.org
 Profile Image: "/uploads/IMG_9657.jpg"
