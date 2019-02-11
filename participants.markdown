@@ -4,16 +4,13 @@ permalink: "/our-program/participants/"
 Top Image: "/assets/images/masthead-resources.jpg"
 Top Image Position: 50% 40%
 soccerSchedule:
-- "## Soccer Schedule\n\nDC SCORES runs the only consistent elementary and middle
-  public school soccer leagues for both boys and girls in the District of Columbia.
-  Additionally, beginning in the fall of 2016, DC SCORES is running the DC SCORES
-  City League, a District-wide recreation center soccer league run in partnership
-  with the DC Department of Parks and Recreation. <a href=\"https://www.google.com/maps/d/u/0/viewer?mid=1ArueGtkLKryfnhjFva-7hHSZlD8&ll=38.8939219214454%2C-77.01469049999997&z=12\"
-  target=\"_blank\">MAP of SITES</a>\n\n\n#### The Fall SCORES elementary school soccer
-  season has ended. Stay tuned for Spring SCORES starting in March 2019!\n\n\n####
-  Middle School - Tuesday, November 20\nCapital Cup at Cardozo Education Campus\n\n-
-  COED Final (4pm) - Cardozo vs Paul \n- Girls Final (5pm) - DCI vs Washington Latin\n-
-  Boys Final (6pm) - Capital City vs Raymond"
+- |-
+  ## Soccer Schedule
+
+  DC SCORES runs the only consistent elementary and middle public school soccer leagues for both boys and girls in the District of Columbia. Additionally, beginning in the fall of 2016, DC SCORES is running the DC SCORES City League, a District-wide recreation center soccer league run in partnership with the DC Department of Parks and Recreation. <a href="https://www.google.com/maps/d/u/0/viewer?mid=1ArueGtkLKryfnhjFva-7hHSZlD8&ll=38.8939219214454%2C-77.01469049999997&z=12" target="_blank">MAP of SITES</a>
+
+
+  #### The Fall SCORES elementary school soccer season has ended. Stay tuned for Spring SCORES starting in March 2019!
 soccerScheduleMap: "/uploads/image-program-sites-map.png"
 forFamilies:
 - |-
