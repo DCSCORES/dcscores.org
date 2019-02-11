@@ -8,11 +8,11 @@ layout: jamboree
 
 ### Jamboree 2019 Volunteer Information
 
-Jamboree is our culminating event of the year where all 3,000 of our participants and their families are invited to an all-day soccer tournament & community festival.
+Jamboree is our all-day soccer tournament and community festival for our 3,000 participants and their families. This year, Jamboree with take place on Saturday, June 1 for elementary schools and Saturday, June 8 for middle schools.
 
 #### Logistics
 
-* Saturday, June 1
+* Saturday, June 1 (elementary) and Saturday, June 8 (middle)
 
 * Anacostia Park, Field 6 (1800 Anacostia Drive SE, Washington, DC 20020)
 
@@ -54,27 +54,34 @@ Jamboree is our culminating event of the year where all 3,000 of our participant
 
 Referees will be asked to work with other referees at their field and will control 3-5 games throughout the day. **Soccer experience necessary, although all referees will complete a brief overview with DC SCORES Staff before their shift, some light jogging required**.
 
-For this role, there are **AM**, **PM**, and **All-Day** shifts available.
+- [Referee registration](http://scores.force.com/volunteer/GW_Volunteers__VolunteersJobListingFS?Calendar=1&volunteerShiftId=a0V2J00000EVALfUAP&jobId=a0T2J00000lhsqwUAA&dtMonthFilter=2019-6-1%208:30:0) (June 1 ONLY)
 
+Note: For this role, there are **AM**, **PM**, and **All-Day** shifts available.
 
 #### Activity Booths
 
 Great team-building experience for different departments for groups of 2-12 employees. Booths include face-painting, art & soccer activities, etc.
 
-For this role, there are **AM**, **PM**, and **All-Day** shifts available.
+- [Activity Booths registration](http://scores.force.com/volunteer/GW_Volunteers__VolunteersJobListingFS?Calendar=1&volunteerShiftId=a0V2J00000EVAKhUAP&jobId=a0T2J00000lhsqhUAA&dtMonthFilter=2019-6-1%208:0:0) (June 1 ONLY)
+
+Note: For this role, there are **AM**, **PM**, and **All-Day** shifts available.
 
 
 #### Lunch Distribution
 
 Recommended for a group (e.g. a company). This station will consist of organizing boxed lunches and making sure they get to teams, family members, and volunteers properly.
 
-For this role, one shift will be available.
+- [Lunch Distribution registration](http://scores.force.com/volunteer/GW_Volunteers__VolunteersJobListingFS?Calendar=1&volunteerShiftId=a0V2J00000EVAL1UAP&jobId=a0T2J00000lhsqmUAA&dtMonthFilter=2019-6-1%209:30:0) (June 1 and 8)
+
+Note: For this role, one shift will be available for each day.
 
 #### Photography/Videography
 
 *Please bring your own camera*. In this position, volunteers will be assigned to capture a certain area/set of games.
 
-For this role, there are **AM**, **PM**, and **All-Day** shifts available.
+- [Photography/Videography registration](http://scores.force.com/volunteer/GW_Volunteers__VolunteersJobListingFS?Calendar=1&volunteerShiftId=a0V2J00000EVAM5UAP&jobId=a0T2J00000lhsrBUAQ&dtMonthFilter=2019-6-1%209:0:0) (June 1 and 8)
+
+Note: For this role, there are **AM**, **PM**, and **All-Day** shifts available.
 
 
 #### Set-Up/Closing Crew
@@ -83,10 +90,14 @@ Set-up includes setting up tables, goals, tents, art supplies, etc. *some heavy 
 
 Closing shift includes assistance with breaking down goals, tents, art booths, and other materials is needed at the end of the day.
 
-There is one shift for set-up and one for closing crew available.
+- [Set-up/Closing registration](http://scores.force.com/volunteer/GW_Volunteers__VolunteersJobListingFS?Calendar=1&volunteerShiftId=a0V2J00000EVALvUAP&jobId=a0T2J00000lhsr6UAA&dtMonthFilter=2019-6-1%207:30:0) (June 1 and 8)
+
+Note: There is one shift for set-up and one for closing crew available for each day.
 
 #### General
 
 Other duties will be assigned as needed and volunteers may be asked to float between various volunteer roles.
 
-There are **AM**, **PM**, and **All-Day** shifts available for this role.
+- [General registration](http://scores.force.com/volunteer/GW_Volunteers__VolunteersJobListingFS?Calendar=1&volunteerShiftId=a0V2J00000EVALuUAP&jobId=a0T2J00000lhsr1UAA&dtMonthFilter=2019-6-1%208:30:0) (June 1 and 8)
+
+Note: There are **AM**, **PM**, and **All-Day** shifts available for this role for each day.
