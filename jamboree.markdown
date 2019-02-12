@@ -38,7 +38,7 @@ Jamboree is our all-day soccer tournament and community festival for our 3,000 p
 
 #### Weather Policy
 
-* Jamboree is a “drizzle-or-shine” event. In the case that there is an absolute downpour, we will notify you via email on Friday, June 1st.
+* Jamboree is a “drizzle-or-shine” event. In the case that there is an absolute downpour, we will notify you via email on Friday, May 31st.
 
 #### What do I need to check-in on the day of the event?
 
