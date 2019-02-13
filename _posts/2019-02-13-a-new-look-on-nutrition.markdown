@@ -10,7 +10,7 @@ Thumbnail Image: "/uploads/unnamed-223107.jpg"
 
 From poetry to soccer to nutrition and cooking, these kids do it all! 
 
-This Winter SCORES season at DC SCORES we have brought back the Common Threads nutrition curriculum to Lincoln Middle School. Not only are our poet-athletes learning about healthy eating habits, but they are getting experience creating snacks they can easily make at home. 
+This [Winter SCORES season](https://www.dcscores.org/blog/2019/01/starting-the-new-year-with-a-healthy-mindset) at DC SCORES we have brought back the [Common Threads](http://www.commonthreads.org/) nutrition curriculum to [Lincoln Middle School](https://checdc.org/). Not only are our poet-athletes learning about healthy eating habits, but they are getting experience creating snacks they can easily make at home. 
 
 ![unnamed-faa752.jpg](/uploads/unnamed-faa752.jpg)
 
