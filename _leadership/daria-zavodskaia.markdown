@@ -1,7 +1,7 @@
 ---
 title: Daria Zavodskaia
 date: 2018-12-10 14:46:00 Z
-position: 23
+position: 22
 Details: Community Outreach Fellow
 Email: dzavodskaia@dcscores.org
 Profile Image: "/uploads/Daria%20Zavodskaia.jpg"

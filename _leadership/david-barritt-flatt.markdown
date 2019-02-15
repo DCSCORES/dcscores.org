@@ -1,6 +1,6 @@
 ---
 title: David Barritt-Flatt
-position: 29
+position: 28
 Details: Assistant Secretary, Clark Construction Group, LLC
 Section: board
 Link: https://www.linkedin.com/in/david-barritt-flatt-37201a7/
