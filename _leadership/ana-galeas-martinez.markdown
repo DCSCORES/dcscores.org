@@ -2,7 +2,7 @@
 title: Ana Galeas Martinez
 date: 2017-08-17 14:54:00 Z
 position: 8
-Details: Program Coordinator
+Details: Site Coordinator
 Email: agaleas@dcscores.org
 Profile Image: "/uploads/35483411124_65ec622fc9_o%20(1).jpg"
 Section: staff
