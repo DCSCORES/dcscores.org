@@ -3,6 +3,7 @@ title: One Night One Goal
 date: 2019-02-25 18:53:00 Z
 position: 0
 Image: "/uploads/website%20banner%20(1)%20(1).png"
+Image Position: 50% 50%
 Link: https://onog.dcscores.org/
 ---
 
