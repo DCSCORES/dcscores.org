@@ -1,7 +1,7 @@
 ---
 title: DC Poetry Slam Showcases Young Talent
 date: 2016-12-01 00:00:00 Z
-position: 71
+position: 73
 link: http://bit.ly/NBCwashingtonDCSCORES
 source: NBC Washington
 ---
