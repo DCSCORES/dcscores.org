@@ -1,6 +1,7 @@
 ---
 title: Carlos Vives y el D.C. United se unen por una buena causa
 date: 2018-09-25 02:57:00 Z
+position: 1
 link: https://www.telemundowashingtondc.com/noticias/local/Carlos-Vives-se-une-a-D_C_-United-para-realizar-donaci_n_Washington-DC-494286021.html?akmobile=o&appVideoHub=y
 source: Telemundo
 ---
