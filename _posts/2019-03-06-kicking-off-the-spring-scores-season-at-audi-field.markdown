@@ -14,6 +14,10 @@ With Audi Field as the backdrop for this years’ Coach Kickoff, coaches and SCO
 
 ![40314807523_6a97be5bc0_k (1).jpg](/uploads/40314807523_6a97be5bc0_k%20(1).jpg)
 
+
+
+
+
 This action-packed day gave coaches the chance to mingle, brainstorm, and get pumped for the upcoming season which starts on Monday, March 11th.
  
 The morning started with new coach coffee; a chance for new coaches to connect with other new coaches and DC SCORES staff. As returning coaches arrived, they were also given the opportunity to grab a cup of coffee and mingle before the day started.
