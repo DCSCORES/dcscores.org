@@ -256,8 +256,9 @@
 
         padding-top: 0.75em;
         padding-bottom: 0.75em;
-        padding-right: 1em;
-        padding-left: 1em;
+        /* Because of 'For Parents' button, later bring back to 1em */
+        padding-right: 0.75em;
+        padding-left: 0.75em;
 
         font-size: 1.115rem;
         font-weight: 700;
