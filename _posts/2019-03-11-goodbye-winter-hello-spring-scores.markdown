@@ -33,7 +33,7 @@ The Junior SCORES program meets practices twice a week, with bi-weekly games on 
 
 **Special Events**
 
-**Jamboree **
+**Jamboree**
 Jamboree is the culminating event of the DC SCORES programming year. This year for the first time ever, the event will be split up into two weekends! June 1st, DC SCORES will host elementary schools, and on June 8th, middle schools. The event is held at Anacostia Park, and is a day full of soccer games, arts and crafts, and more for DC SCORES students and their families to enjoy. 
 
 **How Do I Get Involved?**
