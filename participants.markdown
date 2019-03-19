@@ -9,7 +9,7 @@ soccerSchedule:
   Additionally, beginning in the fall of 2016, DC SCORES is running the DC SCORES
   City League, a District-wide recreation center soccer league run in partnership
   with the DC Department of Parks and Recreation. <a href=\"https://www.google.com/maps/d/u/0/viewer?mid=1ArueGtkLKryfnhjFva-7hHSZlD8&ll=38.8939219214454%2C-77.01469049999997&z=12\"
-  target=\"_blank\">MAP of SITES</a>\n\n## Thursday, March 21 | Elementary School\n-
+  target=\"_blank\">MAP of SITES</a>\n\n#### Thursday, March 21 | Elementary School\n-
   Beers at Aiton\n- Boone at Amidon-Bowen\n- Kimball at Burrville\n- Imagine Hope
   - Tolson at Drew\n- Walker-Jones at KIPP Quest\n- Van Ness at Leckie\n- Turner at
   Miner\n- JC Nalle at Thomas\n- Smothers at Tyler\n- Brightwood at Capital City \n-
