@@ -96,9 +96,7 @@ Our largest fundraiser – an annual adult soccer tournament made up of local co
 
 ## Summer Camp Counselor
 
-Thanks so much for your interest! Our summer camp counselors slots have been filled. 
-
-Applications for 2019 Summer Camps will go out in May 2019.
+If you or your child is interested in more information about becoming a DC SCORES Summer Camp Counselor, please fill out the [2019 Summer Camp Counselor Interest Form](https://docs.google.com/forms/d/e/1FAIpQLSdm3lwtPaIWBnGik0wmCkumA_0mni-xPIUbIWBQ4maPwngo_w/viewform).
 
 ---
 
