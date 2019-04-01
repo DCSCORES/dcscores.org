@@ -4,38 +4,18 @@ permalink: "/our-program/participants/"
 Top Image: "/assets/images/masthead-resources.jpg"
 Top Image Position: 50% 40%
 soccerSchedule:
-- |-
+- |
   ## Soccer Schedule
 
   DC SCORES runs the only consistent elementary and middle public school soccer leagues for both boys and girls in the District of Columbia. Additionally, beginning in the fall of 2016, DC SCORES is running the DC SCORES City League, a District-wide recreation center soccer league run in partnership with the DC Department of Parks and Recreation. <a href="https://www.google.com/maps/d/u/0/viewer?mid=1ArueGtkLKryfnhjFva-7hHSZlD8&ll=38.8939219214454%2C-77.01469049999997&z=12" target="_blank">MAP of SITES</a>
 
-  #### Thursday, March 28 | Elementary School
-  - Boone at Aiton
-  - Walker-Jones at Amidon-Bowen
-  - Van Ness at Beers
-  - Leckie at Burrville
-  - Miner at Drew
-  - Turner at JC Nalle
-  - Smothers at KIPP Quest
-  - Kimball at Tyler
-  - Bancroft at Capital City
-  - Bruce-Monroe at LaSalle
-  - Barnard at Raymond
-  - Powell at Reed
-  - HD Cooke at Seaton
-  - Brightwood at Truesdell
-  - Thomson at Tubman
+  #### Wednesday, April 3 | JUNIOR SCORES
+  - Powell/Upshur Recreation Center at Reed
+  - Van Ness at Seaton
+  - Miner at Truesdell
+  - Amidon-Bowen at Bancroft
 
-  #### Friday, March 29 | Elementary School
-  - Truesdell at Capital City
-  - MacFarland at DCI
-  - Brookland at Lincoln
-  - Chavez-Prep at EL Haynes
-
-  COED
-  - LaSalle at Cardozo
-  - Paul at Kelly Miller
-  - SEED at Leckie
+  #### No Elementary or Middle School games this week
 soccerScheduleMap: "/uploads/image-program-sites-map.png"
 forFamilies:
 - |-
