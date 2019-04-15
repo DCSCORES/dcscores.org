@@ -4,26 +4,12 @@ permalink: "/our-program/participants/"
 Top Image: "/assets/images/masthead-resources.jpg"
 Top Image Position: 50% 40%
 soccerSchedule:
-- "## Soccer Schedule\n\nDC SCORES runs the only consistent elementary and middle
-  public school soccer leagues for both boys and girls in the District of Columbia.
-  Additionally, beginning in the fall of 2016, DC SCORES is running the DC SCORES
-  City League, a District-wide recreation center soccer league run in partnership
-  with the DC Department of Parks and Recreation. <a href=\"https://www.google.com/maps/d/u/0/viewer?mid=1ArueGtkLKryfnhjFva-7hHSZlD8&ll=38.8939219214454%2C-77.01469049999997&z=12\"
-  target=\"_blank\">MAP of SITES</a>\n\n#### Wednesday, April 10 | Junior SCORES\n-
-  Van Ness at Amidon-Bowen\n- Park View Rec at Seaton\n- LaSalle at Reed\n\n#### Wednesday,
-  April 10 | Elementary School\n- Imagine Hope Tolson at Thomas\n\n#### Wednesday,
-  April 10 | Middle School\n- KIPP DC Valor at Kelly Miller\n- LaSalle at Inspired
-  Teaching School\n- Raymond at KIPP WILL\n\n#### Thursday, April 11 | Elementary
-  School\n- Kimball at Aiton\n- Thomas at Amidon-Bowen\n- Smothers at Beers\n- Van
-  Ness at Burrville\n- Leckie at Drew\n- Walker-Jones at JC Nalle\n- Boone at KIPP
-  Quest\n- Image Hope Tolson at Miner\n- Turner at Tyler\n- WSG & Image Hope Lamond
-  & Capital City\n- Powell at Garrison\n- Bancroft at LaSalle\n- HD Cooke at Raymond\n-
-  Thomson at Reed\n- Brightwood at Seaton\n- Barnard at Truesdell\n- Bruce Monroe
-  at Tubman\n\n#### Friday, April 12 | Middle School\n- Cesar Chavez at Capital City\n-
-  Raymond at DCI\n- Brookeland at EL Haynes\n- MacFarland at Lincoln \n- Brightwood
-  at KIPP WILL\n- Basis DC at Cardozo\n- Imagine Hope Tolson at Hart\n- KIPP Valor
-  at LaSalle\n- Paul at Jefferson\n- SEED at Kelly Miller\n- Inspired Teaching School
-  at Leckie\n"
+- |
+  ## Soccer Schedule
+
+  DC SCORES runs the only consistent elementary and middle public school soccer leagues for both boys and girls in the District of Columbia. Additionally, beginning in the fall of 2016, DC SCORES is running the DC SCORES City League, a District-wide recreation center soccer league run in partnership with the DC Department of Parks and Recreation. <a href="https://www.google.com/maps/d/u/0/viewer?mid=1ArueGtkLKryfnhjFva-7hHSZlD8&ll=38.8939219214454%2C-77.01469049999997&z=12" target="_blank">MAP of SITES</a>
+
+  #### SPRING BREAK: No games this week!
 soccerScheduleMap: "/uploads/image-program-sites-map.png"
 forFamilies:
 - |-
