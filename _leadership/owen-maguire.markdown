@@ -1,7 +1,7 @@
 ---
 title: Owen Maguire
 date: 2017-08-30 19:45:00 Z
-position: 14
+position: 15
 Details: America SCORES Communications Director
 Email: omaguire@dcscores.org
 Profile Image: "/uploads/unnamed%20(6).jpg"
