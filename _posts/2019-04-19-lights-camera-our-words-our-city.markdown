@@ -11,7 +11,7 @@ Thumbnail Image: "/uploads/40627418623_1183059f34_k%20(1)-7ed32e.jpg"
 ![46677896755_d7cb802509_k (1).jpg](/uploads/46677896755_d7cb802509_k%20(1).jpg)
 [*Our Words Our City: April 2019 photo album*](https://www.flickr.com/photos/dcscorespictures/albums/72157690870349583/with/46677898155/)
 
-Set in the historic [Studio Theatre](https://www.studiotheatre.org/), this season’s *Our Words Our City* was a night filled with performances that made us laugh, cry, and reflect on the world around us. Our Words Our City gave our DC SCORES poet-athletes a chance to express themselves on a stage unlike any other. 
+Set in the historic [Studio Theatre](https://www.studiotheatre.org/), this season’s *Our Words Our City* was a night filled with performances that made us laugh, cry, and reflect on the world around us. *Our Words Our City* gave our DC SCORES poet-athletes a chance to express themselves on a stage unlike any other. 
 
 
 
