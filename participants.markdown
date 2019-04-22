@@ -4,12 +4,48 @@ permalink: "/our-program/participants/"
 Top Image: "/assets/images/masthead-resources.jpg"
 Top Image Position: 50% 40%
 soccerSchedule:
-- |
+- |+
   ## Soccer Schedule
 
   DC SCORES runs the only consistent elementary and middle public school soccer leagues for both boys and girls in the District of Columbia. Additionally, beginning in the fall of 2016, DC SCORES is running the DC SCORES City League, a District-wide recreation center soccer league run in partnership with the DC Department of Parks and Recreation. <a href="https://www.google.com/maps/d/u/0/viewer?mid=1ArueGtkLKryfnhjFva-7hHSZlD8&ll=38.8939219214454%2C-77.01469049999997&z=12" target="_blank">MAP of SITES</a>
 
-  #### SPRING BREAK: No games this week!
+  #### Junior SCORES: Wednesday, April 24, 2019
+  - Bancroft at Truesdell
+  - Reed at Miner
+  - Powell at Seaton
+
+  #### Elementary School SCORES: Thursday, April 25, 2019
+  - Turner at Aiton
+  - Imagine Hope Tolson at Beers
+  - JC Nalle at Burrville
+  - Smothers at Drew
+  - Leckie at KIPP Quest
+  - Kimball at Miner
+  - Boone at Thomas
+  - Walker-Jones at Tyler
+  - Barnard at Capital City
+  - Brightwood at Garrison
+  - Thomson at LaSalle
+  - Bruce Monroe at Raymond
+  - WSG & Imagine Hope Lammond at Reed
+  - Powell at Seaton
+  - Bancroft at Truesdell
+  - HD Cooke at Tubman
+
+  #### Middle School SCORES: Friday, April 26, 2019
+  - Raymond at Lincoln
+  - Cesar Chavez at Truesdell
+  - MacFarland at Brightwood
+  - DCI at EL Haynes
+  - Brookland at Capital City
+  - KIPP Valor at Cardozo
+  - Paul at Hart
+  - Leckie at SEED
+  - Imagine Hope Tolson at Jefferson
+  - Basis DC at LaSalle
+  - Kelly Miner at Inspired Teaching
+
+
 soccerScheduleMap: "/uploads/image-program-sites-map.png"
 forFamilies:
 - |-
