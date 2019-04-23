@@ -8,6 +8,10 @@ Last Thursday marked the 8th Annual DC SCORES Alumni Tournament, which hosted ov
 
 ![40677274863_21d1efb546_k-2.jpg](/uploads/40677274863_21d1efb546_k-2.jpg)
 
+
+
+
+
 The morning started chilly but quickly warmed to become the perfect day for soccer. Over 100 alumni divided among 14 teams, 10 mens and 4 womens, played for the opportunity to show off their skills and be named the 2019 DC SCORES Alumni Tournament Champions.
  
 Making the day possible were our three sponsors: [District Sports](http://districtsportssoccer.org/), [The College Fair](http://thecollegefair.com), and [College Confidential](https://www.collegeconfidential.com/), along with our host school [EL Haynes Public Charter School](https://www.elhaynes.org/).
