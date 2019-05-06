@@ -72,7 +72,7 @@ Check back in August 2019 for more information and the application link!
 
 The culminating event of the DC SCORES programming year, filled with soccer games, arts and crafts, and more for DC SCORES students and their families.
 
-**Date:** Early June 2019
+**Date:** Saturday, June 1, 2019 (elementary) and Saturday, June 8, 2019 (middle)
 
 **Location:** Anacostia Park
 
@@ -100,7 +100,7 @@ If you or your child is interested in more information about becoming a DC SCORE
 
 ---
 
-![Fall Frenzy](/uploads/volunteer-fall-frenzy-float-left-small.jpg)
+![Fall Frenzy](/uploads/volunteer-fall-frenzy-float-right-small.jpg)
 
 ### [Fall Frenzy](https://www.dcscores.org/fallfrenzy/)
 
@@ -114,7 +114,7 @@ A day-long celebration of our fall season that includes soccer games and outdoor
 
 ---
 
-![Poetry Slam](/uploads/volunteer-poetry-slam-float-right.jpg)
+![Poetry Slam](/uploads/volunteer-poetry-slam-float-left.jpg)
 
 ### Poetry Slam!
 
