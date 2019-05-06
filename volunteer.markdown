@@ -66,7 +66,7 @@ Check back in August 2019 for more information and the application link!
 
 ## Special Events
 
-![ONOG FB3-d8bf03.jpg](/uploads/ONOG%20FB3-d8bf03.jpg)
+![ONOG Facebook.png](/uploads/ONOG%20Facebook.png)
 
 ### [One Night One Goal](www.onenightonegoal.com)
 
@@ -74,9 +74,9 @@ One Night One Goal is our annual fundraising event held at Audi Field. Guests wi
 
 **Date:** Thursday, May 30, 2019
 
-**Where:** [Audi Field](https://www.google.com/maps/place/Audi+Field/@38.8689556,-77.0151054,17z/data=!3m1!4b1!4m5!3m4!1s0x89b7b76255c962df:0x958b3d454edb82d0!8m2!3d38.8689514!4d-77.0129167)
+**Where:** [Audi Field](https://www.google.com/maps/place/Audi\+Field/@38.8689556,-77.0151054,17z/data=!3m1!4b1!4m5!3m4!1s0x89b7b76255c962df:0x958b3d454edb82d0!8m2!3d38.8689514!4d-77.0129167)
 
-**Want to get involved?** [CLICK HERE](https://docs.google.com/forms/d/e/1FAIpQLScPqsqtppDCRjutCUoxLA6y57ni3_CTJ1mKAjZvCu5_jpvAGA/viewform) 
+**Want to get involved?** [CLICK HERE](https://docs.google.com/forms/d/e/1FAIpQLScPqsqtppDCRjutCUoxLA6y57ni3_CTJ1mKAjZvCu5_jpvAGA/viewform)
 
 ---
 
@@ -90,7 +90,7 @@ The culminating event of the DC SCORES programming year, filled with soccer game
 
 **Location:** Anacostia Park
 
-**Want to get involved? [CLICK HERE](https://www.dcscores.org/jamboree/)** for more information about volunteer tasks and registration. 
+**Want to get involved? [CLICK HERE](https://www.dcscores.org/jamboree/)** for more information about volunteer tasks and registration.
 
 ---
 
@@ -102,7 +102,7 @@ Our largest fundraiser – an annual adult soccer tournament made up of local co
 
 **Date:** June 22, 2019
 
-**Where:** [Maryland SoccerPlex](https://www.google.com/maps?q=maryland+soccerplex&um=1&ie=UTF-8&sa=X&ved=0ahUKEwixw42ElYnfAhVqzlkKHeY2BY0Q_AUIDigB) 
+**Where:** [Maryland SoccerPlex](https://www.google.com/maps?q=maryland\+soccerplex&um=1&ie=UTF-8&sa=X&ved=0ahUKEwixw42ElYnfAhVqzlkKHeY2BY0Q_AUIDigB)
 
 ---
 
@@ -120,9 +120,9 @@ If you or your child is interested in more information about becoming a DC SCORE
 
 A day-long celebration of our fall season that includes soccer games and outdoor activities for our elementary school students and their families.
 
-**Date:** Mid-October 2019 
+**Date:** Mid-October 2019
 
-**Location:** [Trinity Washington University](https://www.google.com/maps/place/Trinity+Washington+University/@38.9275815,-77.007104,17z/data=!3m1!4b1!4m5!3m4!1s0x89b7c7f95d00e459:0x5d7b60436fe81cce!8m2!3d38.9275815!4d-77.0049153)
+**Location:** [Trinity Washington University](https://www.google.com/maps/place/Trinity\+Washington\+University/@38.9275815,-77.007104,17z/data=!3m1!4b1!4m5!3m4!1s0x89b7c7f95d00e459:0x5d7b60436fe81cce!8m2!3d38.9275815!4d-77.0049153)
 
 **Want to get involved? [CLICK HERE](https://www.dcscores.org/fallfrenzy/)** for more information about volunteer tasks and registration.
 
