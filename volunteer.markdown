@@ -66,7 +66,7 @@ Check back in August 2019 for more information and the application link!
 
 ## Special Events
 
-![ONOG Facebook.png](/uploads/ONOG%20Facebook-float-right.jpg)
+![ONOG Facebook-de2109.png](/uploads/ONOG%20Facebook-de2109-float-right-small.png)
 
 ### [One Night One Goal](www.onenightonegoal.com)
 
@@ -76,7 +76,7 @@ One Night One Goal is our annual fundraising event held at Audi Field. Guests wi
 
 **Where:** [Audi Field](https://www.google.com/maps/place/Audi+Field/@38.8689556,-77.0151054,17z/data=!3m1!4b1!4m5!3m4!1s0x89b7b76255c962df:0x958b3d454edb82d0!8m2!3d38.8689514!4d-77.0129167)
 
-**Want to get involved? [CLICK HERE](https://docs.google.com/forms/d/e/1FAIpQLScPqsqtppDCRjutCUoxLA6y57ni3_CTJ1mKAjZvCu5_jpvAGA/viewform) 
+**Want to get involved?** [CLICK HERE](https://docs.google.com/forms/d/e/1FAIpQLScPqsqtppDCRjutCUoxLA6y57ni3_CTJ1mKAjZvCu5_jpvAGA/viewform) 
 
 ---
 
