@@ -66,7 +66,7 @@ Check back in August 2019 for more information and the application link!
 
 ## Special Events
 
-![ONOG FB3.jpg](/uploads/ONOG%20FB3-float-right-small.jpg)
+![ONOG FB3.jpg](/uploads/ONOG%20FB3-float-right.jpg)
 
 ### [One Night One Goal](www.onenightonegoal.com)
 
