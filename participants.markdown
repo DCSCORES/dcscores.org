@@ -9,46 +9,48 @@ soccerSchedule:
 
   DC SCORES runs the only consistent elementary and middle public school soccer leagues for both boys and girls in the District of Columbia. Additionally, beginning in the fall of 2016, DC SCORES is running the DC SCORES City League, a District-wide recreation center soccer league run in partnership with the DC Department of Parks and Recreation. <a href="https://www.google.com/maps/d/u/0/viewer?mid=1ArueGtkLKryfnhjFva-7hHSZlD8&ll=38.8939219214454%2C-77.01469049999997&z=12" target="_blank">MAP of SITES</a>
 
-  #### Junior SCORES: Wednesday, May 1, 2019
-  - Park View Rec at Amidon-Bowen
-  - Van Ness at LaSalle
-  - Miner at Bancroft
+  #### Junior SCORES: Wednesday, May 8, 2019
+  - Amidon at Miner
+  - Van Ness at Park View Rec
+  - Truesdell at Powell
+  - LaSalle at Seaton
 
-  #### Middle School SCORES: Wednesday, May 1, 2019
-  - Truesdell at Lincoln
-  - Jefferson at Leckie
+  #### Middle School SCORES: Wednesday, May 8, 2019
+  - Brookland at Capital City
 
-  #### Elementary School SCORES: Thursday, May 2, 2019
-  - Beers at Aiton
-  - Boone at Amidon
-  - Kimball at Burrville
-  - Imagine Hope at Drew
-  - Walker-Jones at KIPP Quest
-  - Van Ness at Leckie
-  - Turner at Miner
-  - JC Nalle at Thomas
-  - Smothers at Tyler
-  - Brightwood at Capital City
-  - Barnard at Garrison
-  - HD Cooke at LaSalle
-  - Bancroft at Raymond
-  - Bruce Monroe at Reed
-  - WSG & Imagine Hope Lamond at Seaton
-  - Thomson at Truesdell
-  - Powell at Tubman
+  #### Elementary School SCORES: Wednesday, May 8, 2019
+  - HD Cooke at Tubman
 
-  #### Middle School SCORES: Friday, May 3, 2019
-  - Cesar Chavez-Prep at Lincoln
-  - Truesdell at Brightwood
-  - MacFarland at EL Haynes
-  - DCI at KIPP WILL
-  - Raymond at Capital City
-  - Paul at Cardozo
-  - Leckie at Hart
-  - KIPP Valor at SEED School
-  - Jefferson at Kelly Miller
-  - Imagine Hope Tolson at LaSalle
-  - Basis DC at Inspired Teaching
+  #### Elementary School SCORES: Thursday, May 9, 2019
+  - Imagine Hope Tolson at Aiton
+  - Turner at Beers
+  - Smothers at Burrville
+  - Walker-Jones at Drew
+  - Van Ness at JC Nalle
+  - Amidon at KIPP Quest
+  - Kimball at Leckie
+  - Miner at Thomas
+  - Boone at Tyler
+  - Bruce Monroe at Capital City
+  - Thomson at Garrison
+  - Powell at LaSalle
+  - WSG & Imagine Hope Lamond at Raymond
+  - Barnard at Reed
+  - Bancroft at Seaton
+  - HD Cooke at Truesdell
+  - Brightwood at Tubman
+
+  #### Middle School SCORES: Friday, May 10, 2019
+  - Raymond at Lincoln
+  - Cesar Chavez at Truesdell
+  - MacFarland at Brightwood
+  - DCI at EL Haynes
+  - KIPP Valor at Cardozo
+  - Paul at Hart
+  - Leckie at SEED
+  - Imagine Hope Tolson at Jefferson
+  - Basis DC at LaSalle
+  - Kelly Miller at Inspired Teaching
 soccerScheduleMap: "/uploads/image-program-sites-map.png"
 forFamilies:
 - |-
