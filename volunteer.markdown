@@ -46,7 +46,7 @@ Assistant coaches are able to sign up for soccer and/or writing programming. Soc
 
 1. Fill out our volunteer application.
 
-2. Pass background check, submit negative TB test and attend coach training.
+2. Pass background check, submit a negative TB test and attend coach training.
 
 3. Start coaching!
 
@@ -66,7 +66,7 @@ Check back in August 2019 for more information and the application link!
 
 ## Special Events
 
-![ONOG Facebook.png](/uploads/ONOG%20Facebook.png)
+![ONOG Facebook.png](/uploads/ONOG%20Facebook-float-right.png)
 
 ### [One Night One Goal](www.onenightonegoal.com)
 
