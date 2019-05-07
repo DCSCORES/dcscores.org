@@ -116,8 +116,6 @@ If you or your child is interested in more information about becoming a DC SCORE
 
 ---
 
-![Fall Frenzy](/uploads/volunteer-fall-frenzy-float-right-small.jpg)
-
 ### [Fall Frenzy](https://www.dcscores.org/fallfrenzy/)
 
 A day-long celebration of our fall season that includes soccer games and outdoor activities for our elementary school students and their families.
@@ -129,8 +127,6 @@ A day-long celebration of our fall season that includes soccer games and outdoor
 **Want to get involved? [CLICK HERE](https://www.dcscores.org/fallfrenzy/)** for more information about volunteer tasks and registration.
 
 ---
-
-![46110758852_eafc3c8fd6_k (1)-e85ee5.jpg](/uploads/46110758852_eafc3c8fd6_k%20(1)-e85ee5-float-left.jpg)
 
 ### Poetry Slam!
 
