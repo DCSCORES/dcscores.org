@@ -130,7 +130,7 @@ A day-long celebration of our fall season that includes soccer games and outdoor
 
 ---
 
-![46110758852_eafc3c8fd6_k (1).jpg](/uploads/46110758852_eafc3c8fd6_k%20(1)-float-left-small.jpg)
+![46110758852_eafc3c8fd6_k (1)-e85ee5.jpg](/uploads/46110758852_eafc3c8fd6_k%20(1)-e85ee5.jpg)
 
 ### Poetry Slam!
 
