@@ -106,6 +106,8 @@ Our largest fundraiser – an annual adult soccer tournament made up of local co
 
 ---
 
+<span id="volunteer-summer-camp"></span>
+
 ![Summer camp](/uploads/volunteer-summer-camp-float-left.jpg)
 
 ## Summer Camp Counselor
