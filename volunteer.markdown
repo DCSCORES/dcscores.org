@@ -68,7 +68,7 @@ Check back in August 2019 for more information and the application link!
 
 ![ONOG FB3-d8bf03.jpg](/uploads/ONOG%20FB3-d8bf03.jpg)
 
-### [One Night One Goal](www.onenightonegoal.com)
+### [One Night One Goal](https://onog.dcscores.org/)
 
 One Night One Goal is our annual fundraising event held at Audi Field. Guests will tour exclusive areas of the stadium, enjoy a live auction, mingle with D.C. United players, and sample specialty cocktails and cuisine. Volunteer with us to make this event a memorable experience to support our poet-athletes.
 
