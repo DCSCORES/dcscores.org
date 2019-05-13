@@ -4,53 +4,32 @@ permalink: "/our-program/participants/"
 Top Image: "/assets/images/masthead-resources.jpg"
 Top Image Position: 50% 40%
 soccerSchedule:
-- |
+- |-
   ## Soccer Schedule
 
   DC SCORES runs the only consistent elementary and middle public school soccer leagues for both boys and girls in the District of Columbia. Additionally, beginning in the fall of 2016, DC SCORES is running the DC SCORES City League, a District-wide recreation center soccer league run in partnership with the DC Department of Parks and Recreation. <a href="https://www.google.com/maps/d/u/0/viewer?mid=1ArueGtkLKryfnhjFva-7hHSZlD8&ll=38.8939219214454%2C-77.01469049999997&z=12" target="_blank">MAP of SITES</a>
 
-  #### Junior SCORES: Wednesday, May 8, 2019
-  - Amidon at Miner
-  - Van Ness at Park View Rec
-  - Truesdell at Powell
-  - LaSalle at Seaton
+  #### Junior SCORES: Wednesday, May 15, 2019
+  - Junior Jamboree at Audi Field
 
-  #### Middle School SCORES: Wednesday, May 8, 2019
-  - Brookland at Capital City
+  #### Elementary School SCORES: Thursday, May 16, 2019
+  - Van Ness at Amidon-Bowen
+  - Powell at Garrison
 
-  #### Elementary School SCORES: Wednesday, May 8, 2019
-  - HD Cooke at Tubman
+  #### Middle School SCORES: Friday, May 17, 2019
+  - Chavez-Prep at KIPP WILL
+  - DCI at Truesdell
+  - MacFarland at Capital City
+  - Brookland at Brightwood
+  - Lincoln at EL Haynes
 
-  #### Elementary School SCORES: Thursday, May 9, 2019
-  - Imagine Hope Tolson at Aiton
-  - Turner at Beers
-  - Smothers at Burrville
-  - Walker-Jones at Drew
-  - Van Ness at JC Nalle
-  - Amidon at KIPP Quest
-  - Kimball at Leckie
-  - Miner at Thomas
-  - Boone at Tyler
-  - Bruce Monroe at Capital City
-  - Thomson at Garrison
-  - Powell at LaSalle
-  - WSG & Imagine Hope Lamond at Raymond
-  - Barnard at Reed
-  - Bancroft at Seaton
-  - HD Cooke at Truesdell
-  - Brightwood at Tubman
-
-  #### Middle School SCORES: Friday, May 10, 2019
-  - Raymond at Lincoln
-  - Cesar Chavez at Truesdell
-  - MacFarland at Brightwood
-  - DCI at EL Haynes
-  - KIPP Valor at Cardozo
-  - Paul at Hart
-  - Leckie at SEED
-  - Imagine Hope Tolson at Jefferson
-  - Basis DC at LaSalle
-  - Kelly Miller at Inspired Teaching
+  COED
+  - Leckie at Cardozo
+  - Jefferson at Hart
+  - Basis at SEED
+  - Imagine Hope-Tolson at Kelly Miller
+  - Paul at LaSalle
+  - KIPP Valor at Inspired Teaching
 soccerScheduleMap: "/uploads/image-program-sites-map.png"
 forFamilies:
 - |-
