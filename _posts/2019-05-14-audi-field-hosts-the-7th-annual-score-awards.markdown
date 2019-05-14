@@ -35,28 +35,28 @@ See below for the award winners.
 ---
 
 **Kennedy Award for Commitment**
-Chiara Forte – Kelly Miller Middle School, Ward 7
-Darlene Ferguson – Van Ness Elementary School, Ward 6
+<br> Chiara Forte – Kelly Miller Middle School, Ward 7
+<br> Darlene Ferguson – Van Ness Elementary School, Ward 6
 
 **Mingo Roberts Coaching Excellence Award**
-Fabiana Duarte – Seaton Elementary School, Ward 2
-Fabrice Mukoko – Turkey Thicket Recreation Center, Ward 5
+<br> Fabiana Duarte – Seaton Elementary School, Ward 2
+<br> Fabrice Mukoko – Turkey Thicket Recreation Center, Ward 5
 
 **Rookie of the Year Award**
-Jennifer Allen – LaSalle-Backus Education Campus, Ward 4
-Alex Moore – Drew Elementary School, Ward 7
+<br> Jennifer Allen – LaSalle-Backus Education Campus, Ward 4
+<br> Alex Moore – Drew Elementary School, Ward 7
 
 **Chris Richardson Community Service Award**
-Michael Vaughn-Cherubin – KIPP DC: WILL Academy, Ward 2
-Christian Allen – DC SCORES Alumni
+<br> Michael Vaughn-Cherubin – KIPP DC: WILL Academy, Ward 2
+<br> Christian Allen – DC SCORES Alumni
 
 **Carl Cohen Community Service Award**
-[Artemis Ward](https://artemisward.com/)
+<br> [Artemis Ward](https://artemisward.com/)
 
 **Teamwork Award**
-Hart Middle School, Ward 8
-Kimball Elementary School, Ward 7
-Jefferson Middle School, Ward 6
+<br> Hart Middle School, Ward 8
+<br> Kimball Elementary School, Ward 7
+<br> Jefferson Middle School, Ward 6
 
 ---
 
