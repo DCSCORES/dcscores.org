@@ -10,26 +10,25 @@ Thumbnail Image: "/uploads/32900020627_cd051720f6_k%20(1)-18e81b.jpg"
 
 ![47019041254_68eb6d3739_k (1).jpg](/uploads/47019041254_68eb6d3739_k%20(1).jpg)
 
-[*2019 SCORE Awards photo album*](https://www.flickr.com/photos/dcscorespictures/sets/72157705002480872/with/47019041254/)
+*[2019 SCORE Awards photo album](https://www.flickr.com/photos/dcscorespictures/sets/72157705002480872/with/47019041254/)*
 
-Over 200 coaches, volunteers and supporters gathered at [Audi Field](https://www.audifielddc.com/) during Teacher Appreciation Week for the 7th Annual SCORE Awards. 
+Over 200 coaches, volunteers and supporters gathered at [Audi Field](https://www.audifielddc.com/) during Teacher Appreciation Week for the 7th Annual SCORE Awards.
 
-The perfect weather and breathtaking venue set the stage for an amazing evening to honor all of the people that make DC SCORES possible for the 3,000 poet-athletes across the city. 
-
-
-
+The perfect weather and breathtaking venue set the stage for an amazing evening to honor all of the people that make DC SCORES possible for the 3,000 poet-athletes across the city.
 
 As the Spring SCORES season wraps up next month at [Jamboree](https://www.dcscores.org/jamboree/), SCORE Awards serves as a time to stop and reflect on another successful season filled with tons of soccer games (when it’s not raining) and thoughtful and meaningful service-learning projects that will benefit the community.
 
-Once the reception started, the Heineken MVP Club filled up quickly with attendees enjoying fresh empanadas and pies from [Timber Pizza](http://www.timberpizza.com/), as they overlooked the pitch where **Wayne Rooney** and **Luciano Acosta** work their magic. 
+Once the reception started, the Heineken MVP Club filled up quickly with attendees enjoying fresh empanadas and pies from [Timber Pizza](http://www.timberpizza.com/), as they overlooked the pitch where **Wayne Rooney** and **Luciano Acosta** work their magic.
 
-The program started with remarks from Chief Executive Officer, [Bethany Henderson](https://www.dcscores.org/about-us/leadership/bethany-rubin-henderson), and the introduction of Ward 4 Councilmember and DC SCORES advocate, [Brandon Todd](https://dccouncil.us/council/councilmember-brandon-t-todd/). 
+The program started with remarks from Chief Executive Officer, [Bethany Henderson](https://www.dcscores.org/about-us/leadership/bethany-rubin-henderson), and the introduction of Ward 4 Councilmember and DC SCORES advocate, [Brandon Todd](https://dccouncil.us/council/councilmember-brandon-t-todd/).
 
 This year, three coaching teams and 9 individuals received awards recognizing their hard work for making this program possible. As a special token of appreciation, each award recipient received a customized plaque and D.C. United jersey, given out by Councilmember Todd and D.C. United player, [Akeem Ward](https://www.dcunited.com/players/akeem-ward).
 
 See below for the award winners.
 
 ![32900020627_cd051720f6_k (1).jpg](/uploads/32900020627_cd051720f6_k%20(1).jpg)
+
+---
 
 **Kennedy Award for Commitment**
 Chiara Forte – Kelly Miller Middle School, Ward 7
@@ -54,6 +53,8 @@ Christian Allen – DC SCORES Alumni
 Hart Middle School, Ward 8
 Kimball Elementary School, Ward 7
 Jefferson Middle School, Ward 6
+
+---
 
 In between the award ceremony, attendees witnessed heartwarming spoken word performances from Danny and Kemiya from [Our Words Our City](https://www.dcscores.org/blog/2019/04/lights-camera-our-words-our-city), who wrote original poems for their coaches thanking them for all they do for their teams. It’s safe to say there wasn’t a dry eye in the house!
 
