@@ -9,27 +9,29 @@ soccerSchedule:
 
   DC SCORES runs the only consistent elementary and middle public school soccer leagues for both boys and girls in the District of Columbia. Additionally, beginning in the fall of 2016, DC SCORES is running the DC SCORES City League, a District-wide recreation center soccer league run in partnership with the DC Department of Parks and Recreation. <a href="https://www.google.com/maps/d/u/0/viewer?mid=1ArueGtkLKryfnhjFva-7hHSZlD8&ll=38.8939219214454%2C-77.01469049999997&z=12" target="_blank">MAP of SITES</a>
 
-  #### Junior SCORES: Wednesday, May 15, 2019
-  - Junior Jamboree at Audi Field
+  #### Junior SCORES: Wednesday, May 22, 2019
+  - Trinidad at Miner
+  - Reed at Park View
+  - LaSalle at Truesdell
+  - Bancroft at Powell/Upshur
 
-  #### Elementary School SCORES: Thursday, May 16, 2019
-  - Van Ness at Amidon-Bowen
-  - Powell at Garrison
-
-  #### Middle School SCORES: Friday, May 17, 2019
-  - Chavez-Prep at KIPP WILL
-  - DCI at Truesdell
-  - MacFarland at Capital City
-  - Brookland at Brightwood
-  - Lincoln at EL Haynes
-
-  COED
-  - Leckie at Cardozo
-  - Jefferson at Hart
-  - Basis at SEED
-  - Imagine Hope-Tolson at Kelly Miller
-  - Paul at LaSalle
-  - KIPP Valor at Inspired Teaching
+  #### Elementary School SCORES: Thursday, May 23, 2019
+  - Smothers at Aiton
+  - Kimball at Amidon
+  - Boone at Burrville
+  - Turner at Drew
+  - Imagine Hope-Tolson at JC Nalle
+  - Van Ness at KIPP Quest
+  - Walker-Jones at Miner
+  - Leckie at Thomas
+  - Beers at Tyler
+  - HD Cooke at Capital City
+  - Bancroft at Garrison
+  - Barnard at LaSalle
+  - Powell at Raymond
+  - Brightwood at Reed
+  - Thomson at Seaton
+  - Bruce Monroe at Truesdell
 soccerScheduleMap: "/uploads/image-program-sites-map.png"
 forFamilies:
 - |-
