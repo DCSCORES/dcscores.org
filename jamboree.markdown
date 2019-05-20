@@ -50,14 +50,6 @@ Jamboree is our all-day soccer tournament and community festival for our 3,000 p
 
 ### Roles
 
-#### Referee
-
-Referees will be asked to work with other referees at their field and will control 3-5 games throughout the day. **Soccer experience necessary, although all referees will complete a brief overview with DC SCORES Staff before their shift, some light jogging required**.
-
-- [Referee registration](http://scores.force.com/volunteer/GW_Volunteers__VolunteersJobListingFS?Calendar=1&volunteerShiftId=a0V2J00000EVALfUAP&jobId=a0T2J00000lhsqwUAA&dtMonthFilter=2019-6-1%208:30:0) (June 1 ONLY)
-
-Note: For this role, there are **AM**, **PM**, and **All-Day** shifts available.
-
 #### Activity Booths
 
 Great team-building experience for different departments for groups of 2-12 employees. Booths include face-painting, art & soccer activities, etc.
