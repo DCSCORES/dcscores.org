@@ -38,6 +38,8 @@ During Do More 24, each and every donor makes a direct impact. So we will give t
  
 **Do More 24 High 5’s (Name, time gave)** <br>
 **Wednesday, May 22** <br>
+Kemba Ford, 5:47pm <br>
+Emma Gross, 5:46pm <br>
 Christina Brown, 5:38pm <br>
 John Preotle, 5:34pm <br>
 Paul Bugg, 5:33pm <br>
