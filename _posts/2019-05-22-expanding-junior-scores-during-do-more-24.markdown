@@ -38,6 +38,25 @@ During Do More 24, each and every donor makes a direct impact. So we will give t
  
 **Do More 24 High 5’s (Name, time gave)** <br>
 **Wednesday, May 22** <br>
+Laurie Gonzalez, 12:30pm <br>
+Ayan Rubin, 12:28pm <br>
+Timothy Huether, 12:20pm <br>
+Ann Carmel, 12:15pm <br>
+Michael McRae, 12:15pm <br>
+John Conte, 12:14pm <br>
+Anonymous, 12:13pm <br>
+Samantha Sher, 12:13pm <br>
+Zabrina Krishnamoorthy, 12:11pm <br>
+Cara Manket, 12:11pm <br>
+Carole Kelley, 12:11pm <br>
+Rebecca Kiely, 12:08pm <br>
+Sarah Helinek, 12:06pm <br>
+Michael Holstein, 12:04pm <br>
+Jeffrey Carmel, 12:03pm <br>
+Samuel Dinte, 12:02pm <br>
+Cara Manket, 12:01pm <br>
+Elizabeth Yager, 11:53am <br>
+Gene Frederick Jr., 11:30am <br>
 Carl Mohamed, 9:52am <br>
 Anonymous, 9:47am <br>
 Joe Beninati, 8:45am <br>
