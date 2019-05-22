@@ -38,6 +38,7 @@ During Do More 24, each and every donor makes a direct impact. So we will give t
  
 **Do More 24 High 5’s (Name, time gave)** <br>
 **Wednesday, May 22** <br>
+Patricia Bouchet, 2:49pm <br>
 Jaime Yager, 2:45pm <br>
 Anne H Woodworth, 2:44pm <br>
 Kelly Van Beveren, 2:28pm <br>
