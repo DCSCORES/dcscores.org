@@ -38,6 +38,7 @@ During Do More 24, each and every donor makes a direct impact. So we will give t
  
 **Do More 24 High 5’s (Name, time gave)** <br>
 **Wednesday, May 22** <br>
+Leah Hochstetler, 6:33pm <br>
 Aniko Schwarcz, 6:25pm <br>
 Kathleen Hinkle, 5:56pm <br>
 Kemba Ford, 5:47pm <br>
