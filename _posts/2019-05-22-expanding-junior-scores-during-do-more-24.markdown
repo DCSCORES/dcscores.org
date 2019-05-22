@@ -38,6 +38,7 @@ During Do More 24, each and every donor makes a direct impact. So we will give t
  
 **Do More 24 High 5’s (Name, time gave)** <br>
 **Wednesday, May 22** <br>
+Lorena Palacios, 1:52pm <br>
 Sarah Martz, 1:31pm <br>
 Anonymous, 1:30pm <br>
 Tim Spear, 1:29pm <br>
