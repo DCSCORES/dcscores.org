@@ -38,6 +38,13 @@ During Do More 24, each and every donor makes a direct impact. So we will give t
  
 **Do More 24 High 5’s (Name, time gave)** <br>
 **Wednesday, May 22** <br>
+Holly Burd, 3:11pm <br>
+Matthew Schmidt, 3:10pm <br>
+Lisa Helvin, 3:08pm <br>
+Babby Albanna, 3:07pm <br>
+Max Moio, 3:04pm <br>
+Michael Shipley, 3:03pm <br>
+Benjamin Kennedy, 2:56pm <br>
 Patricia Bouchet, 2:49pm <br>
 Jaime Yager, 2:45pm <br>
 Anne H Woodworth, 2:44pm <br>
