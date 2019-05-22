@@ -38,6 +38,13 @@ During Do More 24, each and every donor makes a direct impact. So we will give t
  
 **Do More 24 High 5’s (Name, time gave)** <br>
 **Wednesday, May 22** <br>
+Nathan Lee, 4:33pm <br>
+Libby Watkins, 4:23pm <br>
+Ria Otanes, 4:22pm <br>
+Isabel Reiff, 4:12pm <br>
+Eric Kmetz, 4:08pm <br>
+Noelle Carne, 4:06pm <br>
+Adira Siman, 4:04pm <br>
 Paul Grayson, 4:01pm <br>
 Dori Hazan, 3:53pm <br>
 Ryan Kelley, 3:44pm <br>
