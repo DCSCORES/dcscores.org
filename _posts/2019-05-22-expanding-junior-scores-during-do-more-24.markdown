@@ -38,6 +38,7 @@ During Do More 24, each and every donor makes a direct impact. So we will give t
  
 **Do More 24 High 5’s (Name, time gave)** <br>
 **Wednesday, May 22** <br>
+Donna Wisniewski, 4:41pm <br>
 Nathan Lee, 4:33pm <br>
 Libby Watkins, 4:23pm <br>
 Ria Otanes, 4:22pm <br>
