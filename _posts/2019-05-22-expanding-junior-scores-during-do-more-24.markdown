@@ -38,6 +38,24 @@ During Do More 24, each and every donor makes a direct impact. So we will give t
  
 **Do More 24 High 5’s (Name, time gave)** <br>
 **Wednesday, May 22** <br>
+Sarah Martz, 1:31pm <br>
+Anonymous, 1:30pm <br>
+Tim Spear, 1:29pm <br>
+Anonymous, 1:28pm <br>
+Melissa Bowers, 1:26pm <br>
+Traci Lee, 1:23pm <br>
+Jeanine Bonds, 1:23pm <br>
+Catherine Fee, 1:20pm <br>
+Angel Horacek, 1:18pm <br>
+Traci Lee, 1:08pm <br>
+Amit Singh, 1:04pm <br>
+Jacob Yager, 1:02pm <br>
+Laura Denton, 1:01pm <br>
+Jake Lloyd, 12:59pm <br>
+Sophia Newbold, 12:55pm <br>
+Jason Finney, 12:53pm <br>
+Alan Yager, 12:52pm <br>
+Heather Arrington, 12:51pm <br>
 Laurie Gonzalez, 12:30pm <br>
 Ayan Rubin, 12:28pm <br>
 Timothy Huether, 12:20pm <br>
