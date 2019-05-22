@@ -38,6 +38,11 @@ During Do More 24, each and every donor makes a direct impact. So we will give t
  
 **Do More 24 High 5’s (Name, time gave)** <br>
 **Wednesday, May 22** <br>
+Christina Brown, 5:38pm <br>
+John Preotle, 5:34pm <br>
+Paul Bugg, 5:33pm <br>
+Andrew Mack, 5:27pm <br>
+Cathi Sitzman, 5:23pm <br>
 Alexander Bearman, 5:14pm <br>
 Tim Preotle, 5:12pm <br>
 Susan Bachrach, 5:11pm <br>
