@@ -38,6 +38,7 @@ During Do More 24, each and every donor makes a direct impact. So we will give t
  
 **Do More 24 High 5’s (Name, time gave)** <br>
 **Wednesday, May 22** <br>
+Andrew Dolan, 3:30pm <br>
 Anonymous, 3:16pm <br>
 Richard Leimsider, 3:15pm <br>
 Holly Burd, 3:11pm <br>
