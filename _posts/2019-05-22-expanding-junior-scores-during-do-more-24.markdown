@@ -38,6 +38,12 @@ During Do More 24, each and every donor makes a direct impact. So we will give t
  
 **Do More 24 High 5’s (Name, time gave)** <br>
 **Wednesday, May 22** <br>
+Alexander Bearman, 5:14pm <br>
+Tim Preotle, 5:12pm <br>
+Susan Bachrach, 5:11pm <br>
+Matthew Dozier, 5:09pm <br>
+Danielle McKenrick, 5:08pm <br>
+Matthew Prebble, 5:08pm <br>
 Laurie Timm, 5:00pm <br>
 Carolyn White, 4:58pm <br>
 Allison Brown, 4:57pm <br>
