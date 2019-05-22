@@ -38,6 +38,7 @@ During Do More 24, each and every donor makes a direct impact. So we will give t
  
 **Do More 24 High 5’s (Name, time gave)** <br>
 **Wednesday, May 22** <br>
+Dan McCarthy, 2:13pm <br>
 Sharyn Sutton, 2:12pm <br>
 Anonymous, 2:06pm <br>
 Maureen Galkin, 2:00pm <br>
