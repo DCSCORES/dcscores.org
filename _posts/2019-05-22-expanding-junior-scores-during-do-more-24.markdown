@@ -38,6 +38,8 @@ During Do More 24, each and every donor makes a direct impact. So we will give t
  
 **Do More 24 High 5’s (Name, time gave)** <br>
 **Wednesday, May 22** <br>
+Paul Grayson, 4:01pm <br>
+Dori Hazan, 3:53pm <br>
 Ryan Kelley, 3:44pm <br>
 Andrew Dolan, 3:30pm <br>
 Anonymous, 3:16pm <br>
