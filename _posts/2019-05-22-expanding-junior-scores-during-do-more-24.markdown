@@ -38,6 +38,8 @@ During Do More 24, each and every donor makes a direct impact. So we will give t
  
 **Do More 24 High 5’s (Name, time gave)** <br>
 **Wednesday, May 22** <br>
+Carl Mohamed, 9:52am <br>
+Anonymous, 9:47am <br>
 Joe Beninati, 8:45am <br>
 David Shams, 7:56am <br>
 Adriana Elefante, May 21 <br>
