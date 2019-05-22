@@ -36,6 +36,6 @@ During Do More 24, each and every donor makes a direct impact. So we will give t
  
 **THANK YOU!**
  
-**Do More 24 High 5’s (Name, time gave)**
+**Do More 24 High 5’s (Name, time gave)** <br>
 Adriana Elefante, May 21 <br>
 Barbara Sturtevant, May 15 <br>
