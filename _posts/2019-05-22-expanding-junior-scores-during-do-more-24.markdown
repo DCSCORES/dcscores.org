@@ -38,6 +38,10 @@ During Do More 24, each and every donor makes a direct impact. So we will give t
  
 **Do More 24 High 5’s (Name, time gave)** <br>
 **Wednesday, May 22** <br>
+Laurie Timm, 5:00pm <br>
+Carolyn White, 4:58pm <br>
+Allison Brown, 4:57pm <br>
+Anonymous, 4:50pm <br>
 Donna Wisniewski, 4:41pm <br>
 Nathan Lee, 4:33pm <br>
 Libby Watkins, 4:23pm <br>
