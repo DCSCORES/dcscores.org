@@ -38,6 +38,9 @@ During Do More 24, each and every donor makes a direct impact. So we will give t
  
 **Do More 24 High 5’s (Name, time gave)** <br>
 **Thursday, May 23** <br>
+Joi Hollis, 11:00am <br>
+Eli Hochstetler, 10:59am <br>
+Aaron Sparks, 10:55am <br>
 Anonymous, 10:50am <br>
 Phyllis Owens, 10:44am <br>
 Elise Lemle, 10:43am <br>
