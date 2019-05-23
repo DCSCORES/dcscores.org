@@ -38,6 +38,7 @@ During Do More 24, each and every donor makes a direct impact. So we will give t
  
 **Do More 24 High 5’s (Name, time gave)** <br>
 **Thursday, May 23** <br>
+Annabelle Baehr, 12:00pm <br>
 Brian Sanker, 11:59am <br>
 Anonymous, 11:59am <br>
 Anonymous, 11:58am <br>
