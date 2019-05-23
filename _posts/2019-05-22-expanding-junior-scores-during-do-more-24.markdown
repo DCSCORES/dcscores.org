@@ -38,6 +38,8 @@ During Do More 24, each and every donor makes a direct impact. So we will give t
  
 **Do More 24 High 5’s (Name, time gave)** <br>
 **Thursday, May 23** <br>
+Eileen Badie, 11:20am <br<
+Michael Caro, 11:15am <br>
 Brian Tham, 11:07am <br>
 Toni Blackwell, 11:06am <br>
 Megan Gordon, 11:02am <br>
