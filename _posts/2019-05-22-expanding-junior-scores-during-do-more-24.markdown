@@ -38,6 +38,8 @@ During Do More 24, each and every donor makes a direct impact. So we will give t
  
 **Do More 24 High 5’s (Name, time gave)** <br>
 **Thursday, May 23** <br>
+Joseph Klein, 10:32am <br>
+Cynthia Bohlin, 10:31am <br>
 Bryan Hinkle, 10:31am <br>
 Edward McHenry, 10:28am <br>
 Tina Rivard, 10:27am <br>
