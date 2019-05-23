@@ -38,6 +38,8 @@ During Do More 24, each and every donor makes a direct impact. So we will give t
  
 **Do More 24 High 5’s (Name, time gave)** <br>
 **Thursday, May 23** <br>
+Susan Bodzioney, 10:37am <br>
+Sharon Welsh, 10:34am <br>
 Joseph Klein, 10:32am <br>
 Cynthia Bohlin, 10:31am <br>
 Bryan Hinkle, 10:31am <br>
