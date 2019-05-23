@@ -38,6 +38,11 @@ During Do More 24, each and every donor makes a direct impact. So we will give t
  
 **Do More 24 High 5’s (Name, time gave)** <br>
 **Thursday, May 23** <br>
+Anonymous, 7:31am <br>
+Marybeth Madden, 7:02am <br>
+Megan Hauber, 6:28am <br>
+Bruce Schulman, 6:25am <br>
+Matthew Lindsay, 4:57am <br>
 Jocelyn Potts, 12:35am <br>
 **Wednesday, May 22** <br>
 Michelle Harrolle, 11:57pm <br>
