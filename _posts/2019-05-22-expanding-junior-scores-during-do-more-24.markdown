@@ -48,7 +48,7 @@ David Goodwin, 11:47am <br>
 Michael Welsh, 11:41am <br>
 Eleanor Cunningham, 11:39am <br>
 Anonymous, 11:33am <br>
-Eileen Badie, 11:20am <br<
+Eileen Badie, 11:20am <br>
 Michael Caro, 11:15am <br>
 Brian Tham, 11:07am <br>
 Toni Blackwell, 11:06am <br>
