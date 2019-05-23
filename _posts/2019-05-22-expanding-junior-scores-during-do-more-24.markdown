@@ -38,7 +38,8 @@ During Do More 24, each and every donor makes a direct impact. So we will give t
  
 **Do More 24 High 5’s (Name, time gave)** <br>
 **Thursday, May 23** <br>
-eleanor Cunningham, 11:39am <br>
+Michael Welsh, 11:41am <br>
+Eleanor Cunningham, 11:39am <br>
 Anonymous, 11:33am <br>
 Eileen Badie, 11:20am <br<
 Michael Caro, 11:15am <br>
