@@ -38,6 +38,8 @@ During Do More 24, each and every donor makes a direct impact. So we will give t
  
 **Do More 24 High 5’s (Name, time gave)** <br>
 **Thursday, May 23** <br>
+Nnemdilim Ubezonu, 8:46am <br>
+Erich Walizer, 8:46am <br>
 Judi Shnider, 8:37am <br>
 Chris Hudler, 8:36am <br>
 Whitney Jarrell, 8:32am <br>
