@@ -38,6 +38,8 @@ During Do More 24, each and every donor makes a direct impact. So we will give t
  
 **Do More 24 High 5’s (Name, time gave)** <br>
 **Thursday, May 23** <br>
+Anonymous, 10:21am <br>
+Walter Okpych, 10:20am <br>
 Jessica Trevelyan, 10:18am <br>
 Deborah Lindenberg, 10:17am <br>
 Christina Tunison, 10:14am <br>
