@@ -38,6 +38,22 @@ During Do More 24, each and every donor makes a direct impact. So we will give t
  
 **Do More 24 High 5’s (Name, time gave)** <br>
 **Wednesday, May 22** <br>
+Michelle Harrolle, 11:57pm <br>
+Emily Schulman, 10:41pm <br>
+Nicole Blum, 10:14pm <br>
+Melissa Dana, 10:02pm <br>
+Elaine Walizer, 9:35pm <br>
+EMA Reid, 9:29pm <br>
+Jessie Nance, 9:12pm <br>
+Anonymous, 8:44pm <br>
+Alexis Gallagher, 8:40pm <br>
+Valerie Holzherr, 8:37pm <br>
+Michael Spratt, 8:37pm <br>
+Catherine Sutton, 8:12pm <br>
+Jane Stevens, 8:02pm <br>
+Sarah Lynch, 7:58pm <br>
+Allison Berger, 7:57pm <br>
+William Stevens, 7:26pm <br>
 Amy Nakamoto, 7:10pm <br>
 John Guzman, 7:01pm <br>
 Leah Hochstetler, 6:33pm <br>
