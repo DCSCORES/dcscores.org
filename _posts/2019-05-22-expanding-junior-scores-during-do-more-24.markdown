@@ -38,6 +38,9 @@ During Do More 24, each and every donor makes a direct impact. So we will give t
  
 **Do More 24 High 5’s (Name, time gave)** <br>
 **Thursday, May 23** <br>
+Bryan Hinkle, 10:31am <br>
+Edward McHenry, 10:28am <br>
+Tina Rivard, 10:27am <br>
 Timothy Shirey, 10:27am <br>
 Anonymous, 10:21am <br>
 Walter Okpych, 10:20am <br>
