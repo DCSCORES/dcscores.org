@@ -38,6 +38,9 @@ During Do More 24, each and every donor makes a direct impact. So we will give t
  
 **Do More 24 High 5’s (Name, time gave)** <br>
 **Thursday, May 23** <br>
+Christina Tunison, 10:14am <br>
+Diana Corrigan, 10:13am <br>
+Kathleen Horwitz, 10:12am <br>
 Anonymous, 10:10am <br>
 Eric Setzer, 10:08am <br>
 Anonymous, 10:08am <br>
