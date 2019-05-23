@@ -38,6 +38,7 @@ During Do More 24, each and every donor makes a direct impact. So we will give t
  
 **Do More 24 High 5’s (Name, time gave)** <br>
 **Thursday, May 23** <br>
+Olga Kuzmina, 9:21am <br>
 Matthew Glass, 9:17am <br>
 Emily Locker, 9:13am <br>
 Jeffrey Koung, 9:10am <br>
