@@ -38,6 +38,10 @@ During Do More 24, each and every donor makes a direct impact. So we will give t
  
 **Do More 24 High 5’s (Name, time gave)** <br>
 **Thursday, May 23** <br>
+Pauline Klein-Locker, 8:19 <br>
+Christopher Berg, 8:18am <br>
+Jane Ottenberg, 8:17am <br>
+Launa Hochstetler, 8:14am <br>
 Anonymous, 7:31am <br>
 Marybeth Madden, 7:02am <br>
 Megan Hauber, 6:28am <br>
