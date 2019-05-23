@@ -38,6 +38,7 @@ During Do More 24, each and every donor makes a direct impact. So we will give t
  
 **Do More 24 High 5’s (Name, time gave)** <br>
 **Thursday, May 23** <br>
+Rachel Gorosh, 8:51am <br>
 Nnemdilim Ubezonu, 8:46am <br>
 Erich Walizer, 8:46am <br>
 Judi Shnider, 8:37am <br>
