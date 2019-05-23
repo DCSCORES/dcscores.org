@@ -104,6 +104,14 @@ Our largest fundraiser – an annual adult soccer tournament made up of local co
 
 **Where:** [Maryland SoccerPlex](https://www.google.com/maps?q=maryland\+soccerplex&um=1&ie=UTF-8&sa=X&ved=0ahUKEwixw42ElYnfAhVqzlkKHeY2BY0Q_AUIDigB)
 
+**[DC SCORES Cup Free Agent Registration](https://docs.google.com/forms/d/e/1FAIpQLSfXGZyN-D97D1Ledc6JErcYo58O0EDtJnhsLFypA5zBt4HCcA/viewform)**
+
+If soccer is your big passion and you would like to participate in the largest annual charity soccer tournament in the Washington, DC area and one of DC SCORES' largest fundraisers, then this volunteer opportunity is for you!
+
+We are looking for people who can play on the DC SCORES Cup as free agents.
+
+**Want to get involved?** [CLICK HERE](https://docs.google.com/forms/d/e/1FAIpQLSfXGZyN-D97D1Ledc6JErcYo58O0EDtJnhsLFypA5zBt4HCcA/viewform)
+
 ---
 
 <span id="volunteer-summer-camp"></span>
