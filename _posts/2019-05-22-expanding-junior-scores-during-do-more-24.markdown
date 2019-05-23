@@ -38,6 +38,7 @@ During Do More 24, each and every donor makes a direct impact. So we will give t
  
 **Do More 24 High 5’s (Name, time gave)** <br>
 **Thursday, May 23** <br>
+Carol Downing, 11:57am <br>
 Joseph Palladino, 11:54am <br>
 David Goodwin, 11:47am <br>
 Michael Welsh, 11:41am <br>
