@@ -37,6 +37,8 @@ During Do More 24, each and every donor makes a direct impact. So we will give t
 **THANK YOU!**
  
 **Do More 24 High 5’s (Name, time gave)** <br>
+**Thursday, May 23** <br>
+Jocelyn Potts, 12:35am <br>
 **Wednesday, May 22** <br>
 Michelle Harrolle, 11:57pm <br>
 Emily Schulman, 10:41pm <br>
