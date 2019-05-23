@@ -38,6 +38,7 @@ During Do More 24, each and every donor makes a direct impact. So we will give t
  
 **Do More 24 High 5’s (Name, time gave)** <br>
 **Thursday, May 23** <br>
+Emily Locker, 10:03am <br>
 Joshua Freedholm, 9:53am <br>
 Sean Hinkle, 9:53am <br>
 Laura Downs, 9:49am <br>
