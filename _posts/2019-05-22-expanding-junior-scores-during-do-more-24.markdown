@@ -38,6 +38,8 @@ During Do More 24, each and every donor makes a direct impact. So we will give t
  
 **Do More 24 High 5’s (Name, time gave)** <br>
 **Thursday, May 23** <br>
+Michael Riggins, 9:42am <br>
+W Terence Welsh, 9:42am <br>
 Anonymous, 9:32am <br>
 Alexander Lord, 9:31am <br>
 Alex Diaz-Asper, 9:26am <br>
