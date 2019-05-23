@@ -38,6 +38,10 @@ During Do More 24, each and every donor makes a direct impact. So we will give t
  
 **Do More 24 High 5’s (Name, time gave)** <br>
 **Thursday, May 23** <br>
+Anonymous, 10:08am <br>
+THU DO, 10:06am <br>
+Daniel Sheerin, 10:06am <br>
+Laurie Stras, 10:05am <br>
 Emily Locker, 10:03am <br>
 Joshua Freedholm, 9:53am <br>
 Sean Hinkle, 9:53am <br>
