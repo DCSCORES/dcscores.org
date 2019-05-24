@@ -2,7 +2,7 @@
 title: Jamboree
 date: 2019-05-24 19:27:00 Z
 position: 1
-Image: "/uploads/website%20banner%20(1)%20(1)-945e18.png"
+Image: "/uploads/website%20banner%20(1)%20(1)-ef143c.png"
 Image Position: 50% 50%
 Link: https://www.dcscores.org/jamboree/
 ---
