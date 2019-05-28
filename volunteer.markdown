@@ -66,20 +66,6 @@ Check back in August 2019 for more information and the application link!
 
 ## Special Events
 
-![ONOG FB3-d8bf03.jpg](/uploads/ONOG%20FB3-d8bf03.jpg)
-
-### [One Night One Goal](https://onog.dcscores.org/)
-
-One Night One Goal is our annual fundraising event held at Audi Field. Guests will tour exclusive areas of the stadium, enjoy a live auction, mingle with D.C. United players, and sample specialty cocktails and cuisine. Volunteer with us to make this event a memorable experience to support our poet-athletes.
-
-**Date:** Thursday, May 30, 2019
-
-**Where:** [Audi Field](https://www.google.com/maps/place/Audi\+Field/@38.8689556,-77.0151054,17z/data=!3m1!4b1!4m5!3m4!1s0x89b7b76255c962df:0x958b3d454edb82d0!8m2!3d38.8689514!4d-77.0129167)
-
-**Want to get involved?** [CLICK HERE](https://docs.google.com/forms/d/e/1FAIpQLScPqsqtppDCRjutCUoxLA6y57ni3_CTJ1mKAjZvCu5_jpvAGA/viewform)
-
----
-
 ![Jamboree](/uploads/volunteer-jamboree-float-left-small.jpg)
 
 ### [Jamboree!](https://www.dcscores.org/jamboree/)
