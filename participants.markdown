@@ -10,7 +10,21 @@ soccerSchedule:
   DC SCORES runs the only consistent elementary and middle public school soccer leagues for both boys and girls in the District of Columbia. Additionally, beginning in the fall of 2016, DC SCORES is running the DC SCORES City League, a District-wide recreation center soccer league run in partnership with the DC Department of Parks and Recreation. <a href="https://www.google.com/maps/d/u/0/viewer?mid=1ArueGtkLKryfnhjFva-7hHSZlD8&ll=38.8939219214454%2C-77.01469049999997&z=12" target="_blank">MAP of SITES</a>
 
   #### Elementary School SCORES: Wednesday, May 29, 2019
-  - TBD
+  - Smothers at Aiton
+  - Kimball at Amidon-Bowen
+  - Boone at Burrville
+  - Turner at Drew
+  - Imagine Hope-Tolson at JC Nalle
+  - Leckie at Thomas
+  - Beers at Tyler
+  - HD Cooke at Capital City
+  - Bancroft at Garrison
+  - Barnard at LaSalle
+  - Powell at Raymond
+  - Brightwood at Reed
+  - Thomson at Seaton
+  - Bruce-Monroe at Truesdell
+  - WSG & Imagine Hope-Lamond at Tubman
 
   #### Middle School SCORES: Friday, May 31, 2019
   - MacFarland at Chavez-Prep
