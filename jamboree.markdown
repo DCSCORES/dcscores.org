@@ -54,24 +54,17 @@ Jamboree is our all-day soccer tournament and community festival for our 3,000 p
 
 Great team-building experience for different departments for groups of 2-12 employees. Booths include face-painting, art & soccer activities, etc.
 
-- [Activity Booths registration](http://scores.force.com/volunteer/GW_Volunteers__VolunteersJobListingFS?Calendar=1&volunteerShiftId=a0V2J00000EVAKhUAP&jobId=a0T2J00000lhsqhUAA&dtMonthFilter=2019-6-1%208:0:0) (June 1 ONLY)
-
 Note: For this role, there are **AM**, **PM**, and **All-Day** shifts available.
-
 
 #### Lunch Distribution
 
 Recommended for a group (e.g. a company). This station will consist of organizing boxed lunches and making sure they get to teams, family members, and volunteers properly.
-
-- [Lunch Distribution registration](http://scores.force.com/volunteer/GW_Volunteers__VolunteersJobListingFS?Calendar=1&volunteerShiftId=a0V2J00000EVAL1UAP&jobId=a0T2J00000lhsqmUAA&dtMonthFilter=2019-6-1%209:30:0) (June 1 and 8)
 
 Note: For this role, one shift will be available for each day.
 
 #### Photography/Videography
 
 *Please bring your own camera*. In this position, volunteers will be assigned to capture a certain area/set of games.
-
-- [Photography/Videography registration](http://scores.force.com/volunteer/GW_Volunteers__VolunteersJobListingFS?Calendar=1&volunteerShiftId=a0V2J00000EVAM5UAP&jobId=a0T2J00000lhsrBUAQ&dtMonthFilter=2019-6-1%209:0:0) (June 1 and 8)
 
 Note: For this role, there are **AM**, **PM**, and **All-Day** shifts available.
 
@@ -82,14 +75,10 @@ Set-up includes setting up tables, goals, tents, art supplies, etc. *some heavy 
 
 Closing shift includes assistance with breaking down goals, tents, art booths, and other materials is needed at the end of the day.
 
-- [Set-up/Closing registration](http://scores.force.com/volunteer/GW_Volunteers__VolunteersJobListingFS?Calendar=1&volunteerShiftId=a0V2J00000EVALvUAP&jobId=a0T2J00000lhsr6UAA&dtMonthFilter=2019-6-1%207:30:0) (June 1 and 8)
-
 Note: There is one shift for set-up and one for closing crew available for each day.
 
 #### General
 
 Other duties will be assigned as needed and volunteers may be asked to float between various volunteer roles.
-
-- [General registration](http://scores.force.com/volunteer/GW_Volunteers__VolunteersJobListingFS?Calendar=1&volunteerShiftId=a0V2J00000EVALuUAP&jobId=a0T2J00000lhsr1UAA&dtMonthFilter=2019-6-1%208:30:0) (June 1 and 8)
 
 Note: There are **AM**, **PM**, and **All-Day** shifts available for this role for each day.
