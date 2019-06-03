@@ -66,19 +66,6 @@ Check back in August 2019 for more information and the application link!
 
 ## Special Events
 
-![Jamboree](/uploads/volunteer-jamboree-float-left-small.jpg)
-
-### Jamboree
-
-The culminating event of the DC SCORES programming year, filled with soccer games, arts and crafts, and more for DC SCORES students and their families.
-
-**Date:** Saturday, June 1, 2019 (elementary) and Saturday, June 8, 2019 (middle)
-
-**Location:** Anacostia Park
-
-**Want to get involved? [CLICK HERE](https://www.dcscores.org/jamboree/)** for more information about volunteer tasks and registration.
-
----
 
 ![DC SCORES Cup](/uploads/volunteer-scores-cup-float-right.jpg)
 
@@ -129,6 +116,18 @@ This two-night, spoken-word competition features DC SCORES students performing t
 **Dates:** Mid-November 2019 (three consecutive nights)
 
 **Locations:** Three different locations are booked for each competition night, one for Middle Schools, Westside elementary schools, and Eastside elementary schools. Locations will be released in October 2019.
+
+---
+
+![Jamboree](/uploads/volunteer-jamboree-float-left-small.jpg)
+
+### Jamboree
+
+The culminating event of the DC SCORES programming year, filled with soccer games, arts and crafts, and more for DC SCORES students and their families.
+
+**Date:** Saturday, June 1, 2019 (elementary) and Saturday, June 8, 2019 (middle)
+
+**Location:** Anacostia Park
 
 ---
 
