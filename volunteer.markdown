@@ -68,7 +68,7 @@ Check back in August 2019 for more information and the application link!
 
 ![Jamboree](/uploads/volunteer-jamboree-float-left-small.jpg)
 
-### [Jamboree!](https://www.dcscores.org/jamboree/)
+### Jamboree
 
 The culminating event of the DC SCORES programming year, filled with soccer games, arts and crafts, and more for DC SCORES students and their families.
 
@@ -106,7 +106,7 @@ We are looking for people who can play on the DC SCORES Cup as free agents.
 
 ## Summer Camp Counselor
 
-If you or your child is interested in more information about becoming a DC SCORES Summer Camp Counselor, please fill out the [2019 Summer Camp Counselor Interest Form](https://docs.google.com/forms/d/e/1FAIpQLSdm3lwtPaIWBnGik0wmCkumA_0mni-xPIUbIWBQ4maPwngo_w/viewform).
+The 2019 Summer Camp Counselor application is now closed. We will open applications for next summer in April 2020.
 
 ---
 
