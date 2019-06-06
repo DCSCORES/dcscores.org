@@ -17,7 +17,7 @@ soccerSchedule:
   - Westside Girls: Truesdell at Thomson
 
   #### Elementary School Playoffs: Thursday, June 6, 2019
-  - Boys & Girls Championship Game at Emery Recreation Center
+  - Boys & Girls Championship Game at Reed Elementary School
 
   #### Middle School Jamboree: Saturday, June 8, 2019
   - Anacostia Park (1800 Anacostia Drive, Washington, DC 20020)
