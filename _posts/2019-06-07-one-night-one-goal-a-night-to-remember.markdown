@@ -10,6 +10,8 @@ Thumbnail Image: "/uploads/47994055057_cad0e7f59b_k%20(1).jpg"
 ![47994055057_cad0e7f59b_k (1)-ee7c4b.jpg](/uploads/47994055057_cad0e7f59b_k%20(1)-ee7c4b.jpg)
 *Photo by Raul Gutierrez*
 
+**[2019 One Night One Goal photo album](http://bit.ly/ONOG19photos)**
+
 Audi Field opened its gates once more for an evening celebration like no other to benefit DC SCORES.
 
 *One Night One Goal* came back for the second time since October 2018 with even more surprises and exclusive experiences for its attendees. Throughout the night guests had the opportunity to see Audi Field like they never have before as they mingled with the stars from **D.C. United** and the **Washington Spirit**.
