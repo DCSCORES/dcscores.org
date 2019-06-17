@@ -9,18 +9,7 @@ soccerSchedule:
 
   DC SCORES runs the only consistent elementary and middle public school soccer leagues for both boys and girls in the District of Columbia. Additionally, beginning in the fall of 2016, DC SCORES is running the DC SCORES City League, a District-wide recreation center soccer league run in partnership with the DC Department of Parks and Recreation. <a href="https://www.google.com/maps/d/u/0/viewer?mid=1ArueGtkLKryfnhjFva-7hHSZlD8&ll=38.8939219214454%2C-77.01469049999997&z=12" target="_blank">MAP of SITES</a>
 
-  #### Elementary School Playoffs: Monday, June 3, 2019
-  - Eastside Girls: Miner at JC Nalle
-
-  #### Elementary School Playoffs: Tuesday, June 4, 2019
-  - Westside Boys: Seaton at Reed
-  - Westside Girls: Truesdell at Thomson
-
-  #### Elementary School Playoffs: Thursday, June 6, 2019
-  - Boys & Girls Championship Game at Reed Elementary School
-
-  #### Middle School Jamboree: Saturday, June 8, 2019
-  - Anacostia Park (1800 Anacostia Drive, Washington, DC 20020)
+  #### Thank you for a great spring SCORES season!
 soccerScheduleMap: "/uploads/image-program-sites-map.png"
 forFamilies:
 - |-
