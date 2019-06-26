@@ -2,8 +2,8 @@
 title: 2019 DC SCORES Cup
 date: 2018-12-07 17:14:00 Z
 position: 0
-Image: "/uploads/Volunteer%20page%20banner-d25aad.png"
-Link: https://www.dcscorescup.org/
+Image: "/uploads/48118384303_c7649af5be_k.jpg"
+Link: http://bit.ly/SCup19photos
 ---
 
-Register your company today for the 2019 SCORES Cup held on Saturday, June 22 at Maryland SoccerPlex!
+Thank you to all our teams that participated in the 17th annual DC SCORES Cup!
