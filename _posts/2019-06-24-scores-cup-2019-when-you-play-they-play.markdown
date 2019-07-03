@@ -6,7 +6,7 @@ Thumbnail Image: "/uploads/48118355571_465109a1c9_k%20(1)-7c1a4e.jpg"
 ---
 
 ![48118431637_01c3d59700_k (1).jpg](/uploads/48118431637_01c3d59700_k%20(1).jpg)
-*View the 2019 DC SCORES Cup photo album [HERE]*(http://bit.ly/SCup19photos)
+*View the 2019 DC SCORES Cup photo album [HERE](http://bit.ly/SCup19photos)*
  
 The setting was perfect. There was no chance of rain this year so the fields at the [Maryland SoccerPlex](www.mdsoccerplex.org/) were ready for the action. Everything was set-up to receive over 40 teams for the 17th Annual [DC SCORES Cup](https://dcscorescup.org) to benefit DC SCORES.
 
