@@ -1,6 +1,6 @@
 ---
 title: Erich Walizer
-position: 63
+position: 62
 Details: ICF
 Section: advisory
 ---

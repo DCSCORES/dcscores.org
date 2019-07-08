@@ -1,7 +1,7 @@
 ---
 title: Dennis Velasquez
 date: 2019-04-26 20:05:00 Z
-position: 20
+position: 19
 Details: Soccer Program Coordinator
 Email: 'dvelasquez@dcscores.org '
 Profile Image: "/uploads/20190302_165142.jpg"

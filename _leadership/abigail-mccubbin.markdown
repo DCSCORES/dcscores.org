@@ -1,6 +1,7 @@
 ---
 title: Abigail McCubbin
 date: 2019-07-08 19:31:00 Z
+position: 14
 Details: America SCORES Communications Fellow
 Email: amccubbin@dcscores.org
 Profile Image: "/uploads/DSC_7976.JPG"
