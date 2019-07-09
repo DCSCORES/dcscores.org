@@ -1,7 +1,7 @@
 ---
 title: Joanna Lohman announced as ambassador for DC SCORES
 date: 2019-03-31 18:44:00 Z
-position: 1
+position: 5
 link: https://washingtonspirit.com/2019/03/31/joanna-lohman-announced-as-ambassador-for-dc-scores/
 source: Washington Spirit
 ---

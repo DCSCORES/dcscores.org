@@ -1,7 +1,7 @@
 ---
 title: Usando el balón para tener buenas notas
 date: 2018-06-28 15:00:00 Z
-position: 13
+position: 17
 link: https://www.voanoticias.com/a/futbol-ninos-fifa-eeuu-dc-scores/4458653.html
 source: Voice of America
 ---
