@@ -11,6 +11,10 @@ Thumbnail Image: "/uploads/8950529984_72c1a69323_k%20(1).jpg"
 The President’s Council on Sports, Fitness & Nutrition has selected 
 DC SCORES Chief Program Officer, [Sean Hinkle](https://www.dcscores.org/about-us/leadership/sean-hinkle), to receive a 2019 President’s Council on Sports, Fitness & Nutrition Community Leadership Award. The award is given annually to individuals or organizations who improve the lives of others within their community by providing or enhancing opportunities to engage in sports, physical activity, fitness, or nutrition-related programs.
 
+
+
+
+
 Sean has been a part of DC SCORES since 2009 and oversees all of the programming efforts for the organization. His time and dedication to DC SCORES are fundamental for the high-quality program's expansion to more kids in Washington, DC.
 
 “We are proud to recognize Sean for the work he has done to consistently promote opportunities for individuals to lead healthy lifestyles through DC SCORES,” says Kristina Harder, acting Executive Director of the President’s Council on Sports, Fitness & Nutrition. “Because of DC SCORES’ meaningful efforts and impactful contributions, we are one step closer to improving the physical fitness, health, and nutrition of all Americans. His work reaches not only the DC SCORES community, but also serves as a shining example to inspire and motivate others across the United States to embrace a healthier, more active lifestyle.”
