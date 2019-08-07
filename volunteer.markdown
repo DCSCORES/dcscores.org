@@ -25,10 +25,10 @@ Thursdays (Elementary) from 3:45pm to 6pm.
 At <a href="/our-program/program-sites/" target="_blank">sites</a> throughout DC. We will do our best to place you based on your location and mode of transportation.
 
 **Schedule**
-The Spring SCORES season begins on March 11th.
+The Fall SCORES season begins in mid-September.
 
 **Want to get involved?**
-Sign up to volunteer by filling out the [Volunteer Referee Application](https://docs.google.com/forms/d/e/1FAIpQLSdtpW2rvPWQ-mzjq-XRo9frtaUwqTiURtSndRcggh1qTnBKcQ/viewform)!
+Sign up to volunteer by filling out the [Volunteer Referee Application](https://docs.google.com/forms/d/e/1FAIpQLSeBYKpgBa8xyxbT5tcYgT1dsFrL4IO7k2yJZvgmMbqR1P2W1w/viewform)!
 
 ---
 
