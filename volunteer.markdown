@@ -73,19 +73,11 @@ Sign up to volunteer by filling out the [Volunteer Assistant Coach Application F
 
 Our largest fundraiser – an annual adult soccer tournament made up of local companies, law firms, small businesses and soccer organizations. Volunteer roles include setup/breakdown, registration, field marshals, lunch servers, and photography.
 
-**Date:** June 22, 2019
+**Date:** June 2020
 
-**Where:** [Maryland SoccerPlex](https://www.google.com/maps?q=maryland\+soccerplex&um=1&ie=UTF-8&sa=X&ved=0ahUKEwixw42ElYnfAhVqzlkKHeY2BY0Q_AUIDigB)
+**Where:** TBD
 
-**Want to get involved?:** Sign up to volunteer [HERE](https://docs.google.com/forms/d/e/1FAIpQLSeZkM-AqweJDwLkEdtdTyqCmfbg65CkASwPXAcHgh6j0UCZhA/viewform)!
-
-**[DC SCORES Cup Free Agent Registration](https://docs.google.com/forms/d/e/1FAIpQLSfXGZyN-D97D1Ledc6JErcYo58O0EDtJnhsLFypA5zBt4HCcA/viewform)**
-
-If soccer is your big passion and you would like to participate in the largest annual charity soccer tournament in the Washington, DC area and one of DC SCORES' largest fundraisers, then this volunteer opportunity is for you!
-
-We are looking for people who can play on the DC SCORES Cup as free agents.
-
-**Want to get involved?** [CLICK HERE](https://docs.google.com/forms/d/e/1FAIpQLSfXGZyN-D97D1Ledc6JErcYo58O0EDtJnhsLFypA5zBt4HCcA/viewform)
+**Want to get involved?:** Please check back in May 2020 to sign up to volunteer!
 
 ---
 
