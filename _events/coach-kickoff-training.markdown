@@ -1,6 +1,7 @@
 ---
 title: Coach Kickoff Training
 date: 2019-09-07 13:58:00 Z
+position: 0
 Blurb: Day-long training to get all of our writing and soccer coaches ready for the
   upcoming season!
 Link: 
