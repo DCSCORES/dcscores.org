@@ -16,19 +16,24 @@ layout: volunteer
 DC SCORES’ soccer leagues focus on our three values: teamwork, leadership, and commitment. Basic soccer knowledge is required and volunteers are asked to complete a brief, one-time mandatory training on DC SCORES league rules.
 
 **Requirements:**
-For elementary school games: volunteers will be asked to make basic calls, such as throw-ins, corner kicks, and goal kicks. For middle school games: volunteers will be expected to call additional fouls, indirect/direct kicks, and offside. Volunteers must be at least 15 years of age.
+For elementary school games: volunteers will be asked to make basic calls, such as throw-ins, corner kicks, and goal kicks. For Junior SCORES, no specific referee knowledge is required. Volunteers must be at least 15 years of age.
 
 **When?**
 Thursdays (Elementary) from 3:45pm to 6pm.
+Wednesday (Junior SCORES) from 3:45pm to 5:30pm.
 
 **Where?**
 At <a href="/our-program/program-sites/" target="_blank">sites</a> throughout DC. We will do our best to place you based on your location and mode of transportation.
 
 **Schedule**
-The Fall SCORES season begins in mid-September.
+Fall SCORES games will begin on September 18th.
 
 **Want to get involved?**
-Sign up to volunteer by filling out the [Volunteer Referee Application](https://docs.google.com/forms/d/e/1FAIpQLSeBYKpgBa8xyxbT5tcYgT1dsFrL4IO7k2yJZvgmMbqR1P2W1w/viewform)!
+Sign up to volunteer! 
+
+* [Elementary School Volunteer Referee Application] (https://docs.google.com/forms/d/e/1FAIpQLSeBYKpgBa8xyxbT5tcYgT1dsFrL4IO7k2yJZvgmMbqR1P2W1w/viewform)
+
+* [Junior SCORES Volunteer Referee Application](https://docs.google.com/forms/d/e/1FAIpQLSf3ZN936A5tw5issGUGyVmFnlMUIlUe_qsMdGaMWPpeGGMzmQ/viewform)
 
 ---
 
