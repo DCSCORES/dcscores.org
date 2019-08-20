@@ -19,7 +19,7 @@ DC SCORES’ soccer leagues focus on our three values: teamwork, leadership, and
 For elementary school games: volunteers will be asked to make basic calls, such as throw-ins, corner kicks, and goal kicks. For Junior SCORES, no specific referee knowledge is required. Volunteers must be at least 15 years of age.
 
 **When?**
-Thursdays (Elementary) from 3:45pm to 6pm.
+Thursdays (Elementary) from 3:45pm to 6pm. <br>
 Wednesday (Junior SCORES) from 3:45pm to 5:30pm.
 
 **Where?**
