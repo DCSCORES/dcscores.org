@@ -31,7 +31,7 @@ Fall SCORES games will begin on September 18th.
 **Want to get involved?**
 Sign up to volunteer! 
 
-* [Elementary School Volunteer Referee Application] (https://docs.google.com/forms/d/e/1FAIpQLSeBYKpgBa8xyxbT5tcYgT1dsFrL4IO7k2yJZvgmMbqR1P2W1w/viewform)
+* [Elementary School Volunteer Referee Application](https://forms.gle/XF5rd7yFF3NhKM6r8)
 
 * [Junior SCORES Volunteer Referee Application](https://docs.google.com/forms/d/e/1FAIpQLSf3ZN936A5tw5issGUGyVmFnlMUIlUe_qsMdGaMWPpeGGMzmQ/viewform)
 
