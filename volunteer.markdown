@@ -71,7 +71,7 @@ Sign up to volunteer by filling out the [Volunteer Assistant Coach Application F
 
 ## Special Events
 
-![31489189858_cb8056211c_k (1).jpg] (/uploads/volunteer-fall-frenzy-float-right.jpg)
+![31489189858_cb8056211c_k (1)-ee5127.jpg](/uploads/31489189858_cb8056211c_k%20(1)-ee5127.jpg)
 
 ### [Fall Frenzy](https://www.dcscores.org/fallfrenzy/)
 
