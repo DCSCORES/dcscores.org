@@ -79,7 +79,7 @@ A day-long celebration of our fall season that includes soccer games and outdoor
 
 **Location:** TBD
 
-**Want to get involved? [Click here for more volunteer information!](https://www.dcscores.org/fallfrenzy/)
+**Want to get involved?** [Click here for more volunteer information!](https://www.dcscores.org/fallfrenzy/)
 
 ---
 
