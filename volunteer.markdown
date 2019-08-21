@@ -71,6 +71,17 @@ Sign up to volunteer by filling out the [Volunteer Assistant Coach Application F
 
 ## Special Events
 
+### [Fall Frenzy](https://www.dcscores.org/fallfrenzy/)
+
+A day-long celebration of our fall season that includes soccer games and outdoor activities for our elementary school students and their families.
+
+**Date:** Saturday, October 19th
+
+**Location:** TBD
+
+**Want to get involved? [Click here for more volunteer information!](https://www.dcscores.org/fallfrenzy/)
+
+---
 
 ![DC SCORES Cup](/uploads/volunteer-scores-cup-float-right.jpg)
 
@@ -96,19 +107,7 @@ The 2019 Summer Camp Counselor application is now closed. We will open applicati
 
 ---
 
-### [Fall Frenzy](https://www.dcscores.org/fallfrenzy/)
-
-A day-long celebration of our fall season that includes soccer games and outdoor activities for our elementary school students and their families.
-
-**Date:** Mid-October 2019
-
-**Location:** [Trinity Washington University](https://www.google.com/maps/place/Trinity\+Washington\+University/@38.9275815,-77.007104,17z/data=!3m1!4b1!4m5!3m4!1s0x89b7c7f95d00e459:0x5d7b60436fe81cce!8m2!3d38.9275815!4d-77.0049153)
-
-**Want to get involved? Stay tuned for volunteer registration information.
-
----
-
-### Poetry Slam!
+### Poetry Slam
 
 This two-night, spoken-word competition features DC SCORES students performing their original poetry. Volunteer roles include set-up/breakdown, registration, ushers, scoring assistants, and stagehands.
 
