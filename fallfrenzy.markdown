@@ -6,23 +6,17 @@ Top Image Position: 50% 50%
 layout: fallfrenzy
 ---
 
-### Fall Frenzy 2018 Volunteer Information
+### Fall Frenzy 2019 Volunteer Information
 
-Fall Frenzy is our annual elementary school soccer tournament and community festival! Over 1,000 of our participants and their families are invited to an all-day event.
+Fall Frenzy is our annual elementary school soccer tournament and community festival! Over 1,500 of our participants and their families are invited to an all-day event.
 
 #### Logistics
 
-* Saturday, October 13
+* Saturday, October 19
 
-* Trinity University Soccer Fields (125 Michigan Ave NE, Washington, DC 20017)
+* Location: TBH
 
 * All volunteers will receive a light lunch (vegetarian options available) and water stations will be placed throughout the venue.
-
-<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d1586.1373922152482!2d-77.00454643913571!3d38.92792977661588!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x89b7c7f95d00e459%3A0x5d7b60436fe81cce!2sTrinity+Washington+University!5e1!3m2!1sen!2sus!4v1536078239167" width="600" height="450" frameborder="0" style="border:0" allowfullscreen></iframe>
-
-#### Travel & Parking
-
-* There is a parking lot onsite. We recommend driving, but the nearest metro station is Brookland-CUA Station.
 
 #### This event is held outdoors, so please come prepared with the following items:
 
@@ -38,7 +32,7 @@ Fall Frenzy is our annual elementary school soccer tournament and community fest
 
 #### Weather Policy
 
-* Fall Frenzy is a “drizzle-or-shine” event. In the case that there is an absolute downpour, we will notify you via email on Friday, October 12th.
+* Fall Frenzy is a “drizzle-or-shine” event. In the case that there is an absolute downpour, we will notify you via email on Friday, October 18th.
 
 #### What do I need to check-in on the day of the event?
 
@@ -54,17 +48,26 @@ Fall Frenzy is our annual elementary school soccer tournament and community fest
 
 Referees will be asked to work with other referees at their field and will control 3-5 games throughout the day. **Soccer experience necessary, although all referees will complete a brief overview with DC SCORES Staff before their shift, some light jogging required**.
 
+* [Referee volunteer registration
+](http://scores.force.com/volunteer/GW_Volunteers__VolunteersJobListingFS?Calendar=1&volunteerShiftId=a0V2J00000EmE65UAF&jobId=a0T2J00000m46iYUAQ&dtMonthFilter=2019-10-19%208:30:0)
+
 #### Activity Booths
 
 Great team-building experience for different departments for groups of 2-12 employees. Booths include face-painting, art & soccer activities, etc.
+
+* [Activity Booths volunteer registration](http://scores.force.com/volunteer/GW_Volunteers__VolunteersJobListingFS?Calendar=1&volunteerShiftId=a0V2J00000EmE5WUAV&jobId=a0T2J00000m46iJUAQ&dtMonthFilter=2019-10-19%208:0:0)
 
 #### Lunch Distribution
 
 Recommended for a group (e.g. a company). This station will consist of organizing boxed lunches and making sure they get to teams, family members, and volunteers properly.
 
+* [Lunch distribution registration](http://scores.force.com/volunteer/GW_Volunteers__VolunteersJobListingFS?Calendar=1&volunteerShiftId=a0V2J00000EmE60UAF&jobId=a0T2J00000m46iOUAQ&dtMonthFilter=2019-10-19%209:30:0)
+
 #### Photography/Videography
 
 *Please bring your own camera*. In this position, volunteers will be assigned to capture a certain area/set of games.
+
+* [Photography/Videography volunteer registration](http://scores.force.com/volunteer/GW_Volunteers__VolunteersJobListingFS?Calendar=1&volunteerShiftId=a0V2J00000EmE6jUAF&jobId=a0T2J00000m46inUAA&dtMonthFilter=2019-10-19%209:0:0)
 
 #### Set-Up/Closing Crew
 
@@ -72,6 +75,10 @@ Set-up includes setting up tables, goals, tents, art supplies, etc. *some heavy 
 
 Closing shift includes assistance with breaking down goals, tents, art booths, and other materials is needed at the end of the day.
 
+* [Set-Up/Closing volunteer registration](http://scores.force.com/volunteer/GW_Volunteers__VolunteersJobListingFS?Calendar=1&volunteerShiftId=a0V2J00000EmE6ZUAV&jobId=a0T2J00000m46iiUAA&dtMonthFilter=2019-10-19%207:30:0)
+
 #### General
 
 Other duties will be assigned as needed and volunteers may be asked to float between various volunteer roles.
+
+* [General volunteer registration](http://scores.force.com/volunteer/GW_Volunteers__VolunteersJobListingFS?Calendar=1&volunteerShiftId=a0V2J00000EmE6PUAV&jobId=a0T2J00000m46idUAA&dtMonthFilter=2019-10-19%208:30:0)
