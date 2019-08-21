@@ -29,7 +29,7 @@ At <a href="/our-program/program-sites/" target="_blank">sites</a> throughout DC
 Fall SCORES games will begin on September 18th.
 
 **Want to get involved?**
-Sign up to volunteer! 
+Sign up to volunteer!
 
 * [Elementary School Volunteer Referee Application](https://forms.gle/XF5rd7yFF3NhKM6r8)
 
@@ -71,7 +71,7 @@ Sign up to volunteer by filling out the [Volunteer Assistant Coach Application F
 
 ## Special Events
 
-![31489189858_cb8056211c_k (1).jpg](/uploads/31489189858_cb8056211c_k%20(1).jpg)
+![31489189858_cb8056211c_k (1).jpg] (/uploads/volunteer-fall-frenzy-float-right.jpg)
 
 ### [Fall Frenzy](https://www.dcscores.org/fallfrenzy/)
 
