@@ -65,7 +65,7 @@ Recommended for a group (e.g. a company). This station will consist of organizin
 
 #### Photography/Videography
 
-*Please bring your own camera*. In this position, volunteers will be assigned to capture a certain area/set of games.
+***Please bring your own camera***. In this position, volunteers will be assigned to capture a certain area/set of games.
 
 * [Photography/Videography volunteer registration](http://scores.force.com/volunteer/GW_Volunteers__VolunteersJobListingFS?Calendar=1&volunteerShiftId=a0V2J00000EmE6jUAF&jobId=a0T2J00000m46inUAA&dtMonthFilter=2019-10-19%209:0:0)
 
