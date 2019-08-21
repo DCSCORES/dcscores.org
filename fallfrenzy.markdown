@@ -14,7 +14,7 @@ Fall Frenzy is our annual elementary school soccer tournament and community fest
 
 * Saturday, October 19
 
-* Location: TBH
+* Location: TBD
 
 * All volunteers will receive a light lunch (vegetarian options available) and water stations will be placed throughout the venue.
 
