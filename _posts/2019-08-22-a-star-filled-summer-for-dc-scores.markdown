@@ -32,7 +32,8 @@ It all started with [Real Betis stopping by Amidon-Bowen Elementary School](http
 
 Later in July, [Arsenal stopped by the Truesdell](https://www.flickr.com/photos/dcscorespictures/albums/72157709819864876) to surprise campers and partake in the various activities that day. The art topic of the week was dance, and Arsenal players did not back down when their opportunity came to show what other skills they had off the field. 
 
-[IMG_5939.MOV](/uploads/IMG_5939.MOV)
+![IMG_6420.jpg](/uploads/IMG_6420.jpg)
+*[Click here to watch the dance battle!](https://youtu.be/IxMWgR63uA8)*
 
 Finally, a couple of female poet-athletes from Brightwood Education Campus and some of our coaches held a [soccer clinic with the help of New Balance](https://www.flickr.com/photos/dcscorespictures/albums/72157710310372686) with special guest and World Cup champion, **Rose Lavelle**!
 
