@@ -63,7 +63,7 @@ Weekdays between 3-6 PM. Exact times vary across each site.
 At <a href="/our-program/program-sites/" target="_blank">sites</a> throughout DC. We will do our best to place you based on your location and mode of transportation.
 
 **Want to get involved?**
-Sign up to volunteer by filling out the [Volunteer Assistant Coach Application Form](https://docs.google.com/forms/d/e/1FAIpQLSeyd5PXJStvfhgbfxsKIVtoKSSCfcBIUtU9BoecRZ6BFoEhtg/viewform)!
+Fall 2019 Volunteer Coach Applications are now closed.
 
 ---
 
