@@ -11,6 +11,10 @@ Thumbnail Image: "/uploads/32094329878_bcd984c977_k%20(1).jpg"
 
 Once the school bell rings this afternoon signifying the end of the school day, thousands of kids in the District will get ready for the start of another Fall SCORES season.
 
+
+
+
+
 This season, in particular, is significant because it is the 25th iteration of a season that combines soccer and poetry. Since 1994, DC SCORES has been providing a safe and fun environment where kids have the opportunity to enjoy being part of a team.
 
 For the next 12 weeks, 3,000 elementary and middle school poet-athletes at [69 sites](https://www.dcscores.org/our-program/program-sites/) will be participating in soccer and poetry/creative writing activities every day after school.
