@@ -1,7 +1,7 @@
 ---
 title: Erich Walizer
 position: 58
-Details: ICF
+Details: Localist
 Section: advisory
 ---
 
