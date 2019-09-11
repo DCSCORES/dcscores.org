@@ -14,7 +14,9 @@ Fall Frenzy is our annual elementary school soccer tournament and community fest
 
 * Saturday, October 19
 
-* Location: TBD
+* Location: Trinity Washington University Soccer Field (125 Michigan Ave NE, Washington, DC 20017)
+
+<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d1945.726491932563!2d-77.0039989573195!3d38.92788670844779!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x5d7b60436fe81cce!2sTrinity%20Washington%20University!5e1!3m2!1sen!2sus!4v1568220841316!5m2!1sen!2sus" width="600" height="450" frameborder="0" style="border:0;" allowfullscreen=""></iframe>
 
 * All volunteers will receive a light lunch (vegetarian options available) and water stations will be placed throughout the venue.
 
