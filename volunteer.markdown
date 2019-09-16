@@ -79,7 +79,7 @@ A day-long celebration of our fall season that includes soccer games and outdoor
 
 **Date:** Saturday, October 19th
 
-**Location:** TBD
+**Location:** [Trinity Washington University](https://www.google.com/maps/place/Trinity+Washington+University/@38.9275815,-77.007104,17z/data=!3m1!4b1!4m5!3m4!1s0x89b7c7f95d00e459:0x5d7b60436fe81cce!8m2!3d38.9275815!4d-77.0049153)
 
 **Want to get involved?** [Click here for more volunteer information!](https://www.dcscores.org/fallfrenzy/)
 
