@@ -9,7 +9,29 @@ soccerSchedule:
 
   DC SCORES runs the only consistent elementary and middle public school soccer leagues for both boys and girls in the District of Columbia. Additionally, beginning in the fall of 2016, DC SCORES is running the DC SCORES City League, a District-wide recreation center soccer league run in partnership with the DC Department of Parks and Recreation. <a href="https://www.google.com/maps/d/u/0/viewer?mid=1ArueGtkLKryfnhjFva-7hHSZlD8&ll=38.8939219214454%2C-77.01469049999997&z=12" target="_blank">MAP of SITES</a>
 
-  #### The Fall SCORES soccer schedule coming soon!
+  ## Friday, September 20
+
+  #### Middle School – Charter
+  - KIPP KEY at Capital City
+  - DCI at EL Haynes
+  - Meridian at Washington Latin
+
+  #### Middle School – Charter Coed
+  - Imagine Hope - Tolson at KIPP WILL
+  - KIPP Valor at KIPP AIM
+  - Paul at Inspired Teaching
+
+  #### Middle School – DCPS
+  - Truesdell at Brightwood
+  - Lincoln at Francis Stevens
+
+  #### Middle School – DCPS Coed
+  - Raymond at Cardozo
+  - Jefferson at Leckie
+  - Brookland at Kelly Miller
+  - MacFarland at Hart
+
+  ## Junior SCORES and Elementary School soccer games begin next weeks!
 soccerScheduleMap: "/uploads/image-program-sites-map.png"
 forFamilies:
 - |-
