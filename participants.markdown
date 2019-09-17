@@ -32,7 +32,7 @@ soccerSchedule:
   - MacFarland at Hart
 
   #### Junior SCORES and Elementary School soccer games begin next week!
-soccerScheduleMap: "/uploads/image-program-sites-map.png"
+soccerScheduleMap: "/uploads/image-program-sites-map-updated.png"
 forFamilies:
 - |-
   ## For Families
