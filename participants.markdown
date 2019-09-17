@@ -31,7 +31,7 @@ soccerSchedule:
   - Brookland at Kelly Miller
   - MacFarland at Hart
 
-  ## Junior SCORES and Elementary School soccer games begin next weeks!
+  Junior SCORES and Elementary School soccer games begin next weeks!
 soccerScheduleMap: "/uploads/image-program-sites-map.png"
 forFamilies:
 - |-
