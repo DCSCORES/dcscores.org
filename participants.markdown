@@ -29,7 +29,6 @@ soccerSchedule:
   - Raymond at Cardozo
   - Jefferson at Leckie
   - Brookland at Kelly Miller
-  - MacFarland at Hart
 
   #### Junior SCORES and Elementary School soccer games begin next week!
 soccerScheduleMap: "/uploads/image-program-sites-map-updated.png"
