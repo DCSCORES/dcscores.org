@@ -1,6 +1,7 @@
 ---
 title: Bekah Blumenfeld
 date: 2019-09-23 19:56:00 Z
+position: 7
 Details: Data Coordinator
 Email: rblumenfeld@dcscores.org
 Profile Image: "/uploads/19642425_10212679817803911_201063226227061615_n.jpg"
