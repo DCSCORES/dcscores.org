@@ -14,7 +14,7 @@ Thank you for your interest, but we currently have no open positions.
 
 ## Internships
 
-**Graphic Design Intern**
+**Graphic Design Intern** <br>
 DC SCORES is seeking a self-motivated and hard-working individual to serve as a Graphics Design Intern working with the Communications & Marketing Department. This critical member of our team will directly assist with internal and external communications.  In addition to design of collateral and marketing materials, the internship duties may include:
 
 * Create info-graphics, one-sheets, decks, logos and other marketing materials.
