@@ -4,28 +4,36 @@ permalink: "/about-us/supporters/"
 Top Image: "/assets/images/masthead-supporters.jpg"
 Top Image Position: 50% 65%
 League Champions:
-- City Fund
 - D.C. Office of the State Superintendent of Education
 - D.C. United
+- Learn24
 - U.S. Soccer Foundation
 Team Champions:
-- Morris & Gwendolyn Cafritz Foundation
-- D.C. Commission on the Arts and Humanities
-- Ralph S. and Frances R. Dweck Family Foundation, Inc.
-- The John G. and Jean R. Gosnell Foundation
+- Bender Foundation
+- Diplomat Group
+- Embassy of the State of Qatar
+- England Family Foundation
 - Eugene & Agnes E. Meyer Foundation
+- Fight for Children
+- The John G. and Jean R. Gosnell Foundation
+- Morris & Gwendolyn Cafritz Foundation
+- Office of the Deputy Mayor for Planning and Economic Development
+- Philip L. Graham Fund
+- Ralph S. and Frances R. Dweck Family Foundation, Inc.
 - Target
-- United Way of the National Capital Region
 - 'Wells Fargo Foundation '
 Scoring Champions:
-- Office of the D.C. Deputy Mayor for Planning and Economic Development
 - Audi of America
-- Butterfields Butter LLC
 - Capital for Children
-- The Diplomat Group
+- Crimsonbridge Foundation
+- D.C. Commission on the Arts and Humanities
 - District Sports
-- Foundation for Advancing Alcohol Responsibility
-- John Edward Fowler Memorial Foundation
+- Gannett Foundation
+- Joseph E. Robert Jr. Charitable Trust
+- Junior League of Washington
+- Klausner Family
+- New Jersey and H St. Educational Foundation
+- O'Neill Foundation
 - Pepco/Exelon
 - Volkswagen Group of America, Inc.
 MVP Champions:
