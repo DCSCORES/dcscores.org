@@ -37,93 +37,122 @@ Scoring Champions:
 - Pepco/Exelon
 - Volkswagen Group of America, Inc.
 MVP Champions:
+- Akin, Gump, Strauss, Hauer & Feld, LLP
+- Arnold & Porter LLP
 - Blank Rome LLP
-- Herb Block Foundation
-- BrightView
-- ByteCubed
+- The Cadmus Group
+- Carl Kravitz and Elizabeth Werner
 - Clark Construction
-- Cresa Washington DC
-- Crowell & Moring Foundation
-- D.C. Mayor’s Office on Latino Affairs (MOLA)
+- EagleBank
+- Emagine IT
+- Enlightenment Capital
+- EverWatch
+- The D'Angelo Family Charitable Trust
+- George Preston Marshall Foundation
+- Herb Block Foundation
 - Hogan Lovells US LLP
-- Ian, Evan & Alexander Corp
-- 'Carl Kravitz '
-- Koons of Silver Spring
-- 'Lainoff Family '
-- Manchester City F.C.
-- Richard E. and Nancy P. Marriott Foundation
+- Kathryn Kincaid and Michael Lainoff
+- Manchester City FC/City in the Community
+- The Max and Victoria Dreyfus Foundation
+- Mayor's Office on Latino Affairs
+- MGM Resorts
 - Moore & Van Allen
 - The Morningstar Foundation
-- Nike
-- PriceWaterhouseCoopers
-- Embassy of Qatar
+- Panasonic Foundation
+- Qatar-America Institute
+- Richard E. and Nancy P. Marriott Foundation
+- RSM US LLP
+- Serve DC -Volunteer Generation Fund
 - Share Fund
-- Washington Area Women's Foundation - Rainmakers Giving Circle
+- Strada
+- The Strong Family
+- Telos
+- U.Group
+- Venable Foundation
 - World Bank Community Outreach Program
 Fans:
+- 1901 Group
 - Arent Fox LLP
-- Arnold & Porter LLP
+- Array Information Technology
+- Atlantic Media
+- Avascent
+- BDO
+- Capgemini
+- CapX Solutions
+- Clark-Winchcole Foundation
+- Coca-Cola
 - Katherine and David Bradley
 - CenturyLink
 - Chipotle
 - Clark-Winchcole Foundation
-- Congressional Bank
-- Crowell & Moring Foundation
-- The Andrea L. Custis Family Fund
-- Enlightenment Capital
-- Grant Thornton LLP
 - Corina Higginson Trust
-- Emagine IT
+- Corporate Office Properties Trust
+- Crowell & Moring Foundation
+- Deloitte
+- Devin and Lauren Talbott
+- Dockser Family Foundation
+- Donations in memory of Lawrence "Smith" Norton, III
+- Eileen Shields-West (Concordia Foundation)
+- EverFi
+- George Wasserman Family Foundation
+- Goulston & Storrs PC
+- Grant Thornton LLP
+- Jones Lang LaSalle America Inc
+- JP Construction
+- Katherine Brittain Bradley
 - Kirkland & Ellis LLP
 - Leidos
-- Marriott International, Inc.
-- Masonic and Eastern Star Home of the District of Columbia Charities
+- Lisa Koteen Gerchick
+- Lockton
+- McLean Group
+- Modified Construction
+- MorganFranklin
 - Merrill Lynch
-- Moore & Van Allen
-- Nando’s Restaurant Group
-- The Northern Ireland Bureau
-- Promontory Financial Group
-- RSM US LLP
-- Safeway
-- Subaru of America Foundation, Inc.
-- Telos
-- Venable Foundation
-- Verizon Foundation
-- George Wasserman Family Foundation
+- Nike
+- Porter Family Charitable
+- PWC
+- Rockefeller Philanthropy Advisors
+- Screaming Eagles
+- Seattle Foundation
+- Shapiro Foundation
+- Strategic Enterprise Solutions
+- System High Corporation
+- TD Bank
+- Trowbridge & Trowbridge
+- Turner Construction
+- VariQ
+- Vidoori Inc
+- W.R. Berkley Corporation
+- Wiley Rein LLP
 - Williams & Connolly LLP
-- Willkie Farr & Gallagher LLP
-- Women’s Sports Foundation Sports4Life
 - Zuckerman Spaeder LLP
 Supporters:
-- The Advisory Board Company
-- CIT Group
-- The Covello Foundation
+- Aronson Foundation
+- The Capitol Hill Community Foundation
 - Dimick Foundation
-- Discovery Communications
-- Claude and Nancy Keener Charitable Fund
-- Jacob & Charlotte Lehrman Foundation
-- Meltzer Group Employee Giving Fund
-- Phase One
 - Howard and Geraldine Polinger Family Foundation
-- Training Resources Group
-- Leslie Wilkes
+- Jacob & Charlotte Lehrman Foundation
+- Karen C. Bates Fund
+- Meltzer Group Employee Giving Fund
+- Nora Roberts Foundation
+- Risa Fund
+- Steve & Gail Bartlett
+- Vectrus
 In Kind:
-- Constant Contact
-- AmeriHealth
-- Capitol File
-- Carl Cohen
-- DLA Piper
+- Afterschool Alliance
+- Artemis Ward
+- Audi of America
+- Avascent
+- D.C. United
 - DrinkMore Water
 - Hunt4Soccer
-- Junior League of Washington Resolution Read Committee
+- Junior League of Washington
 - Leveling the Playing Field
-- Mindful Restaurants Group
-- Penya Barcelonista Washington D.C.
-- Princeton AlumniCorps
-- Safeway
-- Soccer.com
-- Starbucks
-- Venable LLP
+- McKinsey & Company
+- Mitre
+- 'Screaming Eagles '
+- Studio Theatre
+- Volkswagen Group of America
 Matching Gifts:
 - 21st Century Fox
 - Breckinridge Capital Advisors
@@ -135,68 +164,37 @@ Matching Gifts:
 - VentureCount LLC
 - Volkswagen Group of America, Inc.
 League Of Champions:
-- Anonymous
-- David Barritt-Flatt
-- Joseph Beninati
-- Ben Brewster
-- Anthony Brown
-- David and Brigitte Burgett
-- Graeme Bush
-- James Cain
+- Eric Adler
+- Joe Beninati
+- Alex Bearman
+- Jay Carmel
 - Elle Carne
-- Ronya Corey and Devon McFadden
 - Mark Cowan
 - David Crespo
-- Timothy J.H. Delaney
-- Alex Diaz-Asper
-- Clem Dinsmore
-- Loretta DiPietro
-- Kelly Dragelin
-- Chris Finley and Ursula Savarain
+- Dean D'Angelo
 - Jason Finney
 - Kemba Ford
 - Tony Francavilla
-- Josh Freedholm
-- Steve and Michelle Goodman
-- Jay and Cheryl Grauberger
-- Andrew Howell
-- Tom Hunt
-- Paul Jackson and Tracey Rutnik
-- Cal and Barbara Klausner
-- Sam Klausner
 - Ian Kline
-- Dan and Kathleen Knise
-- Lisa Koteen Gerchick
 - Laurie Gonzalez
-- Debra and Michael Kushma
+- Lisa Koteen Gerchick
+- Sandy Glick
+- Sam Klausner
+- Debra Kushma
 - Sara Kushma
-- Peter Leibold and Liz McCloskey
-- Edwin “Chip” Lohmeyer
-- Karen Lovitch
-- Peter Loge and Zoe Beckerman
-- Connie and Erik Lindenauer
-- Don Marshall
-- John and Livezy More
-- Joshua McGee
-- Howard and Gina McMillan, III
+- Matt Lindsay
+- Traci Lee
+- Peter Loge
+- Chip Lohmeyer
 - Luke Mohamed
-- Amy Nakamoto
+- Phillipe Monfiston
 - David and Paige Nicol
-- Walter and Christine Okpych
-- Olga Palacios
-- Skye Perryman
+- Walter Okpych
 - Tim Preotle
-- Julia Rao
-- Stephen Replogle and Skye Earls
 - Chris Richardson
-- Gene Sachs
-- Anna Schneider
-- Bruce Schulman
 - Arlene Selber and Wayne Anmuth
-- David Sheon
-- Perri Smith
-- Devin Talbott
-- Pierre Vigilance
+- David Shams
+- 'Dan Theisen '
 - Erich Walizer
 layout: supporters
 ---
