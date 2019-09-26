@@ -154,15 +154,18 @@ In Kind:
 - Studio Theatre
 - Volkswagen Group of America
 Matching Gifts:
-- 21st Century Fox
-- Breckinridge Capital Advisors
+- Bill & Melinda Gates Foundation
+- Capital Group
+- Exelon
 - International Monetary Fund
-- Merrill Lynch
+- Liberty Mutual
 - Microsoft
+- Network for Good
 - The Pew Charitable Trusts
-- Pimco Foundation
-- VentureCount LLC
+- PricewaterhouseCoopers LLP
+- Vectrus
 - Volkswagen Group of America, Inc.
+- Wells Fargo
 League Of Champions:
 - Eric Adler
 - Joe Beninati
