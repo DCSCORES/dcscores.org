@@ -8,7 +8,7 @@ Blurb: Our elementary school soccer tournament and community festival for the Fa
   and more!
 Link: https://www.dcscores.org/fallfrenzy/
 Image: "/uploads/45314253982_1cb23d5896_k.jpg"
-Image Position: 40% 60%
+Image Position: 50% 50%
 Color: "#00467f"
 Is Finished?: true
 ---
