@@ -4,22 +4,44 @@ permalink: "/our-program/participants/"
 Top Image: "/assets/images/masthead-resources.jpg"
 Top Image Position: 50% 40%
 soccerSchedule:
-- "## Soccer Schedule\n\nDC SCORES runs the only consistent elementary and middle
-  public school soccer leagues for both boys and girls in the District of Columbia.
-  Additionally, beginning in the fall of 2016, DC SCORES is running the DC SCORES
-  City League, a District-wide recreation center soccer league run in partnership
-  with the DC Department of Parks and Recreation. <a href=\"https://www.google.com/maps/d/u/0/viewer?mid=1ArueGtkLKryfnhjFva-7hHSZlD8&ll=38.8939219214454%2C-77.01469049999997&z=12\"
-  target=\"_blank\">MAP of SITES</a>\n\n## Thursday, September 26\n\n#### Elementary
-  School\n- Boone at Kimball\n- Van Ness at Thomas\n- Turner at JC Nalle\n- Tyler
-  at KIPP Quest\n- Amidon-Bowen at Leckie\n- Miner at Beers\n- Drew at Aiton\n- Smothers
-  at Burrville\n- Bancroft at Capital City\n- Barnard at Brightwood\n- Bruce-Monroe
-  at Garrison\n- HD Cooke at Imagine Hope-Lamond & Sela \n- Imagine Hope-Tolson at
-  Raymond\n- LaSalle at Reed\n- Powell at Seaton\n- Thomson at Takoma\n- Whittier
-  at Truesdell\n\n## Friday, September 27\n\n#### Middle School – Charter\n- Basis
-  at DCI\n- EL Haynes at Capital City\n\n#### Middle School – DCPS\n- Brightwood at
-  Francis Stevens\n- Lincoln at Ida B. Wells\n\n#### Middle School – DCPS Coed\n-
-  Raymond at Leckie\n- MacFarland at Jefferson\n- Cardozo at Kelly Miller\n- LaSalle
-  at Hart"
+- |-
+  ## Soccer Schedule
+
+  DC SCORES runs the only consistent elementary and middle public school soccer leagues for both boys and girls in the District of Columbia. Additionally, beginning in the fall of 2016, DC SCORES is running the DC SCORES City League, a District-wide recreation center soccer league run in partnership with the DC Department of Parks and Recreation. <a href="https://www.google.com/maps/d/u/0/viewer?mid=1ArueGtkLKryfnhjFva-7hHSZlD8&ll=38.8939219214454%2C-77.01469049999997&z=12" target="_blank">MAP of SITES</a>
+
+  ## Thursday, October 10
+
+  #### Elementary School
+  - Boone at Burrville
+  - Kimball at KIPP Quest
+  - JC Nalle at Aiton
+  - Smothers at Thomas
+  - Miner at Drew
+  - Turner at Tyler
+  - Van Ness at Amidon-Bowen
+  - Leckie at Beers
+  - Bruce-Monroe at Capital City
+  - HD Cooke at Brightwood
+  - Imagine Hope-Tolson at Garrison
+  - LaSalle at Imagine Hope-Lamond & Sela
+  - Powell at Raymond
+  - Thomson at Reed
+  - Whittier at Seaton
+  - Tubman at Takoma
+  - Bancroft at Truesdell
+
+  ## Friday, October 11
+
+  #### Middle School – Charter
+  - Washington Latin at Capital City
+  - Meridian at EL Haynes
+  - Basis at KIPP Key
+  - DCI at KIPP Northeast
+
+  #### Middle School – Charter Coed
+  - KIPP AIM at KIPP WILL
+  - KIPP Valor at Paul
+  - Imagine Hope - Tolson at Inspired Teaching
 soccerScheduleMap: "/uploads/image-program-sites-map-updated.png"
 forFamilies:
 - |-
