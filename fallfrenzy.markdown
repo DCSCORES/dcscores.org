@@ -34,7 +34,7 @@ Fall Frenzy is our annual elementary school soccer tournament and community fest
 
 #### Weather Policy
 
-* Fall Frenzy is a “drizzle-or-shine” event. In the case that there is an absolute downpour, we will notify you via email on Friday, October 18th.
+* Fall Frenzy is a “drizzle-or-shine” event. In the case that there is an absolute downpour, we will notify you via email on Friday, October 25th.
 
 #### What do I need to check-in on the day of the event?
 
