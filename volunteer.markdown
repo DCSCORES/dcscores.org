@@ -77,7 +77,7 @@ Fall 2019 Volunteer Coach Applications are now closed.
 
 A day-long celebration of our fall season that includes soccer games and outdoor activities for our elementary school students and their families.
 
-**Date:** Saturday, October 19th
+**Date:** Saturday, October 26th
 
 **Location:** [Trinity Washington University](https://www.google.com/maps/place/Trinity+Washington+University/@38.9275815,-77.007104,17z/data=!3m1!4b1!4m5!3m4!1s0x89b7c7f95d00e459:0x5d7b60436fe81cce!8m2!3d38.9275815!4d-77.0049153)
 
