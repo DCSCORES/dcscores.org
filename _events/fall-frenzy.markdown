@@ -1,6 +1,7 @@
 ---
 title: Fall Frenzy
 date: 2019-10-26 20:05:00 Z
+position: 0
 Blurb: Our elementary school soccer tournament and community festival for the Fall
   SCORES season. Over 1,500 of our participants and their families are invited to
   an all-day event that includes various activity booths, relay races, face painting,
