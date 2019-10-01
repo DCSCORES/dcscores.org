@@ -9,39 +9,49 @@ soccerSchedule:
 
   DC SCORES runs the only consistent elementary and middle public school soccer leagues for both boys and girls in the District of Columbia. Additionally, beginning in the fall of 2016, DC SCORES is running the DC SCORES City League, a District-wide recreation center soccer league run in partnership with the DC Department of Parks and Recreation. <a href="https://www.google.com/maps/d/u/0/viewer?mid=1ArueGtkLKryfnhjFva-7hHSZlD8&ll=38.8939219214454%2C-77.01469049999997&z=12" target="_blank">MAP of SITES</a>
 
-  ## Thursday, October 10
+  ## Thursday, October 3
 
   #### Elementary School
-  - Boone at Burrville
-  - Kimball at KIPP Quest
-  - JC Nalle at Aiton
-  - Smothers at Thomas
-  - Miner at Drew
-  - Turner at Tyler
-  - Van Ness at Amidon-Bowen
-  - Leckie at Beers
-  - Bruce-Monroe at Capital City
-  - HD Cooke at Brightwood
-  - Imagine Hope-Tolson at Garrison
-  - LaSalle at Imagine Hope-Lamond & Sela
-  - Powell at Raymond
-  - Thomson at Reed
-  - Whittier at Seaton
-  - Tubman at Takoma
-  - Bancroft at Truesdell
+  - Smothers at Drew
+  - Aiton at Thomas
+  - Kimball at JC Nalle
+  - Boone at Leckie
+  - Miner at Burrville
+  - Van Ness at Tyler
+  - Beers at Amidon-Bowen
+  - Bruce Monroe at Brightwood
+  - HD Cooke at Garrison
+  - Imagine Hope-Tolson at Imagine Hope-Lamond and Sela
+  - LaSalle at Raymond
+  - Powell at Reed
+  - Thomson at Seaton
+  - Whittier at Takoma
+  - Tubman at Truesdell
+  - Bancroft at WSG
 
-  ## Friday, October 11
+  ## Friday, October 4
 
   #### Middle School – Charter
-  - Washington Latin at Capital City
-  - Meridian at EL Haynes
-  - Basis at KIPP Key
-  - DCI at KIPP Northeast
+  - KIPP Northeast at Capital City
+  - EL Haynes at KIPP Key
+  - Meridian at DCI
+  - Basis at Washington Latin
 
   #### Middle School – Charter Coed
-  - KIPP AIM at KIPP WILL
-  - KIPP Valor at Paul
-  - Imagine Hope - Tolson at Inspired Teaching
+  - Inspired Teaching at KIPP WILL
+  - Paul at KIPP AIM
+  - KIPP Valor at Imagine Hope-Tolson
+
+  #### Middle School – DCPS
+  - Truesdell at Francis Stevens
+  - Brightwood at Ida B. Wells
+  - Lincoln at Cardozo
+
+  #### Middle School – DCPS Coed
+  - Brookland at Hart
+  - Raymond at Jefferson
+  - LaSalle at Leckie
+  - MacFarland at Kelly Miller
 soccerScheduleMap: "/uploads/image-program-sites-map-updated.png"
 forFamilies:
 - |-
