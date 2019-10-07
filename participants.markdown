@@ -41,17 +41,6 @@ soccerSchedule:
   - Inspired Teaching at KIPP WILL
   - Paul at KIPP AIM
   - KIPP Valor at Imagine Hope-Tolson
-
-  #### Middle School – DCPS
-  - Truesdell at Francis Stevens
-  - Brightwood at Ida B. Wells
-  - Lincoln at Cardozo
-
-  #### Middle School – DCPS Coed
-  - Brookland at Hart
-  - Raymond at Jefferson
-  - LaSalle at Leckie
-  - MacFarland at Kelly Miller
 soccerScheduleMap: "/uploads/image-program-sites-map-updated.png"
 forFamilies:
 - |-
