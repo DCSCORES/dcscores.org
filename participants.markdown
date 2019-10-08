@@ -14,11 +14,11 @@ soccerSchedule:
   at Thomas\n- Miner at Drew\n- Turner at Tyler\n- Van Ness at Amidon-Bowen\n- Leckie
   at Beers\n- Bruce-Monroe at Capital City\n- HD Cooke at Carter Baron\n- Imagine
   Hope (Tolson) at Garrison\n- Lasalle at Imagine Hope (Lamond) \n- Powell at Raymond\n-
-  Thomson at Reed\n- Whittier at Seaton\n- Tubman at Takoma\n- Bancoft at Truesdale\n-Barnard
+  Thomson at Reed\n- Whittier at Seaton\n- Tubman at Takoma\n- Bancoft at Truesdell\n-Barnard
   at Washington\n\n## Friday, October 11\n\n#### Middle School – Charter\n- EL Haynes
-  and Meridian at Fort Stevens\n- KIPP Key and Basis at Fletcher-Johnson\n- DC International
-  at KIPP NE\n\n#### Middle School – Charter Coed\n- KIPP AIM at KIPP WILL\n- KIPP
-  Valor at Paul\n-Inspired and Imagine Hope (Tolson) at Turkey Thicket"
+  and Meridian at Fort Stevens\n- KIPP Key and Basis at Fletcher-Johnson\n- DCI at
+  KIPP NE\n\n#### Middle School – Charter Coed\n- KIPP AIM at KIPP WILL\n- KIPP Valor
+  at Paul\n-Inspired and Imagine Hope (Tolson) at Turkey Thicket"
 soccerScheduleMap: "/uploads/image-program-sites-map-updated.png"
 forFamilies:
 - |-
