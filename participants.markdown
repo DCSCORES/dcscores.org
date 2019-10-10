@@ -12,7 +12,6 @@ soccerSchedule:
   ## Thursday, October 10
 
   #### Elementary School
-  - Boone at Burville
   - Kimball at KIPP Quest
   - JC Nalle at Aiton
   - Smothers at Thomas
@@ -29,13 +28,11 @@ soccerSchedule:
   - Whittier at Seaton
   - Tubman at Takoma
   - Bancroft at Truesdell
-  - Barnard at WSG
 
   ## Friday, October 11
 
   #### Middle School – Charter
   - EL Haynes and Meridian at Fort Stevens
-  - KIPP Key and Basis at Fletcher-Johnson
 
   #### Middle School – Charter Coed
   - KIPP AIM at KIPP WILL
