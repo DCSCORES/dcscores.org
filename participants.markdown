@@ -11,7 +11,7 @@ soccerSchedule:
   with the DC Department of Parks and Recreation. <a href=\"https://www.google.com/maps/d/u/0/viewer?mid=1ArueGtkLKryfnhjFva-7hHSZlD8&ll=38.8939219214454%2C-77.01469049999997&z=12\"
   target=\"_blank\">MAP of SITES</a>\n\n## Wednesday, October 16\n\n#### Middle School
   – Charter\n- KIPP DC NE Academy and Meridian at KIPP DC Webb Campus\n\n## Thursday,
-  October 17\n\n#### No Elementary School Games This Week\n\n## Friday, October 18\n\n####
+  October 17\n#### No Elementary School Games This Week\n\n## Friday, October 18\n\n####
   Middle School – Charter Coed\n-Basis at Capital City\n-KIPP DC: Key and DC International
   school at Fletcher-Johnson Rec Center\n-KIPP DC: Valor at KIPP: DC WILL\n-Inspired
   Teaching School at KIPP DC: AIM\n-Imagine Hope (Tolsen) and Paul at UCD-CC Bertie
