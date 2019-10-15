@@ -9,14 +9,14 @@ soccerSchedule:
   Additionally, beginning in the fall of 2016, DC SCORES is running the DC SCORES
   City League, a District-wide recreation center soccer league run in partnership
   with the DC Department of Parks and Recreation. <a href=\"https://www.google.com/maps/d/u/0/viewer?mid=1ArueGtkLKryfnhjFva-7hHSZlD8&ll=38.8939219214454%2C-77.01469049999997&z=12\"
-  target=\"_blank\">MAP of SITES</a>\n\n#### No Elementary School Games This Week\n\n##
-  Friday, October 18\n\n#### Middle School \n- Basis at Capital City\n- KIPP Key and
-  DCI at Fletcher-Johnson Rec Center\n- KIPP Valor at KIPP WILL\n- Inspired Teaching
-  School at KIPP AIM\n- Imagine Hope (Tolsen) and Paul at UCD-CC Bertie Backus Campus\n-
-  Lincoln and Truesdell at Fort Stevens Rec Center\n- Francis Stevens and Ida B Wells
-  at Francis Field \n- Cardozo and Brightwood at Takoma Rec Center\n- Hart and Raymond
-  at Simon Elementary School\n- Brookland at Jefferson \n- LaSalle  at Kelly Miller\n-
-  Leckie and MacFarland at Fort Greble Rec Center"
+  target=\"_blank\">MAP of SITES</a>\n\n#### No Elementary School Games This Week
+  <br>\n\n## Friday, October 18\n\n#### Middle School \n- Basis at Capital City\n-
+  KIPP Key and DCI at Fletcher-Johnson Rec Center\n- KIPP Valor at KIPP WILL\n- Inspired
+  Teaching School at KIPP AIM\n- Imagine Hope (Tolsen) and Paul at UCD-CC Bertie Backus
+  Campus\n- Lincoln and Truesdell at Fort Stevens Rec Center\n- Francis Stevens and
+  Ida B Wells at Francis Field \n- Cardozo and Brightwood at Takoma Rec Center\n-
+  Hart and Raymond at Simon Elementary School\n- Brookland at Jefferson \n- LaSalle
+  \ at Kelly Miller\n- Leckie and MacFarland at Fort Greble Rec Center"
 soccerScheduleMap: "/uploads/image-program-sites-map-updated.png"
 forFamilies:
 - |-
