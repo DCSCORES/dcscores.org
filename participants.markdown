@@ -10,15 +10,15 @@ soccerSchedule:
   City League, a District-wide recreation center soccer league run in partnership
   with the DC Department of Parks and Recreation. <a href=\"https://www.google.com/maps/d/u/0/viewer?mid=1ArueGtkLKryfnhjFva-7hHSZlD8&ll=38.8939219214454%2C-77.01469049999997&z=12\"
   target=\"_blank\">MAP of SITES</a>\n\n## Wednesday, October 16\n\n#### Middle School
-  – Charter\n- KIPP DC NE Academy and Meridian at KIPP DC Webb Campus\n\n## Thursday,
-  October 17\n\n#### No Elementary School Games This Week\n\n## Friday, October 18\n\n####
-  Middle School – Charter Coed\n-Basis at Capital City\n-KIPP DC: Key and DC International
-  school at Fletcher-Johnson Rec Center\n-KIPP DC: Valor at KIPP: DC WILL\n-Inspired
-  Teaching School at KIPP DC: AIM\n-Imagine Hope (Tolsen) and Paul at UCD-CC Bertie
-  Backus Campus\n-Lincoln and Truesdell at Fort Stevens Rec Center\n-Francis Stevens
-  and Ida B Wells at Francis Field \n-Cardozo and Brightwood at Takoma Rec Center\n-Hart
-  and Raymond at Simon Elementary school\n-Brookland at Jefferson \n- LaSalle Backus
-  at Kelly Miller\n-Leckie and McFarland at Fort Greble Rec Center\n"
+  \n- KIPP DC NE Academy and Meridian at KIPP DC Webb Campus\n\n## Thursday, October
+  17\n\n#### No Elementary School Games This Week\n\n## Friday, October 18\n\n####
+  Middle School \n- Basis at Capital City\n- KIPP DC: Key and DC International school
+  at Fletcher-Johnson Rec Center\n- KIPP DC: Valor at KIPP: DC WILL\n- Inspired Teaching
+  School at KIPP DC: AIM\n- Imagine Hope (Tolsen) and Paul at UCD-CC Bertie Backus
+  Campus\n- Lincoln and Truesdell at Fort Stevens Rec Center\n- Francis Stevens and
+  Ida B Wells at Francis Field \n- Cardozo and Brightwood at Takoma Rec Center\n-
+  Hart and Raymond at Simon Elementary school\n- Brookland at Jefferson \n- LaSalle
+  Backus at Kelly Miller\n- Leckie and McFarland at Fort Greble Rec Center\n"
 soccerScheduleMap: "/uploads/image-program-sites-map-updated.png"
 forFamilies:
 - |-
