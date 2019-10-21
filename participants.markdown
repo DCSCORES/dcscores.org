@@ -19,9 +19,9 @@ soccerSchedule:
   at Washington School for Girls\n\n## Friday, October 25\n\n#### Middle School \n-
   KIPP Key and Merridan at Fletcher-Johnson Rec Center\n- KIPP NE and Washington Latin
   at KIPP Webb\n- Paul at KIPP WIll\n- Imagine Hope (Tolson) at KIPP AIM\n- Inspired
-  Teaching School and KIPP Valor at Turkey Thicket Rec Center\n-Francis at Cardozo\n-
+  Teaching School and KIPP Valor at Turkey Thicket Rec Center\n- Francis at Cardozo\n-
   Ida B Wells and Truesdell at Takoma Rec Center\n- Lincoln and Brightwood at Carter
-  Baron\n-Brookland and Macfarland at Turkey Thicket Rec Center\n- Jefferson at Kelly
+  Baron\n- Brookland and Macfarland at Turkey Thicket Rec Center\n- Jefferson at Kelly
   Miller\n- LaSalle and Raymond at Fort Stevens Rec Center\n- Leckie and Hart at Fort
   Greble"
 soccerScheduleMap: "/uploads/image-program-sites-map-updated.png"
