@@ -15,7 +15,6 @@ Team Champions:
 - England Family Foundation
 - Eugene & Agnes E. Meyer Foundation
 - Fight for Children
-- The John G. and Jean R. Gosnell Foundation
 - Morris & Gwendolyn Cafritz Foundation
 - Office of the Deputy Mayor for Planning and Economic Development
 - Philip L. Graham Fund
@@ -29,7 +28,9 @@ Scoring Champions:
 - D.C. Commission on the Arts and Humanities
 - District Sports
 - Gannett Foundation
+- Hogan Lovells US LLP
 - Joseph E. Robert Jr. Charitable Trust
+- The John G. and Jean R. Gosnell Foundation
 - Junior League of Washington
 - Klausner Family
 - New Jersey and H St. Educational Foundation
@@ -50,7 +51,6 @@ MVP Champions:
 - The D'Angelo Family Charitable Trust
 - George Preston Marshall Foundation
 - Herb Block Foundation
-- Hogan Lovells US LLP
 - Kathryn Kincaid and Michael Lainoff
 - Manchester City FC/City in the Community
 - The Max and Victoria Dreyfus Foundation
@@ -64,11 +64,13 @@ MVP Champions:
 - RSM US LLP
 - Serve DC -Volunteer Generation Fund
 - Share Fund
+- 'Stephen & Jean Kaplan '
 - Strada
 - The Strong Family
 - Telos
 - U.Group
 - Venable Foundation
+- Washington Nationals Delta Dream Fund
 - World Bank Community Outreach Program
 Fans:
 - 1901 Group
@@ -199,6 +201,7 @@ League Of Champions:
 - David Shams
 - 'Dan Theisen '
 - Erich Walizer
+- Jeff Werner
 layout: supporters
 ---
 
