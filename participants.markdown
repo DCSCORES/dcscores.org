@@ -19,9 +19,8 @@ soccerSchedule:
   Middle School \n- KIPP NE and Washington Latin at KIPP Webb\n- Paul at KIPP WIll\n-
   Imagine Hope (Tolson) at KIPP AIM\n- Inspired Teaching School and KIPP Valor at
   Turkey Thicket Rec Center\n- Francis Stevens at Cardozo\n- Ida B Wells and Truesdell
-  at Takoma Rec Center\n- Lincoln and Brightwood at Carter Baron\n- Brookland and
-  MacFarland at Turkey Thicket Rec Center\n- Jefferson at Kelly Miller\n- LaSalle
-  and Raymond at Fort Stevens Rec Center\n- Hart at Leckie"
+  at Takoma Rec Center\n- Lincoln and Brightwood at Carter Baron\n- Jefferson at Kelly
+  Miller\n- LaSalle and Raymond at Fort Stevens Rec Center\n- Hart at Leckie"
 soccerScheduleMap: "/uploads/image-program-sites-map-updated.png"
 forFamilies:
 - |-
