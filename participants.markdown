@@ -12,18 +12,16 @@ soccerSchedule:
   target=\"_blank\">MAP of SITES</a>\n\n## Thursday, October 24\n\n#### Elementary
   School  \n- Drew at KIPP Quest\n- Burrville at Thomas\n- Kimball and Aiton at Jackie
   Robinson Field\n- Smothers at JC Nalle\n- Boone at Tyler\n- Turner at Amidon-Bowen\n-
-  Van Ness at Beers\n- Leckie and Miner at Fort Greble Rec Center\n- HD Cooke at Capital
-  City\n- Brightwood and Imagine Hope (Tolson) at Carter Baron\n- LaSalle at Garrison\n-
-  Powell at Imagine Hope (Lamond) Rec Center\n- Thomson at Raymond\n- Whittier at
-  Reed\n- Tubman at Seaton\n- Bancroft at Takoma\n- Barnard at Truesdell\n- Bruce-Monroe
-  at Washington School for Girls\n\n## Friday, October 25\n\n#### Middle School \n-
-  KIPP Key and Merridan at Fletcher-Johnson Rec Center\n- KIPP NE and Washington Latin
-  at KIPP Webb\n- Paul at KIPP WIll\n- Imagine Hope (Tolson) at KIPP AIM\n- Inspired
-  Teaching School and KIPP Valor at Turkey Thicket Rec Center\n- Francis at Cardozo\n-
-  Ida B Wells and Truesdell at Takoma Rec Center\n- Lincoln and Brightwood at Carter
-  Baron\n- Brookland and Macfarland at Turkey Thicket Rec Center\n- Jefferson at Kelly
-  Miller\n- LaSalle and Raymond at Fort Stevens Rec Center\n- Leckie and Hart at Fort
-  Greble"
+  Van Ness at Beers\n- Leckie and Miner at Fort Greble Rec Center\n- Brightwood and
+  Imagine Hope (Tolson) at Carter Baron\n- LaSalle at Garrison\n- Powell at Imagine
+  Hope (Lamond) Rec Center\n- Thomson at Raymond\n- Whittier at Reed\n- Tubman at
+  Seaton\n- Bancroft at Takoma\n- Barnard at Truesdell\n\n## Friday, October 25\n\n####
+  Middle School \n- KIPP NE and Washington Latin at KIPP Webb\n- Paul at KIPP WIll\n-
+  Imagine Hope (Tolson) at KIPP AIM\n- Inspired Teaching School and KIPP Valor at
+  Turkey Thicket Rec Center\n- Francis Stevens at Cardozo\n- Ida B Wells and Truesdell
+  at Takoma Rec Center\n- Lincoln and Brightwood at Carter Baron\n- Brookland and
+  MacFarland at Turkey Thicket Rec Center\n- Jefferson at Kelly Miller\n- LaSalle
+  and Raymond at Fort Stevens Rec Center\n- Hart at Leckie"
 soccerScheduleMap: "/uploads/image-program-sites-map-updated.png"
 forFamilies:
 - |-
