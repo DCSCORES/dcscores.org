@@ -18,7 +18,7 @@ soccerSchedule:
   - Tubman at Reed
   - Miner at Amidon-Bowen
 
-  ## No Elementrary School Games this week
+  ## No ES Games this week
 
   ## Friday, Nov 1
 
@@ -26,7 +26,7 @@ soccerSchedule:
 
   - Washington Latin at El Haynes
   - Ida B Wells and Brightwood at Takoma Rec Center
-  -Raymond and Macfarland at Fort Stevens Rec Center
+  - Raymond and Macfarland at Fort Stevens Rec Center
 soccerScheduleMap: "/uploads/image-program-sites-map-updated.png"
 forFamilies:
 - |-
