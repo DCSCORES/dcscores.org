@@ -18,7 +18,7 @@ soccerSchedule:
   - Tubman at Reed
   - Miner at Amidon-Bowen
 
-  ## No ES Games this week
+  ## No ES Gamedays this week
 
   ## Friday, Nov 1
 
