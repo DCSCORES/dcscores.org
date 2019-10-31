@@ -29,11 +29,7 @@ At <a href="/our-program/program-sites/" target="_blank">sites</a> throughout DC
 Fall SCORES games will begin on September 18th.
 
 **Want to get involved?**
-Sign up to volunteer!
-
-* [Elementary School Volunteer Referee Application](https://forms.gle/XF5rd7yFF3NhKM6r8)
-
-* [Junior SCORES Volunteer Referee Application](https://docs.google.com/forms/d/e/1FAIpQLSf3ZN936A5tw5issGUGyVmFnlMUIlUe_qsMdGaMWPpeGGMzmQ/viewform)
+Stay tuned for the Spring 2020 application.
 
 ---
 
@@ -71,17 +67,35 @@ Fall 2019 Volunteer Coach Applications are now closed.
 
 ## Special Events
 
+![45282035134_72eef144e3_k (1).jpg](/uploads/45282035134_72eef144e3_k%20(1).jpg)
+
+### Poetry Slam
+
+This three-night, spoken-word competition features DC SCORES students performing their original poetry. Volunteer roles include set-up/breakdown, registration, ushers, scoring assistants, and stagehands.
+
+**Dates:** 
+* Middle School Poetry Slam – Tuesday, November 19
+* Westside Poetry Slam – Wednesday, November 20
+* Eastside Poetry Slam – Thursday, November 21
+
+**Locations:**
+* Middle School Poetry Slam – [Cardozo Education Campus](https://www.google.com/maps/place/Cardozo+Education+Campus/@38.9215553,-77.0305701,17z/data=!3m1!4b1!4m5!3m4!1s0x89b7b7e13781d04b:0xe3284d4ef97f7210!8m2!3d38.9215511!4d-77.0283814)
+* Westside Poetry Slam – [Roosevelt High School](https://www.google.com/maps/place/Theodore+Roosevelt+High+School/@38.9430502,-77.0313638,17z/data=!3m1!4b1!4m5!3m4!1s0x89b7c81477c3b445:0xd912cd462abafb52!8m2!3d38.943046!4d-77.0291751)
+* Eastside Poetry Slam – [H.D. Woodson High School](https://www.google.com/maps/place/H.D.+Woodson+High+School/@38.8967508,-76.9248145,17z/data=!3m1!4b1!4m5!3m4!1s0x89b7b8db6a45a6a1:0xee1293b8679afa77!8m2!3d38.8967466!4d-76.9226258)
+
+---
+
 ![31489189858_cb8056211c_k (1)-ee5127.jpg](/uploads/31489189858_cb8056211c_k%20(1)-ee5127.jpg)
 
 ### [Fall Frenzy](https://www.dcscores.org/fallfrenzy/)
 
 A day-long celebration of our fall season that includes soccer games and outdoor activities for our elementary school students and their families.
 
-**Date:** Saturday, October 26th
+**Date:** October 2020
 
-**Location:** [Trinity Washington University](https://www.google.com/maps/place/Trinity+Washington+University/@38.9275815,-77.007104,17z/data=!3m1!4b1!4m5!3m4!1s0x89b7c7f95d00e459:0x5d7b60436fe81cce!8m2!3d38.9275815!4d-77.0049153)
+**Location:** TBD
 
-**Want to get involved?** [Click here for more volunteer information!](https://www.dcscores.org/fallfrenzy/)
+**Want to get involved?** Volunteer information will be released in August 2020.
 
 ---
 
@@ -106,16 +120,6 @@ Our largest fundraiser – an annual adult soccer tournament made up of local co
 ## Summer Camp Counselor
 
 The 2019 Summer Camp Counselor application is now closed. We will open applications for next summer in April 2020.
-
----
-
-### Poetry Slam
-
-This two-night, spoken-word competition features DC SCORES students performing their original poetry. Volunteer roles include set-up/breakdown, registration, ushers, scoring assistants, and stagehands.
-
-**Dates:** Mid-November 2019 (three consecutive nights)
-
-**Locations:** Three different locations are booked for each competition night, one for Middle Schools, Westside elementary schools, and Eastside elementary schools. Locations will be released in October 2019.
 
 ---
 
