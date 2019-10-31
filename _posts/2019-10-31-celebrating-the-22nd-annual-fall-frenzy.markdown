@@ -1,5 +1,5 @@
 ---
-title: Celebrating the 22nd Annual Fall Frenzy!
+title: Celebrating the 22nd Annual Fall Frenzy, presented by EagleBank
 date: 2019-10-31 15:40:00 Z
 tags:
 - Fall Frenzy
@@ -11,7 +11,7 @@ Thumbnail Image: "/uploads/48976824401_d4750d1fea_h%20(1)-cf79c5.jpg"
 
 [2019 Fall Frenzy photo album](http://bit.ly/fallfrenzy19)
 
-On Saturday, October 26, 2019, DC SCORES celebrated its 22nd annual Fall Frenzy. Over 1,000 elementary school poet-athletes from over 30 different schools arrived bright and early for a fun-filled day of soccer, activity booths, and great music.
+On Saturday, October 26, 2019, DC SCORES celebrated its 22nd annual Fall Frenzy, presented by EagleBank. Over 1,000 elementary school poet-athletes from over 30 different schools arrived bright and early for a fun-filled day of soccer, activity booths, and great music.
 
 
 
