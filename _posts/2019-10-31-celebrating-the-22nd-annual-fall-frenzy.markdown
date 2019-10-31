@@ -29,7 +29,7 @@ Throughout the day, teams rotated from games, craft booths, soccer drills, and t
 
 The positive energy was never scarce as DJ RBI played songs that the kids loved to sing and dance to. It was clear to anyone around that the kids were having an absolute blast as this year’s Fall Frenzy. Kids also got special visits from D.C. United player, Gordon Wild, and everyone's favorite mascot, Talon!
 
-A big shoutout to all 130 new and returning volunteers that helped and participated in this year’s Fall Frenzy, including groups from Deloitte, Junior League of Washington, American University – CBRS, Notre Dame Mission, ARK, and many more. We appreciate all the hard work from the early morning set up to the afternoon cleanup (and of course all the fun in between). 
+A big shoutout to all 130 new and returning volunteers that helped and participated in this year’s Fall Frenzy, including groups from Penya Barcelonista, Deloitte, Junior League of Washington, American University – CBRS, Notre Dame Mission, ARK, and many more. We appreciate all the hard work from the early morning set up to the afternoon cleanup (and of course all the fun in between). 
 
 ![48976266613_b40dedcc59_h (1).jpg](/uploads/48976266613_b40dedcc59_h%20(1).jpg)
 
