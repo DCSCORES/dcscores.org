@@ -12,6 +12,10 @@ Thumbnail Image: "/uploads/48976824401_d4750d1fea_h%20(1)-cf79c5.jpg"
 [2019 Fall Frenzy photo album](http://bit.ly/fallfrenzy19)
 
 On Saturday, October 26, 2019, DC SCORES celebrated its 22nd annual Fall Frenzy. Over 1,000 elementary school poet-athletes from over 30 different schools arrived bright and early for a fun-filled day of soccer, activity booths, and great music.
+
+
+
+
  
 From 9AM to 3PM, DC SCORES teams gathered at **Trinity Washington University** for an annual elementary school soccer tournament and fun community festival.
 
