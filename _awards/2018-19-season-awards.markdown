@@ -5,7 +5,7 @@ position: 7
 season: 2018-19
 ---
 
-##### During the **2018-19** season, DC SCORES has received the following recognition:
+##### **2016-17**:
 
 * Executive Director **Bethany Rubin Henderson** was named an [EXCEL Award winner (Excellence in Chief Executive Leadership)](https://www.nonprofitadvancement.org/2018-excel-finalist-bethany-henderson/) by the Center for Nonprofit Advancement. 
 
