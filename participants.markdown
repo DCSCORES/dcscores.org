@@ -16,14 +16,14 @@ soccerSchedule:
   Hope (Tolson) at Capital City\n- Brightwood and LaSalle at Carter Baron\n- Powell
   at Garrison\n- Imagine Hope (Lamond) and Thomson at Lamond Rec Center\n- Whittier
   and Raymond at Raymond Rec Center\n- Tubman at Reed\n- Bancroft at Seaton\n- Barnard
-  at Takoma Education Campus\n- Bruce Monroe at Truesdell\n\n## Friday, Nov 8\n\n####
-  Middle School Gamedays\n- Meridan at Capital City\n- Basis at EL Haynes\n- KIPP
-  Key and KIPP NE at Fletcher-Johnson Rec Center\n- KIPP WILL at KIPP AIM\n- Imagine
-  Hope (Tolson) and KIPP Valor at Bertie Backus Campus\n- Ida B Wells at Cardozo\n-
-  Truesdell and Brightwood at Fort Stevens Rec Center\n- Francis Stevens and Lincoln
-  at Francis Field \n- LaSalle and Macfarland at Takoma Rec Center\n- Brookland and
-  Raymond at Turkey Thicket Rec Center\n- Hart at Jefferson\n- Leckie and Kelly Miller
-  at Fort Greble Rec Center"
+  at Takoma Education Campus\n- Bruce Monroe at Truesdell\n- Cooke at Washington \n\n##
+  Friday, Nov 8\n\n#### Middle School Gamedays\n- Meridan at Capital City\n- Basis
+  at EL Haynes\n- KIPP Key and KIPP NE at Fletcher-Johnson Rec Center\n- KIPP WILL
+  at KIPP AIM\n- Imagine Hope (Tolson) and KIPP Valor at Bertie Backus Campus\n- Ida
+  B Wells at Cardozo\n- Truesdell and Brightwood at Fort Stevens Rec Center\n- Francis
+  Stevens and Lincoln at Francis Field \n- LaSalle and Macfarland at Takoma Rec Center\n-
+  Brookland and Raymond at Turkey Thicket Rec Center\n- Hart at Jefferson\n- Leckie
+  and Kelly Miller at Fort Greble Rec Center"
 soccerScheduleMap: "/uploads/image-program-sites-map-updated.png"
 forFamilies:
 - |-
