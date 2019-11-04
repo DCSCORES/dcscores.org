@@ -1,6 +1,7 @@
 ---
 title: 2019-20 season awards
 date: 2019-11-04 18:27:00 Z
+position: 8
 ---
 
 ##### **2019-20:**
