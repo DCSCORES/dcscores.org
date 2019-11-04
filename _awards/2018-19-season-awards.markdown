@@ -8,3 +8,5 @@ season: 2018-19
 ##### During the **2018-19** season, DC SCORES has received the following recognition:
 
 * Executive Director **Bethany Rubin Henderson** was named an [EXCEL Award winner (Excellence in Chief Executive Leadership)](https://www.nonprofitadvancement.org/2018-excel-finalist-bethany-henderson/) by the Center for Nonprofit Advancement. 
+
+* Chief Program Officer, **Sean Hinkle**, was honored with the [President’s Council on Sports, Fitness & Nutrition Community Leadership Award](https://www.dcscores.org/blog/2019/07/sean-hinkle-honored-with-presidents-council-on-sports-fitness-and-nutrition-community-leadership-award).
