@@ -1,7 +1,7 @@
 ---
 title: 2019-20 season awards
 date: 2019-11-04 18:17:00 Z
-position: 9
+position: 6
 ---
 
 ##### During the **2019-20** season, DC SCORES has received the following recognition:
