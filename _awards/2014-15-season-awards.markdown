@@ -1,6 +1,6 @@
 ---
 title: 2014-15 season awards
-position: 8
+position: 7
 season: 2014-15
 ---
 
