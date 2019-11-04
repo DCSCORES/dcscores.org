@@ -4,29 +4,25 @@ permalink: "/our-program/participants/"
 Top Image: "/assets/images/masthead-resources.jpg"
 Top Image Position: 50% 40%
 soccerSchedule:
-- |-
-  ## Soccer Schedule
-
-  DC SCORES runs the only consistent elementary and middle public school soccer leagues for both boys and girls in the District of Columbia. Additionally, beginning in the fall of 2016, DC SCORES is running the DC SCORES City League, a District-wide recreation center soccer league run in partnership with the DC Department of Parks and Recreation. <a href="https://www.google.com/maps/d/u/0/viewer?mid=1ArueGtkLKryfnhjFva-7hHSZlD8&ll=38.8939219214454%2C-77.01469049999997&z=12" target="_blank">MAP of SITES</a>
-
-  ## Wednesday, Oct 30
-
-  #### Junior SCORES Gamedays
-  - Raymond at Truesdell
-  - Trinidad at Aiton
-  - Lasalle at Bancroft
-  - Tubman at Reed
-  - Miner at Amidon-Bowen
-
-  #### No Elementary School Gamedays this week
-
-  ## Friday, Nov 1
-
-  #### Middle School Gamedays
-
-  - Washington Latin at EL Haynes
-  - Ida B Wells and Brightwood at Takoma Rec Center
-  - Raymond and MacFarland at Fort Stevens Rec Center
+- "## Soccer Schedule\n\nDC SCORES runs the only consistent elementary and middle
+  public school soccer leagues for both boys and girls in the District of Columbia.
+  Additionally, beginning in the fall of 2016, DC SCORES is running the DC SCORES
+  City League, a District-wide recreation center soccer league run in partnership
+  with the DC Department of Parks and Recreation. <a href=\"https://www.google.com/maps/d/u/0/viewer?mid=1ArueGtkLKryfnhjFva-7hHSZlD8&ll=38.8939219214454%2C-77.01469049999997&z=12\"
+  target=\"_blank\">MAP of SITES</a>\n\n## Thursday, Nov 7\n\n#### Elementary School
+  Gamedays\n- Aiton at KIPP Quest\n- Van Ness at Burrville \n- Kimball and Smothers
+  at Jackie Robinson Field \n- Thomas at Drew\n- Boone at Beers\n- Leckie and Turner
+  at Fort Greble Rec Center\n- Miner at JC Nalle\n- Amidon-Bowen at Tyler\n- Imagine
+  Hope (Tolson) at Capital City\n- Brightwood and LaSalle at Carter Baron\n- Powell
+  at Garrison\n- Imagine Hope (Lamond) and Thomson at Lamond Rec Center\n- Whittier
+  at Raymond\n- Tubman at Reed\n- Bancroft at Seaton\n- Barnard at Takoma Education
+  Campus\n- Bruce Monroe at Truesdell\n\n## Friday, Nov 8\n\n#### Middle School Gamedays\n-
+  Meridan at Capital City\n- Basis at EL Haynes\n- KIPP Key and KIPP NE at Fletcher-Johnson
+  Rec Center\n- KIPP WILL at KIPP AIM\n- Imagine Hope (Tolson) and KIPP Valor at Bertie
+  Backus Campus\n- Ida B Wells at Cardozo\n- Truesdell and Brightwood at Fort Stevens
+  Rec Center\n- Francis Stevens and Lincoln at Francis Field \n- LaSalle and Macfarland
+  at Takoma Rec Center\n- Brookland and Raymond at Turkey Thicket Rec Center\n- Hart
+  at Jefferson\n- Leckie and Kelly Miller at Fort Greble Rec Center"
 soccerScheduleMap: "/uploads/image-program-sites-map-updated.png"
 forFamilies:
 - |-
