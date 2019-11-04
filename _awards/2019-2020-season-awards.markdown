@@ -1,0 +1,8 @@
+---
+title: 2019 - 2020 season awards
+date: 2019-11-04 17:11:00 Z
+---
+
+##### During the **2018-19** season, DC SCORES has received the following recognition:
+
+* DC SCORES made the 2019 Top-Rated Nonprofit List by [GreatNonprofit](https://greatnonprofits.org/org/dc-scores).
