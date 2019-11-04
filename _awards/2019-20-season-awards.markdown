@@ -3,7 +3,7 @@ title: 2019-20 season awards
 date: 2019-11-04 18:27:00 Z
 ---
 
-**2019-20**:
+##### **2019-20:**
 
 * DC SCORES made the 2019 Top-Rated Nonprofit List by [GreatNonprofit](https://greatnonprofits.org/org/dc-scores).
 
