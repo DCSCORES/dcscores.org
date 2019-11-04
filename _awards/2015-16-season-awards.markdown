@@ -1,6 +1,6 @@
 ---
 title: 2015-16 season awards
-position: 5
+position: 4
 season: 2015-16
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: 2016-17 season awards
-position: 6
+position: 5
 season: 2016-17
 ---
 

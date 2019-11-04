@@ -1,6 +1,6 @@
 ---
 title: 2012-13 season awards
-position: 2
+position: 1
 season: 2012-13
 ---
 
