@@ -1,7 +1,7 @@
 ---
 title: 2017-18 season awards
 date: 2017-10-30 17:37:00 Z
-position: 4
+position: 2
 season: 2017-18
 ---
 

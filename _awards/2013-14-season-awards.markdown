@@ -1,6 +1,6 @@
 ---
 title: 2013-14 season awards
-position: 8
+position: 6
 season: 2013-14
 ---
 

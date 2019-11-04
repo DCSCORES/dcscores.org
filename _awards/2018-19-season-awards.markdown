@@ -1,7 +1,7 @@
 ---
 title: 2018-19 season awards
 date: 2018-10-16 17:29:00 Z
-position: 3
+position: 1
 season: 2018-19
 ---
 
