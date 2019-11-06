@@ -1,7 +1,7 @@
 ---
 title: The 25th season of Fall SCORES
 date: 2019-09-09 19:41:00 Z
-position: 0
+position: 2
 Image: "/uploads/32094329878_bcd984c977_k.jpg"
 Link: http://bit.ly/fallSCORES19
 ---
