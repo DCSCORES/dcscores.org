@@ -1,6 +1,7 @@
 ---
 title: Poetry Slam
 date: 2019-11-19 18:34:00 Z
+position: 1
 Blurb: The DC SCORES Poetry Slam is three evenings of spoken-word performances featuring
   original works by 3,000 elementary and middle school students from our 70 sites.
 Link: https://slam.dcscores.org/
