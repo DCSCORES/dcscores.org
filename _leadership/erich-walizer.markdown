@@ -1,6 +1,6 @@
 ---
 title: Erich Walizer
-position: 60
+position: 61
 Details: Localist
 Section: advisory
 ---
