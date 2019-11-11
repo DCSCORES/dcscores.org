@@ -21,7 +21,7 @@ soccerSchedule:
   - Tubman at Capital City
   - Brightwood and Bancroft at Carter Baron
   - Barnard at Garrison
-  - Bruce-Monroe and Imagine Hope (Laymond & Sela)
+  - Bruce-Monroe and Imagine Hope (Lamond & Sela)
   - HD Cooke at Raymond
   - Imagine Hope (Tolson) at Reed
   - LaSalle-Backus at Seaton
