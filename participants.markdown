@@ -4,25 +4,34 @@ permalink: "/our-program/participants/"
 Top Image: "/assets/images/masthead-resources.jpg"
 Top Image Position: 50% 40%
 soccerSchedule:
-- "## Soccer Schedule\n\nDC SCORES runs the only consistent elementary and middle
-  public school soccer leagues for both boys and girls in the District of Columbia.
-  Additionally, beginning in the fall of 2016, DC SCORES is running the DC SCORES
-  City League, a District-wide recreation center soccer league run in partnership
-  with the DC Department of Parks and Recreation. <a href=\"https://www.google.com/maps/d/u/0/viewer?mid=1ArueGtkLKryfnhjFva-7hHSZlD8&ll=38.8939219214454%2C-77.01469049999997&z=12\"
-  target=\"_blank\">MAP of SITES</a>\n\n## Thursday, Nov 7\n\n#### Elementary School
-  Gamedays\n- Aiton at KIPP Quest\n- Van Ness at Burrville \n- Kimball and Smothers
-  at Jackie Robinson Field \n- Thomas at Drew\n- Boone at Beers\n- Leckie and Turner
-  at Fort Greble Rec Center\n- Miner at JC Nalle\n- Amidon-Bowen at Tyler\n- Imagine
-  Hope (Tolson) at Capital City\n- Brightwood and LaSalle at Carter Baron\n- Powell
-  at Garrison\n- Thomson at Imagine Hope (Lamond) & Sela\n- Whittier and Raymond at
-  Raymond Rec Center\n- Tubman at Reed\n- Bancroft at Seaton\n- Barnard at Takoma
-  Education Campus\n- Bruce Monroe at Truesdell\n- HD Cooke at WSG\n\n## Friday, Nov
-  8\n\n#### Middle School Gamedays\n- Meridian at Capital City\n- Basis at EL Haynes\n-
-  KIPP Key and KIPP NE at Fletcher-Johnson Rec Center\n- KIPP WILL at KIPP AIM\n-
-  Imagine Hope (Tolson) and KIPP Valor at Bertie Backus Campus\n- Ida B Wells at Cardozo\n-
-  Truesdell and Brightwood at Fort Stevens Rec Center\n- Lincoln at Francis\n- LaSalle
-  and Macfarland at Takoma Rec Center\n- Brookland and Raymond at Turkey Thicket Rec
-  Center\n- Hart at Jefferson\n- Leckie and Kelly Miller at Fort Greble Rec Center"
+- |-
+  ## Soccer Schedule
+
+  DC SCORES runs the only consistent elementary and middle public school soccer leagues for both boys and girls in the District of Columbia. Additionally, beginning in the fall of 2016, DC SCORES is running the DC SCORES City League, a District-wide recreation center soccer league run in partnership with the DC Department of Parks and Recreation. <a href="https://www.google.com/maps/d/u/0/viewer?mid=1ArueGtkLKryfnhjFva-7hHSZlD8&ll=38.8939219214454%2C-77.01469049999997&z=12" target="_blank">MAP of SITES</a>
+
+  ## Thursday, Nov 14
+
+  #### Elementary School Gamedays
+  - Burrville at Aiton
+  - Smothers at KIPP Quest
+  - JC Nalle at Thomas
+  - Boone at Amidon-Bowen
+  - Turner at Beers
+  - Leckie and Van Ness at Fort Greble Rec Center
+  - Tubman at Capital City
+  - Brightwood and Bancroft at Carter Baron
+  - Barnard at Garrison
+  - Bruce-Monroe and Imagine Hope (Laymond & Sela)
+  - HD Cooke at Raymond
+  - Imagine Hope (Tolson) at Reed
+  - LaSalle-Backus at Seaton
+  - Powell at Takoma
+  - Thomson at Truesdell
+
+  ## Friday, Nov 15
+
+  #### Middle School Division Championship
+  - For more information visit https://league.dcscores.org/
 soccerScheduleMap: "/uploads/image-program-sites-map-updated.png"
 forFamilies:
 - |-
