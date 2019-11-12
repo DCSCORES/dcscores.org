@@ -4,34 +4,20 @@ permalink: "/our-program/participants/"
 Top Image: "/assets/images/masthead-resources.jpg"
 Top Image Position: 50% 40%
 soccerSchedule:
-- |-
-  ## Soccer Schedule
-
-  DC SCORES runs the only consistent elementary and middle public school soccer leagues for both boys and girls in the District of Columbia. Additionally, beginning in the fall of 2016, DC SCORES is running the DC SCORES City League, a District-wide recreation center soccer league run in partnership with the DC Department of Parks and Recreation. <a href="https://www.google.com/maps/d/u/0/viewer?mid=1ArueGtkLKryfnhjFva-7hHSZlD8&ll=38.8939219214454%2C-77.01469049999997&z=12" target="_blank">MAP of SITES</a>
-
-  ## Thursday, Nov 14
-
-  #### Elementary School Gamedays
-  - Burrville at Aiton
-  - Smothers at KIPP Quest
-  - JC Nalle at Thomas
-  - Boone at Amidon-Bowen
-  - Turner at Beers
-  - Leckie and Van Ness at Fort Greble Rec Center
-  - Tubman at Capital City
-  - Brightwood and Bancroft at Carter Baron
-  - Barnard at Garrison
-  - Bruce-Monroe and Imagine Hope (Lamond & Sela)
-  - HD Cooke at Raymond
-  - Imagine Hope (Tolson) at Reed
-  - LaSalle-Backus at Seaton
-  - Powell at Takoma
-  - Thomson at Truesdell
-
-  ## Friday, Nov 15
-
-  #### Middle School Division Championship
-  - For more information visit https://league.dcscores.org/
+- "## Soccer Schedule\n\nDC SCORES runs the only consistent elementary and middle
+  public school soccer leagues for both boys and girls in the District of Columbia.
+  Additionally, beginning in the fall of 2016, DC SCORES is running the DC SCORES
+  City League, a District-wide recreation center soccer league run in partnership
+  with the DC Department of Parks and Recreation. <a href=\"https://www.google.com/maps/d/u/0/viewer?mid=1ArueGtkLKryfnhjFva-7hHSZlD8&ll=38.8939219214454%2C-77.01469049999997&z=12\"
+  target=\"_blank\">MAP of SITES</a>\n\n## Thursday, Nov 14\n\n#### Elementary School
+  Gamedays\n- Burrville at Aiton\n- Smothers at KIPP Quest\n- JC Nalle at Thomas\n-
+  Boone at Amidon-Bowen\n- Turner at Beers\n- Van Ness at Leckie\n- Tubman at Capital
+  City\n- Brightwood and Bancroft at Carter Baron\n- Barnard at Garrison\n- Bruce-Monroe
+  and Imagine Hope (Lamond & Sela)\n- HD Cooke at Raymond\n- Imagine Hope (Tolson)
+  at Reed\n- LaSalle-Backus at Seaton\n- Powell at Takoma\n- Thomson at Truesdell\n\n##
+  Friday, Nov 15\n\n#### Middle School Division Championship\n- For more information
+  visit <a href=\"https://league.dcscores.org/\" target=\"_blank\">league.dcscores.org
+  </a> "
 soccerScheduleMap: "/uploads/image-program-sites-map-updated.png"
 forFamilies:
 - |-
