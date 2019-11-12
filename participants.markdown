@@ -15,8 +15,8 @@ soccerSchedule:
   City\n- Brightwood and Bancroft at Carter Baron\n- Barnard at Garrison\n- Bruce-Monroe
   and Imagine Hope (Lamond & Sela)\n- HD Cooke at Raymond\n- Imagine Hope (Tolson)
   at Reed\n- LaSalle-Backus at Seaton\n- Powell at Takoma\n- Thomson at Truesdell\n\n##
-  Friday, Nov 15\n\n#### Middle School Division Championship\n- For more information
-  visit <a href=\"https://league.dcscores.org/\" target=\"_blank\">league.dcscores.org
+  Friday, Nov 15\n\n#### Middle School Division Championship – Audi Field\n- For more
+  information visit <a href=\"https://league.dcscores.org/\" target=\"_blank\">league.dcscores.org
   </a> "
 soccerScheduleMap: "/uploads/image-program-sites-map-updated.png"
 forFamilies:
