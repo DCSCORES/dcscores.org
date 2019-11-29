@@ -122,19 +122,16 @@
 
           &:focus .Footer-mainSecondaryAwardsLinkBadge,
           &:hover .Footer-mainSecondaryAwardsLinkBadge {
-            transform: scale(1.05);
+            transform: rotate(-4deg) scale(1.05);
           }
         }
 
         .Footer-mainSecondaryAwardsLink {
-
-          &:nth-child(2) .Footer-mainSecondaryAwardsLinkBadge {
-            //width: 138px;
+          
+          /* Not the smart way of doing this...*/
+          &:nth-child(2) .Footer-mainSecondaryAwardsLinkBadge,
+          &:nth-child(3) .Footer-mainSecondaryAwardsLinkBadge {
             margin-left: 1em;
-
-            @media (min-width: 48em) {
-              //width: 172px; // Make second badge a bit bigger until I figure it out
-            }
           }
 
         }
@@ -150,14 +147,11 @@
 
           .Footer-mainSecondaryAwardsLinkBadge {
             display: block;
-
-            width: 128px;
-
-            transform: rotate(-4deg);
+            width: 120px;
             transition: transform 0.15s ease;
 
             @media (min-width: 48em) {
-              width: 148px;
+              width: 140px;
             }
           }
 
