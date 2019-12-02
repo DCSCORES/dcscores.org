@@ -7,7 +7,7 @@ Blurb: "Join us on December 3 at Cardozo Education Campus for the free public pr
   American and international soccer stars, inspiring coaches, and organizations committed
   to breaking down barriers, including DC SCORES. "
 Link: http://bit.ly/rsvpSITC
-Image: "/uploads/Website%20Carousel%20(3).png"
+Image: "/uploads/Website%20Carousel%20(1).jpg"
 Image Position: 50% 50%
 Color: "#E31836"
 Is Finished?: true
