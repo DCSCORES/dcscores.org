@@ -1,7 +1,7 @@
 ---
 title: Soccer in the City Public Premiere
 date: 2019-12-02 18:49:00 Z
-Image: "/uploads/Website%20Carousel%20(2).png"
+Image: "/uploads/Website%20Carousel.jpg"
 Link: http://bit.ly/rsvpSITC
 ---
 
