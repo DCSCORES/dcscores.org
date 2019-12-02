@@ -1,0 +1,15 @@
+---
+title: Soccer in the City Public Premiere
+date: 2019-12-02 19:07:00 Z
+Blurb: "Join us on December 3 at Cardozo Education Campus for the free public premiere
+  of Soccer in the City, hosted by DC SCORES.  \n\nSoccer in the City explores the
+  complicated relationship between America and soccer.  The film features well-known
+  American and international soccer stars, inspiring coaches, and organizations committed
+  to breaking down barriers, including DC SCORES. "
+Link: http://bit.ly/rsvpSITC
+Image: "/uploads/DCSC-Save%20Date%20FB%201.82.jpg"
+Image Position: 30% 70%
+Color: "#E31836"
+Is Finished?: true
+---
+
