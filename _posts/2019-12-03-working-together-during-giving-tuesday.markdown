@@ -38,6 +38,9 @@ Thank you. We're going to say it a lot today because you're making a real impact
 
 ### Giving Tuesday High 5’s
 **(Name, time gave)** <br>
+Andrew Crouter, 10:08am <br>
+Dan McCarthy, 10:04am <br>
+Eric Lyman, 10:03am <br>
 Kirsten Entsuah, 9:59am <br>
 Jason Finney, 9:59am <br>
 Jake Lloyd, 9:54am <br>
