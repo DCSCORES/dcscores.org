@@ -40,6 +40,8 @@ Thank you. We're going to say it a lot today because you're making a real impact
 **(Name, time gave)** <br>
 Kevin Alansky, 1:49pm <br>
 Ryan Steele, 1:49pm <br>
+Nick Holthaus, 1:49pm <br>
+Allison Hyra, 1:48pm <br>
 Mara Peltz, 1:46pm <br>
 Anonymous, 1:44pm <br>
 Lindsey Sharp, 1:35pm <br>
@@ -67,6 +69,9 @@ Nicole Verdin, 12:55pm <br>
 Michael Riggins, 12:44pm <br>
 LS Henderson, 12:42pm <br>
 Bethany Henderson, 12:41pm <br>
+Tyler Boyles, 12:41pm <br>
+Ana Henderson, 12:40pm <br>
+Christine Sentner Brooks, 12:38pm <br>
 Bethany Henderson, 12:36pm <br>
 W Terence Welsh, 1:11pm <br>
 Aaron Wodin-Schwartz, 11:52am <br>
