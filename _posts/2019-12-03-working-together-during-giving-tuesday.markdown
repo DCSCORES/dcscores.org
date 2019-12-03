@@ -38,6 +38,7 @@ Thank you. We're going to say it a lot today because you're making a real impact
 
 ### Giving Tuesday High 5’s
 **(Name, time gave)** <br>
+Calder Trevelyan, 12:27pm <br>
 Anonymous, 12:27pm <br>
 Stuart Trevelyan, 12:24pm <br>
 Geoffrey Okpych, 12:24pm <br>
