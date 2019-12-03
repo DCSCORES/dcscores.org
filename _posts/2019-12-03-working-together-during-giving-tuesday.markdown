@@ -81,6 +81,13 @@ Tyler Boyles, 12:41pm <br>
 Ana Henderson, 12:40pm <br>
 Christine Sentner Brooks, 12:38pm <br>
 Bethany Henderson, 12:36pm <br>
+Jessica Trevelyan, 12:22pm <br>
+Gerald Andriole, 12:21pm <br>
+Will Magioncalda, 12:20pm <br>
+Libby Watkins, 12:19pm <br>
+Olive Okpych, 12:17pm <br>
+Mary and Bill Stevens, 12:17pm <br>
+Jeffrey Poku-Adjei, 12:15pm <br>
 Christine Okpych, 12:13pm <br>
 Carl Kenney, 12:13pm <br>
 Joseph Palladino, 12:12pm <br>
