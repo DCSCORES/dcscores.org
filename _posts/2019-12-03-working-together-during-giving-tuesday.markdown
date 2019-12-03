@@ -38,6 +38,7 @@ Thank you. We're going to say it a lot today because you're making a real impact
 
 ### Giving Tuesday High 5’s
 **(Name, time gave)** <br>
+Anonymous, 1:44pm <br>
 Lindsey Sharp, 1:35pm <br>
 William Hoenig, 1:34pm <br>
 All-Purpose Capitol Riverfront, 1:31pm <br>
@@ -55,6 +56,11 @@ Kimberly Orr, 1:01pm <br>
 Anonymous, 1:00pm <br>
 Liliana Ascencio, 1:00pm <br>
 Anonymous, 12:57pm <br>
+Monisha Kapila, 12:57pm <br>
+Jeffrey Howdeshell, 12:57pm <br>
+Jonah Owens, 12:57pm <br>
+Klu Clougherty, 12:56pm <br>
+Nicole Verdin, 12:55pm <br>
 W Terence Welsh, 1:11pm <br>
 Aaron Wodin-Schwartz, 11:52am <br>
 Amy and Fred Rubin, 11:36am <br>
