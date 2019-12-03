@@ -38,6 +38,9 @@ Thank you. We're going to say it a lot today because you're making a real impact
 
 ### Giving Tuesday High 5’s
 **(Name, time gave)** <br>
+Traci Lee, 4:46pm <br>
+Emily DeMent, 4:39pm <br>
+Julie and Zach Friedlis, 4:36pm <br>
 Cheryl Opere, 4:23pm <br>
 Anonymous, 4:12pm <br>
 Matthew Glass, 4:07pm <br>
