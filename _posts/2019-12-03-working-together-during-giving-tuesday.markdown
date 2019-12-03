@@ -38,6 +38,7 @@ Thank you. We're going to say it a lot today because you're making a real impact
 
 ### Giving Tuesday High 5’s
 **(Name, time gave)** <br>
+Bonnie Politz, 5:02pm <br>
 Anonymous, 5:00pm <br>
 Sharon Plonsker, 4:56pm <br>
 Traci Lee, 4:46pm <br>
