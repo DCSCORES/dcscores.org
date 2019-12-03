@@ -39,6 +39,7 @@ Thank you. We're going to say it a lot today because you're making a real impact
 ### Giving Tuesday High 5’s
 **(Name, time gave)** <br>
 Kirsten Entsuah, 9:59am <br>
+Jason Finney, 9:59am <br>
 Jake Lloyd, 9:54am <br>
 Lila Simmons, 9:46am <br>
 David Goodwin, 9:45am <br>
