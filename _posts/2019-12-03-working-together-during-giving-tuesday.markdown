@@ -38,6 +38,7 @@ Thank you. We're going to say it a lot today because you're making a real impact
 
 ### Giving Tuesday High 5’s
 **(Name, time gave)** <br>
+Bonita Skagen, 2:34pm <br>
 Matt Preotle, 2:25pm <br>
 Daniel Sheerin, 2:24pm <br>
 Steven Riggins, 2:10pm <br>
@@ -57,6 +58,7 @@ Tamar Levenberg, 1:21pm <br>
 Jeff Koung, 1:21pm <br>
 Brendan Herbert, 1:18pm <br>
 Anonymous, 1:14pm <br>
+W Terence Welsh, 1:11pm <br>
 Erika Toman, 1:09pm <br>
 Tanzeela Islam, 1:07pm <br>
 Mark Burlet, 1:04pm <br>
@@ -79,7 +81,15 @@ Tyler Boyles, 12:41pm <br>
 Ana Henderson, 12:40pm <br>
 Christine Sentner Brooks, 12:38pm <br>
 Bethany Henderson, 12:36pm <br>
-W Terence Welsh, 1:11pm <br>
+Elizabeth Bradley, 12:11pm <br>
+Jimena Vallejo, 12:10pm <br>
+Walter Okpych, IV, 12:09pm <br>
+Michael Holstein, 12:06pm <br>
+Brian Sanker, 12:05pm <br>
+Tony Francavilla, 12:04pm <br>
+Brian Duncan, 12:04pm <br>
+Tony Francavilla, 12:02pm <br>
+Jane Stevens, 11:59am <br>
 Aaron Wodin-Schwartz, 11:52am <br>
 Amy and Fred Rubin, 11:36am <br>
 Joseph Hosler, 11:33am <br>
