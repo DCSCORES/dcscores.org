@@ -61,6 +61,7 @@ Matthew Lindsay, 12:46pm <br>
 Daniel Henderson, 12:45pm <br>
 Louie Henderson, 12:44pm <br>
 P.E.G.S. Henderson, 12:44pm <br>
+Launa Hochstetler, 12:43pm <br>
 Dan Henderson, 12:39pm <br>
 Mackenzie Phelps, 12:38pm <br>
 Anonymous, 12:37pm <br>
