@@ -38,6 +38,7 @@ Thank you. We're going to say it a lot today because you're making a real impact
 
 ### Giving Tuesday High 5’s
 **(Name, time gave)** <br>
+Danny Sheerin, 12:58pm <br>
 Bryan Hinkle, 12:58pm <br>
 Anonymous, 12:56pm <br>
 Kenny Owens, 12:56pm <br>
