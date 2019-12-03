@@ -38,6 +38,7 @@ Thank you. We're going to say it a lot today because you're making a real impact
 
 ### Giving Tuesday High 5’s
 **(Name, time gave)** <br>
+Cheryl Opere, 4:23pm <br>
 Anonymous, 4:12pm <br>
 Matthew Glass, 4:07pm <br>
 Douglas Kotlove, 4:05pm <br>
