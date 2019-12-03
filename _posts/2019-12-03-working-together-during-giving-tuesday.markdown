@@ -38,6 +38,7 @@ Thank you. We're going to say it a lot today because you're making a real impact
 
 ### Giving Tuesday High 5’s
 **(Name, time gave)** <br>
+Adam Rupe, 8:41am <br>
 Takita Battle, 8:38am <br>
 Linda Gebric, 8:08am <br>
 Cheryl Gregory, 12:55am <br>
