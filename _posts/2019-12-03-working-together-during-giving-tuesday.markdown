@@ -38,6 +38,9 @@ Thank you. We're going to say it a lot today because you're making a real impact
 
 ### Giving Tuesday High 5’s
 **(Name, time gave)** <br>
+Ayan and Mike Rubin, 2:59pm <br>
+Cyndi Bohlin, 2:53pm <br>
+Anonymous, 2:48pm <br>
 Jackie Christian, 2:40pm <br>
 Bonita Skagen, 2:34pm <br>
 Matt Preotle, 2:25pm <br>
