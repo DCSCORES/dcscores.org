@@ -38,6 +38,7 @@ Thank you. We're going to say it a lot today because you're making a real impact
 
 ### Giving Tuesday High 5’s
 **(Name, time gave)** <br>
+Angel Horacek, 12:35pm <br>
 Gabriel Rybeck, 12:35pm <br>
 Adi Rose Henderson, 12:34pm <br>
 Bethany Henderson, 12:34pm <br>
