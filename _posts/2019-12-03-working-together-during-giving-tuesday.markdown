@@ -50,6 +50,7 @@ John Gambaccini, 9:19am <br>
 Jana Sharp, 9:12am <br>
 Adam Rupe, 8:41am <br>
 Takita Battle, 8:38am <br>
+Deborah Short. 8:37am <br>
 Linda Gebric, 8:08am <br>
 Cheryl Gregory, 12:55am <br>
 **Giving Tuesday** <br>
