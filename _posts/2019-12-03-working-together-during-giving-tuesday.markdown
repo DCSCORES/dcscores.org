@@ -38,6 +38,7 @@ Thank you. We're going to say it a lot today because you're making a real impact
 
 ### Giving Tuesday High 5’s
 **(Name, time gave)** <br>
+Mike Riggins, 12:36pm <br>
 Eliana Henderson, 12:35pm <br>
 Angel Horacek, 12:35pm <br>
 Gabriel Rybeck, 12:35pm <br>
