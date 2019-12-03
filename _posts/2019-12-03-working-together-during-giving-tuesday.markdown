@@ -40,6 +40,7 @@ Thank you. We're going to say it a lot today because you're making a real impact
 **(Name, time gave)** <br>
 Lila Simmons, 9:46am <br>
 David Goodwin, 9:45am <br>
+Joshua McGee, 9:43am <br>
 Adam Rupe, 8:41am <br>
 Takita Battle, 8:38am <br>
 Linda Gebric, 8:08am <br>
