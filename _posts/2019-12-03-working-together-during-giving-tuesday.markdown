@@ -38,6 +38,7 @@ Thank you. We're going to say it a lot today because you're making a real impact
 
 ### Giving Tuesday High 5’s
 **(Name, time gave)** <br>
+Jessica Trevelyan, 12:22pm <br>
 Gerald Andriole, 12:21pm <br>
 Anonymous, 12:20pm <br>
 Will Magioncalda, 12:20pm <br>
