@@ -39,6 +39,7 @@ Thank you. We're going to say it a lot today because you're making a real impact
 ### Giving Tuesday High 5’s
 **(Name, time gave)** <br>
 Brigid McKelvey, 11:21am <br>
+Julie Gaskins, 11:20am <br>
 Emily Locker, 11:17am <br>
 Sharon Welsh, 11:17am <br>
 Anonymous, 11:12am <br>
