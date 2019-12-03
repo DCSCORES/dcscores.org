@@ -81,6 +81,7 @@ Tyler Boyles, 12:41pm <br>
 Ana Henderson, 12:40pm <br>
 Christine Sentner Brooks, 12:38pm <br>
 Bethany Henderson, 12:36pm <br>
+Adi Rose Henderson, 12:34pm <br>
 Sabeena Rajpal, 12:34pm <br>
 Thomas Cronin, 12:33pm <br>
 Alex Diaz-Asper, 12:32pm <br>
