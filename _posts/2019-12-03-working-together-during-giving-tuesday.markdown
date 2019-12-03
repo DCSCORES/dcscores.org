@@ -38,6 +38,10 @@ Thank you. We're going to say it a lot today because you're making a real impact
 
 ### Giving Tuesday High 5’s
 **(Name, time gave)** <br>
+Anonymous, 4:12pm <br>
+Matthew Glass, 4:07pm <br>
+Douglas Kotlove, 4:05pm <br>
+Kelly Bonnie, 4:04pm <br>
 John Guzman, 3:59pm <br>
 Anonymous, 3:57pm <br>
 Emily Thompson, 3:46pm <br>
