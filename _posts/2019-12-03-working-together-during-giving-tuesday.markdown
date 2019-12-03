@@ -44,6 +44,8 @@ Joshua McGee, 9:43am <br>
 Lesley Poole, 9:34am <br>
 Felicia Chaplin, 9:32am <br>
 S Goodman, 9:31am <br>
+Kelly Waldron, 9:25am <br>
+Laurie Gonzalez, 9:24am <br>
 Adam Rupe, 8:41am <br>
 Takita Battle, 8:38am <br>
 Linda Gebric, 8:08am <br>
