@@ -38,6 +38,7 @@ Thank you. We're going to say it a lot today because you're making a real impact
 
 ### Giving Tuesday High 5’s
 **(Name, time gave)** <br>
+Jake Lloyd, 12:31pm <br>
 Ella Trevelyan, 12:30pm <br>
 Sean Hinkle, 12:28pm <br>
 Robert Petri, 12:27pm <br>
