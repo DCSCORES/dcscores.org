@@ -38,6 +38,8 @@ Thank you. We're going to say it a lot today because you're making a real impact
 
 ### Giving Tuesday High 5’s
 **(Name, time gave)** <br>
+Sharon Finney, 5:16pm <br>
+Jennifer Jacobs, 5:15pm <br>
 Anonymous, 5:15pm <br>
 John Lloyd, 5:09pm <br>
 Bo and Jessica Davis, 5:02pm <br>
