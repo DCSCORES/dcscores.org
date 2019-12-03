@@ -38,6 +38,7 @@ Thank you. We're going to say it a lot today because you're making a real impact
 
 ### Giving Tuesday High 5’s
 **(Name, time gave)** <br>
+Greta Poku, 12:50pm <br>
 Anonymous, 12:49pm <br>
 John Conte, 12:49pm <br>
 Katrina Owens, 12:48pm <br>
