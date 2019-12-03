@@ -72,8 +72,18 @@ Anonymous, 12:57pm <br>
 Monisha Kapila, 12:57pm <br>
 Jeffrey Howdeshell, 12:57pm <br>
 Jonah Owens, 12:57pm <br>
+Kenny Owens, 12:56pm <br>
 Klu Clougherty, 12:56pm <br>
+Launa Hochstetler, 12:56pm <br>
 Nicole Verdin, 12:55pm <br>
+Kathy Hinkle, 12:55pm <br>
+Thomas Bogle, 12:54pm <br>
+Alexander Harkins, 12:53pm <br>
+Mat Kendall, 12:53pm <br>
+Eric Hoy, 12:52pm <br>
+Benjamin Morris, 12:51pm <br>
+Luke Ryan, 12:51pm <br>
+David Eli Owens, 12:51pm <br>
 Greta Poku, 12:50pm <br>
 Aeon Clarke, 12:50pm <br>
 Rachel Klepper, 12:50pm <br>
