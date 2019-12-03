@@ -81,7 +81,15 @@ Tyler Boyles, 12:41pm <br>
 Ana Henderson, 12:40pm <br>
 Christine Sentner Brooks, 12:38pm <br>
 Bethany Henderson, 12:36pm <br>
+Sabeena Rajpal, 12:34pm <br>
+Thomas Cronin, 12:33pm <br>
+Alex Diaz-Asper, 12:32pm <br>
+Jake Lloyd, 12:31pm <br>
+Ella Trevelyan, 12:30pm <br>
+Sean Hinkle, 12:28pm <br>
 Robert Petri, 12:27pm <br>
+Calder Trevelyan, 12:27pm <br>
+Elmer Christian, 12:27pm <br>
 Stuart Trevelyan, 12:24pm <br>
 Kenya Goods, 12:24pm <br>
 Courtney Han, 12:24pm <br>
