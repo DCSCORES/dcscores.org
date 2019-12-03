@@ -38,6 +38,9 @@ Thank you. We're going to say it a lot today because you're making a real impact
 
 ### Giving Tuesday High 5’s
 **(Name, time gave)** <br>
+Anonymous, 3:57pm <br>
+Emily Thompson, 3:46pm <br>
+Anonymous, 3:46pm <br>
 Brandon Johnson-Balthrop, 3:41pm <br>
 John Preotle, 3:36pm <br>
 Alexander Lord, 3:35pm <br>
