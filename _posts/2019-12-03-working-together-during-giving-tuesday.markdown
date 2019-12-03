@@ -37,7 +37,7 @@ We know that all of these opportunities are possible thanks to every single one 
 Thank you. We're going to say it a lot today because you're making a real impact in the lives in DC kids. **THANK YOU!**
 
 ### Giving Tuesday High 5’s
-(Name, time gave) <br>
-Cheryl Gregory, 12:55am
+**(Name, time gave)** <br>
+Cheryl Gregory, 12:55am <br>
 **Giving Tuesday** <br>
-Lorena Palacios (Nov. 27)
+Lorena Palacios (Nov. 27) <br>
