@@ -46,6 +46,8 @@ Felicia Chaplin, 9:32am <br>
 S Goodman, 9:31am <br>
 Kelly Waldron, 9:25am <br>
 Laurie Gonzalez, 9:24am <br>
+John Gambaccini, 9:19am <br>
+Jana Sharp, 9:12am <br>
 Adam Rupe, 8:41am <br>
 Takita Battle, 8:38am <br>
 Linda Gebric, 8:08am <br>
