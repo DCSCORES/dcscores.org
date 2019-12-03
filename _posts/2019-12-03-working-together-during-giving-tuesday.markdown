@@ -48,6 +48,7 @@ Anonymous, 12:16pm <br>
 Jeffrey Poku-Adjei, 12:15pm <br>
 Carl Kenney, 12:13pm <br>
 Christine Okpych, 12:13pm <br>
+Joseph Palladino, 12:12pm <br>
 Aaron Wodin-Schwartz, 11:52am <br>
 Amy and Fred Rubin, 11:36am <br>
 Joseph Hosler, 11:33am <br>
