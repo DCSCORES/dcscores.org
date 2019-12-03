@@ -38,6 +38,7 @@ Thank you. We're going to say it a lot today because you're making a real impact
 
 ### Giving Tuesday High 5’s
 **(Name, time gave)** <br>
+Dan Henderson, 12:39pm <br>
 Mackenzie Phelps, 12:38pm <br>
 Mike Riggins, 12:37pm <br>
 Gregory Ossi, 12:37pm <br>
