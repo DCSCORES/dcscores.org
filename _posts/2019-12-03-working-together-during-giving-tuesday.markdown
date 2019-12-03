@@ -38,6 +38,7 @@ Thank you. We're going to say it a lot today because you're making a real impact
 
 ### Giving Tuesday High 5’s
 **(Name, time gave)** <br>
+John Guzman, 3:59pm <br>
 Anonymous, 3:57pm <br>
 Emily Thompson, 3:46pm <br>
 Anonymous, 3:46pm <br>
