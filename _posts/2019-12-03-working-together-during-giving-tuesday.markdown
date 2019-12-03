@@ -81,6 +81,8 @@ Tyler Boyles, 12:41pm <br>
 Ana Henderson, 12:40pm <br>
 Christine Sentner Brooks, 12:38pm <br>
 Bethany Henderson, 12:36pm <br>
+Stuart Trevelyan, 12:24pm <br>
+Geoffrey Okpych, 12:24pm <br>
 Chiara Forte, 12:23pm <br>
 Jessica Trevelyan, 12:22pm <br>
 Gerald Andriole, 12:21pm <br>
