@@ -38,6 +38,7 @@ Thank you. We're going to say it a lot today because you're making a real impact
 
 ### Giving Tuesday High 5’s
 **(Name, time gave)** <br>
+Sean Hinkle, 12:28pm <br>
 Elmer Christian, 12:27pm <br>
 Calder Trevelyan, 12:27pm <br>
 Anonymous, 12:27pm <br>
