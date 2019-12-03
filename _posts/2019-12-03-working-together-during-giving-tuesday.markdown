@@ -39,6 +39,7 @@ Thank you. We're going to say it a lot today because you're making a real impact
 ### Giving Tuesday High 5’s
 **(Name, time gave)** <br>
 Matt Preotle, 2:25pm <br>
+Daniel Sheerin, 2:24pm <br>
 Steven Riggins, 2:10pm <br>
 Laura Denton, 2:10pm <br>
 John Verdin, 2:09pm <br>
