@@ -38,6 +38,7 @@ Thank you. We're going to say it a lot today because you're making a real impact
 
 ### Giving Tuesday High 5’s
 **(Name, time gave)** <br>
+Will Magioncalda, 12:20pm <br>
 Libby Watkins, 12:19pm <br>
 Anonymous, 12:17pm <br>
 Olive Okpych, 12:17pm <br>
