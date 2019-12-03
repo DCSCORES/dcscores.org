@@ -38,6 +38,7 @@ Thank you. We're going to say it a lot today because you're making a real impact
 
 ### Giving Tuesday High 5’s
 **(Name, time gave)** <br>
+Anne Harding Woodworth, 10:41am <br>
 Paul Hamill, 10:37am <br>
 Kelly Glavin, 10:33am <br>
 Michael Shipley, 10:19am <br>
