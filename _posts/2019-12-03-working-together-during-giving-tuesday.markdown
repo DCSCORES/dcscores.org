@@ -34,7 +34,7 @@ This Giving Tuesday (December 3), your support can go a long way to help kids re
 
 We know that all of these opportunities are possible thanks to every single one of our donors. That’s why we want to **thank all of our Giving Tuesday supporters** in real time in a list below.
 
-Thank you. We're going to say it a lot today because you're making a real impact in the lives in DC kids. **THANK YOU!**
+Thank you. We're going to say it a lot today because you're making a real impact on the lives in DC kids. **THANK YOU!**
 
 ### Giving Tuesday High 5’s
 **(Name, time gave)** <br>
