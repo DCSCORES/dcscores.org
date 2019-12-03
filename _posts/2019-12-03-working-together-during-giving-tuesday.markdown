@@ -38,6 +38,12 @@ Thank you. We're going to say it a lot today because you're making a real impact
 
 ### Giving Tuesday High 5’s
 **(Name, time gave)** <br>
+John Preotle, 3:36pm <br>
+Alexander Lord, 3:35pm <br>
+Alnetta McCall, 3:34pm <br>
+Lauren Young, 3:34pm <br>
+Conor McCormick, 3:30pm <br>
+Devin Talbott, 3:29pm <br>
 Ayan and Mike Rubin, 2:59pm <br>
 Cyndi Bohlin, 2:53pm <br>
 Anonymous, 2:48pm <br>
