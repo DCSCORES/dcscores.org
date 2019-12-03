@@ -38,6 +38,7 @@ Thank you. We're going to say it a lot today because you're making a real impact
 
 ### Giving Tuesday High 5’s
 **(Name, time gave)** <br>
+Kenya Goods, 12:24pm <br>
 Chiara Forte, 12:23pm <br>
 Anonymous, 12:23pm <br>
 Jessica Trevelyan, 12:22pm <br>
