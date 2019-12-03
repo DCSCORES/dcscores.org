@@ -38,6 +38,7 @@ Thank you. We're going to say it a lot today because you're making a real impact
 
 ### Giving Tuesday High 5’s
 **(Name, time gave)** <br>
+Kevin Alansky, 1:49pm <br>
 Mara Peltz, 1:46pm <br>
 Anonymous, 1:44pm <br>
 Lindsey Sharp, 1:35pm <br>
