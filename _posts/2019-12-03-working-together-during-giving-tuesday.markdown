@@ -1,0 +1,39 @@
+---
+title: Working together during Giving Tuesday
+date: 2019-12-03 12:31:00 Z
+tags:
+- Giving Tuesday
+Author: Lorena Palacios
+Thumbnail Image: "/uploads/Facebook%20GT%202019%20(1)%20(1)-10faf4.png"
+---
+
+![Facebook GT 2019 (1) (1).png](/uploads/Facebook%20GT%202019%20(1)%20(1).png)
+
+It only takes one individual can make an impact, and together, the lives of thousands of kids in the District can change for the better.
+
+This Giving Tuesday (December 3), your support can go a long way to help kids reach their full potential. [A donation to DC SCORES](http://bit.ly/GivingTuesdayDCS19), no matter the amount, will help continue offering kids the opportunity to succeed on the playing field, in the classroom, and in life.
+
+* $10: Gives one poet-athlete socks and shin guards
+
+* $25: Provides transportation for a kid to travel to soccer tournaments and Poetry Slam
+
+* $50: A microphone so a poet-athlete can use their voice and power on stage
+
+* $100: Provides one poet-athlete with soccer equipment and writing supplies for one year
+
+* $300: Provides soccer jerseys for an entire team with their school’s name on the back
+
+* $500: Offers a full DC SCORES season for a child
+
+* $1,000: Provides one elementary school student with the DC SCORES program for one year
+
+
+We know that all of these opportunities are possible thanks to every single one of our donors. That’s why we want to **thank all of our Giving Tuesday supporters** in real time in a list below.
+
+Thank you. We're going to say it a lot today because you're making a real impact in the lives in DC kids. **THANK YOU!**
+
+### Giving Tuesday High 5’s
+(Name, time gave) <br>
+Cheryl Gregory, 12:55am
+**Giving Tuesday** <br>
+Lorena Palacios (Nov. 27)
