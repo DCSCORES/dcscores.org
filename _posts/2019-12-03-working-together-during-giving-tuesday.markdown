@@ -38,6 +38,7 @@ Thank you. We're going to say it a lot today because you're making a real impact
 
 ### Giving Tuesday High 5’s
 **(Name, time gave)** <br>
+Kenny Owens, 12:56pm <br>
 Kathy Hinkle, 12:55pm <br>
 Thomas Bogle, 12:54pm <br>
 Alexander Harkins, 12:53pm <br>
