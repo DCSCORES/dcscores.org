@@ -38,6 +38,8 @@ Thank you. We're going to say it a lot today because you're making a real impact
 
 ### Giving Tuesday High 5’s
 **(Name, time gave)** <br>
+Michael Shipley, 10:19am <br>
+Zabrina Krishnamoorthy, 10:19am <br>
 Andrew Crouter, 10:08am <br>
 Dan McCarthy, 10:04am <br>
 Eric Lyman, 10:03am <br>
