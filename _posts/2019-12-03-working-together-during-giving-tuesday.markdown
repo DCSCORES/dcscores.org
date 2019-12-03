@@ -38,6 +38,7 @@ Thank you. We're going to say it a lot today because you're making a real impact
 
 ### Giving Tuesday High 5’s
 **(Name, time gave)** <br>
+Thomas Bogle, 12:54pm <br>
 Alexander Harkins, 12:53pm <br>
 Mat Kendall, 12:53pm <br>
 Eric Hoy, 12:52pm <br>
