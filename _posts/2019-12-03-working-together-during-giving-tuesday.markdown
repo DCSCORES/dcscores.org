@@ -38,6 +38,8 @@ Thank you. We're going to say it a lot today because you're making a real impact
 
 ### Giving Tuesday High 5’s
 **(Name, time gave)** <br>
+Christina Brown, 11:05am <br>
+Rockford Weitz, 11:05am <br>
 Tom Gross, 10:49am <br>
 Christine Miller, 10:45am <br>
 Anna Barrera, 10:43am <br>
