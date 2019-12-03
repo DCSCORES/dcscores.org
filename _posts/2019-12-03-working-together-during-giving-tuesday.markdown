@@ -38,6 +38,7 @@ Thank you. We're going to say it a lot today because you're making a real impact
 
 ### Giving Tuesday High 5’s
 **(Name, time gave)** <br>
+Brendan Herbert, 1:18pm <br>
 Anonymous, 1:14pm <br>
 Erika Toman, 1:09pm <br>
 Anonymous, 1:00pm <br>
