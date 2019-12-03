@@ -42,6 +42,8 @@ Lila Simmons, 9:46am <br>
 David Goodwin, 9:45am <br>
 Joshua McGee, 9:43am <br>
 Lesley Poole, 9:34am <br>
+Felicia Chaplin, 9:32am <br>
+S Goodman, 9:31am <br>
 Adam Rupe, 8:41am <br>
 Takita Battle, 8:38am <br>
 Linda Gebric, 8:08am <br>
