@@ -13,6 +13,10 @@ It only takes one individual can make an impact, and together, the lives of thou
 
 This Giving Tuesday (December 3), your support can go a long way to help kids reach their full potential. [A donation to DC SCORES](http://bit.ly/GivingTuesdayDCS19), no matter the amount, will help continue offering kids the opportunity to succeed on the playing field, in the classroom, and in life.
 
+
+
+
+
 * $10: Gives one poet-athlete socks and shin guards
 
 * $25: Provides transportation for a kid to travel to soccer tournaments and Poetry Slam
