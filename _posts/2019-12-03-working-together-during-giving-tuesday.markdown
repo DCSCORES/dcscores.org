@@ -38,6 +38,12 @@ Thank you. We're going to say it a lot today because you're making a real impact
 
 ### Giving Tuesday High 5’s
 **(Name, time gave)** <br>
+Eric Hoy, 12:52pm <br>
+Benjamin Morris, 12:51pm <br>
+Luke Ryan, 12:51pm <br>
+David Eli Owens, 12:51pm <br>
+Rachel Klepper, 12:50pm <br>
+Aeon Clarke, 12:50pm <br>
 Greta Poku, 12:50pm <br>
 Anonymous, 12:49pm <br>
 John Conte, 12:49pm <br>
