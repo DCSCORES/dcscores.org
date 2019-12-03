@@ -81,6 +81,8 @@ Tyler Boyles, 12:41pm <br>
 Ana Henderson, 12:40pm <br>
 Christine Sentner Brooks, 12:38pm <br>
 Bethany Henderson, 12:36pm <br>
+Tim Spear, 12:12pm <br>
+Ben Hsieh, 12:12pm <br>
 Elizabeth Bradley, 12:11pm <br>
 Jimena Vallejo, 12:10pm <br>
 Walter Okpych, IV, 12:09pm <br>
