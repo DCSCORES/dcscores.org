@@ -38,6 +38,7 @@ Thank you. We're going to say it a lot today because you're making a real impact
 
 ### Giving Tuesday High 5’s
 **(Name, time gave)** <br>
+Katrina Owens, 12:48pm <br>
 Tim Preotle, 12:48pm <br>
 Senor Bean Henderson, 12:48pm <br>
 Dan Henderson, 12:39pm <br>
