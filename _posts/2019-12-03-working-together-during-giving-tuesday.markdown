@@ -73,6 +73,7 @@ Walter Okpych, IV, 12:09pm <br>
 Michael Holstein, 12:06pm <br>
 Brian Sanker, 12:05pm <br>
 Tim Preotle, 12:04pm <br>
+Brian Duncan, 12:04pm <br>
 Aaron Wodin-Schwartz, 11:52am <br>
 Amy and Fred Rubin, 11:36am <br>
 Joseph Hosler, 11:33am <br>
