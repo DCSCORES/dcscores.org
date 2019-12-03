@@ -38,6 +38,7 @@ Thank you. We're going to say it a lot today because you're making a real impact
 
 ### Giving Tuesday High 5’s
 **(Name, time gave)** <br>
+Bethany Henderson, 12:34pm <br>
 Thomas Cronin, 12:33pm <br>
 Alex Diaz-Asper, 12:32pm <br>
 Jake Lloyd, 12:31pm <br>
