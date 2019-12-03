@@ -38,6 +38,7 @@ Thank you. We're going to say it a lot today because you're making a real impact
 
 ### Giving Tuesday High 5’s
 **(Name, time gave)** <br>
+Linda Gebric, 8:08am <br>
 Cheryl Gregory, 12:55am <br>
 **Giving Tuesday** <br>
 Lorena Palacios (Nov. 27) <br>
