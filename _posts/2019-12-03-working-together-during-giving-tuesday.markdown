@@ -38,6 +38,10 @@ Thank you. We're going to say it a lot today because you're making a real impact
 
 ### Giving Tuesday High 5’s
 **(Name, time gave)** <br>
+Leslie Welsh, 8:52pm <br>
+Lindsey Sharp, 8:51pm <br>
+Hannah Romick, 8:50pm <br>
+Jane Reagan, 8:50pm <br>
 Daniel Sheerin, 8:48pm <br>
 Libby Watkins, 8:48pm <br>
 Suraj Patel, 8:48pm <br>
@@ -45,11 +49,13 @@ Zach Warren, 8:47pm <br>
 K Hsieh, 8:46pm <br>
 Yash Mehta, 8:46pm <br>
 Ben Hsieh, 8:46pm <br>
+Gillian Parrish, 8:45pm <br>
 Anonymous, 8:45pm <br>
 Robert Crim, 8:45pm <br>
 Fred Rubin, 8:45pm <br>
 Fred Hargrove, 8:45pm <br>
 Joshua Freedholm, 8:45pm <br>
+Robert Smith, 8:44pm <br>
 Andrea Caumont, 8:44pm <br>
 Lara Fu, 8:44pm <br>
 Katie Lu Clougherty, 8:44pm <br>
@@ -65,6 +71,7 @@ Ben Hsieh, 8:41pm <br>
 Anonymous, 8:40pm <br>
 Michael Rees, 8:39pm <br>
 Jenn Hudler, 8:38pm <br>
+Tina Rivard, 8:36pm <br>
 Cindy Hudler, 8:36pm <br>
 Deborah Pereira, 8:34pm <br>
 Andrew Krantz, 8:33pm <br>
