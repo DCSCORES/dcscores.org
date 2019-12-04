@@ -38,6 +38,7 @@ Thank you. We're going to say it a lot today because you're making a real impact
 
 ### Giving Tuesday High 5’s
 **(Name, time gave)** <br>
+Adam Cook, 11:17pm <br>
 Mark Steo, 11:02pm <br>
 Anonymous, 10:40pm <br>
 Ankit Sheth, 10:36pm <br>
