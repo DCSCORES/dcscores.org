@@ -38,6 +38,8 @@ Thank you. We're going to say it a lot today because you're making a real impact
 
 ### Giving Tuesday High 5’s
 **(Name, time gave)** <br>
+Jake Conte, 8:09pm <br>
+Martin Fox, 8:09pm <br>
 Christopher Richardson, 8:07pm <br>
 Bruce Schulman, 8:06pm <br>
 Debra Freedholm, 8:05pm <br>
