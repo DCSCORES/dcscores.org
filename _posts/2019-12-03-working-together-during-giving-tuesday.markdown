@@ -38,6 +38,7 @@ Thank you. We're going to say it a lot today because you're making a real impact
 
 ### Giving Tuesday High 5’s
 **(Name, time gave)** <br>
+Patrick & Trish Ahern, 9:36pm <br>
 Melissa Dana, 9:31pm <br>
 JP Fauchet, 9:27pm <br>
 Ariana Riske, 9:25pm <br>
