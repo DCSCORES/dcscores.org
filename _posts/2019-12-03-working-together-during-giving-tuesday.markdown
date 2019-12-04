@@ -38,6 +38,8 @@ Thank you. We're going to say it a lot today because you're making a real impact
 
 ### Giving Tuesday High 5’s
 **(Name, time gave)** <br>
+Scott Abbott, 7:07pm <br>
+John and Mary Jo Vrem-Ydstie, 7:07pm <br>
 Christopher Richardson, 6:52pm <br>
 Christina Tunison, 6:21pm <br>
 Anonymous, 5:53pm <br>
