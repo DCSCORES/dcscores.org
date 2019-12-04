@@ -38,6 +38,9 @@ Thank you. We're going to say it a lot today because you're making a real impact
 
 ### Giving Tuesday High 5’s
 **(Name, time gave)** <br>
+Melodie George, 8:59pm <br>
+Wally Okpych, 8:57pm <br>
+Philippe Monfiston, 8:55pm <br>
 Zabrina Krishnamoorthy, 8:53pm <br>
 Leslie Welsh, 8:52pm <br>
 Lindsey Sharp, 8:51pm <br>
