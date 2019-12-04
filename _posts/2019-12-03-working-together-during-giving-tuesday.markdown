@@ -38,6 +38,7 @@ Thank you. We're going to say it a lot today because you're making a real impact
 
 ### Giving Tuesday High 5’s
 **(Name, time gave)** <br>
+Zabrina Krishnamoorthy, 8:53pm <br>
 Leslie Welsh, 8:52pm <br>
 Lindsey Sharp, 8:51pm <br>
 Hannah Romick, 8:50pm <br>
