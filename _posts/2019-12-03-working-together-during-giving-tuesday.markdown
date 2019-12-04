@@ -38,6 +38,7 @@ Thank you. We're going to say it a lot today because you're making a real impact
 
 ### Giving Tuesday High 5’s
 **(Name, time gave)** <br>
+Melissa Dana, 9:31pm <br>
 JP Fauchet, 9:27pm <br>
 Ariana Riske, 9:25pm <br>
 Joy Page, 9:21pm <br>
