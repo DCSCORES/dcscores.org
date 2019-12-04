@@ -38,7 +38,8 @@ Thank you. We're going to say it a lot today because you're making a real impact
 
 ### Giving Tuesday High 5’s
 **(Name, time gave)** <br>
-Tillman Johnson, 12:01am <br>
+Paul Ciampoli, 10:59am (Dec. 4) <br>
+Tillman Johnson, 12:01am (Dec. 4) <br>
 Carol Bernate, 11:54pm <br>
 Yumi Rydlun, 11:42pm <br>
 Jennifer Lewis, 11:36pm <br>
