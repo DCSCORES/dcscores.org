@@ -38,6 +38,8 @@ Thank you. We're going to say it a lot today because you're making a real impact
 
 ### Giving Tuesday High 5’s
 **(Name, time gave)** <br>
+Chip Lohmeyer, 9:37pm <br>
+Lisa Helvin, 9:37pm <br>
 Patrick & Trish Ahern, 9:36pm <br>
 Melissa Dana, 9:31pm <br>
 JP Fauchet, 9:27pm <br>
