@@ -38,6 +38,7 @@ Thank you. We're going to say it a lot today because you're making a real impact
 
 ### Giving Tuesday High 5’s
 **(Name, time gave)** <br>
+Marcy Karin, 10:16pm <br>
 Jane Preotle, 10:12pm <br>
 Debra Clark, 10:12pm <br>
 Christen Gallagher, 10:12pm <br>
