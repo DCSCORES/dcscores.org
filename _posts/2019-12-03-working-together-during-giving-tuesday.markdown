@@ -38,6 +38,8 @@ Thank you. We're going to say it a lot today because you're making a real impact
 
 ### Giving Tuesday High 5’s
 **(Name, time gave)** <br>
+Christopher Richardson, 6:52pm <br>
+Christina Tunison, 6:21pm <br>
 Anonymous, 5:53pm <br>
 Andrew Coleman, 5:49pm <br>
 Jason Kling, 5:33pm <br>
