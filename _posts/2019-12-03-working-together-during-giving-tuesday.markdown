@@ -38,6 +38,8 @@ Thank you. We're going to say it a lot today because you're making a real impact
 
 ### Giving Tuesday High 5’s
 **(Name, time gave)** <br>
+Michael Olsen, 7:53pm <br>
+Eric Fins, 7:51pm <br>
 Curtis Allen, 7:40pm <br>
 Peter Ho and Sally Au Yeung, 7:33pm <br>
 Sarah Helinek, 7:33pm <br>
