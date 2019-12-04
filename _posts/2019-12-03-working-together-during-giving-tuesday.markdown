@@ -38,6 +38,7 @@ Thank you. We're going to say it a lot today because you're making a real impact
 
 ### Giving Tuesday High 5’s
 **(Name, time gave)** <br>
+Ronya Corey, 7:59pm <br>
 Elaine Walizer, 7:57pm <br>
 Michael Olsen, 7:53pm <br>
 Eric Fins, 7:51pm <br>
