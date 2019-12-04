@@ -38,6 +38,8 @@ Thank you. We're going to say it a lot today because you're making a real impact
 
 ### Giving Tuesday High 5’s
 **(Name, time gave)** <br>
+Whitney Fisler, 10:01pm <br>
+Katherine Makris, 10:00pm <br>
 Ryan Kelley, 9:50pm <br>
 Timothy Borysowski, 9:50pm <br>
 Dahna Goldstein, 9:47pm <br>
