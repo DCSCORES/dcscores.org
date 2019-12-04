@@ -38,6 +38,7 @@ Thank you. We're going to say it a lot today because you're making a real impact
 
 ### Giving Tuesday High 5’s
 **(Name, time gave)** <br>
+Chris Hudler, 8:23pm <br>
 Anonymous, 8:21pm <br>
 Kemba Ford, 8:20pm <br>
 Anonymous, 8:18pm <br>
