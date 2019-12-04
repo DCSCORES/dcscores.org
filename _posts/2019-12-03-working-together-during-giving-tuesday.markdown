@@ -38,6 +38,7 @@ Thank you. We're going to say it a lot today because you're making a real impact
 
 ### Giving Tuesday High 5’s
 **(Name, time gave)** <br>
+Jason Ferreri, 8:04pm <br>
 Beth Hester, 8:02pm <br>
 Rachel Gorosh, 8:01pm <br>
 Ronya Corey, 7:59pm <br>
