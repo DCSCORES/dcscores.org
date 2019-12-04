@@ -44,6 +44,8 @@ Christopher Metzger, 10:04am (Dec. 4) <br>
 Robert Warshaw, 9:23am (Dec. 4) <br>
 Nihar Shah, 8:55am (Dec. 4) <br>
 Sarah Sadowski, 4:29am (Dec. 4) <br>
+Jacqui Kemp, 1:59am (Dec. 4) <br>
+Alex Bergman, 12:09am (Dec. 4) <br>
 Tillman Johnson, 12:01am (Dec. 4) <br>
 Carol Bernate, 11:54pm <br>
 Yumi Rydlun, 11:42pm <br>
