@@ -38,6 +38,12 @@ Thank you. We're going to say it a lot today because you're making a real impact
 
 ### Giving Tuesday High 5’s
 **(Name, time gave)** <br>
+Ryan Kelley, 9:50pm <br>
+Timothy Borysowski, 9:50pm <br>
+Dahna Goldstein, 9:47pm <br>
+Carolyn White, 9:44pm <br>
+Victoria Wigodzky, 9:44pm <br>
+Anonymous, 9:43pm <br>
 Chip Lohmeyer, 9:37pm <br>
 Lisa Helvin, 9:37pm <br>
 Patrick & Trish Ahern, 9:36pm <br>
