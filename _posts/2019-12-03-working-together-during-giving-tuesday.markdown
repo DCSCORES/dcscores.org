@@ -38,6 +38,7 @@ Thank you. We're going to say it a lot today because you're making a real impact
 
 ### Giving Tuesday High 5’s
 **(Name, time gave)** <br>
+Deborah Pereira, 8:34pm <br>
 Andrew Krantz, 8:33pm <br>
 Tiffany Pereira Hudler, 8:31pm <br>
 Lyla Holstein, 8:28pm <br>
