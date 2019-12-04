@@ -38,6 +38,8 @@ Thank you. We're going to say it a lot today because you're making a real impact
 
 ### Giving Tuesday High 5’s
 **(Name, time gave)** <br>
+Whitney Casstevens, 10:10pm <br>
+Mark Lewis, 10:04pm <br>
 Whitney Fisler, 10:01pm <br>
 Katherine Makris, 10:00pm <br>
 Kevin Parker, 10:00pm <br>
