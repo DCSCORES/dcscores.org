@@ -38,6 +38,10 @@ Thank you. We're going to say it a lot today because you're making a real impact
 
 ### Giving Tuesday High 5’s
 **(Name, time gave)** <br>
+Curtis Allen, 7:40pm <br>
+Peter Ho and Sally Au Yeung, 7:33pm <br>
+Sarah Helinek, 7:33pm <br>
+Anonymous, 7:11pm <br>
 Scott Abbott, 7:07pm <br>
 John and Mary Jo Vrem-Ydstie, 7:07pm <br>
 Christopher Richardson, 6:52pm <br>
