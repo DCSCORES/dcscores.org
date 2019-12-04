@@ -38,6 +38,9 @@ Thank you. We're going to say it a lot today because you're making a real impact
 
 ### Giving Tuesday High 5’s
 **(Name, time gave)** <br>
+Tiffany Pereira Hudler, 8:31pm <br>
+Lyla Holstein, 8:28pm <br>
+Lucca Hudler, 8:26pm <br>
 Maren Hudler, 8:25pm <br>
 Anonymous, 8:24pm <br>
 Chris Hudler, 8:23pm <br>
