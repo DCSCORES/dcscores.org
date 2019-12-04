@@ -38,6 +38,9 @@ Thank you. We're going to say it a lot today because you're making a real impact
 
 ### Giving Tuesday High 5’s
 **(Name, time gave)** <br>
+Debra Freedholm, 8:05pm <br>
+David Freedholm, 8:04pm <br>
+Michelle Swick, 8:04pm <br>
 Jason Ferreri, 8:04pm <br>
 Beth Hester, 8:02pm <br>
 Rachel Gorosh, 8:01pm <br>
