@@ -38,6 +38,10 @@ Thank you. We're going to say it a lot today because you're making a real impact
 
 ### Giving Tuesday High 5’s
 **(Name, time gave)** <br>
+Jane Preotle, 10:12pm <br>
+Debra Clark, 10:12pm <br>
+Christen Gallagher, 10:12pm <br>
+Deborah Eckbreth, 10:12pm <br>
 Whitney Casstevens, 10:10pm <br>
 Mark Lewis, 10:04pm <br>
 Whitney Fisler, 10:01pm <br>
