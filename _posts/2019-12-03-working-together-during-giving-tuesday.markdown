@@ -38,6 +38,11 @@ Thank you. We're going to say it a lot today because you're making a real impact
 
 ### Giving Tuesday High 5’s
 **(Name, time gave)** <br>
+Erich Walizer, 9:04pm <br>
+Kathryn Belcher, 9:03pm <br>
+Jeffrey Neal, 9:03pm <br>
+Sarah Rapawy, 9:02pm <br>
+Brandon Mansur, 9:02pm <br>
 Melodie George, 8:59pm <br>
 Wally Okpych, 8:57pm <br>
 Philippe Monfiston, 8:55pm <br>
