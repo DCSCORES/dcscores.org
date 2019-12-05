@@ -38,6 +38,9 @@ Thank you. We're going to say it a lot today because you're making a real impact
 
 ### Giving Tuesday High 5’s
 **(Name, time gave)** <br>
+Liz Jewell, 10:22pm (Dec. 4) <br>
+Andrea Vannucci, 9:09pm (Dec. 4) <br>
+Matthew Tiberii, 6:46pm (Dec. 4) <br>
 Mary-Kate Corcoran, 1:08pm (Dec. 4) <br>
 Judith Ciampoli, 12:20pm (Dec. 4) <br>
 Paul Ciampoli, 10:59am (Dec. 4) <br>
