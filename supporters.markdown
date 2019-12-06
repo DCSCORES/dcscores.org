@@ -36,6 +36,7 @@ Scoring Champions:
 - New Jersey and H St. Educational Foundation
 - O'Neill Foundation
 - Pepco/Exelon
+- streetfootballworld
 - Volkswagen Group of America, Inc.
 MVP Champions:
 - Akin, Gump, Strauss, Hauer & Feld, LLP
@@ -58,6 +59,7 @@ MVP Champions:
 - MGM Resorts
 - Moore & Van Allen
 - The Morningstar Foundation
+- Nike
 - Panasonic Foundation
 - Qatar-America Institute
 - Richard E. and Nancy P. Marriott Foundation
@@ -110,7 +112,6 @@ Fans:
 - Modified Construction
 - MorganFranklin
 - Merrill Lynch
-- Nike
 - Porter Family Charitable
 - PWC
 - Rockefeller Philanthropy Advisors
@@ -124,6 +125,7 @@ Fans:
 - Turner Construction
 - VariQ
 - Vidoori Inc
+- Walmart
 - W.R. Berkley Corporation
 - Wiley Rein LLP
 - Williams & Connolly LLP
@@ -172,6 +174,7 @@ League Of Champions:
 - Eric Adler
 - Joe Beninati
 - Alex Bearman
+- Steve Brown
 - Jay Carmel
 - Elle Carne
 - Mark Cowan
@@ -180,11 +183,12 @@ League Of Champions:
 - Jason Finney
 - Kemba Ford
 - Tony Francavilla
-- Ian Kline
+- Ben Hsieh
 - Laurie Gonzalez
 - Lisa Koteen Gerchick
 - Sandy Glick
 - Sam Klausner
+- Ian Kline
 - Debra Kushma
 - Sara Kushma
 - Matt Lindsay
