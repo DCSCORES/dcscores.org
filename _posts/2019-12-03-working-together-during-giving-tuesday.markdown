@@ -38,6 +38,7 @@ Thank you. We're going to say it a lot today because you're making a real impact
 
 ### Giving Tuesday High 5’s
 **(Name, time gave)** <br>
+Laura Downs, 11:42pm (Dec. 4) <br>
 Liz Jewell, 10:22pm (Dec. 4) <br>
 Andrea Vannucci, 9:09pm (Dec. 4) <br>
 Matthew Tiberii, 6:46pm (Dec. 4) <br>
