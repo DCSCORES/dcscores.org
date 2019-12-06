@@ -205,6 +205,7 @@ League Of Champions:
 - David Shams
 - 'Dan Theisen '
 - Erich Walizer
+- Zach Warren
 - Jeff Werner
 layout: supporters
 ---
