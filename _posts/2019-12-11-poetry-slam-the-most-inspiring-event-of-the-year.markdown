@@ -55,8 +55,8 @@ Sebastian has made it a tradition to recognize our Latinx poet-athletes and fami
 
 The Westside Poetry Slam is known for its bilingual poems from various teams to celebrate their communities’ diversity and culture. This year, in particular, was full of emotion and heartfelt stories about family and classmates that feel like family. Barnard Elementary School and Tubman Elementary School both dedicated their individual poems to their classmates that had passed away to honor their memory and celebrate the times they spent together.
 
-> *Who’s gonna look out for me and make sure I don’t go astray?
-> I know you’re up there watching over us all. Waiting to pick us up when we fall.
+> *Who’s gonna look out for me and make sure I don’t go astray? <br>
+> I know you’re up there watching over us all. Waiting to pick us up when we fall. <br>
 > Don’t cry they say, but it’s just not fair when we just lost a Barnard Bear. - Barnard Elementary School*
 
 ![49144311356_4d788a0eea_k.jpg](/uploads/49144311356_4d788a0eea_k.jpg)
@@ -81,28 +81,29 @@ Once the dancing concluded, **D.C. United mascot, Talon**, and **D.C. United def
 
 The final night of Poetry Slam hosted the Eastside elementary schools at HD Woodson High School in NE. Poet-athletes showcased their love for their identity, including all the elements that make them who they are like their city and their family.
 
-> *I Am
-> An African American with many different talents
-> A child with a lot of dreams about success
-> An Independent student
-> A person that helps others
-> I Am
-> From a place where there is no statehood
-> From a place where there is plenty of mumbo sauce
+> *I Am <br>
+> An African American with many different talents <br>
+> A child with a lot of dreams about success <br>
+> An Independent student <br>
+> A person that helps others <br>
+> I Am <br>
+> From a place where there is no statehood <br>
+> From a place where there is plenty of mumbo sauce <br>
 > From where you can hear that go-go beat* - Burrville Elementary School
 
 ![49144356761_cbbf749685_k.jpg](/uploads/49144356761_cbbf749685_k.jpg)
 
-> *Family is not an important thing, it is everything.
+> *Family is not an important thing, it is everything. <br>
 > Families are like branches on a tree, we grow in different directions, yet our roots remain as one.*
 
-> *If you need love: I GOTCHU FAM
-> If you need help: I GOTCHU FAM
+> *If you need love: I GOTCHU FAM <br>
+> If you need help: I GOTCHU FAM <br>
 > If you don’t have it: I GOTCHU FAM* - Imagine Hope Tolson
 
 As the poetry specialist judges submitted their final scores for all the performances of the night, another exciting dance competition took place on stage. Kids were selected to go on stage and showcase their skills in front of the crowd, and even Talon got in the action. **Oniel Fisher, D.C. United defender**, was the featured guest of the night, but our poet-athletes made him feel special by singing him “Happy Birthday” in anticipation for his special day on November 22.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/XkS657LhYM4?start=513" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 
 ### Eastside Poetry Slam Winners
 
