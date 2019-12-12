@@ -26,7 +26,7 @@ The Middle School poet-athletes started the first of three nights at Cardozo Edu
 > *My skin is a weapon it is strong and dangerous it confuses ignorant minds <br>
 > My skin is a weapon of mass destruction it shoots down the lies of racism and burns bridges of segregation <br>
 > My skin is a weapon it breaks down walls of injustice and hatred* <br>
-> - [LaSalle-Backus Education Campus, Middle School](https://youtu.be/H4sntJS0yqk)
+> -[LaSalle-Backus Education Campus, Middle School](https://youtu.be/H4sntJS0yqk)
 
 ![49137379851_b533f7bd0c_k.jpg](/uploads/49137379851_b533f7bd0c_k.jpg)
 
@@ -59,7 +59,7 @@ The Westside Poetry Slam is known for its bilingual poems from various teams to 
 > *Who’s gonna look out for me and make sure I don’t go astray? <br>
 > I know you’re up there watching over us all. Waiting to pick us up when we fall. <br>
 > Don’t cry they say, but it’s just not fair when we just lost a Barnard Bear.* <br>
-> - [Barnard Elementary School](https://youtu.be/19nRUBOk1Xc)
+> -[Barnard Elementary School](https://youtu.be/19nRUBOk1Xc)
 
 ![49144311356_4d788a0eea_k.jpg](/uploads/49144311356_4d788a0eea_k.jpg)
 
@@ -92,7 +92,7 @@ The final night of Poetry Slam hosted the Eastside elementary schools at HD Wood
 > From a place where there is no statehood <br>
 > From a place where there is plenty of mumbo sauce <br>
 > From where you can hear that go-go beat* <br>
-> - [Burrville Elementary School](https://youtu.be/NgvQ6YuFIws)
+> -[Burrville Elementary School](https://youtu.be/NgvQ6YuFIws)
 
 ![49144356761_cbbf749685_k.jpg](/uploads/49144356761_cbbf749685_k.jpg)
 
@@ -101,7 +101,7 @@ The final night of Poetry Slam hosted the Eastside elementary schools at HD Wood
 > *If you need love: I GOTCHU FAM <br>
 > If you need help: I GOTCHU FAM <br>
 > If you don’t have it: I GOTCHU FAM* <br>
-> - [Imagine Hope Tolson](https://youtu.be/HZA2WnNIZyc)
+> -[Imagine Hope Tolson](https://youtu.be/HZA2WnNIZyc)
 
 As the poetry specialist judges submitted their final scores for all the performances of the night, another exciting dance competition took place on stage. Kids were selected to go on stage and showcase their skills in front of the crowd, and even Talon got in the action. **Oniel Fisher, D.C. United defender**, was the featured guest of the night, but our poet-athletes made him feel special by singing him “Happy Birthday” in anticipation for his special day on November 22.
 
