@@ -12,6 +12,10 @@ Thumbnail Image: "/uploads/49169719947_5012992f3e_k-4ad9a4.jpg"
 
 One of the highlights of the Fall SCORES season is Capital Cup, the culminating championship games of the DC SCORES Middle School soccer leagues. This season, DC SCORES partnered with the [Public Charter School Athletic Association](https://dcchartersports.org/) (PCSAA) to expand the middle school soccer leagues to 42 participating teams from 28 DC Public and Public Charter schools.
 
+
+
+
+
 Besides the expansion of teams in the league, the Capital Cup itself grew into a two-part series event where teams played a Division Final at Audi Field and the Championship at The Fields at RFK Campus.
 
 ### Division Final – Audi Field
