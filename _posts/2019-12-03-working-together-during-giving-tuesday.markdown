@@ -38,6 +38,7 @@ Thank you. We're going to say it a lot today because you're making a real impact
 
 ### Giving Tuesday High 5’s
 **(Name, time gave)** <br>
+Linda Shorey, 8:50am (Dec. 16) <br>
 Judith Ciampoli, 1:51pm (Dec. 9) <br>
 Karen Mitchell, 4:16pm (Dec. 8) <br>
 Laura Downs, 11:42pm (Dec. 4) <br>
