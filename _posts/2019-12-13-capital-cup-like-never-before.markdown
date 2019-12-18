@@ -21,7 +21,7 @@ Besides the expansion of teams in the league, the Capital Cup itself grew into a
 ### Division Final – Audi Field
 
 ![49093653857_a93cf40051_k (1).jpg](/uploads/49093653857_a93cf40051_k%20(1).jpg)
-*Photo by Raul Gutierrez*
+*Photo by Raul Gutierrez* <br>
 [2019 Capital Cup: Division Championships Photo Album](https://www.flickr.com/photos/dcscorespictures/albums/72157711856216542)
 
 After an exciting season, Audi Field hosted 12 teams to play on the same pitch as the pros for the Division Final in the Capital Cup series. Two games happened simultaneously for the Coed, Girls, and Boys divisions with the backdrop of a picture-perfect sunset and game commentary by D.C. United’s Senior Content Producer & On Air Talent, [Claudia Pagán](https://twitter.com/ClaudiaMPagan).
@@ -32,7 +32,7 @@ At the end of every game, teams and spectators gathered to recognize all the har
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/4wtuT-VFrL8" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-**Division Champions**
+**Division Champions** <br>
 DC SCORES League
 * Coed: Raymond Education Campus
 * Girls: Brightwood Education Campus
@@ -45,7 +45,7 @@ PCSAA League
 
 ### Capital Cup Championship – The Fields at RFK
 ![49169492391_cde4b6d087_k.jpg](/uploads/49169492391_cde4b6d087_k.jpg)
-Photo by [Cody Cervenka](https://www.crvnka.com/)
+*Photo by [Cody Cervenka]*(https://www.crvnka.com/) <br>
 [2019 Capital Cup Championship Photo Album](https://www.flickr.com/photos/dcscorespictures/albums/72157712062310263)
 
 The Capital Cup Championship wrapped up the season on a chilly evening at The Fields at RFK Campus. DC SCORES partnered with the [District of Columbia State Athletic Association](https://www.dcsaasports.org/) (DCSAA) to host the championship games to offer a new and exciting experience to this year’s Capital Cup. 
