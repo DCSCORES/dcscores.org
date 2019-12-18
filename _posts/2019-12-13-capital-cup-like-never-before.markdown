@@ -45,7 +45,7 @@ PCSAA League
 
 ### Capital Cup Championship – The Fields at RFK
 ![49169492391_cde4b6d087_k.jpg](/uploads/49169492391_cde4b6d087_k.jpg)
-*Photo by [Cody Cervenka]*(https://www.crvnka.com/) <br>
+*Photo by Cody Cervenka* <br>
 [2019 Capital Cup Championship Photo Album](https://www.flickr.com/photos/dcscorespictures/albums/72157712062310263)
 
 The Capital Cup Championship wrapped up the season on a chilly evening at The Fields at RFK Campus. DC SCORES partnered with the [District of Columbia State Athletic Association](https://www.dcsaasports.org/) (DCSAA) to host the championship games to offer a new and exciting experience to this year’s Capital Cup. 
