@@ -9,7 +9,11 @@ Thumbnail Image: "/uploads/FB_%20Top%2010%20Moments%20(1)-630731.png"
 
 2019 was an exciting year for DC SCORES, filled with an abundance of amazing moments and once-in-a-lifetime opportunities for our poet-athletes.
 
-For over 3,000 kids at 70 sites throughout the District, 2019 was jam-packed with special moments on the field, in classrooms, and throughout the city as well. As we get ready to celebrate the new year, we thought it was necessary to look back on some of the most memorable moments of 2019 and recognize those that helped us get to this point in celebrating 25 years of DC SCORES. 
+For over 3,000 kids at 70 sites throughout the District, 2019 was jam-packed with special moments on the field, in classrooms, and throughout the city as well. As we get ready to celebrate the new year, we thought it was necessary to look back on some of the most memorable moments of 2019 and recognize those that helped us get to this point in celebrating 25 years of DC SCORES.
+
+
+
+ 
 
 ### 1. Junior SCORES
 
