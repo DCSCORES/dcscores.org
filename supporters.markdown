@@ -4,6 +4,7 @@ permalink: "/about-us/supporters/"
 Top Image: "/assets/images/masthead-supporters.jpg"
 Top Image Position: 50% 65%
 League Champions:
+- Content Farm
 - D.C. Office of the State Superintendent of Education
 - D.C. United
 - Learn24
@@ -28,6 +29,7 @@ Scoring Champions:
 - D.C. Commission on the Arts and Humanities
 - District Sports
 - Gannett Foundation
+- Hattie Strong Foundation
 - Hogan Lovells US LLP
 - Joseph E. Robert Jr. Charitable Trust
 - The John G. and Jean R. Gosnell Foundation
@@ -36,6 +38,7 @@ Scoring Champions:
 - New Jersey and H St. Educational Foundation
 - O'Neill Foundation
 - Pepco/Exelon
+- Richard E. and Nancy P. Marriott Foundation
 - streetfootballworld
 - Volkswagen Group of America, Inc.
 MVP Champions:
@@ -62,7 +65,6 @@ MVP Champions:
 - Nike
 - Panasonic Foundation
 - Qatar-America Institute
-- Richard E. and Nancy P. Marriott Foundation
 - RSM US LLP
 - Serve DC -Volunteer Generation Fund
 - Share Fund
@@ -81,16 +83,19 @@ Fans:
 - Atlantic Media
 - Avascent
 - BDO
+- Birk Family Foundation
 - Capgemini
 - CapX Solutions
 - Clark-Winchcole Foundation
 - Coca-Cola
 - Katherine and David Bradley
+- Center for Nonprofit Advancement
 - CenturyLink
 - Chipotle
 - Clark-Winchcole Foundation
 - Corina Higginson Trust
 - Corporate Office Properties Trust
+- Cresa
 - Crowell & Moring Foundation
 - Deloitte
 - Devin and Lauren Talbott
@@ -108,13 +113,17 @@ Fans:
 - Leidos
 - Lisa Koteen Gerchick
 - Lockton
+- Marriott
 - McLean Group
 - Modified Construction
 - MorganFranklin
+- Morrison & Foerster Foundation
 - Merrill Lynch
 - Porter Family Charitable
 - PWC
+- Risa Fund
 - Rockefeller Philanthropy Advisors
+- Safeway
 - Screaming Eagles
 - Seattle Foundation
 - Shapiro Foundation
@@ -139,7 +148,6 @@ Supporters:
 - Karen C. Bates Fund
 - Meltzer Group Employee Giving Fund
 - Nora Roberts Foundation
-- Risa Fund
 - Steve & Gail Bartlett
 - Vectrus
 In Kind:
@@ -152,6 +160,7 @@ In Kind:
 - Hunt4Soccer
 - Junior League of Washington
 - Leveling the Playing Field
+- Manchester United
 - McKinsey & Company
 - Mitre
 - 'Screaming Eagles '
@@ -163,13 +172,16 @@ Matching Gifts:
 - Exelon
 - International Monetary Fund
 - Liberty Mutual
+- Monsanto
 - Microsoft
 - Network for Good
 - The Pew Charitable Trusts
 - PricewaterhouseCoopers LLP
+- Salesforce
 - Vectrus
 - Volkswagen Group of America, Inc.
 - Wells Fargo
+- World Bank
 League Of Champions:
 - Eric Adler
 - Joe Beninati
@@ -180,9 +192,11 @@ League Of Champions:
 - Mark Cowan
 - David Crespo
 - Dean D'Angelo
+- Chris Deubert
 - Jason Finney
 - Kemba Ford
 - Tony Francavilla
+- Brad Hawkins
 - Ben Hsieh
 - Laurie Gonzalez
 - Lisa Koteen Gerchick
@@ -195,6 +209,7 @@ League Of Champions:
 - Traci Lee
 - Peter Loge
 - Chip Lohmeyer
+- Andrew Mack
 - Luke Mohamed
 - Phillipe Monfiston
 - David and Paige Nicol
@@ -204,6 +219,7 @@ League Of Champions:
 - Arlene Selber and Wayne Anmuth
 - David Shams
 - 'Dan Theisen '
+- Valerie Utsey
 - Erich Walizer
 - Zach Warren
 - Jeff Werner
