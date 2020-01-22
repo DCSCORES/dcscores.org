@@ -11,8 +11,6 @@ season: 2019-20
 
 * America SCORES won a 2019 W³ Award Silver for the [FIFA Women's World Cup commercial ](https://www.youtube.com/watch?v=IZdgkRvVGKo&feature=youtu.be)featuring DC SCORES poet-athletes and coaches.
 
-* **Sean Hinkle**, Chief Program Officer, was honored with the [President’s Council on Sports, Fitness & Nutrition Community Leadership Award](https://www.dcscores.org/blog/2019/07/sean-hinkle-honored-with-presidents-council-on-sports-fitness-and-nutrition-community-leadership-award).
-
 * DC SCORES won the **Award for Excellence in Arts Education** at the [34th Annual Mayor’s Arts Awards](https://mayor.dc.gov/release/mayor-bowser-presents-34th-annual-mayors-arts-awards-celebrating-arts-and-creative).
 
 * DC SCORES won the **DC PCSB Best Practice Award for Community Influence** by the DC Public Charter School Board.
