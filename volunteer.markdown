@@ -26,7 +26,7 @@ Wednesday (Junior SCORES) from 3:45pm to 5:30pm.
 At <a href="/our-program/program-sites/" target="_blank">sites</a> throughout DC. We will do our best to place you based on your location and mode of transportation.
 
 **Schedule**
-Fall SCORES games will begin on September 18th.
+Spring SCORES games will begin on March 26th.
 
 **Want to get involved?**
 Stay tuned for the Spring 2020 application.
@@ -59,7 +59,7 @@ Weekdays between 3-6 PM. Exact times vary across each site.
 At <a href="/our-program/program-sites/" target="_blank">sites</a> throughout DC. We will do our best to place you based on your location and mode of transportation.
 
 **Want to get involved?**
-Fall 2019 Volunteer Coach Applications are now closed.
+Stay tuned for the Spring 2020 application.
 
 ---
 
@@ -67,21 +67,39 @@ Fall 2019 Volunteer Coach Applications are now closed.
 
 ## Special Events
 
-![45282035134_72eef144e3_k (1).jpg](/uploads/45282035134_72eef144e3_k%20(1).jpg)
+![Jamboree](/uploads/volunteer-jamboree-float-left-small.jpg)
 
-### Poetry Slam
+### Jamboree
 
-This three-night, spoken-word competition features DC SCORES students performing their original poetry. Volunteer roles include set-up/breakdown, registration, ushers, scoring assistants, and stagehands.
+The culminating event of the DC SCORES programming year, filled with soccer games, arts and crafts, and more for DC SCORES students and their families.
 
-**Dates:** 
-* Middle School Poetry Slam – Tuesday, November 19
-* Westside Poetry Slam – Wednesday, November 20
-* Eastside Poetry Slam – Thursday, November 21
+**Date:** Saturday, May 30, 2020 (elementary) and Saturday, June 6, 2020 (middle)
 
-**Locations:**
-* Middle School Poetry Slam – [Cardozo Education Campus](https://www.google.com/maps/place/Cardozo+Education+Campus/@38.9215553,-77.0305701,17z/data=!3m1!4b1!4m5!3m4!1s0x89b7b7e13781d04b:0xe3284d4ef97f7210!8m2!3d38.9215511!4d-77.0283814)
-* Westside Poetry Slam – [Roosevelt High School](https://www.google.com/maps/place/Theodore+Roosevelt+High+School/@38.9430502,-77.0313638,17z/data=!3m1!4b1!4m5!3m4!1s0x89b7c81477c3b445:0xd912cd462abafb52!8m2!3d38.943046!4d-77.0291751)
-* Eastside Poetry Slam – [H.D. Woodson High School](https://www.google.com/maps/place/H.D.+Woodson+High+School/@38.8967508,-76.9248145,17z/data=!3m1!4b1!4m5!3m4!1s0x89b7b8db6a45a6a1:0xee1293b8679afa77!8m2!3d38.8967466!4d-76.9226258)
+**Location:** The Fields at RFK Campus
+
+---
+
+![DC SCORES Cup](/uploads/volunteer-scores-cup-float-right.jpg)
+
+### [DC SCORES Cup](https://www.dcscorescup.org/)
+
+Our largest fundraiser – an annual adult soccer tournament made up of local companies, law firms, small businesses and soccer organizations. Volunteer roles include setup/breakdown, registration, field marshals, lunch servers, and photography.
+
+**Date:** Saturday, June 20, 2020
+
+**Where:** The Fields at RFK Campus
+
+**Want to get involved?:** Please check back in May 2020 to sign up to volunteer!
+
+---
+
+<span id="volunteer-summer-camp"></span>
+
+![Summer camp](/uploads/volunteer-summer-camp-float-left.jpg)
+
+## Summer Camp Counselor
+
+We will open applications for the summer in April 2020.
 
 ---
 
@@ -99,39 +117,17 @@ A day-long celebration of our fall season that includes soccer games and outdoor
 
 ---
 
-![DC SCORES Cup](/uploads/volunteer-scores-cup-float-right.jpg)
+![45282035134_72eef144e3_k (1).jpg](/uploads/45282035134_72eef144e3_k%20(1).jpg)
 
-### DC SCORES Cup
+### Poetry Slam
 
-Our largest fundraiser – an annual adult soccer tournament made up of local companies, law firms, small businesses and soccer organizations. Volunteer roles include setup/breakdown, registration, field marshals, lunch servers, and photography.
+This three-night, spoken-word competition features DC SCORES students performing their original poetry. Volunteer roles include set-up/breakdown, registration, ushers, scoring assistants, and stagehands.
 
-**Date:** June 2020
+**Dates:** 
+* November 2020
 
-**Where:** TBD
-
-**Want to get involved?:** Please check back in May 2020 to sign up to volunteer!
-
----
-
-<span id="volunteer-summer-camp"></span>
-
-![Summer camp](/uploads/volunteer-summer-camp-float-left.jpg)
-
-## Summer Camp Counselor
-
-The 2019 Summer Camp Counselor application is now closed. We will open applications for next summer in April 2020.
-
----
-
-![Jamboree](/uploads/volunteer-jamboree-float-left-small.jpg)
-
-### Jamboree
-
-The culminating event of the DC SCORES programming year, filled with soccer games, arts and crafts, and more for DC SCORES students and their families.
-
-**Date:** Saturday, June 1, 2019 (elementary) and Saturday, June 8, 2019 (middle)
-
-**Location:** Anacostia Park
+**Locations:**
+* TBD
 
 ---
 
