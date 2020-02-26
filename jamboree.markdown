@@ -44,21 +44,27 @@ Jamboree is our all-day soccer tournament and community festival for our element
 
 ### Roles
 
+#### Referees
+
+Referees will be asked to work with other referees at their field and will control 3-5 games throughout their shift. *Soccer experience necessary*, although all referees will complete a brief overview with DC SCORES Staff before their shift, some light jogging required.
+
+Note: For this role, there are **AM**, **PM**, and **All-Day** shifts available only for May 30th.
+
+* Saturday, May 30 (Elementary Schools) – [Referee Registration](http://scores.force.com/volunteer/GW_Volunteers__VolunteersJobListingFS?Calendar=1&volunteerShiftId=a0V2J00000Emgk8UAB&jobId=a0T2J00000mg8tgUAA&dtMonthFilter=2020-5-30%2012:30:0) 
+
 #### Activity Booths
 
 Great team-building experience for different departments for groups of 2-12 employees. Booths include face-painting, art & soccer activities, etc.
 
 Note: For this role, there are **AM**, **PM**, and **All-Day** shifts available only for May 30th.
 
-* Saturday, May 30 (Elementary Schools)– [Activity Booth Registration](http://scores.force.com/volunteer/GW_Volunteers__VolunteersJobListingFS?Calendar=1&volunteerShiftId=a0V2J00000EmgjPUAR&jobId=a0T2J00000mg8ruUAA&dtMonthFilter=2020-5-30%209:0:0)
+* Saturday, May 30 (Elementary Schools) – [Activity Booth Registration](http://scores.force.com/volunteer/GW_Volunteers__VolunteersJobListingFS?Calendar=1&volunteerShiftId=a0V2J00000EmgjPUAR&jobId=a0T2J00000mg8ruUAA&dtMonthFilter=2020-5-30%209:0:0)
 
 #### Lunch Distribution
 
 Recommended for a group (e.g. a company). This station will consist of organizing boxed lunches and making sure they get to teams, family members, and volunteers properly.
 
 Note: For this role, one shift will be available for each day.
-
-* 
 
 #### Photography/Videography
 
