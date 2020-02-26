@@ -8,7 +8,7 @@ layout: jamboree
 
 ### Jamboree 2020 Volunteer Information
 
-Jamboree is our all-day soccer tournament and community festival for our 3,000 participants and their families. This year, Jamboree with take place on Saturday, May 30 for elementary schools and Saturday, June 6 for middle schools.
+Jamboree is our all-day soccer tournament and community festival for our elementary and middle school participants and their families. This year, Jamboree with take place on Saturday, May 30 for elementary schools and Saturday, June 6 for middle schools.
 
 #### Logistics
 
