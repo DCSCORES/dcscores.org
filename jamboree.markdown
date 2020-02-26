@@ -58,6 +58,8 @@ Recommended for a group (e.g. a company). This station will consist of organizin
 
 Note: For this role, one shift will be available for each day.
 
+* 
+
 #### Photography/Videography
 
 *Please bring your own camera*. In this position, volunteers will be assigned to capture a certain area/set of games.
