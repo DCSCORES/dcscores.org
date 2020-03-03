@@ -9,17 +9,24 @@ soccerSchedule:
 
   DC SCORES runs the only consistent elementary and middle public school soccer leagues for both boys and girls in the District of Columbia. Additionally, beginning in the fall of 2016, DC SCORES is running the DC SCORES City League, a District-wide recreation center soccer league run in partnership with the DC Department of Parks and Recreation. <a href="https://www.google.com/maps/d/u/0/viewer?mid=1ArueGtkLKryfnhjFva-7hHSZlD8&ll=38.8939219214454%2C-77.01469049999997&z=12" target="_blank">MAP of SITES</a>
 
-  #### Thank you for a great elementary school soccer season. The Spring 2020 season will begin in March!
+  #### Thank you for a great elementary school soccer season. The 2020 Spring season will begin in March!
 soccerScheduleMap: "/uploads/image-program-sites-map-updated.png"
 forFamilies:
 - |-
   ## For Families
 
-  DC SCORES is free to all participants. <a href="http://register.dcscores.org" target="_blank">Register your child/children</a> for the next DC SCORES programming season (we’re year-round), or for summer camps <a href="http://summer.dcscores.org/" target="_blank">HERE</a>
+  DC SCORES is free to all participants. <a href="http://register.dcscores.org" target="_blank">Register your child/children</a> for the next DC SCORES programming season (we’re year-round), or for summer camps <a href="http://summer.dcscores.org/" target="_blank">HERE.</a>
 
   Are you a current parent? Do you want to get all the information you need? Click <a href="https://parents.dcscores.org/" target="_blank">HERE</a>
 
   Work at a school interested in having DC SCORES? Print out the <a href="https://drive.google.com/file/d/11F1BG9gXQWi7vK1bQ2W-K74CERlA6aP1/view?usp=sharing" target="_blank">application form</a>.
+
+  #### En Español
+  DC SCORES es gratis para todos los participantes. <a href="http://register.dcscores.org" target="_blank">Registre a su hijo/a</a> para la próxima temporada de programación de DC SCORES (tenemos programas durante todo el año), o para campamentos de verano <a href="http://summer.dcscores.org/" target="_blank">AQUÍ</a>.
+
+  ¿Eres un padre actual? ¿Quieres obtener toda la información que necesitas? Haga clic <a href="https://familias.dcscores.org/" target="_blank">aquí.</a>
+
+  ¿Trabaja en una escuela interesada en tener DC SCORES? Imprima el <a href="https://drive.google.com/file/d/11F1BG9gXQWi7vK1bQ2W-K74CERlA6aP1/view?usp=sharing" target="_blank">formulario de solicitud.</a>
 programAlumni:
 - "### Program Alumni\n\n#### 7th Annual Alumni Tournament \nSee photos <a href=\"https://www.flickr.com/photos/dcscorespictures/albums/72157691961383872\"
   target=\"_blank\">HERE</a>\n\n#### Reconnect!\nAre you a DC SCORES alumnus interested
