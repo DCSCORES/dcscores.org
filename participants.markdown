@@ -21,7 +21,7 @@ forFamilies:
 
   Work at a school interested in having DC SCORES? Print out the <a href="https://drive.google.com/file/d/11F1BG9gXQWi7vK1bQ2W-K74CERlA6aP1/view?usp=sharing" target="_blank">application form</a>.
 
-  #### En Español
+  #### Para Familias
   DC SCORES es gratis para todos los participantes. <a href="http://register.dcscores.org" target="_blank">Registre a su hijo/a</a> para la próxima temporada de programación de DC SCORES (tenemos programas durante todo el año), o para campamentos de verano <a href="http://summer.dcscores.org/" target="_blank">AQUÍ</a>.
 
   ¿Eres un padre actual? ¿Quieres obtener toda la información que necesitas? Haga clic <a href="https://familias.dcscores.org/" target="_blank">aquí.</a>
