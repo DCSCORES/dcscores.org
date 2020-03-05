@@ -20,7 +20,6 @@ For elementary school games: volunteers will be asked to make basic calls, such 
 
 **When?**
 Thursdays (Elementary) from 3:45pm to 6pm. <br>
-Wednesday (Junior SCORES) from 3:45pm to 5:30pm.
 
 **Where?**
 At <a href="/our-program/program-sites/" target="_blank">sites</a> throughout DC. We will do our best to place you based on your location and mode of transportation.
@@ -29,7 +28,7 @@ At <a href="/our-program/program-sites/" target="_blank">sites</a> throughout DC
 Spring SCORES games will begin on March 26th.
 
 **Want to get involved?**
-Stay tuned for the Spring 2020 application.
+[Fill out the Spring 2020 Volunteer Referee Application!](https://forms.gle/cGaDouzKyLrqQ16X6)
 
 ---
 
