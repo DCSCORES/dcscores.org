@@ -47,7 +47,7 @@ Jamboree is the culminating event of the DC SCORES programming year. Junior SCOR
 * Elementary School Jamboree – Saturday, May 30th at The Fields at RFK Campus
 * Middle School Jamboree – Saturday, June 6th at Anacostia Park
  
-## How Do I Get Involved?
+### How Do I Get Involved?
 
 There are many ways to be a part of our team this spring:
  
