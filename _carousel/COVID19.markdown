@@ -1,7 +1,7 @@
 ---
 title: Coronavirus (COVID-19) Updates
 date: 2020-03-12 18:31:00 Z
-Image: "/uploads/Website%20Carousel-327e83.png"
+Image: "/uploads/Website%20Carousel%20(1)-f74c7d.png"
 Link: https://parents.dcscores.org/covid-19
 ---
 
