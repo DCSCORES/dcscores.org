@@ -43,6 +43,7 @@ Scoring Champions:
 - Volkswagen Group of America, Inc.
 MVP Champions:
 - Akin, Gump, Strauss, Hauer & Feld, LLP
+- Arent Fox LLP
 - Arnold & Porter LLP
 - Blank Rome LLP
 - The Cadmus Group
@@ -55,6 +56,7 @@ MVP Champions:
 - The D'Angelo Family Charitable Trust
 - George Preston Marshall Foundation
 - Herb Block Foundation
+- IntelliBridge
 - Kathryn Kincaid and Michael Lainoff
 - Manchester City FC/City in the Community
 - The Max and Victoria Dreyfus Foundation
@@ -78,7 +80,7 @@ MVP Champions:
 - World Bank Community Outreach Program
 Fans:
 - 1901 Group
-- Arent Fox LLP
+- All-Purpose Pizzeria
 - Array Information Technology
 - Atlantic Media
 - Avascent
@@ -99,6 +101,7 @@ Fans:
 - Crowell & Moring Foundation
 - Deloitte
 - Devin and Lauren Talbott
+- Dimick Foundation
 - Dockser Family Foundation
 - Donations in memory of Lawrence "Smith" Norton, III
 - Eileen Shields-West (Concordia Foundation)
@@ -130,7 +133,6 @@ Fans:
 - Strategic Enterprise Solutions
 - System High Corporation
 - TD Bank
-- Trowbridge & Trowbridge
 - Turner Construction
 - VariQ
 - Vidoori Inc
@@ -142,7 +144,6 @@ Fans:
 Supporters:
 - Aronson Foundation
 - The Capitol Hill Community Foundation
-- Dimick Foundation
 - Howard and Geraldine Polinger Family Foundation
 - Jacob & Charlotte Lehrman Foundation
 - Karen C. Bates Fund
