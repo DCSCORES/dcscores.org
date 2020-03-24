@@ -9,9 +9,11 @@ Join the #AtHomePoetryChallenge!
 
 Just because we’re stuck inside, doesn’t mean we can’t stay fit – and that means our minds and bodies. So here’s a challenge for your mind:  write and record your own "My Community" poem.
 
+![At Home Poetry Challenge (1).png](/uploads/At%20Home%20Poetry%20Challenge%20(1).png)
 
 
-  
+
+
 
 **Here’s how it works:**
 1. [Download the poem](https://drive.google.com/file/d/1YhpoKBdyQl0DUS74bKS3KKZFymkr8Wey/view?usp=sharing)
