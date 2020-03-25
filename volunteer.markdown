@@ -25,7 +25,7 @@ Thursdays (Elementary) from 3:45pm to 6pm. <br>
 At <a href="/our-program/program-sites/" target="_blank">sites</a> throughout DC. We will do our best to place you based on your location and mode of transportation.
 
 **Schedule**
-Spring SCORES games will begin on March 26th.
+Spring SCORES games are currently suspended. Please check out our [Coronavirus (COVID-19) page](https://parents.dcscores.org/covid-19) with the most current information about our operational status.
 
 **Want to get involved?**
 [Fill out the Spring 2020 Volunteer Referee Application!](https://forms.gle/cGaDouzKyLrqQ16X6)
@@ -58,7 +58,7 @@ Weekdays between 3-6 PM. Exact times vary across each site.
 At <a href="/our-program/program-sites/" target="_blank">sites</a> throughout DC. We will do our best to place you based on your location and mode of transportation.
 
 **Want to get involved?**
-Stay tuned for the Spring 2020 application.
+Please email support@dcscores.org.
 
 ---
 
