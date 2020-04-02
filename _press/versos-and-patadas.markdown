@@ -1,7 +1,7 @@
 ---
 title: Versos & patadas
 date: 2016-05-10 00:00:00 Z
-position: 70
+position: 74
 link: http://bit.ly/DCSTelemundo
 source: Telemundo Washington DC
 ---

@@ -1,7 +1,7 @@
 ---
 title: Coach of the Week&#58; Mark “Popsie” Lewis
 date: 2016-07-27 00:00:00 Z
-position: 72
+position: 76
 link: http://bit.ly/PopsieABC7
 source: WJLA ABC-7
 ---
