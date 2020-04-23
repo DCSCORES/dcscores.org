@@ -1,8 +1,8 @@
 ---
-title: Youth Open Mic
-date: 2020-03-28 22:27:00 Z
-Blurb: Join DC SCORES for our monthly youth open mic @ Busboys and Poets Anacostia!
-Link: https://www.busboysandpoets.com/events/th-evt-8729389/#
+title: Our Words Our City LIVE
+date: 2020-04-30 19:00:00 Z
+Blurb: Celebrate National Poetry Month with us from your home on April 30th!
+Link: https://bit.ly/OWOClive
 Image: "/uploads/49501111983_cc20dba98a_k.jpg"
 Image Position: 60% 40%
 Color: "#00467f"
