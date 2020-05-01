@@ -1,8 +1,8 @@
 ---
 title: Our Words Our City LIVE
-date: 2020-04-23 16:42:00 Z
-Image: "/uploads/Website%20Carousel-c058fe.png"
-Link: https://bit.ly/OWOClive
+date: 2020-04-30 16:42:00 Z
+Image: "/uploads/Website%20Carousel%20(1)-fec801.png"
+Link: www.ourwordsourcity.com
 ---
 
-Join us from your home on April 30th for a virtual event filled with powerful voices, special live commentary, and the video premiere of Our Words Our City!
+Relive Our Words Our City LIVE! Click here to view the recorded video.
