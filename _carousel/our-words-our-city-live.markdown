@@ -1,7 +1,7 @@
 ---
 title: Our Words Our City LIVE
 date: 2020-04-30 16:42:00 Z
-Image: "/uploads/Website%20Carousel-c023e7.jpg"
+Image: "/uploads/Website%20Carousel%20(1)-fec801.png"
 Link: www.ourwordsourcity.com
 ---
 
