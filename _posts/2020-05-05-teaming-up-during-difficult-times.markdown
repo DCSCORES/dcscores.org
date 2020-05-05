@@ -30,6 +30,8 @@ Thank you. We’re going to say it a lot today because you’re making a real im
 ### Giving Tuesday Now Elbow Bumps
 
 **(Name, donation time)** <br>
+Tom Gross, 12:33pm <br>
+Shay Given, 12:30pm <br>
 LaVar Arrington, 12:29pm <br>
 Sharyn Sutton, 12:29pm <br>
 Jonah Owens, 12:28pm <br>
@@ -37,7 +39,15 @@ Kathy Chamberlain, 12:28pm <br>
 Danny Sheerin, 12:27pm <br>
 David Owens, 12:27pm <br>
 Kenny Owens, 12:26pm <br>
+Matt Dozier, 12:26pm <br>
+Jake Conte, 12:24pm <br>
 Zach Warren, 12:24pm <br>
+Dan Henderson, 12:23pm <br>
+Alex Hyman, 12:23pm <br>
+Daniel Henderson, 12:22pm <br>
+Eliana Henderson, 12:21pm <br>
+Adi Rose Henderson, 12:20pm <br>
+Barbara Wootton, 12:20pm <br>
 Katrina Owens, 12:16pm <br>
 Anonymous, 12:12pm <br>
 Anonymous, 12:09pm <br>
