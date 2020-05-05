@@ -30,6 +30,9 @@ Thank you. We’re going to say it a lot today because you’re making a real im
 ### Giving Tuesday Now Elbow Bumps
 
 **(Name, donation time)** <br>
+John Preotle, 5:12pm <br>
+M.H Rubin, 5:02pm <br>
+Anonymous, 5:02pm <br>
 Ayan Rubin, 4:33pm <br>
 Brittany Gropp, 4:33pm <br>
 Kyle Lorenz, 4:30pm <br>
