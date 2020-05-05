@@ -52,6 +52,7 @@ Abby Phillips, 12:38pm <br>
 Chris Phillips, 12:37pm <br>
 Sam Kasner, 12:36pm <br>
 Eli Hochstetler, 12:36pm <br>
+William T. Sutton, 12:36pm <br>
 Heidi Hochstetler, 12:35pm <br>
 Laurie Gonzalez, 12:35pm <br>
 Launa Hochstetler, 12:35pm <br>
@@ -74,7 +75,9 @@ Eliana Henderson, 12:21pm <br>
 Adi Rose Henderson, 12:20pm <br>
 Barbara Wootton, 12:20pm <br>
 Angel Horacek, 12:17pm <br>
+Elizabeth Bradley, 12:16pm <br>
 Katrina Owens, 12:16pm <br>
+Martin Palacios, 12:15pm <br>
 Anonymous, 12:12pm <br>
 Anonymous, 12:09pm <br>
 Timothy Huether, 12:08pm <br>
