@@ -25,7 +25,8 @@ Thank you. We’re going to say it a lot today because you’re making a real im
 
 ### Giving Tuesday Now Elbow Bumps
 
-**(Name, donation time)** <br>
+**(Name, donation time)** <be>
+Kim R, 9:52am <br>
 Anonymous, 9:40am <br>
 Paul Cirino, 9:33am <br>
 Joshua Kim, 8:51am <br>
