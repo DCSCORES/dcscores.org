@@ -30,6 +30,8 @@ Thank you. We’re going to say it a lot today because you’re making a real im
 ### Giving Tuesday Now Elbow Bumps
 
 **(Name, donation time)** <br>
+Laurie Gonzalez, 12:35pm <br>
+Launa Hochstetler, 12:35pm <br>
 Tom Gross, 12:33pm <br>
 Shay Given, 12:30pm <br>
 LaVar Arrington, 12:29pm <br>
@@ -48,6 +50,7 @@ Daniel Henderson, 12:22pm <br>
 Eliana Henderson, 12:21pm <br>
 Adi Rose Henderson, 12:20pm <br>
 Barbara Wootton, 12:20pm <br>
+Angel Horacek, 12:17pm <br>
 Katrina Owens, 12:16pm <br>
 Anonymous, 12:12pm <br>
 Anonymous, 12:09pm <br>
