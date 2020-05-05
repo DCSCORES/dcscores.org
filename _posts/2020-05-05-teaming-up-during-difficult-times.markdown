@@ -30,6 +30,12 @@ Thank you. We’re going to say it a lot today because you’re making a real im
 ### Giving Tuesday Now Elbow Bumps
 
 **(Name, donation time)** <br>
+Michael Holstein, 12:04pm <br>
+Zabrina Krishnamoorthy, 12:04pm <br>
+Tony Francavilla, 12:02pm <br>
+Bethany Henderson, 12:02pm <br>
+Klu Clougherty, 12:01pm <br>
+Carolyn White, 12:01pm <br>
 Alex Diaz-Asper, 10:32am <br>
 Justin Mullner, 10:29am <br>
 Benjamin Kennedy, 10:08am <br>
