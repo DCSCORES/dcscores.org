@@ -30,6 +30,8 @@ Thank you. We’re going to say it a lot today because you’re making a real im
 ### Giving Tuesday Now Elbow Bumps
 
 **(Name, donation time)** <br>
+Devin Talbott, 2:57pm <br>
+Flavius Badau, 2:54pm <br>
 Anonymous, 2:34pm <br>
 Vaidas Lamanauskas, 2:19pm <br>
 Judith Ciampoli, 2:13pm <br>
