@@ -30,6 +30,14 @@ Thank you. We’re going to say it a lot today because you’re making a real im
 ### Giving Tuesday Now Elbow Bumps
 
 **(Name, donation time)** <br>
+Mason Holstein, 12:54pm <br>
+Anonymous, 12:52pm <br>
+Louie Henderson, 12:52pm <br>
+Robbie Keane, 12:50pm <br?
+Sherry Welsh, 12:48pm <br>
+Walter Okpych, 12:47pm <br>
+Sean Hinkle, 12:47pm <br>
+Anonymous, 12:39pm <br>
 Laurie Gonzalez, 12:35pm <br>
 Launa Hochstetler, 12:35pm <br>
 Tom Gross, 12:33pm <br>
