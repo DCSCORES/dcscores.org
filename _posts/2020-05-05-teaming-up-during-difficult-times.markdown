@@ -30,6 +30,9 @@ Thank you. We’re going to say it a lot today because you’re making a real im
 ### Giving Tuesday Now Elbow Bumps
 
 **(Name, donation time)** <be>
+Pauline & Roger Locker, 10:01am <br>
+Gregory Ossi, 10:00am <br>
+Adam Brockett, 9:59am <br>
 Kim R, 9:52am <br>
 Anonymous, 9:40am <br>
 Paul Cirino, 9:33am <br>
