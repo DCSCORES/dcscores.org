@@ -30,6 +30,9 @@ Thank you. We’re going to say it a lot today because you’re making a real im
 ### Giving Tuesday Now Elbow Bumps
 
 **(Name, donation time)** <br>
+Ayan Rubin, 4:33pm <br>
+Brittany Gropp, 4:33pm <br>
+Kyle Lorenz, 4:30pm <br>
 James Harkness, 4:15PM <br>
 Lillian Gao, 4:10pm <br>
 Jeffrey Koung, 4:09pm <br>
