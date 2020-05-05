@@ -30,6 +30,9 @@ Thank you. We’re going to say it a lot today because you’re making a real im
 ### Giving Tuesday Now Elbow Bumps
 
 **(Name, donation time)** <br>
+Abbie Ginis, 1:43pm <br>
+Lara Fu, 1:34pm <br>
+Bruce Schulman, 1:20pm <br>
 James Jackson, 12:59pm <br>
 Sarah Dee, 12:58pm <br>
 Macy White, 12:57pm <br>
@@ -86,6 +89,10 @@ Eva Sutton, 12:13pm <br>
 Ella Trevelyan, 12:13pm <br>
 James Frison, 12:12pm <br>
 Anonymous, 12:12pm <br>
+Linda Shorey, 12:12pm <br>
+Jessica Trevelyan, 12:12pm <br>
+William Sutton, 12:12pm <br>
+Jessica Wootton, 12:10pm <br>
 Anonymous, 12:09pm <br>
 Timothy Huether, 12:08pm <br>
 Michael Holstein, 12:04pm <br>
