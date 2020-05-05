@@ -30,6 +30,7 @@ Thank you. We’re going to say it a lot today because you’re making a real im
 ### Giving Tuesday Now Elbow Bumps
 
 **(Name, donation time)** <br>
+Bart and Judy Gorman, 1:47pm <br>
 Abbie Ginis, 1:43pm <br>
 Lara Fu, 1:34pm <br>
 Bruce Schulman, 1:20pm <br>
