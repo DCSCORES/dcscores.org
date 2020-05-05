@@ -30,6 +30,7 @@ Thank you. We’re going to say it a lot today because you’re making a real im
 ### Giving Tuesday Now Elbow Bumps
 
 **(Name, donation time)** <br>
+James Jackson, 12:59pm <br>
 Sarah Dee, 12:58pm <br>
 Macy White, 12:57pm <br>
 Jeffrey Howdeshell, 12:57pm <br>
@@ -47,6 +48,10 @@ Christine Tomlinson, 12:45pm <br>
 Leah Hochstetler, 12:43pm <br>
 Steven Lang, 12:43pm <br>
 Anonymous, 12:39pm <br>
+Abby Phillips, 12:38pm <br>
+Chris Phillips, 12:37pm <br>
+Eli Hochstetler, 12:36pm <br>
+Heidi Hochstetler, 12:35pm <br>
 Laurie Gonzalez, 12:35pm <br>
 Launa Hochstetler, 12:35pm <br>
 Tom Gross, 12:33pm <br>
