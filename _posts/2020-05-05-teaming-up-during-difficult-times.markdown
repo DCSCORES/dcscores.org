@@ -30,6 +30,9 @@ Thank you. We’re going to say it a lot today because you’re making a real im
 ### Giving Tuesday Now Elbow Bumps
 
 **(Name, donation time)** <br>
+Vaidas Lamanauskas, 2:19pm <br>
+Judith Ciampoli, 2:13pm <br>
+Malcolm Catt, 2:07pm <br>
 Brian Sanker, 2:01pm <br>
 Thomas and Ingrid Sutton, 1:58pm <br>
 Mara Peltz, 1:52pm <br>
