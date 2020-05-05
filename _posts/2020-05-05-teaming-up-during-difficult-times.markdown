@@ -31,7 +31,12 @@ Thank you. We’re going to say it a lot today because you’re making a real im
 
 **(Name, donation time)** <br>
 Anonymous, 7:52pm <br>
+Jane Ottenberg, 7:46pm <br>
 Dodge Thompson, 7:45pm <br>
+Anthony Piccari, 7:41pm <br>
+Kelly and Josh Bonnie, 7:36pm <br>
+Luke Ryan, 7:32pm <br>
+Antonia Preciado, 7:31pm <br>
 Dinah Oberes, 7:29pm <br>
 Whitney Casstevens, 7:08pm <br>
 Elizabeth Conte, 7:05pm <br>
