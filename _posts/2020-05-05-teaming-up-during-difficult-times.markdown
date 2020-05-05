@@ -30,6 +30,8 @@ Thank you. We’re going to say it a lot today because you’re making a real im
 ### Giving Tuesday Now Elbow Bumps
 
 **(Name, donation time)** <br>
+Anonymous, 7:52pm <br>
+Dodge Thompson, 7:45pm <br>
 Dinah Oberes, 7:29pm <br>
 Whitney Casstevens, 7:08pm <br>
 Elizabeth Conte, 7:05pm <br>
