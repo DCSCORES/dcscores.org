@@ -84,6 +84,7 @@ Stu Trevelyan, 12:14pm <br>
 Bertha Arreola, 12:14pm <br>
 Eva Sutton, 12:13pm <br>
 Ella Trevelyan, 12:13pm <br>
+James Frison, 12:12pm <br>
 Anonymous, 12:12pm <br>
 Anonymous, 12:09pm <br>
 Timothy Huether, 12:08pm <br>
