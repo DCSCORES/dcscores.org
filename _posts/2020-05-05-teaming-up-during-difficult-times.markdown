@@ -30,6 +30,8 @@ Thank you. We’re going to say it a lot today because you’re making a real im
 ### Giving Tuesday Now Elbow Bumps
 
 **(Name, donation time)** <br>
+Alex Diaz-Asper, 10:32am <br>
+Justin Mullner, 10:29am <br>
 Benjamin Kennedy, 10:08am <br>
 Pauline & Roger Locker, 10:01am <br>
 Gregory Ossi, 10:00am <br>
