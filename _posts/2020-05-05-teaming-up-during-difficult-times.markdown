@@ -30,6 +30,12 @@ Thank you. We’re going to say it a lot today because you’re making a real im
 ### Giving Tuesday Now Elbow Bumps
 
 **(Name, donation time)** <br>
+Kathy Chamberlain, 12:28pm <br>
+Danny Sheerin, 12:27pm <br>
+David Owens, 12:27pm <br>
+Zach Warren, 12:24pm <br>
+Katrina Owens, 12:16pm <br>
+Anonymous, 12:12pm <br>
 Anonymous, 12:09pm <br>
 Timothy Huether, 12:08pm <br>
 Michael Holstein, 12:04pm <br>
