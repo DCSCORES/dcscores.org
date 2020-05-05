@@ -30,6 +30,10 @@ Thank you. We’re going to say it a lot today because you’re making a real im
 ### Giving Tuesday Now Elbow Bumps
 
 **(Name, donation time)** <br>
+Tim Preotle, 3:15pm <br>
+James Young, 3:15pm <br>
+David Barritt-Flatt, 3:03pm <br>
+James Green, 2:59pm <br>
 Devin Talbott, 2:57pm <br>
 Flavius Badau, 2:54pm <br>
 Anonymous, 2:34pm <br>
