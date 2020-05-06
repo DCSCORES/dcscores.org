@@ -30,6 +30,9 @@ Thank you. We’re going to say it a lot today because you’re making a real im
 ### Giving Tuesday Now Elbow Bumps
 
 **(Name, donation time)** <br>
+Cynthia Bohlin, 8:41pm <br>
+Celeste Escobedo, 8:38pm <br>
+Eric Kmetz, 8:36pm <br>
 Michael Silas, 8:26pm <br>
 Lisa Helvin, 8:26pm <br>
 Anonymous, 8:21pm <br>
