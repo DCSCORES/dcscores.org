@@ -30,6 +30,8 @@ Thank you. We’re going to say it a lot today because you’re making a real im
 ### Giving Tuesday Now Elbow Bumps
 
 **(Name, donation time)** <br>
+Michael Silas, 8:26pm <br>
+Lisa Helvin, 8:26pm <br>
 Anonymous, 8:21pm <br>
 Greta Silas, 8:20pm <br>
 Jason Ferreri, 8:11pm <br>
