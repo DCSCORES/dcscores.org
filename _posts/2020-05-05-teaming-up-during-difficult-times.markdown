@@ -30,6 +30,7 @@ Thank you. We’re going to say it a lot today because you’re making a real im
 ### Giving Tuesday Now Elbow Bumps
 
 **(Name, donation time)** <br>
+Christian Melendez, 10:35pm <br>
 John Lloyd and Budin, 10:13pm <br>
 Christine Miller, 10:04pm <br>
 Emily Schulman, 9:58pm <br>
