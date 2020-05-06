@@ -30,6 +30,11 @@ Thank you. We’re going to say it a lot today because you’re making a real im
 ### Giving Tuesday Now Elbow Bumps
 
 **(Name, donation time)** <br>
+Mariana Lopez, 9:40pm <br>
+Anonymous, 9:40pm <br>
+Matthew Field, 9:39pm <br>
+D&J Owens, 9:29pm <br>
+Phyllis Owens, 9:26pm <br>
 Sarah Alex, 9:20pm <br>
 Tim Spear, 9:13pm <br>
 Owen Maguire, 9:07pm <br>
