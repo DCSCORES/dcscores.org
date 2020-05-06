@@ -30,6 +30,8 @@ Thank you. We’re going to say it a lot today because you’re making a real im
 ### Giving Tuesday Now Elbow Bumps
 
 **(Name, donation time)** <br>
+Will Magioncalda, 11:41pm <br>
+Sarah Martz, 11:41pm <br>
 James Ulrich, 11:36pm <br>
 James Majewski, 11:35pm <br>
 Lyla Holstein, 11:34pm <br>
