@@ -30,6 +30,10 @@ Thank you. We’re going to say it a lot today because you’re making a real im
 ### Giving Tuesday Now Elbow Bumps
 
 **(Name, donation time)** <br>
+Josh Frieder, 8:08pm <br>
+Lizette Villarreal, 8:03pm <br>
+Tracy Manrique, 8:01pm <br>
+Graeme Bush, 7:56pm <br>
 Anonymous, 7:52pm <br>
 Jane Ottenberg, 7:46pm <br>
 Dodge Thompson, 7:45pm <br>
