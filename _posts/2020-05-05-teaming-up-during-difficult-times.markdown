@@ -29,6 +29,10 @@ Thank you. We’re going to say it a lot today because you’re making a real im
 
 ### Giving Tuesday Now Elbow Bumps
 
+**Post Giving Tuesday Now** <br>
+Anonymous, (May 6, 7:14am) <br>
+Austin Cole, (May 6, 4:57am) <br>
+
 **(Name, donation time)** <br>
 Joshua Freedholm, 12:00am <br>
 Will Magioncalda, 11:41pm <br>
