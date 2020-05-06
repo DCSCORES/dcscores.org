@@ -30,6 +30,7 @@ Thank you. We’re going to say it a lot today because you’re making a real im
 ### Giving Tuesday Now Elbow Bumps
 
 **(Name, donation time)** <br>
+Joshua Freedholm, 12:00am <br>
 Will Magioncalda, 11:41pm <br>
 Sarah Martz, 11:41pm <br>
 James Ulrich, 11:36pm <br>
