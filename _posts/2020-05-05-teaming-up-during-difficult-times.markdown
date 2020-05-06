@@ -30,6 +30,7 @@ Thank you. We’re going to say it a lot today because you’re making a real im
 ### Giving Tuesday Now Elbow Bumps
 
 **(Name, donation time)** <br>
+Tim Spear, 9:13pm <br>
 Owen Maguire, 9:07pm <br>
 Geoff Okpych, 8:59pm <br>
 Marie Okpych, 8:58pm <br>
