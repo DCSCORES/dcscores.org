@@ -30,6 +30,7 @@ Thank you. We’re going to say it a lot today because you’re making a real im
 ### Giving Tuesday Now Elbow Bumps
 
 **(Name, donation time)** <br>
+Shelly Gray, 9:49pm <br>
 Mariana Lopez, 9:40pm <br>
 Anonymous, 9:40pm <br>
 Matthew Field, 9:39pm <br>
