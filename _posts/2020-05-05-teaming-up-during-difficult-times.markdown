@@ -30,6 +30,7 @@ Thank you. We’re going to say it a lot today because you’re making a real im
 ### Giving Tuesday Now Elbow Bumps
 
 **(Name, donation time)** <br>
+Greta Silas, 8:20pm <br>
 Jason Ferreri, 8:11pm <br>
 Josh Frieder, 8:08pm <br>
 Lizette Villarreal, 8:03pm <br>
