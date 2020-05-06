@@ -30,6 +30,7 @@ Thank you. We’re going to say it a lot today because you’re making a real im
 ### Giving Tuesday Now Elbow Bumps
 
 **(Name, donation time)** <br>
+Emma Okpych, 8:56pm <br>
 Anonymous, 8:55pm <br>
 Wally Okpych, 8:55pm <br>
 Christine Okpych, 8:54pm <br>
