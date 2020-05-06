@@ -30,6 +30,10 @@ Thank you. We’re going to say it a lot today because you’re making a real im
 ### Giving Tuesday Now Elbow Bumps
 
 **(Name, donation time)** <br>
+Anonymous, 8:55pm <br>
+Wally Okpych, 8:55pm <br>
+Christine Okpych, 8:54pm <br>
+Paul Bugg, 8:52pm <br>
 Angelica Garcia, 8:45pm <br>
 Cynthia Bohlin, 8:41pm <br>
 Celeste Escobedo, 8:38pm <br>
