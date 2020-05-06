@@ -30,6 +30,7 @@ Thank you. We’re going to say it a lot today because you’re making a real im
 ### Giving Tuesday Now Elbow Bumps
 
 **(Name, donation time)** <br>
+Jason Ferreri, 8:11pm <br>
 Josh Frieder, 8:08pm <br>
 Lizette Villarreal, 8:03pm <br>
 Tracy Manrique, 8:01pm <br>
