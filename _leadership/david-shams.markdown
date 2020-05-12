@@ -1,7 +1,7 @@
 ---
 title: David Shams
 date: 2018-08-14 19:30:00 Z
-position: 61
+position: 59
 Details: Writer
 Section: advisory
 ---
