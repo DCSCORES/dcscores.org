@@ -2,7 +2,7 @@
 title: Our Words Our City
 date: 2020-05-15 16:42:00 Z
 position: 0
-Image: "/uploads/Website%20Carousel-f57857.png"
+Image: "/uploads/Website%20Carousel%20(1)-1de614.png"
 Link: https://bit.ly/2020OWOC
 ---
 
