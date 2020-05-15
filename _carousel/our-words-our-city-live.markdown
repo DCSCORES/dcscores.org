@@ -1,9 +1,9 @@
 ---
-title: Our Words Our City LIVE
-date: 2020-04-30 16:42:00 Z
+title: Our Words Our City
+date: 2020-05-15 16:42:00 Z
 position: 0
-Image: "/uploads/Website%20Carousel-c023e7.jpg"
-Link: https://www.ourwordsourcity.com/
+Image: "/uploads/Website%20Carousel-f57857.png"
+Link: https://bit.ly/2020OWOC
 ---
 
-Relive Our Words Our City LIVE! Click here to view the recorded video.
+The 2020 edition of Our Words Our City is now available on Amazon Prime Video!
