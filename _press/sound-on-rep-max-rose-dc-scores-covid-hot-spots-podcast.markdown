@@ -1,6 +1,6 @@
 ---
 title: 'Sound On: Rep. Max Rose, DC SCORES, COVID Hot Spots (Podcast)'
-date: 2020-05-26 15:05:00 Z
+date: 2020-05-23 15:05:00 Z
 link: https://www.bloomberg.com/news/audio/2020-05-23/sound-on-rep-max-rose-dc-scores-covid-hot-spots-podcast
 source: Bloomberg
 ---
