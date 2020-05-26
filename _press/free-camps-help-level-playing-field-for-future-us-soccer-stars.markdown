@@ -1,7 +1,7 @@
 ---
 title: Free Camps Help Level Playing Field for Future US Soccer Stars
 date: 2018-07-30 15:07:00 Z
-position: 14
+position: 18
 link: https://www.voanews.com/a/free-soccer-camps-help-level-playing-field-/4505649.html
 source: Voice of America
 ---
