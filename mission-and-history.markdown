@@ -9,10 +9,12 @@ mission:
 
   DC SCORES creates neighborhood teams that give kids in need the confidence and skills to succeed on the playing field, in the classroom, and in life.
 
-  - Annual Report 2015
-  - Annual Report 2016
-  - Annual Report  2017
-  - Annual Report 2018
+  [A donation to DC SCORES](https://bit.ly/GTNowSCORES)
+
+  - [Annual Report 2015](http://www.dcscoresimpact.org/annual-report-2015.html)
+  - [Annual Report 2016](http://www.dcscoresimpact.org/annual-report-2016.html)
+  - [Annual Report  2017](http://www.dcscoresimpact.org/annual-report-2017.html)
+  - [Annual Report 2018](https://drive.google.com/file/d/12APtoxjFQPlhHLc82XnmCX9sA2kufJeb/view?usp=sharing)
 vision:
 - |-
   ## Vision
