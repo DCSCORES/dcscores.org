@@ -31,6 +31,6 @@ Once the spring season wrapped up on May 29th, the DC SCORES program staff has s
 
 To help make sure all campers have whatever they need to fully participate in the camp, the DC SCORES and [D.C. United](https://www.dcunited.com/) staff have been working hard to pack over 500 boxes to mail that include camp supplies like a DC SCORES t-shirt, mask, jump rope, cones, a soccer ball, and more! 
 
-[IMG_0435.JPG](/uploads/IMG_0435.JPG)
+![Untitled design (3).png](/uploads/Untitled%20design%20(3).png)
 
 We know that this summer camp is going to be unlike any other camp DC SCORES has previously hosted, but the goal to provide kids an experience where they can play, explore, grow, and have fun is still the same. 
