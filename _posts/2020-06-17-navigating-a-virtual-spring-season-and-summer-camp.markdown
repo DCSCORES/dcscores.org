@@ -7,7 +7,11 @@ Thumbnail Image: "/uploads/DC%20SCORES%20Virtual%20Lessons.png"
 
 The Spring SCORES season officially kicked off in early March as usual but quickly adapted into a virtual experience.
 
-The pandemic we’re all currently facing is difficult for everyone. As an organization, our commitment to provide safe spaces and opportunities for our poet-athletes has only gotten stronger during these past couple of months. 
+The pandemic we’re all currently facing is difficult for everyone. As an organization, our commitment to provide safe spaces and opportunities for our poet-athletes has only gotten stronger during these past couple of months.
+
+
+
+ 
 
 In less than two weeks, the DC SCORES program staff created [SCORES at Home](https://parents.dcscores.org/at-home-activities), an online series of at-home soccer and writing activities designed to keep poet-athletes’ minds and bodies active until they can join their teammates back in school. Every single soccer and writing activity was made available in [Spanish](https://familias.dcscores.org/actividades-desde-casa) as well.   
 
