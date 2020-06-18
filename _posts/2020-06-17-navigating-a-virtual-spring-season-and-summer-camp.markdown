@@ -9,6 +9,10 @@ At DC SCORES we teach poet-athletes resilience and how to adapt to change. This 
 
 Although the Spring SCORES season officially kicked off in early March as usual, by mid-March our team was working remotely, schools began to close, and it was clear that this would be a season unlike any other.  Determined to make sure that poet-athletes felt safe, secure, hopeful and connected to their teams despite schools being physically closed, we quickly adapted both programming and work into fully virtual experiences.
 
+
+
+
+
 In less than two weeks, we pivoted from our planned in-person spring season and launched [SCORES at Home](https://parents.dcscores.org/at-home-activities), an online series of soccer and writing activities (all made available in both English and [Spanish](https://familias.dcscores.org/actividades-desde-casa)) designed to keep poet-athletes’ minds and bodies active while DC was under mandatory lockdown. Our staff and coaches quickly learned to coach and mentor via Zoom, Slack, Instagram Live, Microsoft Teams, and other tech, enabling us to connect with kids at a time when they most need the stability that their SCORES team can provide.   
 
 ![DC SCORES Virtual Lessons.png](/uploads/DC%20SCORES%20Virtual%20Lessons.png)
