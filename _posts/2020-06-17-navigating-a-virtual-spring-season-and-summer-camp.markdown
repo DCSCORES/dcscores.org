@@ -29,20 +29,20 @@ As spring rolls into summer, our goal remains the same – **keep kids feeling s
 
 While this has been an incredibly trying time for all, DC SCORES’ commitment to provide safe spaces and opportunities for our poet-athletes to raise their voices and act to drive positive change has only gotten stronger. In fact, for our entire 25 year existence, DC kids have leveraged DC SCORES’ poetry and service-learning program components to publicly speak up about and advocate for racial justice and police reform. Case in point -- last fall, the Jefferson Middle School Academy DC SCORES team wrote and performed a poem titled “POLICE BRUTALITY”.  The poem speaks for itself:
 
-> Police brutality
-The one thing people don’t see coming—or do we?
-The Red and Blue lights—
-Should be for help but really bring horror
-Too many people are dying
-Big chunks of those are innocent!
-Even if someone reaches for their pocket
-POP! One life gone...
-This is the time where this needs to stop.
+> Police brutality <br>
+The one thing people don’t see coming—or do we? <br>
+The Red and Blue lights— <br>
+Should be for help but really bring horror <br>
+Too many people are dying <br>
+Big chunks of those are innocent! <br>
+Even if someone reaches for their pocket <br>
+POP! One life gone... <br>
+This is the time where this needs to stop. <br>
 
-Officers should be trained to do what’s right
-If not, more people will die
-Now is the time to put up a fight.
-Now is the time to put up a fight.
-NOW is the time to put up a fight!
+Officers should be trained to do what’s right <br>
+If not, more people will die <br>
+Now is the time to put up a fight. <br>
+Now is the time to put up a fight. <br>
+NOW is the time to put up a fight! <br>
 
 As we navigate the continually changing landscape wrought by the pandemic and racial injustices, the lessons we’ve learned during this most unique spring have only strengthened our resolve to ensure that the voice of every child in DC is heard, and that they all have a safe, supportive team to call their own.  
