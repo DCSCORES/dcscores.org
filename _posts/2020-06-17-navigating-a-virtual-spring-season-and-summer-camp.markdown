@@ -39,7 +39,7 @@ Even if someone reaches for their pocket <br>
 POP! One life gone... <br>
 This is the time where this needs to stop. <br>
 
-Officers should be trained to do what’s right <br>
+> Officers should be trained to do what’s right <br>
 If not, more people will die <br>
 Now is the time to put up a fight. <br>
 Now is the time to put up a fight. <br>
