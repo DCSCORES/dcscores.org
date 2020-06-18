@@ -1,36 +1,44 @@
 ---
 title: Navigating a virtual spring season and summer camp
 date: 2020-06-17 16:54:00 Z
-Author: Lorena Palacios
+Author: Michael Holstein
 Thumbnail Image: "/uploads/DC%20SCORES%20Virtual%20Lessons.png"
 ---
 
-The Spring SCORES season officially kicked off in early March as usual but quickly adapted into a virtual experience.
+At DC SCORES we teach poet-athletes resilience and how to adapt to change. This spring, those lessons took on special meaning, as DC SCORES took on the challenge presented by COVID-19.  
 
-The pandemic we’re all currently facing is difficult for everyone. As an organization, our commitment to provide safe spaces and opportunities for our poet-athletes has only gotten stronger during these past couple of months.
+Although the Spring SCORES season officially kicked off in early March as usual, by mid-March our team was working remotely, schools began to close, and it was clear that this would be a season unlike any other.  Determined to make sure that poet-athletes felt safe, secure, hopeful and connected to their teams despite schools being physically closed, we quickly adapted both programming and work into fully virtual experiences.
 
-
-
- 
-
-In less than two weeks, the DC SCORES program staff created [SCORES at Home](https://parents.dcscores.org/at-home-activities), an online series of at-home soccer and writing activities designed to keep poet-athletes’ minds and bodies active until they can join their teammates back in school. Every single soccer and writing activity was made available in [Spanish](https://familias.dcscores.org/actividades-desde-casa) as well.   
-
-The at-home activities were made up of both soccer and writing activities based on reflecting on the communities that poet-athletes are a part of. During the spring season, poet-athletes focus on developing and executing a service-learning project to help improve and support their community. Even though the format of this season was completely different, the emphasis on the community was still present. 
+In less than two weeks, we pivoted from our planned in-person spring season and launched [SCORES at Home](https://parents.dcscores.org/at-home-activities), an online series of soccer and writing activities (all made available in both English and [Spanish](https://familias.dcscores.org/actividades-desde-casa)) designed to keep poet-athletes’ minds and bodies active while DC was under mandatory lockdown. Our staff and coaches quickly learned to coach and mentor via Zoom, Slack, Instagram Live, Microsoft Teams, and other tech, enabling us to connect with kids at a time when they most need the stability that their SCORES team can provide.   
 
 ![DC SCORES Virtual Lessons.png](/uploads/DC%20SCORES%20Virtual%20Lessons.png)
 
-DC SCORES’ special sauce has always been our coaches, and that has never been more true than over the past four months. 100 coaches from 55 sites spent over 1,000 hours connecting with their poet-athletes. As over 80% of DC SCORES coaches are also teachers at the schools where they coach, they are uniquely adept at navigating the distance learning challenges both at the schools and at kids’ homes. As a result, we’ve been able to consistently engage over 2,000 of our 3,000 poet-athletes during the pandemic. 
-
-One of our coaches from Leckie Education Campus said, “It's good to see that the students miss soccer and writing. DC SCORES has such a positive impact on the kids that they look forward to actually engaging in virtual conversations.”
-
-We typically end the spring season with SCORE Awards to recognize the all-star coaches and volunteers that stood out during the fall and spring seasons. Unfortunately, we weren’t able to have that special celebration live, but thanks to the help of other prominent coaches and poets in the community, we put together a [video](https://youtu.be/fG127IUlZsc) thanking them for making a difference in the lives of their students. Our partners [Timber Pizza](http://www.timberpizza.com/) and [Busboys and Poets](https://www.busboysandpoets.com/) also helped in showing our appreciation by sending them gift cards for their respective restaurants.
+As the confusion and fear of March gave way to the isolation of April, DC SCORES coaches were the glue holding their teams together. More than 100 coaches from 55 sites spent over 1,100 hours engaging their poet-athletes this spring. As a result, we were able to consistently engage with a substantial majority of our poet-athletes during the spring season, despite schools remaining physically closed. As a Leckie Education Campus coach said, “It's good to see that the students miss soccer and writing. DC SCORES has such a positive impact on the kids that they look forward to actually engaging in virtual conversations.” In gratitude, prominent coaches and poets, along with our partners [Timber Pizza](http://www.timberpizza.com/) and [Busboys and Poets](https://www.busboysandpoets.com/), banded together to thank DC SCORES coaches for going above and beyond in service to their kids and community. 
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/fG127IUlZsc" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-Once the spring season wrapped up on May 29th, the DC SCORES program staff has switched over completely to get the summer camps ready to go.The SCORES at Home Summer Camps will start on Monday, June 22nd and conclude on Friday, July 24th. This special edition of camp is open to any and all kids in rising grades 1-9 and is completely free. Our [SCORES at Home Summer Camps](https://summer.dcscores.org/) were created with SCORES participants in-mind (emphasizing our values of teamwork, leadership, and commitment) but are appropriate for all kids, even those outside of DC, to join and participate.
-
-To help make sure all campers have whatever they need to fully participate in the camp, the DC SCORES and [D.C. United](https://www.dcunited.com/) staff have been working hard to pack over 500 boxes to mail that include camp supplies like a DC SCORES t-shirt, mask, jump rope, cones, a soccer ball, and more! 
+Unable to gather for our annual *One Night One Goal* celebration at Audi Field this spring, we instead connected with the broader community with [Our Words Our City LIVE](https://www.ourwordsourcity.com/live), a broadcast of the most recent [Studio Theatre poetry showcase](https://bit.ly/2020OWOC), mixed in with “live” appearances from stars of D.C. United, the Washington Spirit and the local poetry community.  Over 2,100 people tuned in to see poet-athletes from the past, present and future of DC SCORES share powerful performances -- many of which were even more poignant in light of these rapidly changing times. 
+  
+As spring rolls into summer, our goal remains the same – **keep kids feeling safe, supported, connected, and hopeful** during these uncertain times. Since in-person camps are not yet permitted under DC’s reopening guidelines, summer camps are going virtual. [SCORES at Home Summer Camps](https://summer.dcscores.org/) will start on Monday, June 22nd and conclude on Friday, July 24th. This special edition of camp is open to all kids in rising grades 1-9, includes a combination of guided activities and live sessions, and is completely FREE. Camp writing activities will have a special emphasis on racial equity, encouraging kids to share their thoughts, fears, feelings, and hopes in light of the recent tragic murders of George Floyd, Ahmaud Arbery and far too many other black people in our country. SCORES at Home Summer Camps were created with SCORES participants in-mind (emphasizing our values of teamwork, leadership, and commitment), but are appropriate for, and open to, all kids, even those outside of DC.  To help make sure all campers have everything they need to fully participate in the camp, the DC SCORES and [D.C. United](https://www.dcunited.com/) staff have spent this week packing over 550 summer camp kits (that include soccer balls, jump ropes, camp shirts, cones, pencils and sharpeners, and more) to mail campers. 
 
 ![Untitled design (3).png](/uploads/Untitled%20design%20(3).png)
 
-We know that this summer camp is going to be unlike any other camp DC SCORES has previously hosted, but the goal to provide kids an experience where they can play, explore, grow, and have fun is still the same. 
+While this has been an incredibly trying time for all, DC SCORES’ commitment to provide safe spaces and opportunities for our poet-athletes to raise their voices and act to drive positive change has only gotten stronger. In fact, for our entire 25 year existence, DC kids have leveraged DC SCORES’ poetry and service-learning program components to publicly speak up about and advocate for racial justice and police reform. Case in point -- last fall, the Jefferson Middle School Academy DC SCORES team wrote and performed a poem titled “POLICE BRUTALITY”.  The poem speaks for itself:
+
+> Police brutality
+The one thing people don’t see coming—or do we?
+The Red and Blue lights—
+Should be for help but really bring horror
+Too many people are dying
+Big chunks of those are innocent!
+Even if someone reaches for their pocket
+POP! One life gone...
+This is the time where this needs to stop.
+
+Officers should be trained to do what’s right
+If not, more people will die
+Now is the time to put up a fight.
+Now is the time to put up a fight.
+NOW is the time to put up a fight!
+
+As we navigate the continually changing landscape wrought by the pandemic and racial injustices, the lessons we’ve learned during this most unique spring have only strengthened our resolve to ensure that the voice of every child in DC is heard, and that they all have a safe, supportive team to call their own.  
