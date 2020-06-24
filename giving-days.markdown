@@ -1,6 +1,7 @@
 ---
 title: Giving Days
 permalink: "/impact/giving-days/"
+published: false
 Top Image: "/assets/images/masthead-giving-days.jpg"
 Top Image Position: 50% 60%
 layout: giving-days
