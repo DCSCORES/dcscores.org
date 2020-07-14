@@ -1,6 +1,7 @@
 ---
 title: DC SCORES Cup
 date: 2020-08-29 19:54:00 Z
+position: 1
 Blurb: Join us for the largest corporate soccer tournament in the region that benefits
   over 3,000 DC kids!
 Link: https://www.dcscorescup.org/
