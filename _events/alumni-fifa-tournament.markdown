@@ -6,7 +6,7 @@ Blurb: We're hosting our first-ever Alumni FIFA Tournament for both XBOX and PS4
   All games will take place online and there is no cost to register and play in this
   tournament.
 Link: https://families.dcscores.org/
-Image: "/uploads/Fall%2020%20Flyer%20(5).png"
+Image: "/uploads/Fall%2020%20Flyer.jpg"
 Image Position: 50% 50%
 Color: "#00467F"
 Is Finished?: true
