@@ -1,6 +1,6 @@
 ---
 title: Len Oliver
-position: 65
+position: 63
 Details: 
 Section: emeritus
 ---
