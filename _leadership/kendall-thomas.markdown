@@ -1,7 +1,7 @@
 ---
 title: Kendall Thomas
 date: 2019-12-10 15:50:00 Z
-position: 18
+position: 15
 Details: Events Manager
 Email: kthomas@dcscores.org
 Profile Image: "/uploads/IMG_5369.jpg"
