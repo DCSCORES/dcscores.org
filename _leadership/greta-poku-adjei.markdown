@@ -7,4 +7,6 @@ Profile Image: "/uploads/profile--greta-poku-adjei.jpg"
 Section: staff
 ---
 
-A recent AmeriCorps alumna, Greta has spent the last eight years in the after-school field in Pennsylvania and Washington, DC. Before she arrived at DC SCORES, she was a VISTA Leader at the Afterschool Alliance's National Sustainability VISTA Project. Her passion for mentoring and working for older youth brought her to DC SCORES. Greta received her Bachelors of Science from The Pennsylvania State University in Human Development and Family Studies.
+For over 12 years, Greta Adjei Silas has been actively involved in afterschool programming, community outreach, and advocacy. Her work is centered around youth empowerment which includes connecting teens with mentors, engaging with policies that affect America’s most vulnerable youth, and providing resources to families that will enable them to manifest the lives they deserve. Her commitment to holistic and intentional service brought her to DC SCORES, where she currently serves as Operations Manager and co-leader of the organization’s spoken word workshop series for young poets in Washington, DC.
+
+Greta is a proud first-generation immigrant from New Jersey and is inspired by the sacrifices made by her ancestors that have brought her to where she is today. In her spare time, she enjoys reading science fiction written by Black women, identifying new stars in the night sky, and FaceTiming her nieces and nephew.
