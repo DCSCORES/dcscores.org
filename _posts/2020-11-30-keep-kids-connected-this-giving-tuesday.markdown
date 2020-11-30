@@ -32,5 +32,9 @@ DC SCORES has been around since 1994, and we know that we wouldn’t still be he
 
 ## Giving Tuesday Now Elbow Bumps
 
+**(Name, donation time)**
+Lorena Palacios, 1:01am <br>
+
 **Before Giving Tuesday** <br>
-Anonymous, (Nov. 30, 9:42am)
+John Smith, (Nov. 20, 11:42pm) <br>
+Anonymous, (Nov. 30, 9:42am) <br>
