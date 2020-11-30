@@ -29,6 +29,7 @@ DC SCORES has been around since 1994, and we know that we wouldn’t still be he
 
 **Thank you.** We’re going to say it a lot today because you’re making a real impact on the lives of DC kids. THANK YOU!
 
+
 ## Giving Tuesday Now Elbow Bumps
 
 **Before Giving Tuesday** <br>
