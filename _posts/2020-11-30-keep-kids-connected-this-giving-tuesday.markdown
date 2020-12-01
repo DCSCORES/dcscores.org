@@ -33,6 +33,14 @@ DC SCORES has been around since 1994, and we know that we wouldn’t still be he
 ## Giving Tuesday Now Elbow Bumps
 
 **(Name, donation time)** <br>
+Chris Mann, 10:06am <br>
+Anonymous, 10:05am <br>
+Aristotle Evia, 10:04am <br>
+Ed Gross, 9:59am <br>
+Geoff Harkness, 9:42am <br>
+Paul Hamill, 9:38am <br>
+Michael Rocco, 9:36am <br>
+Stephanie Richardson, 9:29am <br>
 Leah Hochstetler, 9:22am <br>
 Jennifer Jacobs, 9:21am <br>
 Cole Moten, 9:20am <br>
