@@ -33,6 +33,9 @@ DC SCORES has been around since 1994, and we know that we wouldn’t still be he
 ## Giving Tuesday Now Elbow Bumps
 
 **(Name, donation time)** <br>
+Neha Dhindsa, 11:20am <br>
+Carina Iverson, 11:20am <br>
+Michael Russell, 11:20am <br>
 Madeline Grayson, 10:58am <br>
 Sandy Brown, 10:37am <br>
 Leslie Janes, 10:26am <br>
