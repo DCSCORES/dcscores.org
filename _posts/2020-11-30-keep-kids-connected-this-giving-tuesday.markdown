@@ -95,6 +95,12 @@ Klu Clougherty, 1:27pm <br>
 Eliana Henderson, 1:26pm <br>
 Ana Henderson, 1:26pm <br>
 Corey Timbers, 1:26pm <br>
+Lauren Anderson, 1:26pm <br>
+Susie Ascencio Clougherty, 1:25pm <br>
+Esther Foer, 1:25pm <br>
+Jeffrey Howdeshell, 1:24pm <br>
+Ian Kline, 1:24pm <br>
+Michael Garcia, 1:23pm <br>
 Tamar Levenberg, 1:21pm <br>
 Alexander Bearman, 1:19pm <br>
 Carolyn White, 1:19pm <br>
@@ -104,9 +110,10 @@ Launa Hoch, 1:18pm <br>
 Rachel Gorosh, 1:17pm <br>
 Andrew Jones, 1:16pm <br>
 Zabrina Krishnamoorthy, 1:16pm <br>
-Will Sutton, 1:10pm <br>
+Will Sutton, 1:16pm <br>
 Nick & Julia Kessler, 1:16pm <br>
 John Jacob J Smith, 1:15pm <br>
+Ben Hsieh, 1:15pm <br>
 Chris Phillips, 1:14pm <br>
 Kristen Degan, 1:14pm <br>
 Kenny Owens, 1:14pm <br>
