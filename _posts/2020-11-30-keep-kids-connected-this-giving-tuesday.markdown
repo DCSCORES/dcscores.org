@@ -33,6 +33,9 @@ DC SCORES has been around since 1994, and we know that we wouldn’t still be he
 ## Giving Tuesday Now Elbow Bumps
 
 **(Name, donation time)** <br>
+John Clark, 3:37pm <br>
+Christopher Stewart, 3:37pm <br>
+Michelle Roberts, 3:35pm <br>
 Alex Revis 3:29pm <br>
 Ann Carmel, 3:28pm <br>
 Simon Flynn, 3:27pm <br>
