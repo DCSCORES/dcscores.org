@@ -33,6 +33,10 @@ DC SCORES has been around since 1994, and we know that we wouldn’t still be he
 ## Giving Tuesday Now Elbow Bumps
 
 **(Name, donation time)** <br>
+Alex Revis 3:29pm <br>
+Ann Carmel, 3:28pm <br>
+Simon Flynn, 3:27pm <br>
+Anonymous, 3:25pm <br>
 Emilie Ryan, 3:21pm <br>
 Michael Parrish, 3:21pm <br>
 Michael Rubin, 3:20pm <br>
