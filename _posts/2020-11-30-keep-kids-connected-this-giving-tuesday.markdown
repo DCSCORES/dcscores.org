@@ -33,6 +33,10 @@ DC SCORES has been around since 1994, and we know that we wouldn’t still be he
 ## Giving Tuesday Now Elbow Bumps
 
 **(Name, donation time)** <br>
+Michael McRae, 2:15pm <br>
+AnnMarie Pino, 2:14pm <br>
+Charlotte Stewart, 2:14pm <br>
+John Lloyd, 2:14pm <br>
 Melissa Surette, 2:12pm <br>
 Matthew Field, 2:11pm <br>
 Alexandra Carmel, 2:07pm <br>
@@ -42,6 +46,10 @@ Ryan Kelley, 2:01pm <br>
 Devin Talbott, 1:57pm <br>
 Emily Schulman , 1:56pm <br>
 J. Carmel, 1:54pm <br>
+Colin Moffett, 1:53pm <br>
+Sanjay Nayar, 1:45pm <br>
+Dave Owens, 1:45pm <br>
+Tom Gross, 1:28pm <br>
 Alexander Bearman, 1:19pm <br>
 Carolyn White, 1:19pm <br>
 Launa Hochstetler, 1:18pm <br>
