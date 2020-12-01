@@ -33,6 +33,10 @@ DC SCORES has been around since 1994, and we know that we wouldn’t still be he
 ## Giving Tuesday Now Elbow Bumps
 
 **(Name, donation time)** <br>
+Tim Swartzendruber, 1:09pm <br>
+Nica Sutton, 1:09pm <br>
+Katrina Owens, 1:08pm <br>
+Kerry Savage, 1:07pm <br>
 Max Sutton, 1:07pm <br>
 Danny Henderson, 1:04pm <br>
 Bill Sutton, 1:04pm <br>
