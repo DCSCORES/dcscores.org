@@ -33,6 +33,10 @@ DC SCORES has been around since 1994, and we know that we wouldn’t still be he
 ## Giving Tuesday Now Elbow Bumps
 
 **(Name, donation time)** <br>
+Anonymous, 12:02pm <br>
+John Preotle, 12:02pm <br>
+Rachel Klepper, 11:59am <br>
+Ian Holder, 11:55am <br>
 Valerie Mamalis, 11:53am <br>
 Anonymous, 11:51am <br>
 Manny Watkins, 11:50am <br>
