@@ -15,7 +15,7 @@ The need this Giving Tuesday to keep kids connected is unlike ever before. Due t
 
 Despite not being able to gather in person for months now, DC SCORES has never stopped serving kids in DC. Programming doesn’t *look* like usual, but DC SCORES has done everything possible for it to *feel* the same for our poet-athletes when it seems like everything else in the world is constantly changing.
 
-Your support during Giving Tuesday can make an enormous difference in the lives of kids in DC. [A donation to DC SCORES](https://bit.ly/DCSgivingtuesday20), no matter the amount, will help ensure that we can continue providing free soccer and writing programming, whether that's virtually or in-person (hopefully soon).
+Your support during Giving Tuesday can make an enormous difference in the lives of kids in DC. [A donation to DC SCORES](www.givelocaltogether.org/team/dcscores), no matter the amount, will help ensure that we can continue providing free soccer and writing programming, whether that's virtually or in-person (hopefully soon).
 
 In the spring, DC SCORES built out [SCORES at Home](https://families.dcscores.org/at-home-activities), an online bilingual (English and Spanish) portal filled with soccer and writing activities for kids to do at home. During the summer, DC SCORES continued to offer free summer camps and shipped out hundreds of equipment kits to every camper with everything they needed to participate (soccer ball, pump, t-shirt, mask, hand sanitizer, journal, writing supplies, etc).
 
@@ -33,6 +33,8 @@ DC SCORES has been around since 1994, and we know that we wouldn’t still be he
 ## Giving Tuesday Now Elbow Bumps
 
 **(Name, donation time)** <br>
+Betseat Getachew, 5:42pm <br>
+Anonymous, 5:41pm <br>
 Alex Diaz-Asper, 4:55pm <br>
 Antonia Preciado, 4:54pm <br>
 Melissa Guzman, 4:50pm <br>
