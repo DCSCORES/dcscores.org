@@ -33,6 +33,8 @@ DC SCORES has been around since 1994, and we know that we wouldn’t still be he
 ## Giving Tuesday Now Elbow Bumps
 
 **(Name, donation time)** <br>
+Mara Peltz, 5:47pm <br>
+Linda Shorey, 5:47pm <br>
 Donald Ausherman, 5:46pm <br>
 Jeffrey Koung, 5:44pm <br>
 Matt Hendricks, 5:44pm <br>
