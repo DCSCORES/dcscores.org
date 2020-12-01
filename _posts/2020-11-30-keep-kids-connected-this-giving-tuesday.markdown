@@ -33,6 +33,7 @@ DC SCORES has been around since 1994, and we know that we wouldn’t still be he
 ## Giving Tuesday Now Elbow Bumps
 
 **(Name, donation time)** <br>
+Mark Roth, 11:30am <br>
 Michael Riggins, 11:23am <br>
 Lila Simmons, 11:23am <br>
 Neha Dhindsa, 11:20am <br>
