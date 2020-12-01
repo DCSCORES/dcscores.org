@@ -33,6 +33,14 @@ DC SCORES has been around since 1994, and we know that we wouldn’t still be he
 ## Giving Tuesday Now Elbow Bumps
 
 **(Name, donation time)** <br>
+Jacquelin Norell, 1:14pm <br>
+Alyssa Morse, 1:13pm <br>
+Alex Hyman, 1:13pm <br>
+Emma Gross, 1:13pm <br>
+Will Magioncalda, 1:13pm <br>
+Ben & Sherika Shnider, 1:13pm <br>
+Jay Carmel, 1:13pm <br>
+Jason Finney, 1:12pm <br>
 Marisa Majsak, 1:12pm <br>
 Aya Takeuchi, 1:11pm <br>
 Liliana Ascencio, 1:11pm <br>
