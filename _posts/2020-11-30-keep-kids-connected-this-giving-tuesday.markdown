@@ -33,6 +33,7 @@ DC SCORES has been around since 1994, and we know that we wouldn’t still be he
 ## Giving Tuesday Now Elbow Bumps
 
 **(Name, donation time)** <br>
+Michael Liss, 6:19pm <br>
 Gregory Honan, 6:14pm <br>
 Umida Hashimova, 6:09pm <br>
 Brittany Gropp, 6:07pm <br>
