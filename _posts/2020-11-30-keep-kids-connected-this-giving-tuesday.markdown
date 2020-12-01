@@ -33,6 +33,10 @@ DC SCORES has been around since 1994, and we know that we wouldn’t still be he
 ## Giving Tuesday Now Elbow Bumps
 
 **(Name, donation time)** <br>
+Kamryn Christian, 2:57pm <br>
+Wade Casstevens, 2:53pm <br>
+Howard McMillan, 2:48pm <br>
+Mark Lewis, 2:46pm <br>
 Nicole Gara, 2:40pm <br>
 Walter A Roberts III, 2:36pm <br>
 Lauren Smith, 2:32pm <br>
@@ -84,6 +88,9 @@ Scott Keeter, 1:35pm <br>
 Bryan Hinkle, 1:35pm <br>
 Joshua McGee, 1:34pm <br>
 Scott Keeter, 1:31pm <br>
+James Lambert, 1:30pm <br>
+Patrick Sheerin, 1:30pm <br>
+LaVar Arrington, 1:30pm <br>
 Daniel Sheerin, 1:29pm <br>
 Tom Gross, 1:28pm <br>
 Gemma Adelman, 1:28pm <br>
@@ -114,11 +121,15 @@ Launa Hochstetler, 1:18pm <br>
 Launa Hoch, 1:18pm <br>
 Rachel Gorosh, 1:17pm <br>
 Andrew Jones, 1:16pm <br>
+Abby Phillips, 1:16pm <br>
 Zabrina Krishnamoorthy, 1:16pm <br>
 Will Sutton, 1:16pm <br>
 Nick & Julia Kessler, 1:16pm <br>
-John Jacob J Smith, 1:15pm <br>
 Ben Hsieh, 1:15pm <br>
+Tony Francavilla, 1:15pm <br>
+Sharon Welsh, 1:14pm <br>
+Jackie Christian, 1:14pm <br>
+Jacquelin Norell, 1:14pm <br>
 Chris Phillips, 1:14pm <br>
 Kristen Degan, 1:14pm <br>
 Kenny Owens, 1:14pm <br>
