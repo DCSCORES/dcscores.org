@@ -33,6 +33,7 @@ DC SCORES has been around since 1994, and we know that we wouldn’t still be he
 ## Giving Tuesday Now Elbow Bumps
 
 **(Name, donation time)** <br>
+Cole Moten, 9:20am <br>
 Neal Feierabend, 9:14am <br>
 Anonymous, 9:14am <br>
 Debbie Campbell, 9:06am <br>
