@@ -33,6 +33,14 @@ DC SCORES has been around since 1994, and we know that we wouldn’t still be he
 ## Giving Tuesday Now Elbow Bumps
 
 **(Name, donation time)** <br>
+Will Sutton, 1:10pm <br>
+Nick & Julia Kessler, 1:16pm <br>
+John Jacob J Smith, 1:15pm <br>
+Chris Phillips, 1:14pm <br>
+Kristen Degan, 1:14pm <br>
+Kenny Owens, 1:14pm <br>
+Sharon Welsh, 1:14pm <br>
+Jackie Christian, 1:14pm <br>
 Jacquelin Norell, 1:14pm <br>
 Alyssa Morse, 1:13pm <br>
 Alex Hyman, 1:13pm <br>
