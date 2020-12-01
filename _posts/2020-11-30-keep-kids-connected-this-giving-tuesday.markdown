@@ -33,6 +33,7 @@ DC SCORES has been around since 1994, and we know that we wouldn’t still be he
 ## Giving Tuesday Now Elbow Bumps
 
 **(Name, donation time)** <br>
+Laura Andrews, 8:21am <br>
 Christina Tunison, 7:22am <br>
 
 **Before Giving Tuesday** <br>
