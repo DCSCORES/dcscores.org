@@ -33,6 +33,9 @@ DC SCORES has been around since 1994, and we know that we wouldn’t still be he
 ## Giving Tuesday Now Elbow Bumps
 
 **(Name, donation time)** <br>
+Mackenzie Phelps, 4:34pm <br>
+Marilyn Neiswander, 4:33pm <br>
+Anonymous, 4:25pm <br>
 Kassondra Cloos, 4:26pm <br>
 Anonymous, 4:25pm <br>
 Linda Gebric, 4:11pm <br>
