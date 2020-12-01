@@ -33,6 +33,10 @@ DC SCORES has been around since 1994, and we know that we wouldn’t still be he
 ## Giving Tuesday Now Elbow Bumps
 
 **(Name, donation time)** <br>
+Amy and Anthony Nakamoto-Brown, 3:10pm <br>
+Kelly Bonnie, 3:09pm <br>
+Anonymous, 3:09pm <br>
+Sarah Helinek, 3:06pm <br>
 Gail Clougherty, 3:02pm <br>
 Kamryn Christian, 2:57pm <br>
 Wade Casstevens, 2:53pm <br>
