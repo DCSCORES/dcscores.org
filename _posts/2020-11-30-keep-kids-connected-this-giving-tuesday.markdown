@@ -33,6 +33,9 @@ DC SCORES has been around since 1994, and we know that we wouldn’t still be he
 ## Giving Tuesday Now Elbow Bumps
 
 **(Name, donation time)** <br>
+Vladimir Jean-Charles, 2:26pm <br>
+Robert Dean, 2:26pm <br>
+Sharon Finney, 2:25pm <br>
 Chad Molter, 2:17pm <br>
 Michael McRae, 2:15pm <br>
 AnnMarie Pino, 2:14pm <br>
@@ -50,25 +53,34 @@ J. Carmel, 1:54pm <br>
 Colin Moffett, 1:53pm <br>
 Sanjay Nayar, 1:45pm <br>
 Dave Owens, 1:45pm <br>
+Rebecca Freedholm, 1:44pm <br>
 Kenneth Owens, 1:43pm <br>
+Jessica Trevelyan, 1:43pm <br>
 Conor McCormick, 1:42pm <br>
 Christine Sentner, 1:42pm <br>
 Heidi Hochstetler, 1:42pm <br>
 Sarah Alex, 1:42pm <br>
 Tammy Mitchell, 1:42pm <br>
 Rockford Weitz, 1:42pm <br>
+Traci Lee, 1:41pm <br>
+Lorena Palacios, 1:40pm <br>
 John Conte, 1:38pm <br>
 Mark Burlet, 1:38pm <br>
 Noelle Carne, 1:38pm <br>
 John Golley, 1:38pm <br>
+Margot Locker, 1:37pm <br>
 Jim Ensor, 1:37pm <br>
 James Power, 1:37pm <br>
 Jennifer Lewis, 1:37pm <br>
 James Frison, 1:37pm <br>
+Elaine Lu, 1:36pm <br>
+Jonah and David Owens, 1:36pm <br>
+Jacob Friedman, 1:36pm <br>
 Kelly Waldron, 1:35pm <br>
 Tom Gross, 1:28pm <br>
 Alexander Bearman, 1:19pm <br>
 Carolyn White, 1:19pm <br>
+Dan Henderson, 1:18pm <br>
 Launa Hochstetler, 1:18pm <br>
 Launa Hoch, 1:18pm <br>
 Rachel Gorosh, 1:17pm <br>
@@ -103,6 +115,7 @@ Nica Sutton, 1:09pm <br>
 Katrina Owens, 1:08pm <br>
 Kerry Savage, 1:07pm <br>
 Max Sutton, 1:07pm <br>
+Liliana Ascencio, 1:06pm <br>
 Danny Henderson, 1:04pm <br>
 Bill Sutton, 1:04pm <br>
 Andrew Bellwoar, 1:04pm <br>
