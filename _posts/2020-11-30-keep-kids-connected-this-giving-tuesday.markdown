@@ -33,6 +33,7 @@ DC SCORES has been around since 1994, and we know that we wouldn’t still be he
 ## Giving Tuesday Now Elbow Bumps
 
 **(Name, donation time)** <br>
+Chad Molter, 2:17pm <br>
 Michael McRae, 2:15pm <br>
 AnnMarie Pino, 2:14pm <br>
 Charlotte Stewart, 2:14pm <br>
