@@ -33,6 +33,7 @@ DC SCORES has been around since 1994, and we know that we wouldn’t still be he
 ## Giving Tuesday Now Elbow Bumps
 
 **(Name, donation time)** <br>
+Alex Diaz-Asper, 4:55pm <br>
 Antonia Preciado, 4:54pm <br>
 Melissa Guzman, 4:50pm <br>
 Mackenzie Phelps, 4:34pm <br>
