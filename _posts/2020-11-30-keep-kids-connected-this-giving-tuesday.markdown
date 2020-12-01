@@ -49,10 +49,12 @@ Paul Hamill, 9:38am <br>
 Michael Rocco, 9:36am <br>
 Stephanie Richardson, 9:29am <br>
 Leah Hochstetler, 9:22am <br>
+Lindsay Mathwick, 9:22am <br>
 Jennifer Jacobs, 9:21am <br>
 Cole Moten, 9:20am <br>
 Neal Feierabend, 9:14am <br>
 Anonymous, 9:14am <br>
+David Grubman, 9:14am <br>
 Debbie Campbell, 9:06am <br>
 Elizabeth Conte, 9:05am <br>
 Susan John, 8:57am <br>
@@ -64,6 +66,7 @@ Anonymous, 8:35am <br>
 Cal Klausner, 8:35am <br>
 Aeon Clarke, 8:28am <br>
 Laura Andrews, 8:21am <br>
+Anne Stom, 8:14am <br>
 Christina Tunison, 7:22am <br>
 
 **Before Giving Tuesday** <br>
