@@ -33,6 +33,9 @@ DC SCORES has been around since 1994, and we know that we wouldn’t still be he
 ## Giving Tuesday Now Elbow Bumps
 
 **(Name, donation time)** <br>
+Nicole Gara, 2:40pm <br>
+Walter A Roberts III, 2:36pm <br>
+Lauren Smith, 2:32pm <br>
 Vladimir Jean-Charles, 2:26pm <br>
 Robert Dean, 2:26pm <br>
 Sharon Finney, 2:25pm <br>
@@ -77,6 +80,10 @@ Elaine Lu, 1:36pm <br>
 Jonah and David Owens, 1:36pm <br>
 Jacob Friedman, 1:36pm <br>
 Kelly Waldron, 1:35pm <br>
+Scott Keeter, 1:35pm <br>
+Bryan Hinkle, 1:35pm <br>
+Joshua McGee, 1:34pm <br>
+Scott Keeter, 1:31pm <br>
 Tom Gross, 1:28pm <br>
 Alexander Bearman, 1:19pm <br>
 Carolyn White, 1:19pm <br>
