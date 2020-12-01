@@ -33,6 +33,13 @@ DC SCORES has been around since 1994, and we know that we wouldn’t still be he
 ## Giving Tuesday Now Elbow Bumps
 
 **(Name, donation time)** <br>
+Leslie Janes, 10:26am <br>
+Elaine Lasnik-Broida, 10:14am <br>
+Dan McCarthy, 10:13am <br>
+Pranav Nanda, 10:12am <br>
+Julia Gartrell, 10:09am <br>
+Andre Prince, 10:08am <br>
+Lea Schwarzenberg, 10:08am <br>
 Chris Mann, 10:06am <br>
 Anonymous, 10:05am <br>
 Aristotle Evia, 10:04am <br>
