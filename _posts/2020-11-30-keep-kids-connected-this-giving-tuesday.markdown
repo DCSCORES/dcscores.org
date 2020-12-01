@@ -33,6 +33,7 @@ DC SCORES has been around since 1994, and we know that we wouldn’t still be he
 ## Giving Tuesday Now Elbow Bumps
 
 **(Name, donation time)** <br>
+Christen Gallagher, 5:53pm <br>
 Matt Lindsay, 5:50pm <br>
 Mara Peltz, 5:47pm <br>
 Linda Shorey, 5:47pm <br>
