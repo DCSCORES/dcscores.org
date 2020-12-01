@@ -33,6 +33,8 @@ DC SCORES has been around since 1994, and we know that we wouldn’t still be he
 ## Giving Tuesday Now Elbow Bumps
 
 **(Name, donation time)** <br>
+Anonymous, 6:40pm <br>
+Karl Schwenkmeyer, 6:39pm <br>
 Robert Warshaw, 6:24pm <br>
 Michael Liss, 6:19pm <br>
 Gregory Honan, 6:14pm <br>
