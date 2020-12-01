@@ -101,7 +101,12 @@ Esther Foer, 1:25pm <br>
 Jeffrey Howdeshell, 1:24pm <br>
 Ian Kline, 1:24pm <br>
 Michael Garcia, 1:23pm <br>
+Fred and Cathy Sutton, 1:23pm <br>
+Kemba Ford, 1:22pm <br>
 Tamar Levenberg, 1:21pm <br>
+Vesta Hochstetler, 1:21pm <br>
+Adi Rose Henderson, 1:20pm <br>
+Eli Hochstetler, 1:20pm <br>
 Alexander Bearman, 1:19pm <br>
 Carolyn White, 1:19pm <br>
 Dan Henderson, 1:18pm <br>
@@ -141,6 +146,7 @@ Katrina Owens, 1:08pm <br>
 Kerry Savage, 1:07pm <br>
 Max Sutton, 1:07pm <br>
 Liliana Ascencio, 1:06pm <br>
+Libby Watkins, 1:05pm <br>
 Danny Henderson, 1:04pm <br>
 Bill Sutton, 1:04pm <br>
 Andrew Bellwoar, 1:04pm <br>
