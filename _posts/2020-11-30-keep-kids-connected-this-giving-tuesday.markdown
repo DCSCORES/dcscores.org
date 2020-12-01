@@ -33,6 +33,7 @@ DC SCORES has been around since 1994, and we know that we wouldn’t still be he
 ## Giving Tuesday Now Elbow Bumps
 
 **(Name, donation time)** <br>
+Jewel Christian, 12:35pm <br>
 Anonymous, 12:04pm <br>
 Tim Preotle, 12:04pm <br>
 Anonymous, 12:02pm <br>
