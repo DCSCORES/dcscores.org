@@ -33,6 +33,11 @@ DC SCORES has been around since 1994, and we know that we wouldn’t still be he
 ## Giving Tuesday Now Elbow Bumps
 
 **(Name, donation time)** <br>
+Debbie Campbell, 9:06am <br>
+Elizabeth Conte, 9:05am <br>
+Susan John, 8:57am <br>
+Perri Smith, 8:52am <br>
+Sandi Williams, 8:47am <br>
 Chloe Doto, 8:45am <br>
 Robert Gluck, 8:39am <br>
 Anonymous, 8:35am <br>
