@@ -33,6 +33,14 @@ DC SCORES has been around since 1994, and we know that we wouldn’t still be he
 ## Giving Tuesday Now Elbow Bumps
 
 **(Name, donation time)** <br>
+Marisa Majsak, 1:12pm <br>
+Aya Takeuchi, 1:11pm <br>
+Liliana Ascencio, 1:11pm <br>
+David Eli Owens, 1:11pm <br>
+Rachel Shnider, 1:10pm <br>
+Jake Lloyd, 1:09pm <br>
+Arnelda Broadaway, 1:09pm <br>
+Anthony Francavilla, 1:09pm <br>
 Tim Swartzendruber, 1:09pm <br>
 Nica Sutton, 1:09pm <br>
 Katrina Owens, 1:08pm <br>
