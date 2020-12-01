@@ -33,6 +33,10 @@ DC SCORES has been around since 1994, and we know that we wouldn’t still be he
 ## Giving Tuesday Now Elbow Bumps
 
 **(Name, donation time)** <br>
+Valerie Mamalis, 11:53am <br>
+Anonymous, 11:51am <br>
+Manny Watkins, 11:50am <br>
+Elliott Sloan, 11:49am <br>
 Cheryl Gregory, 11:39am <br>
 Paula HuYoung, 11:35am <br>
 Debra Riggins, 11:33am <br>
