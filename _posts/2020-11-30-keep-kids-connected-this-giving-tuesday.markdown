@@ -33,6 +33,9 @@ DC SCORES has been around since 1994, and we know that we wouldn’t still be he
 ## Giving Tuesday Now Elbow Bumps
 
 **(Name, donation time)** <br>
+Benjamin Kennedy, 6:04pm <br>
+Adrianne Molina, 6:03pm <br>
+Tony Ham, 6:01pm <br>
 Diego Ramirez, 5:59pm <br>
 Ben Francavilla, 5:57pm <br>
 Christen Gallagher, 5:53pm <br>
