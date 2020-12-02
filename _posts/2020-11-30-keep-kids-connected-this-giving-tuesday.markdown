@@ -33,6 +33,10 @@ DC SCORES has been around since 1994, and we know that we wouldn’t still be he
 ## Giving Tuesday Now Elbow Bumps
 
 **(Name, donation time)** <br>
+Marisa Joelson, 10:53pm <br>
+Asia Cutforth, 10:51pm <br>
+Daniel Klain, 10:46pm <br>
+Chris Saccoccia, 10:40pm <br>
 Patrick Ahern, 10:28pm <br>
 Sharon Plonsker, 10:22pm <br>
 Olga Palacios, 10:18pm <br>
