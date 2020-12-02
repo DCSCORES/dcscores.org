@@ -33,6 +33,7 @@ DC SCORES has been around since 1994, and we know that we wouldn’t still be he
 ## Giving Tuesday Now Elbow Bumps
 
 **(Name, donation time)** <br>
+Anonymous, 8:42pm <br>
 Kirsten Karttunen, 8:41pm <br>
 Anonymous, 8:40pm <br>
 Fred Hargrove, 8:38pm <br>
