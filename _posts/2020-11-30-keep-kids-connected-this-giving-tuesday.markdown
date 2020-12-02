@@ -33,6 +33,7 @@ DC SCORES has been around since 1994, and we know that we wouldn’t still be he
 ## Giving Tuesday Now Elbow Bumps
 
 **(Name, donation time)** <br>
+Valerie Holzherr, 8:08pm <br>
 Jessica Labukas, 8:06pm <br>
 Lawrence Rice, 8:04pm <br>
 Christina Scher, 7:59pm <br>
