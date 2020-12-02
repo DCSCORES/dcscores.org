@@ -33,6 +33,8 @@ DC SCORES has been around since 1994, and we know that we wouldn’t still be he
 ## Giving Tuesday Now Elbow Bumps
 
 **(Name, donation time)** <br>
+Pamela Roberts, 8:53pm <br>
+Chelsey Berlin, 8:53pm <br>
 Brandon B., 8:52pm <br>
 Gregory Ossi, 8:49pm <br>
 J Michael Freedholm, 8:47pm <br>
