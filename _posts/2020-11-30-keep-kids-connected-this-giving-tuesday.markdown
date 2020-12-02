@@ -33,6 +33,7 @@ DC SCORES has been around since 1994, and we know that we wouldn’t still be he
 ## Giving Tuesday Now Elbow Bumps
 
 **(Name, donation time)** <br>
+Christopher Metzger, 9:28pm <br>
 Anthony Piccari, 9:24pm <br>
 Andrew Bolton, 9:19pm <br>
 Michael Wagener, 9:15pm <br>
