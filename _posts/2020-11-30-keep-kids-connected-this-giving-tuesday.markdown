@@ -33,6 +33,7 @@ DC SCORES has been around since 1994, and we know that we wouldn’t still be he
 ## Giving Tuesday Now Elbow Bumps
 
 **(Name, donation time)** <br>
+Sharon Plonsker, 10:22pm <br>
 Olga Palacios, 10:18pm <br>
 Ignacio Fernández Stearns, 10:17pm <br>
 Anonymous, 10:15pm <br>
