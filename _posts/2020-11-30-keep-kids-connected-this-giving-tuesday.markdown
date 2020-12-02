@@ -33,6 +33,7 @@ DC SCORES has been around since 1994, and we know that we wouldn’t still be he
 ## Giving Tuesday Now Elbow Bumps
 
 **Post Giving Tuesday** <br>
+Linda Munich, (Dec. 2, 10:54am) <br>
 Christian Allen, (Dec. 2, 3:07am) <br>
 Frank Polley, (Dec. 2, 12:51am) <br>
 Zaryn Jennings, (Dec. 2, 12:00am) <br>
