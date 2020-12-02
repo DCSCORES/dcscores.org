@@ -33,6 +33,7 @@ DC SCORES has been around since 1994, and we know that we wouldn’t still be he
 ## Giving Tuesday Now Elbow Bumps
 
 **(Name, donation time)** <br>
+Christina Scher, 7:59pm <br>
 Martin Palacios, 7:56pm <br> 
 Benjamin Pulliam, 7:54pm <br>
 Katie Stump, 7:54pm <br>
