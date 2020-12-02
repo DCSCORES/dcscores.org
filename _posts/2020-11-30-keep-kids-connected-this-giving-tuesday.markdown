@@ -33,6 +33,10 @@ DC SCORES has been around since 1994, and we know that we wouldn’t still be he
 ## Giving Tuesday Now Elbow Bumps
 
 **(Name, donation time)** <br>
+Anonymous, 10:15pm <br>
+Joseph Palladino, 10:07pm <br>
+Italo Mocchetti, 10:05pm <br>
+Debra Freedholm, 10:04pm <br>
 Anonymous, 9:50pm <br>
 Loren Angelo, 9:50pm <br>
 Anonymous, 9:37pm <br>
