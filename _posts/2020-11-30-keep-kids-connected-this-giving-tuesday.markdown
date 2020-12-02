@@ -33,6 +33,7 @@ DC SCORES has been around since 1994, and we know that we wouldn’t still be he
 ## Giving Tuesday Now Elbow Bumps
 
 **(Name, donation time)** <br>
+Anonymous, 11:20pm <br>
 Chip Lohmeyer, 11:16pm <br>
 David Barritt-Flatt, 11:06pm <br>
 Jason Kling, 11:05pm <br>
