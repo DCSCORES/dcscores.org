@@ -33,6 +33,10 @@ DC SCORES has been around since 1994, and we know that we wouldn’t still be he
 ## Giving Tuesday Now Elbow Bumps
 
 **(Name, donation time)** <br>
+Gregory Ossi, 8:49pm <br>
+J Michael Freedholm, 8:47pm <br>
+David Crespo, 8:47pm <br>
+Andrew Eberly-Howerton, 8:45pm <br>
 Anonymous, 8:42pm <br>
 Kirsten Karttunen, 8:41pm <br>
 Anonymous, 8:40pm <br>
