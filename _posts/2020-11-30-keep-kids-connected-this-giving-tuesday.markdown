@@ -33,6 +33,10 @@ DC SCORES has been around since 1994, and we know that we wouldn’t still be he
 ## Giving Tuesday Now Elbow Bumps
 
 **(Name, donation time)** <br>
+Benjamin Pulliam, 7:54pm <br>
+Katie Stump, 7:54pm <br>
+Lizette Villarreal, 7:53pm <br>
+Erik Hamilton, 7:51pm <br>
 Brian Sanker, 7:44pm <br>
 B Politz, 7:30pm <br>
 Coryell Stout, 7:28pm <br>
