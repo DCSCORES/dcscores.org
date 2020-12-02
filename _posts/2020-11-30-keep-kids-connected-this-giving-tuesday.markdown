@@ -33,6 +33,7 @@ DC SCORES has been around since 1994, and we know that we wouldn’t still be he
 ## Giving Tuesday Now Elbow Bumps
 
 **(Name, donation time)** <br>
+Brian Sanker, 7:44pm <br>
 B Politz, 7:30pm <br>
 Coryell Stout, 7:28pm <br>
 Kathy Doto Sowers, 7:26pm <br>
