@@ -33,6 +33,9 @@ DC SCORES has been around since 1994, and we know that we wouldn’t still be he
 ## Giving Tuesday Now Elbow Bumps
 
 **(Name, donation time)** <br>
+Shelly Gray, 7:09pm <br>
+David Owens, 7:07pm <br>
+Takita Battle, 7:07pm <br>
 Jean-Philippe Fauchet, 7:06pm <br>
 Deborah Eckbreth, 7:05pm <br>
 Steven Riggins, 7:05pm <br>
