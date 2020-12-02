@@ -33,6 +33,10 @@ DC SCORES has been around since 1994, and we know that we wouldn’t still be he
 ## Giving Tuesday Now Elbow Bumps
 
 **(Name, donation time)** <br>
+Bruce Schulman, 8:28pm <br>
+Rhina Roberts, 8:27pm <br>
+Lindsey Sharp, 8:26pm <br>
+Valerie Utsey, 8:24pm <br>
 David Freedholm, 8:17pm <br>
 Amy and Fred Rubin, 8:17pm <br>
 Anonymous, 8:15pm <br>
