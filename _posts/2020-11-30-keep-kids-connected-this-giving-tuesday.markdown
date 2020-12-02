@@ -33,6 +33,15 @@ DC SCORES has been around since 1994, and we know that we wouldn’t still be he
 ## Giving Tuesday Now Elbow Bumps
 
 **(Name, donation time)** <br>
+Andrew Bolton, 9:19pm <pr>
+Michael Wagener, 9:15pm <br>
+Michael Majcen, 9:13pm <br>
+Geoffrey Okpych, 9:12pm <br>
+Marie Okpych, 9:11pm <br>
+Jonathan Gowdy, 9:10pm <br>
+Olive Okpych, 9:08pm <br>
+Chris Okpych, 9:08pm <br>
+Emma Okpych, 9:07PM <br>
 Debra Clark, 9:05pm <br>
 Wally Okpych, 9:03pm <br>
 Anonymous, 9:01pm <br>
