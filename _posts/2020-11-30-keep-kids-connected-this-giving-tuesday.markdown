@@ -33,6 +33,10 @@ DC SCORES has been around since 1994, and we know that we wouldn’t still be he
 ## Giving Tuesday Now Elbow Bumps
 
 **(Name, donation time)** <br>
+Chip Lohmeyer, 11:16pm <br>
+David Barritt-Flatt, 11:06pm <br>
+Jason Kling, 11:05pm <br>
+Allegra Yancey, 11:03pm <br>
 Marisa Joelson, 10:53pm <br>
 Emily Thompson, 10:53pm <br>
 Erin Hill, 10:53pm <br>
