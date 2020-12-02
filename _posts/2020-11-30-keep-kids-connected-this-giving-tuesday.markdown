@@ -33,6 +33,9 @@ DC SCORES has been around since 1994, and we know that we wouldn’t still be he
 ## Giving Tuesday Now Elbow Bumps
 
 **(Name, donation time)** <br>
+Jean-Philippe Fauchet, 7:06pm <br>
+Deborah Eckbreth, 7:05pm <br>
+Steven Riggins, 7:05pm <br>
 Sarah Martz, 7:02pm <br>
 Laurel Booth, 7:01pm <br>
 Bashar Jarrar, 6:47pm <br>
