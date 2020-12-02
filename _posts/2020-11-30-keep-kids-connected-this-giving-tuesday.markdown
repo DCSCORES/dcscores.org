@@ -33,6 +33,7 @@ DC SCORES has been around since 1994, and we know that we wouldn’t still be he
 ## Giving Tuesday Now Elbow Bumps
 
 **(Name, donation time)** <br>
+Tim Spear, 7:14pm <br>
 Shelly Gray, 7:09pm <br>
 David Owens, 7:07pm <br>
 Takita Battle, 7:07pm <br>
