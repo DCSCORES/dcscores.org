@@ -33,6 +33,9 @@ DC SCORES has been around since 1994, and we know that we wouldn’t still be he
 ## Giving Tuesday Now Elbow Bumps
 
 **(Name, donation time)** <br>
+Sarah Martz, 7:02pm <br>
+Laurel Booth, 7:01pm <br>
+Bashar Jarrar, 6:47pm <br>
 Anonymous, 6:40pm <br>
 Karl Schwenkmeyer, 6:39pm <br>
 Robert Warshaw, 6:24pm <br>
