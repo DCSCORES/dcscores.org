@@ -33,6 +33,8 @@ DC SCORES has been around since 1994, and we know that we wouldn’t still be he
 ## Giving Tuesday Now Elbow Bumps
 
 **(Name, donation time)** <br>
+Wally Okpych, 9:03pm <br>
+Anonymous, 9:01pm <br>
 Jane Stevens, 8:56pm <br>
 Pamela Roberts, 8:53pm <br>
 Chelsey Berlin, 8:53pm <br>
