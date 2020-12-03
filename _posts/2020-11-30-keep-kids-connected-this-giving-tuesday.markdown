@@ -33,6 +33,8 @@ DC SCORES has been around since 1994, and we know that we wouldn’t still be he
 ## Giving Tuesday Now Elbow Bumps
 
 **Post Giving Tuesday** <br>
+Matt Poole, (Dec. 3, 11:56am) <br>
+Jerry Bostelman, (Dec. 3, 10:51am) <br>
 Christa Machado, (Dec. 2, 4:50pm) <br> 
 Linda Munich, (Dec. 2, 10:54am) <br>
 Christian Allen, (Dec. 2, 3:07am) <br>
