@@ -36,6 +36,8 @@ DC SCORES has been around since 1994, and we know that we wouldn’t still be he
 Anonymous, (Dec. 6, 10:42am) <br>
 Kevin Parker, (Dec. 5, 5:00pm) <br>
 Carter Tipton, (Dec. 5, 1:41pm) <br>
+Sue Ellis, (Dec. 4, 9:59pm) <br>
+Anonymous, (Dec. 3, 10:20pm) <br>
 Nancy Bagot, (Dec. 3, 2:17pm) <br>
 Matt Poole, (Dec. 3, 11:56am) <br>
 Jerry Bostelman, (Dec. 3, 10:51am) <br>
