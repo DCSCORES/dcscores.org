@@ -1,6 +1,7 @@
 ---
 title: Keep kids connected this Giving Tuesday
 date: 2020-11-25 21:15:00 Z
+position: 1
 Image: "/uploads/Website%20Carousel-3539e4.png"
 Link: https://www.givelocaltogether.org/team/dcscores
 ---

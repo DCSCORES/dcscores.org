@@ -1,7 +1,8 @@
 ---
 title: Shop for a good cause
 date: 2020-12-07 14:50:00 Z
-Image: "/uploads/Holiday%20Silent%20Auction%20Banner%20(2).png"
+position: 0
+Image: "/uploads/Holiday%20Silent%20Auction%20Banner.png"
 Link: https://e.givesmart.com/events/jH5/
 ---
 
