@@ -33,6 +33,9 @@ DC SCORES has been around since 1994, and we know that we wouldn’t still be he
 ## Giving Tuesday Now Elbow Bumps
 
 **Post Giving Tuesday** <br>
+Anonymous, (Dec. 6, 10:42am) <br>
+Kevin Parker, (Dec. 5, 5:00pm) <br>
+Carter Tipton, (Dec. 5, 1:41pm) <br>
 Nancy Bagot, (Dec. 3, 2:17pm) <br>
 Matt Poole, (Dec. 3, 11:56am) <br>
 Jerry Bostelman, (Dec. 3, 10:51am) <br>
