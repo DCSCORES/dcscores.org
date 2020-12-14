@@ -9,6 +9,7 @@ League Champions:
 - D.C. United
 - Learn24
 - U.S. Soccer Foundation
+- Washington Spirit
 Team Champions:
 - Bender Foundation
 - Diplomat Group
@@ -49,12 +50,16 @@ MVP Champions:
 - The Cadmus Group
 - Carl Kravitz and Elizabeth Werner
 - Clark Construction
+- Clark-Winchcole Foundation
 - EagleBank
 - Emagine IT
 - Enlightenment Capital
+- Events DC
 - EverWatch
+- Expression Networks
 - The D'Angelo Family Charitable Trust
 - George Preston Marshall Foundation
+- Google
 - Herb Block Foundation
 - IntelliBridge
 - Kathryn Kincaid and Michael Lainoff
@@ -68,19 +73,23 @@ MVP Champions:
 - Panasonic Foundation
 - Qatar-America Institute
 - RSM US LLP
+- Safeway
 - Serve DC -Volunteer Generation Fund
 - Share Fund
 - 'Stephen & Jean Kaplan '
 - Strada
 - The Strong Family
+- T-Rex Corporation
 - Telos
 - U.Group
 - Venable Foundation
+- Verizon
 - Washington Nationals Delta Dream Fund
 - World Bank Community Outreach Program
 Fans:
 - 1901 Group
 - All-Purpose Pizzeria
+- Arlene Selber
 - Array Information Technology
 - Atlantic Media
 - Avascent
@@ -88,11 +97,9 @@ Fans:
 - Birk Family Foundation
 - Capgemini
 - CapX Solutions
-- Coca-Cola
-- Katherine and David Bradley
 - Center for Nonprofit Advancement
-- CenturyLink
-- Chipotle
+- Citibank
+- Coca-Cola
 - Corina Higginson Trust
 - Corporate Office Properties Trust
 - Cresa
@@ -107,10 +114,12 @@ Fans:
 - George Wasserman Family Foundation
 - Goulston & Storrs PC
 - Grant Thornton LLP
+- IntelliBridge
 - Jones Lang LaSalle America Inc
 - JP Construction
 - Katherine Brittain Bradley
 - Kirkland & Ellis LLP
+- The Krone Foundation
 - Leidos
 - Lisa Koteen Gerchick
 - Lockton
@@ -119,12 +128,10 @@ Fans:
 - Modified Construction
 - MorganFranklin
 - Morrison & Foerster Foundation
-- Merrill Lynch
 - Porter Family Charitable
 - PWC
 - Risa Fund
 - Rockefeller Philanthropy Advisors
-- Safeway
 - Screaming Eagles
 - Seattle Foundation
 - Shapiro Foundation
@@ -132,21 +139,26 @@ Fans:
 - System High Corporation
 - TD Bank
 - Turner Construction
+- United Planning Organization
 - VariQ
 - Vidoori Inc
-- Walmart
 - W.R. Berkley Corporation
+- Walmart
 - Wiley Rein LLP
 - Williams & Connolly LLP
 - Zuckerman Spaeder LLP
+- Women's Sports Foundation
 Supporters:
 - Aronson Foundation
 - The Capitol Hill Community Foundation
+- DC Spurs
 - Howard and Geraldine Polinger Family Foundation
 - Jacob & Charlotte Lehrman Foundation
 - Karen C. Bates Fund
 - Meltzer Group Employee Giving Fund
 - Nora Roberts Foundation
+- Red Devils DC
+- RTI International
 - Steve & Gail Bartlett
 - Vectrus
 In Kind:
@@ -165,6 +177,7 @@ In Kind:
 - 'Screaming Eagles '
 - Studio Theatre
 - Volkswagen Group of America
+- Washington Spirit
 Matching Gifts:
 - Bill & Melinda Gates Foundation
 - Capital Group
