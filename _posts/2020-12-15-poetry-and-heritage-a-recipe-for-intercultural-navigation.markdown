@@ -88,6 +88,6 @@ Yanina explores the multiple existential strands that make up the fabric of her 
 *I better not try to speak in America because they’ll tell me to speak English* <br>
 *But they forget their colonizers also stripped this country from their native tongue* <br>
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/yXwhcEl7DoY?start=3089" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> ***Yanina performs "Español" during a speaker guest series with Jason Reynolds in 2020*** 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yXwhcEl7DoY?start=3089" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> ***Yanina performs 'Español' during a speaker guest series with Jason Reynolds in 2020*** 
 
 Yanina’s poem ‘Español’ is about the struggle with her identity in the current American cultural climate. She tells me that she’s living in two worlds, but in one space. Culturally she says “I shine Latina. I speak, breathe, sleep Latina”. Born in the U.S. with Salvadoran parents, her roots travel far back to indigenous and European links. She’s a plethora of identities and that’s what makes her so unique. 
