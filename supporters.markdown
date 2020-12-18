@@ -21,11 +21,10 @@ Team Champions:
 - Office of the Deputy Mayor for Planning and Economic Development
 - Philip L. Graham Fund
 - Ralph S. and Frances R. Dweck Family Foundation, Inc.
-- Target
 - 'Wells Fargo Foundation '
 Scoring Champions:
+- Amazon
 - Audi of America
-- Capital for Children
 - Crimsonbridge Foundation
 - D.C. Commission on the Arts and Humanities
 - District Sports
@@ -36,18 +35,14 @@ Scoring Champions:
 - The John G. and Jean R. Gosnell Foundation
 - Junior League of Washington
 - Klausner Family
-- New Jersey and H St. Educational Foundation
-- O'Neill Foundation
-- Pepco/Exelon
-- Richard E. and Nancy P. Marriott Foundation
+- PwC
 - streetfootballworld
 - Volkswagen Group of America, Inc.
 MVP Champions:
 - Akin, Gump, Strauss, Hauer & Feld, LLP
 - Arent Fox LLP
-- Arnold & Porter LLP
 - Blank Rome LLP
-- The Cadmus Group
+- Capital for Children
 - Carl Kravitz and Elizabeth Werner
 - Clark Construction
 - Clark-Winchcole Foundation
@@ -57,7 +52,6 @@ MVP Champions:
 - Events DC
 - EverWatch
 - Expression Networks
-- The D'Angelo Family Charitable Trust
 - George Preston Marshall Foundation
 - Google
 - Herb Block Foundation
@@ -71,16 +65,12 @@ MVP Champions:
 - The Morningstar Foundation
 - Nike
 - Panasonic Foundation
-- Qatar-America Institute
 - RSM US LLP
 - Safeway
 - Serve DC -Volunteer Generation Fund
 - Share Fund
-- 'Stephen & Jean Kaplan '
-- Strada
 - The Strong Family
 - T-Rex Corporation
-- Telos
 - U.Group
 - Venable Foundation
 - Verizon
@@ -90,16 +80,15 @@ Fans:
 - 1901 Group
 - All-Purpose Pizzeria
 - Arlene Selber
+- Arnold & Porter LLP
 - Array Information Technology
 - Atlantic Media
 - Avascent
 - BDO
 - Birk Family Foundation
 - Capgemini
-- CapX Solutions
 - Center for Nonprofit Advancement
 - Citibank
-- Coca-Cola
 - Corina Higginson Trust
 - Corporate Office Properties Trust
 - Cresa
@@ -107,56 +96,39 @@ Fans:
 - Deloitte
 - Devin and Lauren Talbott
 - Dimick Foundation
-- Dockser Family Foundation
-- Donations in memory of Lawrence "Smith" Norton, III
-- Eileen Shields-West (Concordia Foundation)
 - EverFi
 - George Wasserman Family Foundation
 - Goulston & Storrs PC
 - Grant Thornton LLP
 - IntelliBridge
-- Jones Lang LaSalle America Inc
 - JP Construction
 - Katherine Brittain Bradley
 - Kirkland & Ellis LLP
 - The Krone Foundation
 - Leidos
-- Lisa Koteen Gerchick
-- Lockton
 - Marriott
-- McLean Group
 - Modified Construction
 - MorganFranklin
 - Morrison & Foerster Foundation
 - Porter Family Charitable
-- PWC
 - Risa Fund
-- Rockefeller Philanthropy Advisors
 - Screaming Eagles
-- Seattle Foundation
-- Shapiro Foundation
-- Strategic Enterprise Solutions
 - System High Corporation
 - TD Bank
 - Turner Construction
 - United Planning Organization
-- VariQ
-- Vidoori Inc
-- W.R. Berkley Corporation
 - Walmart
 - Wiley Rein LLP
 - Williams & Connolly LLP
-- Zuckerman Spaeder LLP
 - Women's Sports Foundation
+- Zuckerman Spaeder LLP
 Supporters:
-- Aronson Foundation
 - The Capitol Hill Community Foundation
 - DC Spurs
 - Howard and Geraldine Polinger Family Foundation
 - Jacob & Charlotte Lehrman Foundation
 - Karen C. Bates Fund
 - Meltzer Group Employee Giving Fund
-- Nora Roberts Foundation
 - Red Devils DC
 - RTI International
 - Steve & Gail Bartlett
@@ -165,27 +137,25 @@ In Kind:
 - Afterschool Alliance
 - Artemis Ward
 - Audi of America
-- Avascent
+- Busboys and Poets
 - D.C. United
+- District Sports
 - DrinkMore Water
 - Hunt4Soccer
 - Junior League of Washington
 - Leveling the Playing Field
+- Levick PR
 - Manchester United
 - McKinsey & Company
 - Mitre
 - 'Screaming Eagles '
 - Studio Theatre
+- Taproot
 - Volkswagen Group of America
 - Washington Spirit
 Matching Gifts:
-- Bill & Melinda Gates Foundation
-- Capital Group
-- Exelon
-- International Monetary Fund
-- Liberty Mutual
-- Monsanto
 - Microsoft
+- Monsanto
 - Network for Good
 - The Pew Charitable Trusts
 - PricewaterhouseCoopers LLP
@@ -198,9 +168,11 @@ League Of Champions:
 - Eric Adler
 - Joe Beninati
 - Alex Bearman
+- Keith Boyea
 - Steve Brown
 - Jay Carmel
 - Elle Carne
+- Leeza Constantoulakis
 - Mark Cowan
 - David Crespo
 - Dean D'Angelo
@@ -208,15 +180,16 @@ League Of Champions:
 - Jason Finney
 - Kemba Ford
 - Tony Francavilla
+- Thomas Francisco
 - Brad Hawkins
 - Ben Hsieh
 - Laurie Gonzalez
 - Lisa Koteen Gerchick
 - Sandy Glick
 - Sam Klausner
-- Ian Kline
 - Debra Kushma
 - Sara Kushma
+- Carlo Leboffe
 - Matt Lindsay
 - Traci Lee
 - Peter Loge
@@ -228,11 +201,10 @@ League Of Champions:
 - Walter Okpych
 - Tim Preotle
 - Chris Richardson
-- Arlene Selber and Wayne Anmuth
+- Arlene Selber
 - David Shams
 - 'Dan Theisen '
 - Valerie Utsey
-- Erich Walizer
 - Zach Warren
 - Jeff Werner
 layout: supporters
