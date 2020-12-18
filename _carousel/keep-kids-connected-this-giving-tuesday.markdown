@@ -2,7 +2,7 @@
 title: Thank you for keeping kids connected!
 date: 2020-11-25 21:15:00 Z
 position: 1
-Image: "/uploads/Website%20Carousel%20(1)-7fbbbb.png"
+Image: "/uploads/Website%20Carousel-12f294.png"
 Link: https://www.dcscores.org/blog/2020/11/keep-kids-connected-this-giving-tuesday
 ---
 
