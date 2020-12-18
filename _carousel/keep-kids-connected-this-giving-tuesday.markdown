@@ -1,9 +1,9 @@
 ---
-title: Keep kids connected this Giving Tuesday
+title: Thank you for keeping kids connected!
 date: 2020-11-25 21:15:00 Z
 position: 1
-Image: "/uploads/Website%20Carousel-3539e4.png"
-Link: https://www.givelocaltogether.org/team/dcscores
+Image: "/uploads/Website%20Carousel%20(1)-7fbbbb.png"
+Link: https://www.dcscores.org/blog/2020/11/keep-kids-connected-this-giving-tuesday
 ---
 
-This Giving Tuesday, December 1st, please show your support for kids in DC by donating to DC SCORES. For more than 2,700 poet-athletes, DC SCORES provides the space they need during the ongoing pandemic to feel connected to others.
+Thanks to over 400 individual donors and a matching gift from Amazon, we raised over $90,000 for DC SCORES poet-athletes!
