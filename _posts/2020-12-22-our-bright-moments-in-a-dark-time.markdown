@@ -36,7 +36,7 @@ This year’s celebrity guest speakers included:
 * **Moses Nyeman** – D.C. United Homegrown player
 * **Kevin Paredes** – D.C. United Homegrown player
 * **Griffin Yow** – D.C. United Homegrown player
-* **Herculez Gomez **– ESPN commentator and former U.S. Men’s National Team player
+* **Herculez Gomez ** – ESPN commentator and former U.S. Men’s National Team player
 * **Sebastian Salazar** – ESPN Host-Anchor-Reporter and DC SCORES coach
 * **Crystal Dunn** – U.S. Women's National Team and Portland Thorns FC player
 * **Jason Reynolds** – Best-selling author and National Ambassador for Young People's Literature
