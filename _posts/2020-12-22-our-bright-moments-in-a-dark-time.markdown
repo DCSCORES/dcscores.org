@@ -27,7 +27,7 @@ February 2020 seems so long ago but we all remember it fondly because of [*Our W
 
 This year’s *Our Words Our City* celebrated the past, present, and future of DC SCORES with 16 poet-athletes and alumni taking the stage, alongside professional spoken word artists, including featured poet of the event and longtime supporter, [Clint Smith](http://www.clintsmithiii.com/).
 
-Later in April, which is National Poetry Month, we hosted our first-ever live virtual event called *Our Words Our City LIVE*, which celebrated the Amazon Prime Video debut of the showcase. In addition to the recorded showcase, the event featured live commentary from teaching artists that performed in the event, including Marjan Naderi and Jacob Mayberry, and special poetry performances from **Washington Spirit** and **D.C. United players**. 
+Later in April, which is National Poetry Month, we hosted our first-ever live virtual event called *Our Words Our City LIVE*, which celebrated the [Amazon Prime Video](https://www.amazon.com/Our-Words-City/dp/B07XM99Q64/ref=sr_1_1?crid=16IEWTCR8DSBI&dchild=1&keywords=our+words+our+city&qid=1608663647&sprefix=our+words+our%2Caps%2C139&sr=8-1) debut of the showcase. In addition to the recorded showcase, the event featured live commentary from teaching artists that performed in the event, including Marjan Naderi and Jacob Mayberry, and special poetry performances from **Washington Spirit** and **D.C. United players**. 
 
 Both the live and virtual *Our Words Our City* events are best described by host committee member Hiram Larew, “A memory-making evening. Thanks to all the magicians who made it shine.”
 
