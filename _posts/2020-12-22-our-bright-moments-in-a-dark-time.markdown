@@ -19,6 +19,18 @@ We hope you enjoy taking a look back at our top 10 favorite moments (in no parti
 
 ---
 
+### 3. Our Words Our City
+
+![49521414696_bcc77fb2aa_k-f6238a.jpg](/uploads/49521414696_bcc77fb2aa_k-f6238a.jpg)
+
+February 2020 seems so long ago but we all remember it fondly because of [*Our Words Our City*](https://www.dcscores.org/blog/2020/02/magic-on-the-stage-during-our-words-our-city). Studio Theatre once again opened its doors for the sixth edition of this black box theater poetry showcase and it had a special aura to it as we continued celebrating our 25th anniversary.
+
+This year’s *Our Words Our City* celebrated the past, present, and future of DC SCORES with 16 poet-athletes and alumni taking the stage, alongside professional spoken word artists, including featured poet of the event and longtime supporter, [Clint Smith](http://www.clintsmithiii.com/).
+
+Later in April, which is National Poetry Month, we hosted our first-ever live virtual event called *Our Words Our City LIVE*, which celebrated the Amazon Prime Video debut of the showcase. In addition to the recorded showcase, the event featured live commentary from teaching artists that performed in the event, including Marjan Naderi and Jacob Mayberry, and special poetry performances from **Washington Spirit** and **D.C. United players**. 
+
+Both the live and virtual *Our Words Our City* events are best described by host committee member Hiram Larew, “A memory-making evening. Thanks to all the magicians who made it shine.”
+
 ### 2. Celebrity Guest Speaker Series
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/yXwhcEl7DoY" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
