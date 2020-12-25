@@ -18,6 +18,19 @@ As we anticipate the arrival of a new year that we all hope brings us a step clo
 We hope you enjoy taking a look back at our top 10 favorite moments (in no particular order)!
 
 ---
+### 4. Washington Spirit
+
+![50324423896_da611fa52c_k.jpg](/uploads/50324423896_da611fa52c_k.jpg)
+
+We finally made it official with the Washington Spirit! In the spring, National Women’s Soccer League club the Washington Spirit, and DC SCORES, [announced a multi-year deal](https://www.dcscores.org/blog/2020/04/washington-spirit-and-dc-scores-announce-long-term-community-partnership) making us an official community partner of the team.
+
+This special partnership is modeled after our [affiliation with D.C. United](https://www.dcscores.org/about-us/dc-united/), with the goals of growing the number of girls in the region who play soccer, giving female DC SCORES soccer players more opportunities to see and work with professional female role models, and providing Spirit players more opportunities for local, team-related community service, and increase awareness and visibility of the Spirit and its impact in the DC community.
+
+The Spirit have really shown up for our poet-athletes in a variety of ways this year. From volunteering to pack hundreds of equipment kits in the summer at Audi Field to popping in as special guests during virtual programming.
+
+There were also so many unique opportunities the Spirit found to support us financially this year. During their participation in the NWSL Fall Series tournament, they picked DC SCORES as their beneficiary for their [Verizon Community Shield](https://www.nwslsoccer.com/news/article/national-womens-soccer-league-announces-winner-of-verizon-community-shield) success. They also teamed up with Events DC and DC SCORES to host a special drive-in Spirit game watch party, with ticket sales benefitting our program.
+
+Everyone part of the Washington Spirit organization have been great advocates for DC SCORES, but this year we have to give a special shout out to players **Paige Nielsen** and **Ashley Hatch**, who constantly look for ways to be involved with our poet-athletes and have hosted cleat donations and even [donated goal bonuses](https://www.deseret.com/sports/2020/6/27/21304846/former-byu-star-ashley-hatch-pledges-donations-from-nwsl-earnings-to-support-black-communities) to our mission.
 
 ### 3. Our Words Our City
 
