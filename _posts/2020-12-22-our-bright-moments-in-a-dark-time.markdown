@@ -18,6 +18,24 @@ As we anticipate the arrival of a new year that we all hope brings us a step clo
 We hope you enjoy taking a look back at our top 10 favorite moments (in no particular order)!
 
 ---
+
+### 5. Poet-Athlete Kits
+
+![50093851378_937b86b4d8_o.jpg](/uploads/50093851378_937b86b4d8_o.jpg)
+
+One of our goals when planning the virtual season was to eliminate as many participation barriers as possible. Some of those barriers simply come down to not having the equipment and supplies necessary to participate.
+
+In preparation for our summer camp and fall season, DC SCORES staff and volunteers **packed up and mailed over 2,000 [poet-athlete kits](https://www.flickr.com/photos/dcscorespictures/albums/72157715830188717)**. Each kit had everything participants would need to fully participate in programming: DC SCORES t-shirt and mask, soccer ball, disc cones, hand pump, water bottle, pencils, journal and more!
+
+Packing all those kits in the middle of the summer at Audi Field wouldn’t have been possible without the help of incredible volunteers that showed up to do their part in bringing DC SCORES to the homes of our poet-athletes. All of our volunteers contributed in such a meaningful way and two volunteers in particular, **Laurie Gonzalez** and **Kemba Ford** – both Advisory Council members – really shined for their commitment and coming out in full force.
+
+
+Gonzalez, who works with one of our longtime partners – Deloitte, and is a member of the D.C. United supporters group – Screaming Eagles, stopped by our packing assembly line on multiple occasions to help in any way she could to get the kits out to kids ASAP. Ford made a huge difference by cutting down our packing and shipping time tremendously by bringing some of her sorority sisters from Delta Sigma Theta – Federal City Alumnae Chapter. 
+
+Throughout the summer and fall, the DC SCORES team worked with coaches to plan numerous equipment kit drop-offs at schools so even if kits got lost in the mail, poet-athletes could still get everything necessary to participate.
+
+Along with mailing kits, the DC SCORES staff also mailed out [SCORES Rewards](https://rewards.dcscores.org/home) – a collection of rewards kids can collect by accomplishing certain tasks during the season like perfect attendance, 200 touches on a ball, and so on. Kids not only got the opportunity to receive fresh DC SCORES gear mailed to their house, but they also contributed to team goals for special prizes like celebrity special guests drop-ins during their practice!
+
 ### 4. Washington Spirit
 
 ![50324423896_da611fa52c_k.jpg](/uploads/50324423896_da611fa52c_k.jpg)
