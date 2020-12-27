@@ -21,6 +21,8 @@ We hope you enjoy taking a look back at our top 10 favorite moments (in no parti
 
 ### 6. Summer SCORES
 
+![(TW) 2020 Brightest Moments (6).png](/uploads/(TW)%202020%20Brightest%20Moments%20(6).png)
+
 Since in-person camps were not permitted under DC’s reopening guidelines this year, summer SCORES went virtual!
 
 SCORES at Home Summer Camps served more than 550 kids and ran from June 22nd to July 24th. This special edition of camp was open to all kids in rising grades 1-9 and included a combination of guided activities and live sessions, and like always, was completely FREE. The summer camps were created with SCORES participants in-mind (emphasizing our values of teamwork, leadership, and commitment), but were appropriate for, and open to, all kids, even those outside of DC. 
