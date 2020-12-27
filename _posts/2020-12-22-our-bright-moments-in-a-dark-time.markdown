@@ -19,6 +19,14 @@ We hope you enjoy taking a look back at our top 10 favorite moments (in no parti
 
 ---
 
+### 6. Summer SCORES
+
+Since in-person camps were not permitted under DC’s reopening guidelines this year, summer SCORES went virtual!
+
+SCORES at Home Summer Camps served more than 550 kids and ran from June 22nd to July 24th. This special edition of camp was open to all kids in rising grades 1-9 and included a combination of guided activities and live sessions, and like always, was completely FREE. The summer camps were created with SCORES participants in-mind (emphasizing our values of teamwork, leadership, and commitment), but were appropriate for, and open to, all kids, even those outside of DC. 
+
+The summer also hosted an additional camp tailored for our participants that wanted to hone their poetry skills. The first-ever Our Words Our City camp included daily sessions catered to improving the campers writing and performance abilities. Campers also had the incredible opportunity to participate in workshops led by amazing spoken word artists like World Poetry Slam Champion, [Porsha O](http://www.porshaolayiwola.com/bio) and award-winning poet and actor, [Carvens Lissaint](https://www.carvenslissaint.com/about), who starred as George Washington in the Tony Award-winning musical HAMILTON. Additionally, every writing camp participant was supplied with an iPad thanks to a generous DC SCORES supporter!
+
 ### 5. Poet-Athlete Kits
 
 ![50093851378_937b86b4d8_o.jpg](/uploads/50093851378_937b86b4d8_o.jpg)
