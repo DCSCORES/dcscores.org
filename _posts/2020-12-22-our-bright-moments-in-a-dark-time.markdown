@@ -19,6 +19,22 @@ We hope you enjoy taking a look back at our top 10 favorite moments (in no parti
 
 ---
 
+### 7. Racial Equity
+
+![Screen Shot 2020-12-28 at 11.58.33 AM.png](/uploads/Screen%20Shot%202020-12-28%20at%2011.58.33%20AM.png)
+
+While this has been an incredibly trying time for all, DC SCORES’ commitment to provide safe spaces and opportunities for our poet-athletes to raise their voices and act to drive positive change has only gotten stronger. In fact, for our entire 26-year existence, DC kids have leveraged DC SCORES’ poetry and service-learning program components to publicly speak up about and advocate for racial justice and police reform.
+ 
+In the summer, camp writing activities had a special emphasis on racial equity, encouraging kids to share their thoughts, fears, feelings, and hopes in light of the tragic murders of George Floyd, Ahmaud Arbery, Breonna Taylor, and far too many other Black people in our country. 
+
+As we navigate the continually changing landscape wrought by the pandemic and racial injustices, the lessons we’ve learned during this most unique spring have only strengthened our resolve to ensure that the voice of every child in DC is heard and that they all have a safe, supportive team to call their own.
+
+Our staff has also been active in advocating for racial equity, in particular, DC SCORES Director of Creative Arts and Education [Charity Blackwell](https://www.dcscores.org/about-us/leadership/charity-blackwell). Blackwell has spoken publicly about the importance of racial equity, including on special podcast episodes with our official community partners, [D.C. United](https://youtu.be/hlra_z9Q_ZU) and the [Washington Spirit](https://youtu.be/CWAO3m2P7hQ). 
+
+Members of the DC SCORES staff, Board of Directors and Advisory Council have also formed a racial equity task force to establish strategic goals and policies with an explicit racial equity lens.
+DC SCORES recognizes the importance of the opinions of our coaches, families and participants and with that in mind, we’ve established community councils for each group. Every council will include a diverse group of members that represent all races, genders, and DC wards where DC SCORES is present.
+
+
 ### 6. Summer SCORES
 
 ![(TW) 2020 Brightest Moments (6).png](/uploads/(TW)%202020%20Brightest%20Moments%20(6).png)
