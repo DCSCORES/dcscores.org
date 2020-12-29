@@ -19,11 +19,25 @@ We hope you enjoy taking a look back at our top 10 favorite moments (in no parti
 
 ---
 
+### 8. D.C. United
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6L7Uk2G3N5U" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+A constant for DC SCORES in a time that seems like it’s constantly changing is the crucial support we get from D.C. United. Year after year, United show up for poet-athletes in new and exciting ways and 2020 was no different. 
+
+To start off, sending thousands of equipment kits to our participants was only possible with the help of United staff and the space availability of Audi Field. And while Audi Field couldn’t host us in-person for games this season, they made sure poet-athletes from **Amidon-Bowen Elementary School** and **Jefferson Middle School Academy** were present in the stands through their fan cut-out program.
+
+Even in the virtual world, United players made sure to still be present and involved in programming. In the summer, D.C. United players [Bill Hamid and Chris Odoi-Astem](https://youtu.be/gqhaBySkibU) and eSports athlete, [Mohamed “KingCJ0” Alioune Diop](https://youtu.be/vxjx3J2zcnM) made special appearances for DC SCORES camp participants. Later in the fall, Edison Flores surprised the poet-athletes of Bancroft Elementary School with a [Q&A session](https://youtu.be/6L7Uk2G3N5U) completely in Spanish to celebrate Hispanic Heritage Month. Lastly, former head coach Ben Olsen and homegrown players Moses Nyeman, Kevin Paredes, and Griffin Yow, kicked off the [Celebrity Guest Speaker Series](https://youtu.be/fMEwQSZbSQQ) again in the fall.
+
+Although we were not able to celebrate the holidays together like usual, DC SCORES and D.C. United still teamed up together to make a difference by donating over 200 soccer balls to Toys for Tots!
+
+![IMG_2142.jpeg](/uploads/IMG_2142.jpeg)
+
 ### 7. Racial Equity
 
 ![Screen Shot 2020-12-28 at 11.58.33 AM.png](/uploads/Screen%20Shot%202020-12-28%20at%2011.58.33%20AM.png)
 
-While this has been an incredibly trying time for all, DC SCORES’ commitment to provide safe spaces and opportunities for our poet-athletes to raise their voices and act to drive positive change has only gotten stronger. In fact, for our entire 26-year existence, DC kids have leveraged DC SCORES’ poetry and service-learning program components to publicly speak up about and advocate for racial justice and police reform.
+While this has been an incredibly trying time for all, DC SCORES’ commitment to providing safe spaces and opportunities for our poet-athletes to raise their voices and act to drive positive change has only gotten stronger. In fact, for our entire 26-year existence, DC kids have leveraged DC SCORES’ poetry and service-learning program components to publicly speak up about and advocate for racial justice and police reform.
  
 In the summer, camp writing activities had a special emphasis on racial equity, encouraging kids to share their thoughts, fears, feelings, and hopes in light of the tragic murders of George Floyd, Ahmaud Arbery, Breonna Taylor, and far too many other Black people in our country. 
 
