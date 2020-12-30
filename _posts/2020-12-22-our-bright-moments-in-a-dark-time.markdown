@@ -19,6 +19,18 @@ We hope you enjoy taking a look back at our top 10 favorite moments (in no parti
 
 ---
 
+9. Teaching Artists
+
+![49521603892_6a7453ef32_k.jpg](/uploads/49521603892_6a7453ef32_k.jpg)
+*Marjann Naderi, D.C. Youth Poet Laureate at Our Words Our City*
+
+Even during normal times, DC SCORES writing coaches are supported by professional teaching artists. Through our partnership with **Busboys and Poets**, our kids learn from and perform alongside some of the most accomplished spoken word poets in the DMV.
+
+One of the opportunities we are able to take advantage of while we are all virtual is the inclusion of high profile guests in our sessions. It’s not every day that Women of the World poetry champions like [FreeQuency](https://youtu.be/pC8FKQi3Lp0) can just chat with DC SCORES poet-athletes on Zoom. It’s also not common for Marjann Naderi, D.C. Youth Poet Laureate, Carlynn Newhouse, third place winner of the Women of the World Poetry Slam, and Jacob Mayberry, National Poetry Slam winner, to work side by side with our writing coaches during their sessions for an entire fall season.
+	
+The video-enabled virtual space this fall allowed us to bring on teaching artists—who normally only work with our kids in the lead up to Poetry Slam—as regular weekly coaches. Marjan Naderi was a poetry coach at Bancroft Elementary School and Capital City Public Charter School, Busboys and Poets host Simply Sherri coached the middle schoolers at KIPP Key, and National Poetry Slam Champion Jacob Mayberry contributed to the Jefferson Middle School Academy coaching staff.
+
+
 ### 8. D.C. United
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/6L7Uk2G3N5U" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
