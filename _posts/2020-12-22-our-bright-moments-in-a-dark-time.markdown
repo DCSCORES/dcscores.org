@@ -19,7 +19,7 @@ We hope you enjoy taking a look back at our top 10 favorite moments (in no parti
 
 ---
 
-9. Teaching Artists
+### 9. Teaching Artists
 
 ![49521603892_6a7453ef32_k.jpg](/uploads/49521603892_6a7453ef32_k.jpg)
 *Marjann Naderi, D.C. Youth Poet Laureate at Our Words Our City*
