@@ -19,6 +19,21 @@ We hope you enjoy taking a look back at our top 10 favorite moments (in no parti
 
 ---
 
+### 10. Coaches
+ 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fG127IUlZsc" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+The foundation of our programming is our outstanding coaches.  We actually consider our writing and soccer coaches to be the [secret sauce of DC SCORES.](https://www.dcscores.org/blog/2020/07/the-special-sauce-our-coaches)
+
+As the confusion and fear in March gave way to the isolation of April, DC SCORES coaches were the glue holding their teams together. More than 100 coaches from 55 sites spent over 1,100 hours engaging their poet-athletes this spring. As a result, we were able to consistently engage with a substantial majority of our poet-athletes during the spring season, despite schools remaining physically closed. As a Leckie Education Campus coach said, “It’s good to see that the students miss soccer and writing. DC SCORES has such a positive impact on the kids that they look forward to actually engaging in virtual conversations.” 
+
+DC SCORES was founded by a teacher so the “teacher-coach” has been part of our model since the beginning, but it’s never been more important than it has this year. Our coaches are uniquely positioned to help us navigate the challenges distance learning poses on both our families and our schools, and they have been an invaluable resource helping us adapt and improve our virtual delivery to keep it effective, feasible, and relevant in a constantly changing education environment.
+
+To wrap up the fall season, one of the SCORE Rewards for poet-athletes was to show their appreciation for their coaches and the kids didn’t disappoint in showing their coaches some love. See an example below from Brightwood Education Campus!
+
+![Screen Shot 2020-12-31 at 12.35.30 PM.png](/uploads/Screen%20Shot%202020-12-31%20at%2012.35.30%20PM.png)
+
+
 ### 9. Teaching Artists
 
 ![49521603892_6a7453ef32_k.jpg](/uploads/49521603892_6a7453ef32_k.jpg)
