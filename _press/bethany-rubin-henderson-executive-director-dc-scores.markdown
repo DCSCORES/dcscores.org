@@ -1,7 +1,7 @@
 ---
 title: 'BETHANY RUBIN HENDERSON: EXECUTIVE DIRECTOR, DC SCORES'
 date: 2018-05-30 19:53:00 Z
-position: 28
+position: 32
 link: http://thenativesociety.com/tnspeak/bethany-rubin-henderson-executive-director-dc-scores.html
 source: The Native Society
 ---

@@ -3,7 +3,7 @@ title: 'Around Town: DC SCORES Poetry Slam!'
 date: 2017-12-18 18:57:00 Z
 tags:
 - Media
-position: 34
+position: 38
 link: http://washingtonlife.com/2017/11/20/around-town-dc-scores-poetry-slam/
 source: Washington Life
 ---
