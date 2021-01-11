@@ -2,6 +2,7 @@
 title: D.C. United players, staff paint ‘I Can’t Breathe’ and ‘BLM’ on Audi Field
   grass
 date: 2020-06-07 20:18:00 Z
+position: 2
 link: https://www.washingtonpost.com/sports/2020/06/07/dc-united-players-staff-paint-i-cant-breathe-blm-audi-field-grass/
 source: The Washington Post
 ---
