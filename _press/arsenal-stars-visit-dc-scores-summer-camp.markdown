@@ -1,7 +1,7 @@
 ---
 title: Arsenal stars visit DC SCORES summer camp
 date: 2019-07-23 16:23:00 Z
-position: 9
+position: 11
 link: https://www.arsenal.com/news/arsenal-stars-visit-dc-scores-summer-camp
 source: Arsenal Media
 ---
