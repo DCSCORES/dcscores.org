@@ -60,7 +60,7 @@ The rest is history. She was hooked on poetry as a medium and DC SCORES as a hom
 
 For the majority of Yanina’s life, she has been the voice for her family, especially her female family members who in difficult emotional situations, were often unable to communicate their true feelings as a result of language and social barriers.  
 
-The first performance where Yanina truly felt she had a voice and was being heard was at her first Our Words Our City, a live poetry showcase presented by DC SCORES.  She performed a poem called ‘Seven Years’ (watch her performance on Amazon Prime), which was about sexual assault and harassment experienced by someone close to her. After looking back at the footage of her performance, where a cameraman caught a woman crying from her words, Yanina was moved. Her poetry made that happen. She realised then, her words and her voice held acute emotional power. 
+The first performance where Yanina truly felt she had a voice and was being heard was at her first Our Words Our City, a live poetry showcase presented by DC SCORES.  She performed a poem called ‘Seven Years’ (watch her performance on [Amazon Prime](https://www.amazon.com/Our-Words-City/dp/B07XM99Q64)), which was about sexual assault and harassment experienced by someone close to her. After looking back at the footage of her performance, where a cameraman caught a woman crying from her words, Yanina was moved. Her poetry made that happen. She realised then, her words and her voice held acute emotional power. 
 
 *“This poem is dedicated to my cousin and to all of the survivors out there”*
 
