@@ -62,15 +62,12 @@ Please email support@dcscores.org.
 
 ## Special Events
 
-![Jamboree](/uploads/volunteer-jamboree-float-left-small.jpg)
 
 ### Jamboree
 
 The culminating event of the DC SCORES programming year, filled with soccer games, arts and crafts, and more for DC SCORES students and their families.
 
 ---
-
-![DC SCORES Cup](/uploads/volunteer-scores-cup-float-right.jpg)
 
 ### [DC SCORES Cup](https://www.dcscorescup.org/)
 
@@ -88,8 +85,6 @@ We will open applications for the summer in April 2021.
 
 ---
 
-![31489189858_cb8056211c_k (1)-ee5127.jpg](/uploads/31489189858_cb8056211c_k%20(1)-ee5127-float-left.jpg)
-
 ### [Fall Frenzy](https://www.dcscores.org/fallfrenzy/)
 
 A day-long celebration of our fall season that includes soccer games and outdoor activities for our elementary school students and their families.
@@ -101,8 +96,6 @@ A day-long celebration of our fall season that includes soccer games and outdoor
 **Want to get involved?** Volunteer information will be released in August 2020.
 
 ---
-
-![45282035134_72eef144e3_k (1).jpg](/uploads/45282035134_72eef144e3_k%20(1).jpg)
 
 ### Poetry Slam
 
