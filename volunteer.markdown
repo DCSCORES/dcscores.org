@@ -25,10 +25,7 @@ Thursdays (Elementary) from 3:45pm to 6pm. <br>
 At <a href="/our-program/program-sites/" target="_blank">sites</a> throughout DC. We will do our best to place you based on your location and mode of transportation.
 
 **Schedule**
-Spring SCORES games are currently suspended. Please check out our [Coronavirus (COVID-19) page](https://parents.dcscores.org/covid-19) with the most current information about our operational status.
-
-**Want to get involved?**
-[Fill out the Spring 2020 Volunteer Referee Application!](https://forms.gle/cGaDouzKyLrqQ16X6)
+DC SCORES games are currently suspended. Please check out our [Coronavirus (COVID-19) page](https://parents.dcscores.org/covid-19) with the most current information about our operational status.
 
 ---
 
@@ -51,7 +48,6 @@ Assistant coaches are able to sign up for soccer and/or writing programming. Soc
 3. Start coaching!
 
 **When:**
-
 Weekdays between 3-6 PM. Exact times vary across each site.
 
 **Where:**
@@ -72,10 +68,6 @@ Please email support@dcscores.org.
 
 The culminating event of the DC SCORES programming year, filled with soccer games, arts and crafts, and more for DC SCORES students and their families.
 
-**Date:** Saturday, May 30, 2020 (elementary) and Saturday, June 6, 2020 (middle)
-
-**Location:** The Fields at RFK Campus
-
 ---
 
 ![DC SCORES Cup](/uploads/volunteer-scores-cup-float-right.jpg)
@@ -83,12 +75,6 @@ The culminating event of the DC SCORES programming year, filled with soccer game
 ### [DC SCORES Cup](https://www.dcscorescup.org/)
 
 Our largest fundraiser – an annual adult soccer tournament made up of local companies, law firms, small businesses and soccer organizations. Volunteer roles include setup/breakdown, registration, field marshals, lunch servers, and photography.
-
-**Date:** Saturday, June 20, 2020
-
-**Where:** The Fields at RFK Campus
-
-**Want to get involved?:** Please check back in May 2020 to sign up to volunteer!
 
 ---
 
@@ -98,11 +84,11 @@ Our largest fundraiser – an annual adult soccer tournament made up of local co
 
 ## Summer Camp Counselor
 
-We will open applications for the summer in April 2020.
+We will open applications for the summer in April 2021.
 
 ---
 
-![31489189858_cb8056211c_k (1)-ee5127.jpg](/uploads/31489189858_cb8056211c_k%20(1)-ee5127.jpg)
+![31489189858_cb8056211c_k (1)-ee5127.jpg](/uploads/31489189858_cb8056211c_k%20(1)-ee5127-float-left.jpg)
 
 ### [Fall Frenzy](https://www.dcscores.org/fallfrenzy/)
 
@@ -121,12 +107,6 @@ A day-long celebration of our fall season that includes soccer games and outdoor
 ### Poetry Slam
 
 This three-night, spoken-word competition features DC SCORES students performing their original poetry. Volunteer roles include set-up/breakdown, registration, ushers, scoring assistants, and stagehands.
-
-**Dates:** 
-* November 2020
-
-**Locations:**
-* TBD
 
 ---
 
