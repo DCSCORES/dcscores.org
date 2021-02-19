@@ -1,6 +1,7 @@
 ---
 title: Former DC Councilmember David Grosso joins DC SCORES Board of Directors
 date: 2021-02-22 19:27:00 Z
+published: false
 Author: DC SCORES
 Thumbnail Image: "/uploads/49515791668_70dd49f2b9_k-124824.jpg"
 ---
