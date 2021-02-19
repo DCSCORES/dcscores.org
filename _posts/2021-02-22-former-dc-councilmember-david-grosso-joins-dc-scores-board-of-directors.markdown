@@ -8,7 +8,7 @@ Thumbnail Image: "/uploads/49515791668_70dd49f2b9_k-124824.jpg"
 ![49515791668_70dd49f2b9_k.jpg](/uploads/49515791668_70dd49f2b9_k.jpg)
 *David Grosso at the DC SCORES Our Words Our City poetry showcase on February 6, 2020. Photo by Cody Cervenka.*
 
-**WASHINGTON, DC** – DC SCORES, an award-winning youth development nonprofit that provides free afterschool programs and summer camps for  3,000\+ DC kids at Title I schools and at recreation centers in neighborhoods characterized by entrenched poverty, announced today that David Grosso, former DC Councilmember and now Partner at Arent Fox, has joined its Board of Directors.
+**WASHINGTON, DC** – DC SCORES, an award-winning youth development nonprofit that provides free afterschool programs and summer camps for  3,000+ DC kids at Title I schools and at recreation centers in neighborhoods characterized by entrenched poverty, announced today that David Grosso, former DC Councilmember and now Partner at Arent Fox, has joined its Board of Directors.
 
 
 

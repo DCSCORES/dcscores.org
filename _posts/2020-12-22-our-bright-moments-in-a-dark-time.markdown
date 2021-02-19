@@ -13,6 +13,10 @@ No matter what, 2020 will always be remembered as a very difficult time for ever
 
 Despite all the hardships felt this year, DC SCORES has never stopped serving kids in DC. With that mission in mind, this year gave us the opportunity to be creative and work with our partners and supporters like never before to keep kids feeling safe, supported, connected, and hopeful.
 
+
+
+
+
 As we anticipate the arrival of a new year that we all hope brings us a step closer to being physically together, we want to highlight some of our favorite moments of this year that brought brightness when we needed it most.
 
 We hope you enjoy taking a look back at our top 10 favorite moments (in no particular order)!
