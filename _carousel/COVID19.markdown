@@ -1,9 +1,9 @@
 ---
-title: Coronavirus (COVID-19) Updates
+title: SCORES At-Home Activities
 date: 2020-03-12 18:31:00 Z
 position: 3
-Image: "/uploads/Screen%20Shot%202020-03-12%20at%202.07.25%20PM.png"
-Link: https://parents.dcscores.org/covid-19
+Image: "/uploads/Website%20Carousel-40c174.png"
+Link: https://families.dcscores.org/at-home-activities
 ---
 
-Read the precautionary measures DC SCORES is taking in response to coronavirus (COVID-19).
+DC SCORES has created a series of at-home soccer and writing activities for children that will keep their minds and bodies active until they can join their teammates back in school.
