@@ -1,7 +1,6 @@
 ---
 title: Bethesda Soccer Club and DC SCORES Announce Community Partnership
 date: 2021-02-25 20:10:00 Z
-published: false
 Author: DC SCORES
 Thumbnail Image: "/uploads/Twitter-07f3b1.png"
 ---
