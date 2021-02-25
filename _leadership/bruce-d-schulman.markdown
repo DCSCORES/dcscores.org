@@ -1,6 +1,6 @@
 ---
 title: Bruce D. Schulman
-position: 17
+position: 16
 Details: Chair, NGP Energy Technology Partners
 Section: board
 Link: http://www.ngpetp.com/team_bruce_schulman.php
