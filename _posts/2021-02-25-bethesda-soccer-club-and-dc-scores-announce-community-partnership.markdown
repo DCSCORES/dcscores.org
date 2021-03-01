@@ -11,6 +11,10 @@ Thumbnail Image: "/uploads/Twitter-07f3b1.png"
 
 DC SCORES, founded in 1994, serves 3,000+ kids at Title I schools and recreation centers throughout DC through a free afterschool program combining soccer, poetry and spoken word, and service-learning. Bethesda Soccer Club, founded in 1979, is made up of 65 boys and girls premier travel soccer teams (~1,500 players from across the DMV) that compete in top-level leagues along the East Coast and events throughout the United States.
 
+
+
+
+
 The organizations are excited to collaborate and provide new, meaningful opportunities to the young people they serve through:
 * Coaching Education
 * Player Experiences
