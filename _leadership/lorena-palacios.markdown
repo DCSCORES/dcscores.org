@@ -8,4 +8,10 @@ Profile Image: "/uploads/Lorena.jpg"
 Section: staff
 ---
 
-Lorena is a Las Vegas native who previously worked for DC SCORES as the Communications Intern and the Latino Engagement Fellow. In her new role, Lorena supports the program and communications teams, as well as serving as the liaison for the Latino community. She’s received a Bachelor’s degree in Journalism and Media Studies, as well as one in Spanish, from the University of Nevada, Las Vegas. After graduating from UNLV, she moved to D.C. to complete her Master’s degree in Sports Industry Management from Georgetown University.
+Lorena Palacios is an experienced bilingual communicator that manages all internal and external communications for DC SCORES. Since 2017, Lorena has also served as the Latino Engagement Fellow and the Community Engagement Coordinator for the organization. 
+
+As a passionate advocate for youth development and sports accessibility for kids, Lorena is committed to sharing stories and elevating the voices of communities of color. Her professional versatility ranges from strategic integrated marketing, content creation, brand management, and in general, all things communications.
+
+She received a Bachelor’s degree in Journalism and Media Studies, as well as one in Spanish, from the University of Nevada, Las Vegas. After graduating from UNLV, Lorena moved to D.C. to complete her Master’s degree in Sports Industry Management from Georgetown University. Lorena also has certificates in Legal and Business English-Spanish Translation from the University of Arizona.
+
+Lorena is a proud first-generation Mexican-American from Las Vegas and feels incredibly humbled to be a resource to Spanish-speaking families.
