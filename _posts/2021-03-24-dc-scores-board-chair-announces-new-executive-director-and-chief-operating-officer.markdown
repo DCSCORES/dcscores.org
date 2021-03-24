@@ -1,5 +1,5 @@
 ---
-title: DC SCORES Board Chair announces new Executive Director and Chief Operating
+title: DC SCORES Board of Directors announces new Executive Director and Chief Operating
   Officer
 date: 2021-03-24 03:07:00 Z
 Author: DC SCORES
@@ -24,9 +24,9 @@ The depth of Katrina’s commitment to and knowledge of DC SCORES cannot be unde
 
 I am also delighted to announce that **Chief Program Officer Sean Hinkle will be moving into the role of Chief Operating Officer.** Sean brings over a decade of experience with DC SCORES’ programs and operations to this role, and his attention to detail, passion for creating strong systems, and in-depth understanding of grant management makes him a fantastic fit for this position.
 
-Finally, I am pleased to share that DC SCORES will be hiring a new Chief Program Officer to guide programmatic growth.  The job description for that position is HERE. I hope you will share it far and wide to help DC SCORES find our next great team member.
+Finally, I am pleased to share that DC SCORES will be hiring a new Chief Program Officer to guide programmatic growth.  The job description for that position is [HERE](https://www.dcscores.org/about-us/careers-and-internships/). I hope you will share it far and wide to help DC SCORES find our next great team member.
 
-I will share plans at a later date for honoring and bidding farewell to Bethany.  In the meantime, please join me in congratulating Katrina and Sean.
+I will share plans at a later date for honoring and bidding farewell to Bethany. In the meantime, please join me in congratulating Katrina and Sean.
 
 In gratitude for your support of DC SCORES,
 
