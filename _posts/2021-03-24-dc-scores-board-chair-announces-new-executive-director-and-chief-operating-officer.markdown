@@ -2,7 +2,6 @@
 title: DC SCORES Board Chair announces new Executive Director and Chief Operating
   Officer
 date: 2021-03-24 03:07:00 Z
-published: false
 Author: DC SCORES
 Thumbnail Image: "/uploads/Untitled%20design%20(7).png"
 ---
@@ -27,5 +26,6 @@ I will share plans at a later date for honoring and bidding farewell to Bethany.
 
 In gratitude for your support of DC SCORES,
 
+![Untitled design (9).png](/uploads/Untitled%20design%20(9).png)
 Bruce Schulman
 Board Chair, DC SCORES

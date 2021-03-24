@@ -1,20 +1,15 @@
 ---
 title: Bethany Henderson announces her departure as CEO of DC SCORES
 date: 2021-03-24 02:22:00 Z
-published: false
 Author: DC SCORES
 Thumbnail Image: "/uploads/49124177647_bd4e32b573_k.jpg"
 ---
 
-![49124177647_bd4e32b573_k.jpg](/uploads/49124177647_bd4e32b573_k.jpg)
+![Untitled design (11).png](/uploads/Untitled%20design%20(11).png)
 
 It is with very mixed emotions that I share my decision to step down as CEO of DC SCORES at the end of August. It has been a true privilege to serve in these capacities.
 
 The mission of DC SCORES is deeply personal to me.  I still get chills every time I hear our poet-athletes perform original poems; every time I see our poet-athletes lift each other up on the soccer field and at poetry slams; every time I observe our coaches in action lovingly mentoring their teams; and every time a stranger, recognizing my DC SCORES shirt, hollers at me across a street, excited to share what DC SCORES team they were part of. THIS is the true power of SCORES.
-
-
-
-
 
 Looking back on my tenure at DC SCORES, I am most proud of:
 
