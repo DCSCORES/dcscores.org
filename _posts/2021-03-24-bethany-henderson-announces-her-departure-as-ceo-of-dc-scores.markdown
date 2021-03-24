@@ -11,6 +11,10 @@ It is with very mixed emotions that I share my decision to step down as CEO of D
 
 The mission of DC SCORES is deeply personal to me.  I still get chills every time I hear our poet-athletes perform original poems; every time I see our poet-athletes lift each other up on the soccer field and at poetry slams; every time I observe our coaches in action lovingly mentoring their teams; and every time a stranger, recognizing my DC SCORES shirt, hollers at me across a street, excited to share what DC SCORES team they were part of. THIS is the true power of SCORES.
 
+
+
+
+
 Looking back on my tenure at DC SCORES, I am most proud of:
 
 * our laser focus on sustaining high-quality, impactful programming even as we doubled the number of kids served to 3,000/year;
@@ -29,6 +33,5 @@ Though I am looking forward to a new adventure, I couldn’t be more excited for
 
 With deepest gratitude for your trust and partnership,
 
-![Untitled design (6).png](/uploads/Untitled%20design%20(6).png)
 Bethany Rubin Henderson
 CEO, DC SCORES
