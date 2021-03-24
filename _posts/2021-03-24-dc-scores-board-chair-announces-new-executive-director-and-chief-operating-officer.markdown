@@ -12,6 +12,10 @@ To all of the supporters, families, partners, and extended members of the DC SCO
 
 First, [as you just read from Bethany](http://www.dcscores.org/blog/2021/03/bethany-henderson-announces-her-departure-as-ceo-of-dc-scores), she will be stepping down as our CEO at the end of August.
 
+
+
+
+
 On behalf of DC SCORES’ Board of Directors, I extend the deepest gratitude to Bethany. She has been the right leader for DC SCORES at the right time.  Bethany has poured her time, talent, and treasure into advancing DC SCORES’ mission over the past nearly 7 years. She has more deeply embedded our programs in the communities that we serve, while materially increasing the quality and level of programming and the number of poet-athletes served each year.  She has materially grown DC SCORES’ budget and built a tremendous and diverse team. She has set DC SCORES on a path to grow significantly while centering racial equity and balancing financial sustainability and organizational resiliency.  Personally, Bethany has been a one-of-a-kind partner to me in guiding our team and ensuring that DC SCORES continues to operate with the highest quality, integrity, and focus on equity that our poet-athletes and coaches deserve. The entire Board is grateful to Bethany for her service to our community and wishes her well in her future endeavors.
 
 As we look ahead to the next chapter for DC SCORES, I am excited to announce that -- after thoughtful and extensive deliberation -- **the Board has selected Katrina Owens as the next Executive Director of DC SCORES.** Katrina’s passion for DC SCORES, commitment to advancing racial equity, and strong relationships with staff, Board, coaches, poet-athletes, and the community make her the absolute best person to lead DC SCORES as we grow to sustainably provide brave spaces and supportive teams for 5,000 kids/year by 2025.  She will build upon our community partnerships, notably with D.C. United, Washington Spirit, Busboys and Poets, Bethesda Soccer Club, and the US Soccer Foundation, to further collaboration with like-minded partners in pushing forward the desire to serve our communities.
@@ -26,6 +30,6 @@ I will share plans at a later date for honoring and bidding farewell to Bethany.
 
 In gratitude for your support of DC SCORES,
 
-![Untitled design (9).png](/uploads/Untitled%20design%20(9).png)
+
 Bruce Schulman
 Board Chair, DC SCORES
