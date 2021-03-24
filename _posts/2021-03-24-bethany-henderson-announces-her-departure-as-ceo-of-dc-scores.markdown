@@ -29,6 +29,6 @@ Though I am looking forward to a new adventure, I couldn’t be more excited for
 
 With deepest gratitude for your trust and partnership,
 
-![Untitled design (6).png](/uploads/Untitled%20design%20(6).png) <br>
+![Untitled design (12).png](/uploads/Untitled%20design%20(12).png) <br>
 Bethany Rubin Henderson <br>
 CEO, DC SCORES
