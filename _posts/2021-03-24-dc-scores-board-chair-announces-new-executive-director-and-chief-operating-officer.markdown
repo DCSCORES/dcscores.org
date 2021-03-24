@@ -31,5 +31,5 @@ I will share plans at a later date for honoring and bidding farewell to Bethany.
 In gratitude for your support of DC SCORES,
 
 
-Bruce Schulman
+Bruce Schulman <br>
 Board Chair, DC SCORES
