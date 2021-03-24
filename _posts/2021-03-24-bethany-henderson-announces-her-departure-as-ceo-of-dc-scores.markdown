@@ -33,5 +33,6 @@ Though I am looking forward to a new adventure, I couldn’t be more excited for
 
 With deepest gratitude for your trust and partnership,
 
-Bethany Rubin Henderson
+
+Bethany Rubin Henderson <br>
 CEO, DC SCORES
