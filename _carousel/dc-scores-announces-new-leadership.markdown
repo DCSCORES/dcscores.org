@@ -2,7 +2,7 @@
 title: DC SCORES announces new leadership
 date: 2021-03-30 18:54:00 Z
 position: 0
-Image: "/uploads/Website%20Carousel%20(1)-e2e4ec.png"
+Image: "/uploads/Website%20Carousel-ee3184.jpg"
 Link: https://www.dcscores.org/blog/2021/03/dc-scores-board-chair-announces-new-executive-director-and-chief-operating-officer
 ---
 
