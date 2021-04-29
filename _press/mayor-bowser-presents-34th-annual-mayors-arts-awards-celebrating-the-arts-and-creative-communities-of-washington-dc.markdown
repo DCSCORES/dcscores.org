@@ -2,7 +2,7 @@
 title: Mayor Bowser Presents 34th Annual Mayor’s Arts Awards, Celebrating the Arts
   and Creative Communities of Washington, DC
 date: 2019-11-07 15:54:00 Z
-position: 13
+position: 15
 link: https://mayor.dc.gov/release/mayor-bowser-presents-34th-annual-mayors-arts-awards-celebrating-arts-and-creative
 source: Government of the District of Columbia – Muriel Bowser, Mayor
 ---
