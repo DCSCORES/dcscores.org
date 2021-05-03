@@ -1,7 +1,7 @@
 ---
 title: Tried and True x DC SCORES (w/D.C. United's Jason Levien)
 date: 2021-01-09 16:51:00 Z
-position: 2
+position: 3
 link: https://open.spotify.com/episode/6m0Os25AFl5eFyE80Qs88z
 source: Tried and True - the D.C. United Postgame Podcast!
 ---

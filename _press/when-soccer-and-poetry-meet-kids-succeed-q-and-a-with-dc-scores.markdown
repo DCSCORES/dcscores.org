@@ -1,7 +1,7 @@
 ---
 title: 'When Soccer and Poetry Meet, Kids Succeed: Q & A with DC SCORES'
 date: 2018-08-27 18:55:00 Z
-position: 24
+position: 25
 link: https://www.planetwordmuseum.org/blog/dc-scores
 source: Planet Word
 ---

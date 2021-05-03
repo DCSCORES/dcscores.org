@@ -1,7 +1,7 @@
 ---
 title: How soccer and poetry give kids a new way to compete with America SCORES
 date: 2019-06-19 04:36:00 Z
-position: 16
+position: 17
 link: https://newsroom.vw.com/uncategorized/how-soccer-and-poetry-give-kids-a-new-way-to-compete-with-america-scores/
 source: Volkswagen
 ---

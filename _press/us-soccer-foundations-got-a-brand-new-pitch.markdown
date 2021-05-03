@@ -1,7 +1,7 @@
 ---
 title: U.S. Soccer Foundation's Got A Brand-New Pitch
 date: 2018-08-10 18:16:00 Z
-position: 27
+position: 28
 link: https://theundefeated.com/features/u-s-soccer-foundations-got-a-brand-new-pitch/
 source: The Undefeated
 ---

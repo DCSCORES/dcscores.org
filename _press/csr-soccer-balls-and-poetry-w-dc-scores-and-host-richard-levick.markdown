@@ -1,7 +1,7 @@
 ---
 title: CSR Soccer Balls and Poetry w DC Scores and Host Richard Levick
 date: 2020-07-21 15:20:00 Z
-position: 7
+position: 8
 link: https://www.stitcher.com/podcast/in-house-warrior/e/76307345?autoplay=true
 source: In House Warrior Podcast
 ---
