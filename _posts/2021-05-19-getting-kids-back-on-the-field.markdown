@@ -42,6 +42,21 @@ Thank you. We’re going to say it a lot today because you’re making a real im
 ## Spring Day of Giving Elbow Bumps
 
 **(Name, donation time)** <br>
+Kelly Lee, 10:50am <br>
+Louisa Newlin, 10:45am <br>
+Owen Maguire, 10:44am <br>
+Sandy Jumonville Brown, 10:39am <br>
+Launa Hochstetler, 10:31am <br>
+Jessica Fayad, 10:30am <br>
+Anonymous, 10:28am <br>
+Laurie Gonzalez, 10:25am <br>
+Matthew Lindsay, 10:20am <br>
+Jake Lloyd, 10:12am <br>
+Anonymous, 9:59am <br>
+Ben Francavilla and Jan Hoges, 9:52am <br>
+Anonymous, 9:44am <br>
+Sharyn Sutton, 9:41am <br>
+Lea Schwarzenberg, 9:30am <br>
 Ryan Kelley, 9:20am <br>
 Catherine Lerche, 8:53am <br>
 Michael McRae, 8:49am <br>
