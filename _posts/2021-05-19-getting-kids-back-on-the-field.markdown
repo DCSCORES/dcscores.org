@@ -42,6 +42,10 @@ Thank you. We’re going to say it a lot today because you’re making a real im
 ## Spring Day of Giving Elbow Bumps
 
 **(Name, donation time)** <br>
+Lindsay Barenz, 2:43pm <br>
+Morgan Reed, 2:43pm <br>
+Claudia Pharis, 2:29pm <br>
+Brittany Gropp, 2:07pm <br>
 Anonymous, 1:53pm <br>
 Kemba Ford, 1:51pm <br>
 Devin Talbott, 1:37pm <br>
