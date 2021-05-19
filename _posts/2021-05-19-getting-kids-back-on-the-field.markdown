@@ -42,6 +42,16 @@ Thank you. We’re going to say it a lot today because you’re making a real im
 ## Spring Day of Giving Elbow Bumps
 
 **(Name, donation time)** <br>
+Ryan Kelley, 9:20am <br>
+Catherine Lerche, 8:53am <br>
+Michael McRae, 8:49am <br>
+Adrianne Molina, 8:43am <br>
+Kimberly Orr, 8:43am <br>
+Anonymous, 8:41am <br>
+Robert L. Gluck, 8:36am <br>
+Todd Turner, 8:35am <br>
+Michael Caro, 8:33am <br>
+
 **Before the Spring Day of Giving** <br>
 Shay Given, 11:14pm (May 18) <br>
 Danny Sheerin, 11:07 (May 18) <br>
@@ -52,6 +62,6 @@ David Owens, 3:34pm (May 17) <br>
 Douglas Kotlove, 1:38pm (May 17) <br>
 Hakan Ozsancak, 1:13pm (May 17) <br>
 Anonymous, 12:12pm (May 17) <br>
-Dodge Thompson, 12:08pm <br>
+Dodge Thompson, 12:08pm (May 17) <br>
 Katrina	Owens, 12:02pm (May 17) <br>
 Anonymous, 5:35am (May 17) <br>
