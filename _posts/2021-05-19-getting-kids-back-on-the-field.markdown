@@ -42,6 +42,20 @@ Thank you. We’re going to say it a lot today because you’re making a real im
 ## Spring Day of Giving Elbow Bumps
 
 **(Name, donation time)** <br>
+John Firth, 1:03pm <br>
+Alexandra Mack, 1:01pm <br>
+Alexander Bearman, 12:58pm <br>
+Sejal Jhavery, 12:55pm <br>
+John Kemp, 12:55pm <br>
+Shannon Hammerlund, 12:55pm <br>
+Bethany Henderson, 12:46pm <br>
+Anonymous, 12:46pm <br>
+Anonymous, 12:42pm <br>
+Sandra Perez, 12:40pm <br>
+Pauline and Roger Locker, 12:39pm <br>
+Whitney Casstevens, 11:54am <br>
+Bartholomew Browne, 11:47am <br>
+Anne Woodworth, 11:00 <br>
 Kelly Lee, 10:50am <br>
 Louisa Newlin, 10:45am <br>
 Owen Maguire, 10:44am <br>
