@@ -42,6 +42,12 @@ Thank you. We’re going to say it a lot today because you’re making a real im
 ## Spring Day of Giving Elbow Bumps
 
 **(Name, donation time)** <br>
+Anonymous, 1:53pm <br>
+Kemba Ford, 1:51pm <br>
+Devin Talbott, 1:37pm <br>
+Anonymous, 1:35pm <br>
+Robert Warshaw, 1:19pm <br>
+Lindsey Santos, 1:12pm <br>
 John Firth, 1:03pm <br>
 Alexandra Mack, 1:01pm <br>
 Alexander Bearman, 12:58pm <br>
