@@ -42,6 +42,25 @@ Thank you. We’re going to say it a lot today because you’re making a real im
 ## Spring Day of Giving Elbow Bumps
 
 **(Name, donation time)** <br>
+Deborah Eckbreth, 5:55pm <br>
+Jon Hoffman, 5:56pm <br>
+Jennifer Budoff, 6:31pm <br>
+Leah Hochstetler, 6:34pm <br>
+Trinh Lieu, 6:43pm <br>
+Donald Ausherman, 5:17pm <br>
+Cythia Bohlin, 5:04pm <br>
+Anonymous, 4:43pm <br>
+Balanced Female Fitness, 4:36pm <br>
+Eileen Nalls, 4:26pm <br>
+Traci Lee, 4:25pm <br>
+Benjamin Hsieh, 4:14pm <br>
+Anonymous, 4:14pm <br>
+Anonymous, 4:14pm <br>
+Linda Shorey, 4:01pm <br>
+Renny Thomas, 3:58pm <br>
+Kathy Sowers, 3:51pm <br>
+Sean Maslin, 3:39pm <br>
+Benjamin  Scher, 3:32pm <br>
 Lindsay Barenz, 2:43pm <br>
 Morgan Reed, 2:43pm <br>
 Claudia Pharis, 2:29pm <br>
