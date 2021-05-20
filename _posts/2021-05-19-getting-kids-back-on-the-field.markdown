@@ -45,6 +45,13 @@ Thank you. We’re going to say it a lot today because you’re making a real im
 Benjamin Eastman, 8:35pm <br>
 David Barritt-Flatt, 8:28pm <br>
 Melissa	Surette, 8:28pm <br>
+Sharon Welsh, 8:25pm <br>
+Patrick	Sheerin, 8:23pm <br>
+Robert	Watkins, 8:22pm <br>
+Anonymous, 8:20pm <br>
+Tracy Williams, 8:18pm <br>
+Linda Gebric, 8:16pm <br>
+Stephanie Williams, 8:14pm <br>
 Cary Cooper, 8:04pm <br>
 Heidi Hochstetler, 7:51pm <br>
 Katrina Owens, 7:47pm <br>
