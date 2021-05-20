@@ -42,6 +42,9 @@ Thank you. We’re going to say it a lot today because you’re making a real im
 ## Spring Day of Giving Elbow Bumps
 
 **(Name, donation time)** <br>
+Benjamin Eastman, 8:35pm <br>
+David Barritt-Flatt, 8:28pm <br>
+Melissa	Surette, 8:28pm <br>
 Cary Cooper, 8:04pm <br>
 Heidi Hochstetler, 7:51pm <br>
 Katrina Owens, 7:47pm <br>
