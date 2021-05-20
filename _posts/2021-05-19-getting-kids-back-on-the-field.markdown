@@ -42,6 +42,14 @@ Thank you. We’re going to say it a lot today because you’re making a real im
 ## Spring Day of Giving Elbow Bumps
 
 **(Name, donation time)** <br>
+Lindsey Sharp, 9:38pm <br>
+Christopher McHenry, 9:34pm <br>
+Walter Robets III, 9:33pm <br>
+Anonymous, 9:30pm <br>
+Allison Dapper, 9:24pm <br>
+Tim Preotle, 8:48pm <br>
+Caroline Smith, 8:44pm <br>
+Anonymous, 8:42pm <br>
 Benjamin Eastman, 8:35pm <br>
 David Barritt-Flatt, 8:28pm <br>
 Melissa	Surette, 8:28pm <br>
