@@ -42,6 +42,8 @@ Thank you. We’re going to say it a lot today because you’re making a real im
 ## Spring Day of Giving Elbow Bumps
 
 **Post Spring Day of Giving** <br>
+Edward	McHenry, (May 20, 1:54pm) <br>
+Rob Riley, (May 20, 12:38pm) <br>
 Walter Okpych IV, (May 20, 11:06am) <br>
 W Terence Welsh, (May 20, 10:57am) <br>
 Elizabeth Bradley, (May 20, 9:41am) <br>
