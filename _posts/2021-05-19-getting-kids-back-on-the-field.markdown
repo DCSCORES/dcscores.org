@@ -42,6 +42,20 @@ Thank you. We’re going to say it a lot today because you’re making a real im
 ## Spring Day of Giving Elbow Bumps
 
 **(Name, donation time)** <br>
+Cary Cooper, 8:04pm <br>
+Heidi Hochstetler, 7:51pm <br>
+Katrina Owens, 7:47pm <br>
+Christina Scher, 7:45pm <br>
+Andrew Eberly-Howerton, 7:40pm <br>
+Ian Kline, 7:31pm <br>
+Tamar Levenberg, 7:30pm <br>
+Zabrina Krishnamoorthy, 7:25pm <br>
+Christine Kelleher, 7:07pm <br>
+Anonymous, 6:57pm <br>
+Trinh Lieu, 6:43pm <br>
+Leah Hochstetler, 6:34pm <br>
+Jennifer Budoff, 6:31pm <br>
+Jon Hoffman, 5:56pm <br>
 Deborah Eckbreth, 5:55pm <br>
 Jon Hoffman, 5:56pm <br>
 Jennifer Budoff, 6:31pm <br>
