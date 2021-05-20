@@ -41,6 +41,10 @@ Thank you. We’re going to say it a lot today because you’re making a real im
 
 ## Spring Day of Giving Elbow Bumps
 
+**Post Spring Day of Giving** <br>
+Elizabeth Bradley, (May 20, 9:41am) <br>
+Sarah Christine Helinek, (May 20, 6:33am) <br>
+
 **(Name, donation time)** <br>
 Matthew Field, 10:08pm <br>
 Anonymous, 9:56pm <br>
