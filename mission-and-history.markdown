@@ -7,7 +7,7 @@ mission:
 - |-
   ## Mission
 
-  DC SCORES creates neighborhood teams that give kids in need the confidence and skills to succeed on the playing field, in the classroom, and in life.
+  DC SCORES creates neighborhood teams that give kids the confidence and skills to succeed on the playing field, in the classroom, and in life.
 
 
   - [Annual Report 2015](http://www.dcscoresimpact.org/annual-report-2015.html)
