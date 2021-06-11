@@ -4,7 +4,7 @@ date: 2019-01-28 14:55:00 Z
 position: 12
 Details: Development Operations Coordinator
 Email: dsheerin@dcscores.org
-Profile Image: "/uploads/DSheerin.jpg"
+Profile Image: "/uploads/Untitled%20design%20(6)-fa13af.png"
 Section: staff
 ---
 
