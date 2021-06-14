@@ -15,7 +15,7 @@ forFamilies:
 
   DC SCORES is free to all participants. <a href="http://register.dcscores.org" target="_blank">Register your child/children</a> for the next DC SCORES programming season (we’re year-round), or for summer camps <a href="http://summer.dcscores.org/" target="_blank">HERE.</a>
 
-  Are you a current parent? Do you want to get all the information you need? Click <a href="https://parents.dcscores.org/" target="_blank">HERE</a>
+  Are you a current parent? Do you want to get all the information you need? Click <a href="https://families.dcscores.org/" target="_blank">HERE</a>
 
   Work at a school interested in having DC SCORES? Print out the <a href="https://drive.google.com/file/d/11F1BG9gXQWi7vK1bQ2W-K74CERlA6aP1/view?usp=sharing" target="_blank">application form</a>.
 
