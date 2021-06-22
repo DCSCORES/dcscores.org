@@ -1,7 +1,7 @@
 ---
 title: Jewel Christian
 date: 2019-11-07 14:31:00 Z
-position: 6
+position: 7
 Details: Soccer Program Coordinator
 Email: 'jchristian@dcscores.org '
 Profile Image: "/uploads/48803561403_433f837516_o.jpg"

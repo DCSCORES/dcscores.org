@@ -1,6 +1,6 @@
 ---
 title: Chris Hudler
-position: 9
+position: 10
 Details: Soccer Program Manager
 Email: chudler@dcscores.org
 Profile Image: "/uploads/profile--chris-hudler.jpg"
