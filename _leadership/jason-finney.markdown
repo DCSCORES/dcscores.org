@@ -1,6 +1,6 @@
 ---
 title: Jason Finney
-position: 39
+position: 40
 Details: Localist
 Section: advisory
 ---
