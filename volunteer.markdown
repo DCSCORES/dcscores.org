@@ -25,7 +25,7 @@ Thursdays (Elementary) from 3:45pm to 6pm. <br>
 At <a href="/our-program/program-sites/" target="_blank">sites</a> throughout DC. We will do our best to place you based on your location and mode of transportation.
 
 **Schedule**
-DC SCORES games are currently suspended. Please check out our [Coronavirus (COVID-19) page](https://parents.dcscores.org/covid-19) with the most current information about our operational status.
+DC SCORES games are expected to resume in September 2021.
 
 ---
 
@@ -62,16 +62,45 @@ Please email support@dcscores.org.
 
 ## Special Events
 
+### [Fall Frenzy](https://www.dcscores.org/fallfrenzy/)
 
-### Jamboree
+A day-long celebration of our fall season that includes soccer games and outdoor activities for our elementary school students and their families.
 
-The culminating event of the DC SCORES programming year, filled with soccer games, arts and crafts, and more for DC SCORES students and their families.
+**Date:** Saturday, October 23, 2021
+
+**Location:** The Fields at RFK Campus
+
+**Want to get involved?** Please email Kendall at kthomas@dcscores.org
 
 ---
 
 ### [DC SCORES Cup](https://www.dcscorescup.org/)
 
 Our largest fundraiser – an annual adult soccer tournament made up of local companies, law firms, small businesses and soccer organizations. Volunteer roles include setup/breakdown, registration, field marshals, lunch servers, and photography.
+
+**Date:** Saturday, October 23, 2021
+
+**Location:** The Fields at RFK Campus
+
+**Want to get involved?** Please email Kendall at kthomas@dcscores.org
+
+---
+
+### Poetry Slam
+
+This three-night, spoken-word competition features DC SCORES students performing their original poetry. Volunteer roles include set-up/breakdown, registration, ushers, scoring assistants, and stagehands.
+
+**Date:** November 2021
+
+---
+
+### Jamboree
+
+The culminating event of the DC SCORES programming year, filled with soccer games, arts and crafts, and more for DC SCORES students and their families.
+
+**Date:** June 2022
+
+**Location:** TBD
 
 ---
 
@@ -80,25 +109,7 @@ Our largest fundraiser – an annual adult soccer tournament made up of local co
 
 ## Summer Camp Counselor
 
-We will open applications for the summer in April 2021.
-
----
-
-### [Fall Frenzy](https://www.dcscores.org/fallfrenzy/)
-
-A day-long celebration of our fall season that includes soccer games and outdoor activities for our elementary school students and their families.
-
-**Date:** October 2020
-
-**Location:** TBD
-
-**Want to get involved?** Volunteer information will be released in August 2020.
-
----
-
-### Poetry Slam
-
-This three-night, spoken-word competition features DC SCORES students performing their original poetry. Volunteer roles include set-up/breakdown, registration, ushers, scoring assistants, and stagehands.
+Applications for Summer 2021 are now closed.
 
 ---
 
