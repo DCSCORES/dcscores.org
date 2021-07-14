@@ -74,7 +74,7 @@ Recommended for a group (e.g. a company). This station will consist of organizin
 
 Set-up includes setting up tables, goals, tents, art supplies, etc. *some heavy lifting may be required*
 
-Closing shift includes assistance with breaking down goals, tents, art booths, and other materials is needed at the end of the day.
+Closing shift includes assistance with breaking down goals, tents, art booths, and other materials as needed at the end of the day.
 
 * Registration Coming Soon!
 
