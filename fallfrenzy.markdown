@@ -50,26 +50,25 @@ Fall Frenzy is our annual elementary school soccer tournament and community fest
 
 Referees will be asked to work with other referees at their field and will control 3-5 games throughout the day. **Soccer experience necessary, although all referees will complete a brief overview with DC SCORES Staff before their shift, some light jogging required**.
 
-* [Referee volunteer registration
-](http://scores.force.com/volunteer/GW_Volunteers__VolunteersJobListingFS?Calendar=1&volunteerShiftId=a0V2J00000EmE65UAF&jobId=a0T2J00000m46iYUAQ&dtMonthFilter=2019-10-19%208:30:0)
+* Registration Coming Soon!
 
 #### Activity Booths
 
 Great team-building experience for different departments for groups of 2-12 employees. Booths include face-painting, art & soccer activities, etc.
 
-* [Activity Booths volunteer registration](http://scores.force.com/volunteer/GW_Volunteers__VolunteersJobListingFS?Calendar=1&volunteerShiftId=a0V2J00000EmE5WUAV&jobId=a0T2J00000m46iJUAQ&dtMonthFilter=2019-10-19%208:0:0)
+* Registration Coming Soon!
 
 #### Lunch Distribution
 
 Recommended for a group (e.g. a company). This station will consist of organizing boxed lunches and making sure they get to teams, family members, and volunteers properly.
 
-* [Lunch distribution registration](http://scores.force.com/volunteer/GW_Volunteers__VolunteersJobListingFS?Calendar=1&volunteerShiftId=a0V2J00000EmE60UAF&jobId=a0T2J00000m46iOUAQ&dtMonthFilter=2019-10-19%209:30:0)
+* Registration Coming Soon!
 
 #### Photography/Videography
 
 ***Please bring your own camera***. In this position, volunteers will be assigned to capture a certain area/set of games.
 
-* [Photography/Videography volunteer registration](http://scores.force.com/volunteer/GW_Volunteers__VolunteersJobListingFS?Calendar=1&volunteerShiftId=a0V2J00000EmE6jUAF&jobId=a0T2J00000m46inUAA&dtMonthFilter=2019-10-19%209:0:0)
+* Registration Coming Soon!
 
 #### Set-Up/Closing Crew
 
@@ -77,10 +76,10 @@ Set-up includes setting up tables, goals, tents, art supplies, etc. *some heavy 
 
 Closing shift includes assistance with breaking down goals, tents, art booths, and other materials is needed at the end of the day.
 
-* [Set-Up/Closing volunteer registration](http://scores.force.com/volunteer/GW_Volunteers__VolunteersJobListingFS?Calendar=1&volunteerShiftId=a0V2J00000EmE6ZUAV&jobId=a0T2J00000m46iiUAA&dtMonthFilter=2019-10-19%207:30:0)
+* Registration Coming Soon!
 
 #### General
 
 Other duties will be assigned as needed and volunteers may be asked to float between various volunteer roles.
 
-* [General volunteer registration](http://scores.force.com/volunteer/GW_Volunteers__VolunteersJobListingFS?Calendar=1&volunteerShiftId=a0V2J00000EmE6PUAV&jobId=a0T2J00000m46idUAA&dtMonthFilter=2019-10-19%208:30:0)
+* Registration Coming Soon!
