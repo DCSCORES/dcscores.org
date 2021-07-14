@@ -6,17 +6,17 @@ Top Image Position: 50% 50%
 layout: fallfrenzy
 ---
 
-### Fall Frenzy 2019 Volunteer Information
+### Fall Frenzy 2021 Volunteer Information
 
 Fall Frenzy is our annual elementary school soccer tournament and community festival! Over 1,500 of our participants and their families are invited to an all-day event.
 
 #### Logistics
 
-* Saturday, October 26
+* Saturday, October 23, 2021
 
-* Location: Trinity Washington University Soccer Field (125 Michigan Ave NE, Washington, DC 20017)
+* Location: The Fields at RFK Campus (401 Oklahoma Ave NE, Washington, DC 20002)
 
-<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d1945.726491932563!2d-77.0039989573195!3d38.92788670844779!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x5d7b60436fe81cce!2sTrinity%20Washington%20University!5e1!3m2!1sen!2sus!4v1568220841316!5m2!1sen!2sus" width="600" height="450" frameborder="0" style="border:0;" allowfullscreen=""></iframe>
+<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2602.2505718926604!2d-76.97411239601662!3d38.89291543463676!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x89b7b9d16223915b%3A0xff064ea0382228ea!2sThe%20Fields%20at%20RFK%20Campus!5e0!3m2!1sen!2sus!4v1626278550392!5m2!1sen!2sus" width="400" height="300" style="border:0;" allowfullscreen="" loading="lazy"></iframe>
 
 * All volunteers will receive a light lunch (vegetarian options available) and water stations will be placed throughout the venue.
 
