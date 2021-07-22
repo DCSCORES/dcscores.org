@@ -2,7 +2,7 @@
 title: DC poet-athletes prepare to unleash creativity in virtual poetry showcase,
   despite coronavirus crisis
 date: 2020-04-30 03:17:00 Z
-position: 11
+position: 14
 link: https://wtop.com/dc/2020/04/dc-poet-athletes-prepare-to-unleash-creativity-in-virtual-poetry-showcase-despite-coronavirus-crisis/
 source: WTOP News
 ---

@@ -1,7 +1,7 @@
 ---
 title: In D.C., a small step toward tackling U.S. youth soccer’s accessibility problem
 date: 2017-10-30 17:42:00 Z
-position: 46
+position: 49
 link: http://bit.ly/OpenGoalProject
 source: The Washington Post
 ---

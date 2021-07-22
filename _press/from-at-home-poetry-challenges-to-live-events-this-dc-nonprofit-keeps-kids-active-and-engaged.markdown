@@ -2,7 +2,7 @@
 title: From at-home poetry challenges to live events, this DC nonprofit keeps kids
   active and engaged
 date: 2020-04-27 16:47:00 Z
-position: 10
+position: 13
 link: https://www.therenewalproject.com/dc-nonprofit-teaches-kids-soccer-and-poetry/
 source: The Renewal Project
 ---

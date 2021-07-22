@@ -1,7 +1,7 @@
 ---
 title: Dealing With Coronavirus Anxiety – The Big Pause – Through Poetry
 date: 2020-04-01 18:41:00 Z
-position: 13
+position: 16
 link: https://www.forbes.com/sites/richardlevick/2020/04/01/dealing-with-coronavirus-anxiety--the-big-pause--through-poetry/#2012f03f2cb6
 source: Forbes
 ---
