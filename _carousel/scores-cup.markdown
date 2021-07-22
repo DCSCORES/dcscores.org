@@ -2,7 +2,7 @@
 title: SCORES Cup
 date: 2021-07-22 16:36:00 Z
 position: 2
-Image: "/uploads/Website%20Carousel%20(2)-930eaa.png"
+Image: "/uploads/Website%20Carousel%20(1)-c255d3.jpg"
 Link: https://www.dcscorescup.org/
 ---
 
