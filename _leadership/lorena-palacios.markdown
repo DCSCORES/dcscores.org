@@ -1,7 +1,7 @@
 ---
 title: Lorena Palacios
 date: 2017-08-10 20:41:00 Z
-position: 12
+position: 13
 Details: Communications and Engagement Manager
 Email: lpalacios@dcscores.org
 Profile Image: "/uploads/Lorena.jpg"
