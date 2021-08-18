@@ -29,40 +29,11 @@ DC SCORES games are expected to resume in September 2021.
 
 ---
 
-<span id="volunteer-assistant-coach"></span>
-
-## Assistant Coach
-
-![Assistant coach](/uploads/volunteer-assistant-coach-float-left.jpg)
-
-**Description:**
-Assistant coaches are able to sign up for soccer and/or writing programming. Soccer coaches assist with after-school practices and game days as need (Thursdays - Elementary and Friday - Middle). Writing coaches help with teaching the fundamentals of poetry (fall season) or designing and implementing the school service-learning project (spring).
-
-**Requirements & process:**
-18 years or older, commit to at least 2-3 days a week and have a negative TB test from the last two years.
-
-1. Fill out our volunteer application.
-
-2. Pass background check, submit a negative TB test and attend coach training.
-
-3. Start coaching!
-
-**When:**
-Weekdays between 3-6 PM. Exact times vary across each site.
-
-**Where:**
-At <a href="/our-program/program-sites/" target="_blank">sites</a> throughout DC. We will do our best to place you based on your location and mode of transportation.
-
-**Want to get involved?**
-Please email support@dcscores.org.
-
----
-
 <span id="volunteer-special-events"></span>
 
 ## Special Events
 
-### [Fall Frenzy](https://www.dcscores.org/fallfrenzy/)
+### Fall Frenzy
 
 A day-long celebration of our fall season that includes soccer games and outdoor activities for our elementary school students and their families.
 
@@ -70,7 +41,7 @@ A day-long celebration of our fall season that includes soccer games and outdoor
 
 **Location:** The Fields at RFK Campus
 
-**Want to get involved?** Please email Kendall at kthomas@dcscores.org
+**Want to get involved?** [Click here](https://www.dcscores.org/fallfrenzy/) to learn more and register to volunteer.
 
 ---
 
