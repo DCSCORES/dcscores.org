@@ -27,6 +27,8 @@ At <a href="/our-program/program-sites/" target="_blank">sites</a> throughout DC
 **Schedule**
 DC SCORES games are expected to resume in September 2021.
 
+**Want to get involved?** Please email Margot at mlocker@dcscores.org.
+
 ---
 
 <span id="volunteer-special-events"></span>
