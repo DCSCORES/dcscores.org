@@ -1,7 +1,7 @@
 ---
 title: David Barritt-Flatt
-position: 21
-Details: Secretary, Clark Construction
+position: 22
+Details: Carta Advisors, LLC
 Section: board
 Link: https://www.linkedin.com/in/david-barritt-flatt-37201a7/
 ---

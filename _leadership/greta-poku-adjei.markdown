@@ -1,7 +1,7 @@
 ---
 title: Greta Adjei Silas
 position: 6
-Details: Operations Manager
+Details: Senior Operations Manager
 Email: gadjei-silas@dcscores.org
 Profile Image: "/uploads/IMG_2182.JPG"
 Section: staff

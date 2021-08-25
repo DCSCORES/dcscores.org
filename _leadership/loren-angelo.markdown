@@ -1,8 +1,9 @@
 ---
 title: Loren Angelo
 date: 2017-09-19 12:45:00 Z
-position: 23
+position: 18
+Details: Sustainability Chair
 Section: board
-Link: https://media.audiusa.com/staff/loren-angelo
+Link: https://www.linkedin.com/in/loren-angelo/
 ---
 

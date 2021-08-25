@@ -1,7 +1,7 @@
 ---
 title: Chris Hudler
 position: 11
-Details: Soccer Program Manager
+Details: Senior Program Manager, Soccer
 Email: chudler@dcscores.org
 Profile Image: "/uploads/profile--chris-hudler.jpg"
 Section: staff
