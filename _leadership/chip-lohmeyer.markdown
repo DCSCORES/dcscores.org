@@ -1,6 +1,6 @@
 ---
 title: Chip Lohmeyer
-position: 30
+position: 31
 Details: Vectrus
 Section: board
 Link: https://www.linkedin.com/in/chiplohmeyer/
