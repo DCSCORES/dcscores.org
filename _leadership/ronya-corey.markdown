@@ -1,6 +1,6 @@
 ---
 title: Ronya Corey
-position: 56
+position: 55
 Details: 
 Section: emeritus
 ---

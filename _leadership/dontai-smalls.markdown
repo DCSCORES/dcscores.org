@@ -1,6 +1,6 @@
 ---
 title: Dontai Smalls
-position: 69
+position: 68
 Details: 
 Section: emeritus
 ---
