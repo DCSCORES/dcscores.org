@@ -1,7 +1,7 @@
 ---
 title: Brandy Tyson
 date: 2021-06-22 20:01:00 Z
-position: 4
+position: 3
 Details: Chief Program Officer
 Email: btyson@dcscores.org
 Profile Image: "/uploads/20190801_134759_2.jpg"
