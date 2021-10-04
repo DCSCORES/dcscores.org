@@ -46,7 +46,7 @@ Fall Frenzy is our annual elementary school soccer tournament and community fest
 
 ### Roles
 
-Below are the volunteer opportunities for Fall Frenzy. If you are interested in volunteering in a group of 5 or more, [please complete this form](https://forms.gle/L9g1teMUucE7deXF9).
+Below are the volunteer opportunities for Fall Frenzy.
 
 #### General
 
