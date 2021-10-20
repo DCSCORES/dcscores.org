@@ -4,6 +4,7 @@ date: 2021-09-15 20:43:00 Z
 position: 12
 Details: Program Fellow
 Email: 'dkorreshi@dcscores.org '
+Profile Image: "/uploads/dk%20pic%20for%20lorena.png"
 Section: staff
 ---
 
