@@ -1,7 +1,7 @@
 ---
 title: Capital Cup Championship Series
 date: 2021-11-10 03:39:00 Z
-position: 2
+position: 0
 Image: "/uploads/Website%20Carousel-a4d0ff.png"
 Link: https://league.dcscores.org/home
 ---
