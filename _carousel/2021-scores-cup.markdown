@@ -1,7 +1,7 @@
 ---
 title: 2021 SCORES Cup
 date: 2021-10-26 03:21:00 Z
-Image: "/uploads/Website%20Carousel%20(2)-919ec0.png"
+Image: "/uploads/Website%20Carousel-bf0e02.jpg"
 Link: https://bit.ly/scup21photos
 ---
 
