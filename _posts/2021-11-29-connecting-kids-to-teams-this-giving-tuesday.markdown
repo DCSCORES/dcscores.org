@@ -15,6 +15,10 @@ DC SCORES is committed to connecting teams on and off the field. We are dedicate
 
 **Your support during Giving Tuesday** will directly benefit the lives of kids in DC. [A donation to DC SCORES](https://bit.ly/SCORESGT21), no matter the amount, will help ensure that we can continue providing free, in-person programming at a time when kids seek meaningful connections the most.
 
+
+
+
+
 The fall season was unique in many ways and presented its fair share of challenges. Practices, gamedays, and events were still abiding with mask policies and they all had an abundance of hand sanitizer, but DC SCORES' commitment to keeping kids feeling safe, supported, connected, and hopeful was always steadfast.
 
 For many poet-athletes, this season was filled with “firsts.” The first time scoring a goal on the soccer field. The first time performing an original solo poem. The first time being in-person with coaches and teammates. 
@@ -43,4 +47,4 @@ Scott Brokaw, (Nov. 28, 6:32pm) <br>
 Anonymous, (Nov. 24, 7:11am) <br>
 Karen Domenici, (Nov. 25, 4:49pm) <br>
 CiviCore Giving, (Nov. 24 4:26pm) <br>
-Anonymous, (Nov. 18, 6:12pm> <br>
+Anonymous, (Nov. 18, 6:12pm) <br>
