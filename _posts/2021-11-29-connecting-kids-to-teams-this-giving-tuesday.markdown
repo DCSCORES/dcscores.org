@@ -1,0 +1,46 @@
+---
+title: Connecting kids to teams this Giving Tuesday
+date: 2021-11-29 17:36:00 Z
+tags:
+- Giving Tuesday
+Author: Lorena Palacios
+Thumbnail Image: "/uploads/Connecting%20kids%20to%20teams.png"
+---
+
+![Twitter Post (1).png](/uploads/Twitter%20Post%20(1).png)
+
+Most fall seasons are always a special time for DC SCORES, but this year, the fall was extra meaningful. After a long 18+ months of virtual learning, we finally returned to providing in-person soccer and writing programming to over 3,000 kids.
+
+DC SCORES is committed to connecting teams on and off the field. We are dedicated to building and reestablishing neighborhood teams where kids can feel safe and supported by their teammates, coaches, and community. Whether it's scoring a goal on the soccer field or performing an original poem for the first time, every DC SCORES poet-athlete deserves to be connected to a supportive team.
+
+**Your support during Giving Tuesday** will directly benefit the lives of kids in DC. [A donation to DC SCORES](https://bit.ly/SCORESGT21), no matter the amount, will help ensure that we can continue providing free, in-person programming at a time when kids seek meaningful connections the most.
+
+The fall season was unique in many ways and presented its fair share of challenges. Practices, gamedays, and events were still abiding with mask policies and they all had an abundance of hand sanitizer, but DC SCORES' commitment to keeping kids feeling safe, supported, connected, and hopeful was always steadfast.
+
+For many poet-athletes, this season was filled with “firsts.” The first time scoring a goal on the soccer field. The first time performing an original solo poem. The first time being in-person with coaches and teammates. 
+
+Afterschool programs have never been more important than they are now. School-age children spend more than 80% of their time learning outside of school ([Afterschool Alliance](http://afterschoolalliance.org/documents/Afterschool-Essential-for-COVID-recovery_national-January-2021.pdf)), so organizations like DC SCORES are critical to ensuring kids return to school ready to learn and reach their full potential. 
+
+This Giving Tuesday on November 30th, please give the gift of connecting kids to teams by donating to DC SCORES. Any amount makes the difference!
+
+---
+
+DC SCORES was established in 1994 and we know that we wouldn’t still be here today without our supporters. That’s why we want to thank all of our Giving Tuesday supporters in real-time in the list below.
+
+Thank you. We’re going to say it a lot today because you’re making a real impact on the lives of DC kids. THANK YOU!
+
+## Giving Tuesday Elbow Bumps
+
+**(Name, donation time)** <br>
+
+**Before Giving Tuesday** <br>
+Anonymous, (Nov. 29, 10:53am) <br>
+Kathryn Koehl, (Nov. 29, 10:07am) <br>
+Anonymous, (Nov. 29, 10:06am) <br>
+Anonymous, (Nov. 29, 8:01am) <br>
+Jackson Spivey, (Nov. 29, 7:27am) <br>
+Scott Brokaw, (Nov. 28, 6:32pm) <br>
+Anonymous, (Nov. 24, 7:11am) <br>
+Karen Domenici, (Nov. 25, 4:49pm) <br>
+CiviCore Giving, (Nov. 24 4:26pm) <br>
+Anonymous, (Nov. 18, 6:12pm> <br>
