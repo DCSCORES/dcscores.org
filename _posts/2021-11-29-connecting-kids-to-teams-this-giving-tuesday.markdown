@@ -36,6 +36,9 @@ Thank you. We’re going to say it a lot today because you’re making a real im
 ## Giving Tuesday Elbow Bumps
 
 **(Name, donation time)** <br>
+Michael Garcia, 10:19am <br>
+Brian Yi, 10:16am <br>
+Barbara Wootton, 10:15am <br>
 Susan Conley, 10:10am <br>
 Anonymous, 10:03am <br>
 Anonymous, 10:00am <br>
