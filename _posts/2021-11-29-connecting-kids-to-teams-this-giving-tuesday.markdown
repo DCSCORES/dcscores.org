@@ -36,6 +36,10 @@ Thank you. We’re going to say it a lot today because you’re making a real im
 ## Giving Tuesday Elbow Bumps
 
 **(Name, donation time)** <br>
+Jean-Philippe Fauchet, 5:04pm <br>
+Heather Gaona, 4:54pm <br>
+Stephanie Massaro, 4:53pm <br>
+Brian Sanker, 4:52pm <br>
 Will Magioncalda, 4:51pm <br>
 Sarah Helinek, 4:51pm <br>
 David Crespo, 4:42pm <br>
