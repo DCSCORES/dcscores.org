@@ -36,6 +36,8 @@ Thank you. We’re going to say it a lot today because you’re making a real im
 ## Giving Tuesday Elbow Bumps
 
 **(Name, donation time)** <br>
+Claudia Pharis, 2:19pm <br>
+Patrick Manning, 2:16pm <br>
 Todd Turner, 2:12pm <br>
 Elizabeth Bradley, 2:10pm <br>
 Walter A Roberts III, 2:08pm <br>
