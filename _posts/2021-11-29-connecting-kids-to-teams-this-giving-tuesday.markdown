@@ -36,6 +36,9 @@ Thank you. We’re going to say it a lot today because you’re making a real im
 ## Giving Tuesday Elbow Bumps
 
 **(Name, donation time)** <br>
+Stephanie Jones, 11:54am <br>
+Anonymous, 11:52am <br>
+Daniel Fisher-Owens, 11:52am <br>
 Brandy Tyson, 11:41am <br>
 Anonymous, 11:41am <br>
 Ben Francavilla, 11:37am <br>
