@@ -36,6 +36,7 @@ Thank you. We’re going to say it a lot today because you’re making a real im
 ## Giving Tuesday Elbow Bumps
 
 **(Name, donation time)** <br>
+Gia Veronica Boado, 9:31am <br>
 Lindsey Woolf, 9:29am <br>
 Daniel Reinhard, 9:27am <br>
 Anonymous, 9:25am <br>
