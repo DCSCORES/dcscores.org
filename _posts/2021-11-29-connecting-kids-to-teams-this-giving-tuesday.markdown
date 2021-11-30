@@ -36,6 +36,8 @@ Thank you. We’re going to say it a lot today because you’re making a real im
 ## Giving Tuesday Elbow Bumps
 
 **(Name, donation time)** <br>
+Katrina Owens Owens, 12:21pm <br>
+Andrew Harrison, 12:20pm <br>
 Kathleen Hinkle, 12:20pm <br>
 Anonymous, 12:20p, <br>
 Kathleen Chamberlain, 12:20pm <br>
