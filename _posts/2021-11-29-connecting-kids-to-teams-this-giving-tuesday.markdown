@@ -36,6 +36,7 @@ Thank you. We’re going to say it a lot today because you’re making a real im
 ## Giving Tuesday Elbow Bumps
 
 **(Name, donation time)** <br>
+Jennifer Hsin, 12:17pm <br>
 Katherine Makris, 12:17pm <br>
 Edwin Lohmeyer, 12:17pm <br>
 Anonymous, 12:16pm <br>
