@@ -36,6 +36,8 @@ Thank you. We’re going to say it a lot today because you’re making a real im
 ## Giving Tuesday Elbow Bumps
 
 **(Name, donation time)** <br>
+Will Magioncalda, 4:51pm <br>
+Sarah Helinek, 4:51pm <br>
 David Crespo, 4:42pm <br>
 Elaine Fitch, 4:19pm <br>
 Anonymous, 4:05pm <br>
