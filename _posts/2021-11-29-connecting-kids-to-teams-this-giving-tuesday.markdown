@@ -36,6 +36,7 @@ Thank you. We’re going to say it a lot today because you’re making a real im
 ## Giving Tuesday Elbow Bumps
 
 **(Name, donation time)** <br>
+Jake Lloyd, 12:23pm <br>
 Scott Brokaw, 12:23pm <br>
 Anonymous, 12:23pm <br>
 Charlotte Stewart, 12:23pm <br>
