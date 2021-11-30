@@ -36,6 +36,9 @@ Thank you. We’re going to say it a lot today because you’re making a real im
 ## Giving Tuesday Elbow Bumps
 
 **(Name, donation time)** <br>
+Angelica Garcia, 11:06am <br>
+Barbara Salzman, 11:05am <br>
+Loren Angelo, 11:01am <br>
 Jana Sharp, 10:51am <br>
 Lea Schwarzenberg, 10:50am <br>
 Anonymous, 10:41am <br>
