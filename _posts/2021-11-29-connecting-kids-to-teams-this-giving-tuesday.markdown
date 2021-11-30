@@ -36,6 +36,7 @@ Thank you. We’re going to say it a lot today because you’re making a real im
 ## Giving Tuesday Elbow Bumps
 
 **(Name, donation time)** <br>
+Sandy Cos, 12:37pm <br>
 Matthew Dozier, 12:37pm <br>
 Anonymous, 12:36pm <br>
 Daniel Sheerin, 12:35pm <br>
