@@ -36,6 +36,9 @@ Thank you. We’re going to say it a lot today because you’re making a real im
 ## Giving Tuesday Elbow Bumps
 
 **(Name, donation time)** <br>
+Erin Sheerin, 2:37pm <br>
+Jeffrey Day, 2:36pm <br>
+John Conte, 2:36pm <br>
 Eric Kmetz, 2:22pm <br>
 Claudia Pharis, 2:19pm <br>
 Patrick Manning, 2:16pm <br>
