@@ -36,6 +36,7 @@ Thank you. We’re going to say it a lot today because you’re making a real im
 ## Giving Tuesday Elbow Bumps
 
 **(Name, donation time)** <br>
+Sophia Newbold, 1:24pm <br>
 Anonymous, 1:21pm <br>
 Phillip Ford, 1:21pm <br>
 Karey Wong, 1:20pm <br>
