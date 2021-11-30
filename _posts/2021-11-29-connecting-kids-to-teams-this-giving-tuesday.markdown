@@ -36,6 +36,7 @@ Thank you. We’re going to say it a lot today because you’re making a real im
 ## Giving Tuesday Elbow Bumps
 
 **(Name, donation time)** <br>
+Mardi Caminer, 1:05pm <br>
 Tim Preotle, 12:59pm <br>
 Shirley Ford, 12:58pm <br>
 James Konigsberg, 12:58pm <br>
