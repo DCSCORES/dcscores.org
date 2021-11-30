@@ -36,6 +36,10 @@ Thank you. We’re going to say it a lot today because you’re making a real im
 ## Giving Tuesday Elbow Bumps
 
 **(Name, donation time)** <br>
+Sandra Safran, 9:15am <br>
+Lawrence Rice, 9:15am <br>
+Rafael Hernandez Toro, 9:13am <br>
+Maxwell Adams Hoffman, 9:11am <br>
 Anonymous, 8:58am <br>
 Ryan Hart, 8:54am <br>
 Keith Boyea, 8:39am <br>
