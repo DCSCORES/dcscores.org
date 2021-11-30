@@ -36,6 +36,7 @@ Thank you. We’re going to say it a lot today because you’re making a real im
 ## Giving Tuesday Elbow Bumps
 
 **(Name, donation time)** <br>
+Jay Carmel, 9:56am <br>
 Anonymous, 9:46am <br>
 Paul Hamill, 9:38am <br>
 Andrea Murino, 9:34am <br>
