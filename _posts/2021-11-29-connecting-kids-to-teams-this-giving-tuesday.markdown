@@ -36,6 +36,16 @@ Thank you. We’re going to say it a lot today because you’re making a real im
 ## Giving Tuesday Elbow Bumps
 
 **(Name, donation time)** <br>
+Karey Wong, 1:20pm <br>
+Anonymous, 1:16pm <br>
+Jason Kling, 1:11pm <br>
+Gara Nicole, 1:11pm <br>
+William Stevens, 1:10pm <br>
+Devin Talbott, 1:10pm <br>
+Sekou Biddle, 1:09pm <br>
+David Owens, 1:09pm <br>
+Celeste Escobedo, 1:08pm <br>
+Anonymous, 1:05pm <br>
 Mardi Caminer, 1:05pm <br>
 Tim Preotle, 12:59pm <br>
 Shirley Ford, 12:58pm <br>
