@@ -36,6 +36,9 @@ Thank you. We’re going to say it a lot today because you’re making a real im
 ## Giving Tuesday Elbow Bumps
 
 **(Name, donation time)** <br>
+Kathleen Chamberlain, 12:20pm <br>
+Olga Palacios, 12:14pm <br>
+Anonymous, 12:19pm <br>
 Dr. Allen Chin, 12:19pm <br>
 Anonymous, 12:18pm <br>
 Anonymous, 12:18pm <br>
