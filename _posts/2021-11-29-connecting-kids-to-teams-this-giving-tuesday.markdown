@@ -36,6 +36,7 @@ Thank you. We’re going to say it a lot today because you’re making a real im
 ## Giving Tuesday Elbow Bumps
 
 **(Name, donation time)** <br>
+Catherine Lu Clougherty, 12:09pm <br>
 Gwendolyn Vinson, 12:07pm <br>
 Ayako Takeuchi, 12:06pm <br>
 Daniel Henderson, 12:06pm <br>
