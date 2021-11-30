@@ -36,6 +36,9 @@ Thank you. We’re going to say it a lot today because you’re making a real im
 ## Giving Tuesday Elbow Bumps
 
 **(Name, donation time)** <br>
+Andrew Bellwoar, 12:35pm <br>
+Aaron Wodin-Schwartz, 12:34pm <br>
+Sam Kasner, 12:34pm <br>
 Anonymous, 12:33pm <br>
 Anthony Francavilla, 12:33pm <br>
 Elizabeth Watkins, 12:33pm <br>
