@@ -36,6 +36,13 @@ Thank you. We’re going to say it a lot today because you’re making a real im
 ## Giving Tuesday Elbow Bumps
 
 **(Name, donation time)** <br>
+Anonymous, 8:58am <br>
+Ryan Hart, 8:54am <br>
+Keith Boyea, 8:39am <br>
+Dan McCarthy, 8:39am <br>
+Kerry Savage, 8:39am <br>
+Emily Locker, 8:38am <br>
+Kimberly Orr, 8:38am <br>
 Fred Hargrove, 8:24am <br>
 Lee Goldstein, 8:22am <br>
 David Barritt-Flatt, 8:19am <br>
