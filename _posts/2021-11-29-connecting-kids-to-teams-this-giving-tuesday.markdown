@@ -36,6 +36,7 @@ Thank you. We’re going to say it a lot today because you’re making a real im
 ## Giving Tuesday Elbow Bumps
 
 **(Name, donation time)** <br>
+Patrick Wynott, 11:35am <br>
 Brian McLaughlin, 11:26am <br>
 Charles Adams, 11:25am <br>
 Lila Simmons, 11:18am <br>
