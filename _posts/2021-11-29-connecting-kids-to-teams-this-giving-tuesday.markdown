@@ -36,6 +36,17 @@ Thank you. We’re going to say it a lot today because you’re making a real im
 ## Giving Tuesday Elbow Bumps
 
 **(Name, donation time)** <br>
+Gwendolyn Vinson, 12:07pm <br>
+Ayako Takeuchi, 12:06pm <br>
+Daniel Henderson, 12:06pm <br>
+Anonymous, 12:06pm <br>
+Bethany Henderson, 12:05pm <br>
+Timothy Huether, 12:05pm <br>
+Jaime Capron, 12:05pm <br>
+Bryan Hinkle, 12:04pm <br>
+Lizette Villarreal, 12:03pm <br>
+Benjamin Hsieh, 12:03pm <br>
+Brian Pierce, 12:01pm <br>
 Stephanie Jones, 11:54am <br>
 Anonymous, 11:52am <br>
 Daniel Fisher-Owens, 11:52am <br>
