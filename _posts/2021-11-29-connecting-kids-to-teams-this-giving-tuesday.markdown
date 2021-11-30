@@ -36,6 +36,7 @@ Thank you. We’re going to say it a lot today because you’re making a real im
 ## Giving Tuesday Elbow Bumps
 
 **(Name, donation time)** <br>
+Julio Coto, 6:15pm <br>
 Michael Heiken, 5:51pm <br>
 Karl Schwenkmeyer, 5:49pm <br>
 Rani Harrison, 5:45pm <br>
