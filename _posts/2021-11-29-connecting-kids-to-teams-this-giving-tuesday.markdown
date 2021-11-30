@@ -36,6 +36,8 @@ Thank you. We’re going to say it a lot today because you’re making a real im
 ## Giving Tuesday Elbow Bumps
 
 **(Name, donation time)** <br>
+David Owens, 12:24pm <br>
+Michael Beard, 12:24pm <br>
 Jake Lloyd, 12:23pm <br>
 Scott Brokaw, 12:23pm <br>
 Anonymous, 12:23pm <br>
