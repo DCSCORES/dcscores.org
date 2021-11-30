@@ -36,6 +36,35 @@ Thank you. We’re going to say it a lot today because you’re making a real im
 ## Giving Tuesday Elbow Bumps
 
 **(Name, donation time)** <br>
+Tim Preotle, 12:59pm <br>
+Shirley Ford, 12:58pm <br>
+James Konigsberg, 12:58pm <br>
+Jose Diaz-Asper, 12:57pm <br>
+Anonymous, 12:56pm <br>
+John Conte, 12:53pm <br>
+Greta Poku, 12:52pm <br>
+Anonymous, 12:52pm <br>
+Frances Graves, 12:51pm <br>
+Anonymous, 12:50pm <br>
+Greta Silas, 12:48pm <br>
+Evan Qi, 12:47pm <br>
+Lorena Palacios, 12:47pm <br>
+Leah Hochstetler, 12:46pm <br>
+Andrew Bahrenburg, 12:45pm <br>
+Anonymous, 12:45pm <br>
+Anonymous, 12:45pm <br>
+Eli Owens, 12:45pm <br>
+David Rosenbaum, 12:43pm <br>
+Alex Diaz-Asper, 12:43pm <br>
+Anne Fleckenstein, 12:43pm <br>
+Julia Rao, 12:42pm <br>
+Anonymous, 12:42pm <br>
+Jeffrey Howdeshell, 12:41pm <br>
+Adriane Hopkins, 12:40pm <br>
+Daniel Sheerin, 12:40pm <br>
+James Frison, 12:40pm <br>
+Rachel Gorosh, 12:40pm <br>
+Zabrina Krishnamoorthy, 12:40pm <br>
 Sandy Cos, 12:37pm <br>
 Matthew Dozier, 12:37pm <br>
 Anonymous, 12:36pm <br>
