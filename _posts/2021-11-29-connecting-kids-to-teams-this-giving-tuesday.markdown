@@ -36,6 +36,8 @@ Thank you. We’re going to say it a lot today because you’re making a real im
 ## Giving Tuesday Elbow Bumps
 
 **(Name, donation time)** <br>
+Brandy Tyson, 11:41am <br>
+Anonymous, 11:41am <br>
 Ben Francavilla, 11:37am <br>
 Patrick Wynott, 11:35am <br>
 Brian McLaughlin, 11:26am <br>
