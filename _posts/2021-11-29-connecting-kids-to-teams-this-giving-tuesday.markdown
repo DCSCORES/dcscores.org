@@ -36,6 +36,7 @@ Thank you. We’re going to say it a lot today because you’re making a real im
 ## Giving Tuesday Elbow Bumps
 
 **(Name, donation time)** <br>
+Sara Loveland, 6:22pm <br>
 Karen McKenna, 6:21pm <br>
 Anonymous, 6:16pm <br>
 Greg James, 6:16pm <br>
