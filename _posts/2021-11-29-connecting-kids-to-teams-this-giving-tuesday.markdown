@@ -36,6 +36,7 @@ Thank you. We’re going to say it a lot today because you’re making a real im
 ## Giving Tuesday Elbow Bumps
 
 **(Name, donation time)** <br>
+Anthony Francavilla, 12:33pm <br>
 Elizabeth Watkins, 12:33pm <br>
 Anonymous, 12:32pm <br>
 K Owens, 12:30pm <br>
