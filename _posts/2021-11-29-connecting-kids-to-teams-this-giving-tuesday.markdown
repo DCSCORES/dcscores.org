@@ -36,6 +36,7 @@ Thank you. We’re going to say it a lot today because you’re making a real im
 ## Giving Tuesday Elbow Bumps
 
 **(Name, donation time)** <br>
+Matthew Lindsay, 5:15pm <br>
 Jean-Philippe Fauchet, 5:04pm <br>
 Heather Gaona, 4:54pm <br>
 Stephanie Massaro, 4:53pm <br>
