@@ -36,6 +36,8 @@ Thank you. We’re going to say it a lot today because you’re making a real im
 ## Giving Tuesday Elbow Bumps
 
 **(Name, donation time)** <br>
+Jason Gross, 3:24pm <br>
+Anonymous, 3:21pm <br>
 John Preotle, 3:11pm <br>
 Anonymous, 3:11pm <br>
 Donald Wine, 3:09pm <br>
