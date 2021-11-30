@@ -36,6 +36,7 @@ Thank you. We’re going to say it a lot today because you’re making a real im
 ## Giving Tuesday Elbow Bumps
 
 **(Name, donation time)** <br>
+Eric Hoy, 10:30am <br>
 Anna Young, 10:29am <br>
 Michael Garcia, 10:19am <br>
 Brian Yi, 10:16am <br>
