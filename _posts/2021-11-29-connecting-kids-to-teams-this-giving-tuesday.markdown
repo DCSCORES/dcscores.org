@@ -36,6 +36,9 @@ Thank you. We’re going to say it a lot today because you’re making a real im
 ## Giving Tuesday Elbow Bumps
 
 **(Name, donation time)** <br>
+Melissa Guzmán, 12:12pm <br>
+Sean Hinkle, 12:11pm <br>
+Ian Holder, 12:11pm <br>
 Anonymous, 12:11pm <br>
 Anonymous, 12:10pm <br>
 Katrina Owens, 12:10pm <br>
