@@ -36,6 +36,8 @@ Thank you. We’re going to say it a lot today because you’re making a real im
 ## Giving Tuesday Elbow Bumps
 
 **(Name, donation time)** <br>
+Rhina Roberts, 2:03pm <br>
+Kimberly Remsberg, 1:59pm <br>
 Emily Baskin, 1:54pm <br>
 Jennifer Lewis, 1:53pm <br>
 Catherine Brenner, 1:45pm <br>
