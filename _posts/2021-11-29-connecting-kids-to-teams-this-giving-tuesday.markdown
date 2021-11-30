@@ -36,6 +36,14 @@ Thank you. We’re going to say it a lot today because you’re making a real im
 ## Giving Tuesday Elbow Bumps
 
 **(Name, donation time)** <br>
+John Preotle, 3:11pm <br>
+Anonymous, 3:11pm <br>
+Donald Wine, 3:09pm <br>
+Anonymous, 3:08pm <br>
+Carina Gervacio, 3:06pm <br>
+Anonymous, 2:57pm <br>
+Linda Shorey, 2:54pm <br>
+Patrice Jones, 2:44p <br>
 Erin Sheerin, 2:37pm <br>
 Jeffrey Day, 2:36pm <br>
 John Conte, 2:36pm <br>
