@@ -36,6 +36,7 @@ Thank you. We’re going to say it a lot today because you’re making a real im
 ## Giving Tuesday Elbow Bumps
 
 **(Name, donation time)** <br>
+Todd Turner, 2:12pm <br>
 Elizabeth Bradley, 2:10pm <br>
 Walter A Roberts III, 2:08pm <br>
 Tanya Wagstaffe, 2:06pm <br>
