@@ -36,8 +36,10 @@ Thank you. We’re going to say it a lot today because you’re making a real im
 ## Giving Tuesday Elbow Bumps
 
 **(Name, donation time)** <br>
+Nick Keenan, 12:33am <br>
 
 **Before Giving Tuesday** <br>
+Michael Nakamoto, (Nov. 29, 3:54pm) <br>
 Anonymous, (Nov. 29, 10:53am) <br>
 Kathryn Koehl, (Nov. 29, 10:07am) <br>
 Anonymous, (Nov. 29, 10:06am) <br>
