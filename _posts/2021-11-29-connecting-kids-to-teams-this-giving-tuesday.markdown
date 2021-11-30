@@ -36,6 +36,9 @@ Thank you. We’re going to say it a lot today because you’re making a real im
 ## Giving Tuesday Elbow Bumps
 
 **(Name, donation time)** <br>
+James Lambert, 12:25pm <br>
+Michelle Roberts, 12:25pm <br>
+Anonymous, 12:24pm <br>
 Anonymous, 12:24pm <br>
 Patrick Sheerin, 12:24pm <br>
 David Owens, 12:24pm <br>
