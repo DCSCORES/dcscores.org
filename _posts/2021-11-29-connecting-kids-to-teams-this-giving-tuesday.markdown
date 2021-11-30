@@ -36,6 +36,7 @@ Thank you. We’re going to say it a lot today because you’re making a real im
 ## Giving Tuesday Elbow Bumps
 
 **(Name, donation time)** <br>
+Anonymous, 12:14pm <br>
 Kelly Waldron, 12:13pm <br>
 Anonymous, 12:13pm <br>
 Traci Lee, 12:13pm <br>
