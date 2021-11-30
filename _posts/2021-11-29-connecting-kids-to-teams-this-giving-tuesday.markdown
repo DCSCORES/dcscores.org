@@ -36,6 +36,7 @@ Thank you. We’re going to say it a lot today because you’re making a real im
 ## Giving Tuesday Elbow Bumps
 
 **(Name, donation time)** <br>
+Elaine Fitch, 4:19pm <br>
 Anonymous, 4:05pm <br>
 Anonymous, 4:03pm <br>
 Kelly Bonnie, 3:51pm <br>
