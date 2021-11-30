@@ -36,6 +36,7 @@ Thank you. We’re going to say it a lot today because you’re making a real im
 ## Giving Tuesday Elbow Bumps
 
 **(Name, donation time)** <br>
+Jana Sharp, 10:51am <br>
 Lea Schwarzenberg, 10:50am <br>
 Anonymous, 10:41am <br>
 Kirkland & Ellis, 10:34am <br>
