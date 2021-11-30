@@ -36,6 +36,8 @@ Thank you. We’re going to say it a lot today because you’re making a real im
 ## Giving Tuesday Elbow Bumps
 
 **(Name, donation time)** <br>
+Kelly Bonnie, 3:51pm <br>
+Benjamin Brewster, 3:51pm <br>
 Carolina Powers, 3:50pm <br>
 Carolyn White, 3:47pm <br>
 Andreina Laffargue, 3:45pm <br>
