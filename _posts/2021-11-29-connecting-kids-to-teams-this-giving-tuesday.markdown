@@ -36,6 +36,9 @@ Thank you. We’re going to say it a lot today because you’re making a real im
 ## Giving Tuesday Elbow Bumps
 
 **(Name, donation time)** <br>
+Fred Hargrove, 8:24am <br>
+Lee Goldstein, 8:22am <br>
+David Barritt-Flatt, 8:19am <br>
 Nick Keenan, 12:33am <br>
 
 **Before Giving Tuesday** <br>
