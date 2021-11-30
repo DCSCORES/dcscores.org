@@ -36,6 +36,11 @@ Thank you. We’re going to say it a lot today because you’re making a real im
 ## Giving Tuesday Elbow Bumps
 
 **(Name, donation time)** <br>
+Emily Baskin, 1:54pm <br>
+Jennifer Lewis, 1:53pm <br>
+Catherine Brenner, 1:45pm <br>
+Timothy Borysowski, 1:41pm <br>
+Sean Tipton, 1:30pm <br>
 Sophia Newbold, 1:24pm <br>
 Anonymous, 1:21pm <br>
 Phillip Ford, 1:21pm <br>
