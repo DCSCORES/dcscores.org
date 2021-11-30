@@ -36,6 +36,10 @@ Thank you. We’re going to say it a lot today because you’re making a real im
 ## Giving Tuesday Elbow Bumps
 
 **(Name, donation time)** <br>
+Dr. Allen Chin, 12:19pm <br>
+Anonymous, 12:18pm <br>
+Anonymous, 12:18pm <br>
+Dale Park, 12:17pm <br>
 Jennifer Hsin, 12:17pm <br>
 Katherine Makris, 12:17pm <br>
 Edwin Lohmeyer, 12:17pm <br>
