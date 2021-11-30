@@ -36,6 +36,9 @@ Thank you. We’re going to say it a lot today because you’re making a real im
 ## Giving Tuesday Elbow Bumps
 
 **(Name, donation time)** <br>
+Carolina Powers, 3:50pm <br>
+Carolyn White, 3:47pm <br>
+Andreina Laffargue, 3:45pm <br>
 Jason Gross, 3:24pm <br>
 Anonymous, 3:21pm <br>
 John Preotle, 3:11pm <br>
