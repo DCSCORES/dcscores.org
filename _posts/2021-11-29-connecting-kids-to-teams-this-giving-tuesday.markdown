@@ -36,6 +36,9 @@ Thank you. We’re going to say it a lot today because you’re making a real im
 ## Giving Tuesday Elbow Bumps
 
 **(Name, donation time)** <br>
+Karen McKenna, 6:21pm <br>
+Anonymous, 6:16pm <br>
+Greg James, 6:16pm <br>
 Julio Coto, 6:15pm <br>
 Michael Heiken, 5:51pm <br>
 Karl Schwenkmeyer, 5:49pm <br>
