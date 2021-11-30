@@ -36,6 +36,8 @@ Thank you. We’re going to say it a lot today because you’re making a real im
 ## Giving Tuesday Elbow Bumps
 
 **(Name, donation time)** <br>
+Walter A Roberts III, 2:08pm <br>
+Tanya Wagstaffe, 2:06pm <br>
 Rhina Roberts, 2:03pm <br>
 Kimberly Remsberg, 1:59pm <br>
 Emily Baskin, 1:54pm <br>
