@@ -36,6 +36,10 @@ Thank you. We’re going to say it a lot today because you’re making a real im
 ## Giving Tuesday Elbow Bumps
 
 **(Name, donation time)** <br>
+K Owens, 12:30pm <br>
+Anonymous, 12:29pm <br>
+Launa Hochstetler, 12:29 <br>
+Anonymous, 12:29pm <br>
 Anonymous, 12:29pm <br>
 Anonymous, 12:28pm <br>
 Christine Parrish, 12:28pm <br>
