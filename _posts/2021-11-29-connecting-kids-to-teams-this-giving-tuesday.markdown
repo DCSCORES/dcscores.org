@@ -36,6 +36,10 @@ Thank you. We’re going to say it a lot today because you’re making a real im
 ## Giving Tuesday Elbow Bumps
 
 **(Name, donation time)** <br>
+Anonymous, 8:32pm <br>
+J. Michael Freedholm, 8:32pm <br>
+Valerie Utsey, 8:32pm <br>
+Eli Hochstetler, 8:30pm <br>
 Chris Silvester, 8:29pm <br>
 Michael Gross, 8:29pm <br>
 Anonymous, 8:27pm <br>
