@@ -36,6 +36,17 @@ Thank you. We’re going to say it a lot today because you’re making a real im
 ## Giving Tuesday Elbow Bumps
 
 **(Name, donation time)** <br>
+Kyla Spence, 9:28pm <br>
+Lauren Wohl, 9:27pm <br>
+Joi Hollis, 9:27pm <br>
+Benjamin Pulliam, 9:23pm <br>
+Ben Olsen, 9:20pm <br>
+Walter Okpych IV, 9:18pm <br>
+Carmen Howell, 9:17pm <br>
+Walter Okpych, 9:16pm <br>
+Corey Timbers, 9:14pm <br>
+Brandon Jones, 9:13pm <br>
+Walter IIII, 9:12pm <br>
 Wayne Rusch, 9:10pm <br>
 Lateef Gray, 9:04pm <br>
 Anonymous, 8:58pm <br>
