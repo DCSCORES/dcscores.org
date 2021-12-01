@@ -35,7 +35,12 @@ Thank you. We’re going to say it a lot today because you’re making a real im
 
 ## Giving Tuesday Elbow Bumps
 
+**Post Giving Tuesday** <br>
+Jane Stevens, (Dec. 1, 9:48am) <br> 
+
 **(Name, donation time)** <br>
+Mandisa John, 11:34pm <br>
+Cindy Elias, 11:24pm <br>
 Sheila Roberts, 11:08pm <br>
 Anonymous, 10:52pm <br>
 Jeffrey Seltzer, 10:50pm <br>
