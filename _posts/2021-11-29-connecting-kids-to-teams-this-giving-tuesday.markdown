@@ -36,6 +36,19 @@ Thank you. We’re going to say it a lot today because you’re making a real im
 ## Giving Tuesday Elbow Bumps
 
 **(Name, donation time)** <br>
+Anonymous, 10:27pm <br>
+Elisa Waske, 10:22pm <br>
+Judith Pugliese, 10:19pm <br>
+Bobbi Jo Shannon, 10:16pm <br>
+Anonymous, 10:15pm <br>
+Zachary Warren, 10:14pm <br>
+Elaine Winn, 10:10pm <br>
+Jeffrey Sears, 10:06pm <br>
+Mark Steo, 9:58pm <br>
+Anonymous, 9:55pm <br>
+Adebimbola Ogunyale, 9:51pm <br>
+Jane Delgado, 9:46pm <br>
+Thomas Bogle, 9:43pm <br>
 Anonymous, 9:37pm <br>
 Dodge Thompson, 9:36pm <br>
 Rudolph Escarne, 9:36pm <br>
