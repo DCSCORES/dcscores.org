@@ -36,6 +36,9 @@ Thank you. We’re going to say it a lot today because you’re making a real im
 ## Giving Tuesday Elbow Bumps
 
 **(Name, donation time)** <br>
+Christopher Stiles, 7:38pm <br>
+Sylvia Cabus, 7:36pm <br>
+Kristin Anderson, 7:29pm <br>
 Joshua Giamichael, 7:14pm <br>
 Michael Corl, 7:14pm <br>
 Anonymous, 7:07pm <br>
