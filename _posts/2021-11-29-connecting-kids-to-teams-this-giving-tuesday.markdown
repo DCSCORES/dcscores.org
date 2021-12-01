@@ -36,6 +36,10 @@ Thank you. We’re going to say it a lot today because you’re making a real im
 ## Giving Tuesday Elbow Bumps
 
 **(Name, donation time)** <br>
+Zach Pleasant, 8:11pm <br>
+Tim Spear, 8:11pm <br>
+Sanjay Nayar, 8:01pm <br>
+Zaryn Jennings, 7:58pm <br>
 Christopher Stiles, 7:38pm <br>
 Sylvia Cabus, 7:36pm <br>
 Kristin Anderson, 7:29pm <br>
