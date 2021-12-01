@@ -36,6 +36,9 @@ Thank you. We’re going to say it a lot today because you’re making a real im
 ## Giving Tuesday Elbow Bumps
 
 **(Name, donation time)** <br>
+Anonymous, 8:42pm <br>
+Anonymous, 8:41pm <br>
+Phyllis Owens, 8:38pm <br>
 Patrick McGettigan, 8:35pm <br>
 Anonymous, 8:32pm <br>
 J. Michael Freedholm, 8:32pm <br>
