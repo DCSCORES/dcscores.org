@@ -36,6 +36,12 @@ Thank you. We’re going to say it a lot today because you’re making a real im
 ## Giving Tuesday Elbow Bumps
 
 **(Name, donation time)** <br>
+Michael Corl, 7:14pm <br>
+Anonymous, 7:07pm <br>
+Jeffrey Koung, 7:06pm <br>
+Christen Gallagher, 7:04pm <br>
+Danielle Buchma, 7:03pm <br>
+Paul Cirino, 7:03pm <br>
 Anonymous, 6:59pm <br>
 Rafael Hernandez Toro, 6:40pm <br>
 Anonymous, 6:39pm <br>
