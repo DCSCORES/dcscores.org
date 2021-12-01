@@ -36,6 +36,10 @@ Thank you. We’re going to say it a lot today because you’re making a real im
 ## Giving Tuesday Elbow Bumps
 
 **(Name, donation time)** <br>
+11:08pm <br>
+Anonymous, 10:52pm <br>
+Jeffrey Seltzer, 10:50pm <br>
+Donald Ausherman, 10:41pm <br>
 Anonymous, 10:27pm <br>
 Elisa Waske, 10:22pm <br>
 Judith Pugliese, 10:19pm <br>
