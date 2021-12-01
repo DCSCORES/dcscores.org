@@ -36,6 +36,7 @@ Thank you. We’re going to say it a lot today because you’re making a real im
 ## Giving Tuesday Elbow Bumps
 
 **(Name, donation time)** <br>
+Lateef Gray, 9:04pm <br>
 Anonymous, 8:58pm <br>
 Anonymous, 8:45pm <br>
 Peter Finn, 8:44pm <br>
