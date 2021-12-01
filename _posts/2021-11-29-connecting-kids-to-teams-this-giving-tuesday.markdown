@@ -36,6 +36,7 @@ Thank you. We’re going to say it a lot today because you’re making a real im
 ## Giving Tuesday Elbow Bumps
 
 **(Name, donation time)** <br>
+Anonymous, 8:27pm <br>
 Joshua Freedholm, 8:25pm <br>
 Alexander Lord, 8:25pm <br>
 Heidi Hochstetler, 8:24pm <br>
