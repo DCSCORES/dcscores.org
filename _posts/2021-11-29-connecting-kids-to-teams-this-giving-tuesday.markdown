@@ -36,6 +36,9 @@ Thank you. We’re going to say it a lot today because you’re making a real im
 ## Giving Tuesday Elbow Bumps
 
 **(Name, donation time)** <br>
+Anonymous, 9:37pm <br>
+Dodge Thompson, 9:36pm <br>
+Rudolph Escarne, 9:36pm <br>
 Kyla Spence, 9:28pm <br>
 Lauren Wohl, 9:27pm <br>
 Joi Hollis, 9:27pm <br>
