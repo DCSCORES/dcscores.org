@@ -36,6 +36,8 @@ Thank you. We’re going to say it a lot today because you’re making a real im
 ## Giving Tuesday Elbow Bumps
 
 **Post Giving Tuesday** <br>
+Anonymous, (Dec. 2, 11:42pm) <br>
+Tina Rivard, (Dec. 2, 9:30pm) <br>
 Robert Turner, (Dec. 1, 9:22pm) <br>
 Anonymous, (Dec. 1, 2:29pm) <br>
 John Kelley, (Dec. 1, 2:09pm) <br>
