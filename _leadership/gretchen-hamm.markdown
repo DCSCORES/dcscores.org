@@ -1,7 +1,7 @@
 ---
 title: Gretchen Hamm
 date: 2020-09-22 14:28:00 Z
-position: 26
+position: 27
 Section: board
 Link: https://www.linkedin.com/in/gretchen/
 ---

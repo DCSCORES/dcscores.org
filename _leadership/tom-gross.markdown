@@ -1,7 +1,7 @@
 ---
 title: Tom Gross
 date: 2019-01-09 15:58:00 Z
-position: 10
+position: 11
 Details: Program Coordinator, Leagues
 Email: tgross@dcscores.org
 Profile Image: "/uploads/IMG_0038.jpg"
