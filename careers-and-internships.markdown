@@ -18,6 +18,15 @@ whr_embed(508866, {detail: 'titles', base: 'jobs', zoom: 'city', grouping: 'none
 
 ---
 
-## Internships
+## Internships and Fellowships
 
-**There are currently no internship openings.**
+### Communications Fellowship
+**Position Type: Part-time 6-12-month Fellowship
+Hybrid (In-person and remote)**
+
+The purpose of this 6-12-month Fellowship is to increase DC SCORES’ capacity to engage our stakeholders and the public in meaningful, consistent, high-quality communications about the incredible work of DC SCORES. Support the Senior Manager of Communications in internal and external communications. Provide additional capacity and support to the program team. 
+
+The Fellow will report directly to the Senior Manager of Communications and collaborate closely with Program Team members including the Chief Program Officer.
+
+**Click the link below for the full position description and instructions on how to apply.**
+[Communications Fellow Position Description.pdf](/uploads/Communications%20Fellow%20Position%20Description.pdf)
