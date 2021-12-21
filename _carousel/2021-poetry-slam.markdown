@@ -1,7 +1,7 @@
 ---
 title: 2021 Poetry Slam
 date: 2021-12-21 17:03:00 Z
-Image: "/uploads/Website%20Carousel%20(2)-5ba3d3.png"
+Image: "/uploads/Website%20Carousel%20(3)%20(1).png"
 Link: https://youtube.com/playlist?list=PLaMKH-_ipEg_8sBhnn6F1zM5l_GE7jIFh
 ---
 
