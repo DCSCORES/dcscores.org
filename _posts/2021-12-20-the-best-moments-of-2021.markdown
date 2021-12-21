@@ -19,7 +19,7 @@ Our biggest success this year is without a doubt returning to in-person programm
 
 We aren’t sure what 2022 will bring, but we’re optimistic about the future and DC SCORES will continue working hard for kids in the District.
 
-From December 20-3, join us in counting down our 10 favorite moments of 2021 (in no particular order)!
+**From December 20-3, join us in counting down our 10 favorite moments of 2021 (in no particular order)!**
 
 ---
 
