@@ -23,6 +23,16 @@ We aren’t sure what 2022 will bring, but we’re optimistic about the future a
 
 ---
 
+## 3. Summer
+
+![Best of 2021 (Twitter Post) (3).png](/uploads/Best%20of%202021%20(Twitter%20Post)%20(3).png)
+
+Unlike our virtual camps last summer, we were excited to return to [in-person summer camps](https://www.flickr.com/photos/dcscorespictures/albums/72157719950176542) this year! While we didn’t have as many camps as we usually host or host camps as long as we typically do, it was amazing to bring back soccer and arts camps for **Leckie Education Campus** and **Truesdell Elementary School**, where the campers got to enjoy their **brand new soccer field**!
+
+Both camps were open to rising 1st through 6th graders and each camp ran for two weeks. Every camp day was divided into **arts programming** and **soccer programming**. Soccer programming was appropriate for players of all experiences and consisted of fun activities that focus on a skill of the day. For arts programming, outside experts were brought in to lead sessions on different topics each week, ranging from dance, painting, drumming, playwriting, etc. Our summer SCORES camps culminated in a celebration with food, fun activities, and awards for players who displayed teamwork, leadership, and commitment throughout the week.
+
+Additionally, we teamed up with [Open Goal Project](https://www.opengoalproject.org/) once again to host a two-week **elite soccer camp** to offer a higher level of training and activities for our highly skilled participants and alumni.
+
 ## 2. Washington Spirit
 
 ![Best of 2021 (Twitter Post) (2).png](/uploads/Best%20of%202021%20(Twitter%20Post)%20(2).png)
