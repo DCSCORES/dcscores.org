@@ -40,7 +40,7 @@ Not only was it a great experience for all of the participating teams, but it wa
 * Girls: School Without Walls at Francis-Stevens
 * Boys: Cardozo Education Campus
 
-### PCSAA League
+**PCSAA League**
 * Coed: Paul Public Charter School
 * Girls: DC International School
 * Boys: Washington Latin Public Charter School
