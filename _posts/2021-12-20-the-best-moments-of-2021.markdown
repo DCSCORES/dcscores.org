@@ -23,6 +23,37 @@ We aren’t sure what 2022 will bring, but we’re optimistic about the future a
 
 ---
 
+## 4. Capital Cup
+![Best of 2021 (Twitter Post) (4).png](/uploads/Best%20of%202021%20(Twitter%20Post)%20(4).png)
+
+One of the highlights of the Fall SCORES season is Capital Cup, the culminating championship games of the DC SCORES Middle School soccer leagues, in partnership with [Public Charter School Athletic Association](https://dcchartersports.org/) (PCSAA) and [District of Columbia State Athletic Association](https://www.dcsaasports.org/) (DCSAA), for 40 participating teams from 22 DC Public and Public Charter Schools. 
+
+**D.C. United** and **Audi Field** hosted the [Division Championship](https://www.flickr.com/photos/dcscorespictures/albums/72157720198165015) games on November 12th. All of the participating teams got to experience what it’s like playing under the lights just like the professionals. The teams also had special guests cheering them on including **Councilmember Janeese Lewis George** (Ward 4), **Councilmember Brooke Pinto** (Ward 2), and **Moses Nyeman** and **Jon Kempin** from **D.C. United**.
+
+Many of our participating teams also received new cleats thanks to a shoe donation that our community partner, [Bethesda Soccer Club](https://www.bethesdasoccer.org/), hosted to benefit us during one of their tournaments!
+
+Not only was it a great experience for all of the participating teams, but it was also incredible for families and school faculty to witness their teams fight for the division title and the opportunity to play the following week for the championship.
+
+### Division Champions
+**DC SCORES League**
+* Coed: Leckie Education Campus
+* Girls: School Without Walls at Francis-Stevens
+* Boys: Cardozo Education Campus
+
+### PCSAA League
+* Coed: Paul Public Charter School
+* Girls: DC International School
+* Boys: Washington Latin Public Charter School
+
+The [Capital Cup State Championship](https://bit.ly/capcupfinals21) wrapped up the season on November 19th at The Fields at RFK Campus. Each of the three games demonstrated the highest level of play from all of the teams. These moments are when teams really get to showcase the DC SCORES values of teamwork, leadership, and commitment.
+
+### Capital Cup Champions
+* Coed: Paul Public Charter School
+* Girls: DC International School
+* Boys: Washington Latin Public Charter School
+
+As the last event of the Fall SCORES season, Capital Cup was the perfect way to end the season for all of the middle school teams.
+
 ## 3. Summer
 
 ![Best of 2021 (Twitter Post) (3).png](/uploads/Best%20of%202021%20(Twitter%20Post)%20(3).png)
