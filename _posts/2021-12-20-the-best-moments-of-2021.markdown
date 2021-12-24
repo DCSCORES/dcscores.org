@@ -23,6 +23,21 @@ We aren’t sure what 2022 will bring, but we’re optimistic about the future a
 
 ---
 
+## 5. D.C. United
+![Best of 2021 (Twitter Post)-de5b39.png](/uploads/Best%20of%202021%20(Twitter%20Post)-de5b39.png)
+
+It’s impossible to look back during these ‘best of’ yearly lists and not mention our official community partner, [D.C. United](https://www.dcunited.com/). During a year that was filled with ups and downs, we’re thankful for D.C. United’s continued support.
+
+As D.C. United welcomed fans back to Audi Field during their home games this year, they also **welcomed back our poet-athletes to Section 138**, in partnership with [Screaming Eagles](https://www.screaming-eagles.com/). Every home game, teams of DC SCORES poet-athletes had the opportunity to cheer on the black-and-red thanks to this dedicated section at Audi Field where kids can enjoy access to professional soccer games.
+
+Besides D.C. United opening the gates of Audi Field for our poet-athletes during home games, we were also able to host other incredible events at their stadium. In October, we hosted our annual fundraiser celebration, [One Night One Goal](https://www.flickr.com/photos/dcscorespictures/albums/72157719814644092), inside of the EagleBank Club of Audi Field. In November, some of our participating middle school soccer teams had the amazing opportunity to play on the field just like the pros during the [Capital Cup Division Championship](https://www.flickr.com/photos/dcscorespictures/albums/72157720198165015) games.
+
+Big shoutout to D.C. United players, **Jon Kempin** and **Moses Nyeman**, that came to support our participating middle school teams and assisted in the trophy presentation during Capital Cup!
+
+In early December, we teamed up with D.C. United for the second consecutive year to **donate more than 200 soccer balls** of various sizes to WJLA’s Toy for Tots donation drive in College Park, Maryland.
+ 
+We’re also very excited to welcome **D.C. United’s President of Business Operations, Danita Johnson**, to the DC SCORES Board of Directors!
+
 ## 4. Capital Cup
 ![Best of 2021 (Twitter Post) (4).png](/uploads/Best%20of%202021%20(Twitter%20Post)%20(4).png)
 
