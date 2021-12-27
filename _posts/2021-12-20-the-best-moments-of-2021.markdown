@@ -23,6 +23,57 @@ We aren’t sure what 2022 will bring, but we’re optimistic about the future a
 
 ---
 
+## 6. SCORE Awards
+
+![Best of 2021 (Twitter Post) (1)-718662.png](/uploads/Best%20of%202021%20(Twitter%20Post)%20(1)-718662.png)
+
+Due to the pandemic, we were forced to cancel our SCORE Awards in 2020, but this year we brought the SCORE Awards back in a hybrid format. The SCORE Awards is an annual DC SCORES celebration of our coaches and volunteers during Teacher Appreciation Week. 
+
+The **8th annual SCORE Awards celebration** took place in-person at [Hill Prince](http://hillprince.com/) for those that felt comfortable and wanted to reunite with their fellow coaches and DC SCORES supporters, but also streamed via Zoom for those joining from home.
+
+This year, **three coaching teams and 16 individuals received awards** recognizing their hard work for making this program possible. As a special token of appreciation, each award recipient received a customized plaque and customized D.C. United jersey.
+
+See below for the award winners.
+
+**Kennedy Award for Commitment**
+* Catherine Coulter – KIPP DC: KEY Academy
+* Darlene Holbrook-Jones – LaSalle-Backus Elementary School
+* Nathaniel Wallace – KIPP DC: WILL Academy
+
+**Mingo Roberts Coaching Excellence Award**
+* Mariann Gallo – HD Cooke Elementary School
+* John Guzman – Bancroft Elementary School
+* Jennifer Schroeder – Truesdell Elementary School
+
+**Rookie of the Year Award**
+* Fatima Baig – Marie Reed Elementary School
+* Catherine Heisey – Ida B. Wells Middle School
+
+**Teaching Artist Award**
+* Sherri Chandler – Browne Education Campus
+* Jacob Mayberry – Jefferson Middle School Academy
+* Marjan Naderi – Bancroft Elementary School
+
+**Barbara Klausner Professional Development Award**
+* Terrance Turner – Brightwood Education Campus
+
+**Chris Richardson Community Service Award**
+* Katherine Koleski – KIPP DC: WILL Academy
+* Washington Spirit
+
+**Carl Cohen Community Service Award**
+* Tchad Moore 
+* Steve Brown
+
+**Teamwork Award**
+* Amidon-Bowen Elementary School
+* Barnard Elementary School
+* Raymond Elementary School
+ 
+We have to give a special shoutout again to [Hill Prince](http://hillprince.com/) for hosting our in-person guests and [Little Sesame](https://www.eatlittlesesame.com/) for providing food for all of our guests, both in-person and at home!
+
+The impact DC SCORES has on kids in DC is achievable because of the coaches, volunteers and supporters that make it a reality. Thank you coaches for your endless amount of love, patience and commitment to DC SCORES poet-athletes!
+
 ## 5. D.C. United
 ![Best of 2021 (Twitter Post)-de5b39.png](/uploads/Best%20of%202021%20(Twitter%20Post)-de5b39.png)
 
