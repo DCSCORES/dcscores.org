@@ -23,6 +23,19 @@ We aren’t sure what 2022 will bring, but we’re optimistic about the future a
 
 ---
 
+## 7. SCORES Cup
+![Best of 2021 (Twitter Post) (2)-cf8e2f.png](/uploads/Best%20of%202021%20(Twitter%20Post)%20(2)-cf8e2f.png)
+
+October 23rd wasn’t just a big day at The Fields at RFK Campus for our poet-athletes, but also for many of our adult supporters. After a full day hosting Fall Frenzy, it was time for our annual [DC SCORES Cup](https://bit.ly/scup21photos) in the afternoon.
+
+DC SCORES Cup (est. 2003) is one of the largest corporate charity soccer tournaments in the country. For the first time in a decade, the tournament moved from Maryland back to DC proper, and we welcomed the exciting addition of [District Sports](https://districtsportssoccer.org/) as the official tournament operators.
+
+**Over 400 participants and 28 teams** made up a fantastic event that raised over $130,000 which will help us get more and more of our kids back on the pitch and the poetry stage.
+
+The day wouldn’t have been possible without District Sports running the tournament, **Kam and 46** and **Food Over Everything** feeding everybody, **Events DC** and **DC 2026** hosting our game watch, and **Atlas Brew Works** for making sure that win or lose, every player had a cold drink waiting for them at the end.
+
+A very special shout out to all the participating teams, especially the tournament winners: **Venable**, **Crowell & Moring**, **Grant Thornton**, **JP Construction**, and **World Bank**!
+
 ## 6. SCORE Awards
 
 ![Best of 2021 (Twitter Post) (1)-718662.png](/uploads/Best%20of%202021%20(Twitter%20Post)%20(1)-718662.png)
