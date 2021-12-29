@@ -24,6 +24,7 @@ We aren’t sure what 2022 will bring, but we’re optimistic about the future a
 ---
 
 ## 8. Poetry Slam
+![Best of 2021 (Twitter Post) (3)-8212db.png](/uploads/Best%20of%202021%20(Twitter%20Post)%20(3)-8212db.png)
 
 Early on during the fall season, DC SCORES made the decision to make the annual Poetry Slam a virtual event to ensure everyone’s well-being. Our main goal was to make this virtual affair a memorable event for our poet-athletes and coaches. 
 
