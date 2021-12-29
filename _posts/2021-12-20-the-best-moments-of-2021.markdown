@@ -23,6 +23,22 @@ We aren’t sure what 2022 will bring, but we’re optimistic about the future a
 
 ---
 
+## 8. Poetry Slam
+
+Early on during the fall season, DC SCORES made the decision to make the annual Poetry Slam a virtual event to ensure everyone’s well-being. Our main goal was to make this virtual affair a memorable event for our poet-athletes and coaches. 
+
+We wanted to **honor the creative and supportive essence of the Poetry Slam** so we maintained the Slam format of kids performing with their teams and sharing group and individual performances. The Poetry Slam is all about celebrating the hard work our kids put into their performances and we knew it was crucial to keep kids’ voices at the forefront of this special event.
+
+Our plan involved having each school team submit a video recording of their group and individual performance. During the season we sent tripods and special lights to every single one of our poetry teams and trained our coaches on video recording best practices.
+
+We wanted the best of the best to judge the performances so we reached out to some of our incredible poetry specialists to serve as expert judges, including **Jael Benjamin**, **Miss Kianne Ink**, and **Jennifer Eden**.
+
+The end result was three individual Poetry Slam videos – Westside, Eastside, and Middle School – all compiled and edited by **expert video editor, Joshua Freeman**.
+
+Lastly, each of our school partners hosted their own individual [Poetry Slam watch parties](https://www.flickr.com/photos/dcscorespictures/albums/72157720291530960). DC SCORES created special ‘watch party kits’ with snacks, swag, and goodies for every team to enjoy during their watch party on December 14th. We even secured special guests to surprise the winning teams with their trophies, including **Paige Nielsen** and **Ben Olsen from the Washington Spirit**, **Donovan Pines from D.C. United**, and **Ward 5 Councilmember Kenyan McDuffie**.
+
+It would have been amazing to be in-person for the Poetry Slams but these individual watch parties were just as incredible and showcased the safe and brave spaces DC SCORES helps create for kids all over the city. If you want to see some amazing performances – [check out the performance](https://youtu.be/VZ69akzJ548) from back-to-back Eastside Poetry Slam champions, **Kimball Elementary School** in Ward 7.
+
 ## 7. SCORES Cup
 ![Best of 2021 (Twitter Post) (2)-cf8e2f.png](/uploads/Best%20of%202021%20(Twitter%20Post)%20(2)-cf8e2f.png)
 
