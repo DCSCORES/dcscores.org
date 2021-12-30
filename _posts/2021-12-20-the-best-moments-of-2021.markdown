@@ -23,6 +23,21 @@ We aren’t sure what 2022 will bring, but we’re optimistic about the future a
 
 ---
 
+## 10. New Team
+![Best of 2021 (Twitter Post) (10).png](/uploads/Best%20of%202021%20(Twitter%20Post)%20(10).png)
+
+2021 brought in a lot of changes to the makeup of the DC SCORES core staff. For many, staff changes can be unsettling and at times even scary, but this opportunity to grow lets us bring in amazing additions to the team.
+
+In March, former DC SCORES Executive Director, Bethany Henderson, [announced](https://www.dcscores.org/blog/2021/03/bethany-henderson-announces-her-departure-as-ceo-of-dc-scores) she would be stepping down as CEO for the organization and we shared that longtime staff member, [Katrina Owens](https://www.dcscores.org/about-us/leadership/katrina-owens), would be [the new Executive Director](https://www.dcscores.org/blog/2021/03/dc-scores-board-chair-announces-new-executive-director-and-chief-operating-officer). In addition to Katrina’s announcement, former Chief Program Officer [Sean Hinkle](https://www.dcscores.org/about-us/leadership/sean-hinkle), moved into the role of Chief Operating Officer. 
+
+The movement in leadership offered an exciting opportunity to grow our program team and bring on some incredible additions to the team. In the summer, native Washingtonian [Brandy Tyson](https://www.dcscores.org/about-us/leadership/brandy-tyson) became the new Chief Program Officer, bringing in more than two decades of experience as a public school educator and principal to the role. [Jason Gross](https://www.dcscores.org/about-us/leadership/jason-gross), also a native Washingtonian, joined DC SCORES as the Senior Director of Soccer and Operations. 
+
+We are ecstatic to have [Desara Korreshi](https://www.dcscores.org/about-us/leadership/desara-korreshi) and [Jose Granados](https://www.dcscores.org/about-us/leadership/jose-granados) on our team this year as Program Fellows through Up2Us and keep [Jewel Christian](https://www.dcscores.org/about-us/leadership/jewel-christian) as a full-time team member after serving as a fellow for two years. 
+
+The writing component of our programming also made tremendous strides with the addition of [Tatiana Figueroa Ramirez](https://www.dcscores.org/about-us/leadership/tatiana-figueroa-ramirez) as the new Associate Program Manager for Creative Writing. Tatiana is a poet that has worked with DC SCORES previously as a teaching artist, a host, and community organizer with extensive experience working specifically in the non-profit and education sectors. 
+
+While our office staff had great team member additions, we also have to recognize the additions to our Board of Directors that have joined our team as well, including Washington Spirit President of Business Operations and D.C. United legend, **Ben Olsen**; D.C. United President of Business Operations, **Danita Johnson**; Busboys and Poets CEO and Founder, **Andy Shallal**; Clark Construction Group Vice President, **Harry Stevenson**; and former At-Large Councilmember and Arent Fox Partner, **David Grosso**.
+
 ## 9. DC 2026
 ![Best of 2021 (Twitter Post) (9).png](/uploads/Best%20of%202021%20(Twitter%20Post)%20(9).png)
 
