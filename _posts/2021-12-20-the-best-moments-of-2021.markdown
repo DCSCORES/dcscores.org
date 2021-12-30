@@ -23,6 +23,19 @@ We aren’t sure what 2022 will bring, but we’re optimistic about the future a
 
 ---
 
+## 9. DC 2026
+![Best of 2021 (Twitter Post) (9).png](/uploads/Best%20of%202021%20(Twitter%20Post)%20(9).png)
+
+We’re excited to be a part of the [DC 2026](https://dc2026.org/) movement to bring the 2026 FIFA World Cup™to DC!
+
+The DC games from the 1994 FIFA World Cup™ launched a "Poet-Athlete Generation." Funds from the tournament launched the soccer-for-youth-development organization, DC SCORES across our city, which expanded as America SCORES across the continent. 
+
+Today, America SCORES works with well over 10,000 Poet-Athletes each year at hundreds of schools across 11 cities in North America. Through its unique and award-winning combination of soccer, poetry, and service-learning, America SCORES reaches students through their natural love for the game and empowers them to share their voices and perspectives via written and spoken poetry and to make their communities safer and more beautiful through service-learning initiatives. 
+
+2026 FIFA World Cup™ will enable DC SCORES to reach the thousands of DC schoolchildren still waiting for a team and will help America SCORES expand into new host markets and reach over 200,000 kids by 2030.
+
+As an official benefactor of this World Cup bid, we were very excited to be a part of the [FIFA and US Soccer delegation tour in September](https://eventsdc.com/news/fifa-and-us-soccer-delegation-tours-washington-dc-2026-fifa-host-cities-selection-nears). Our Senior Advisor of Arts & Culture, [Charity Blackwell](https://www.dcscores.org/about-us/leadership/charity-blackwell), also had the opportunity to showcase a little bit about our poetry programming by performing her incredible poem, “[United](https://youtu.be/l9en6efgPh4).”
+
 ## 8. Poetry Slam
 ![Best of 2021 (Twitter Post) (3)-8212db.png](/uploads/Best%20of%202021%20(Twitter%20Post)%20(3)-8212db.png)
 
