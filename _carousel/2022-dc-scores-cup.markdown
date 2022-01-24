@@ -1,6 +1,7 @@
 ---
 title: 2022 DC SCORES Cup
 date: 2022-01-24 17:20:00 Z
+position: 0
 Image: "/uploads/Website%20Carousel-5a5cd3.png"
 Link: cup.dcscores.org
 ---
