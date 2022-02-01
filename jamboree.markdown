@@ -6,15 +6,15 @@ Top Image Position: 50% 25%
 layout: jamboree
 ---
 
-### Jamboree 2020 Volunteer Information
+### Jamboree 2022 Volunteer Information
 
-Jamboree is our all-day soccer tournament and community festival for our elementary and middle school participants and their families. This year, Jamboree with take place on Saturday, May 30 for elementary schools and Saturday, June 6 for middle schools.
+Jamboree is our all-day soccer tournament and community festival for our elementary and middle school participants and their families. This year, Jamboree with take place on Saturday, June 4 for elementary schools.
 
 #### Logistics
 
-* Saturday, May 30 (elementary) and Saturday, June 6 (middle)
+* Saturday, June 4
 
-* Locations: TBD
+* Locations: [The Fields at RFK Campus](https://goo.gl/maps/zvWNRC6Ao5U8kjvCA)
 
 * All volunteers will receive a light lunch (vegetarian options available) and water stations will be placed throughout the venue.
 
@@ -32,7 +32,7 @@ Jamboree is our all-day soccer tournament and community festival for our element
 
 #### Weather Policy
 
-* Jamboree is a “drizzle-or-shine” event. In the case that there is an absolute downpour, we will notify you via email on Friday, May 29th (elementary schools) or Friday, June 5th (middle schools).
+* Jamboree is a “drizzle-or-shine” event. In the case that there is an absolute downpour, we will notify you via email on Friday, June 3rd (elementary schools).
 
 #### What do I need to check-in on the day of the event?
 
@@ -48,26 +48,23 @@ Jamboree is our all-day soccer tournament and community festival for our element
 
 Referees will be asked to work with other referees at their field and will control 3-5 games throughout their shift. *Soccer experience necessary*, although all referees will complete a brief overview with DC SCORES Staff before their shift, some light jogging required.
 
-Note: For this role, there are **AM**, **PM**, and **All-Day** shifts available only for May 30th.
+Note: For this role, there are **AM**, **PM**, and **All-Day** shifts available only for June 4th.
 
 #### Activity Booths
 
 Great team-building experience for different departments for groups of 2-12 employees. Booths include face-painting, art & soccer activities, etc.
 
-Note: For this role, there are **AM**, **PM**, and **All-Day** shifts available only for May 30th.
+Note: For this role, there are **AM**, **PM**, and **All-Day** shifts available only for June 4th.
 
 #### Lunch Distribution
 
 Recommended for a group (e.g. a company). This station will consist of organizing boxed lunches and making sure they get to teams, family members, and volunteers properly.
-
-Note: For this role, one shift will be available for each day.
 
 #### Photography/Videography
 
 *Please bring your own camera*. In this position, volunteers will be assigned to capture a certain area/set of games.
 
 Note: For this role, there are **AM**, **PM**, and **All-Day** shifts available.
-
 
 #### Set-Up/Closing Crew
 

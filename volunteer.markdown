@@ -25,7 +25,7 @@ Thursdays (Elementary) from 3:45pm to 6pm. <br>
 At <a href="/our-program/program-sites/" target="_blank">sites</a> throughout DC. We will do our best to place you based on your location and mode of transportation.
 
 **Schedule**
-DC SCORES games are expected to resume in September 2021.
+DC SCORES games are expected to resume in March 2022.
 
 **Want to get involved?** Please email Margot at mlocker@dcscores.org.
 
@@ -39,9 +39,9 @@ DC SCORES games are expected to resume in September 2021.
 
 A day-long celebration of our fall season that includes soccer games and outdoor activities for our elementary school students and their families.
 
-**Date:** Saturday, October 23, 2021
+**Date:** October 2022
 
-**Location:** The Fields at RFK Campus
+**Location:** TBD
 
 **Want to get involved?** [Click here](https://www.dcscores.org/fallfrenzy/) to learn more and register to volunteer.
 
@@ -51,11 +51,11 @@ A day-long celebration of our fall season that includes soccer games and outdoor
 
 Our largest fundraiser – an annual adult soccer tournament made up of local companies, law firms, small businesses and soccer organizations. Volunteer roles include setup/breakdown, registration, field marshals, lunch servers, and photography.
 
-**Date:** Saturday, October 23, 2021
+**Date:** Saturday, June 18, 2022
 
 **Location:** The Fields at RFK Campus
 
-**Want to get involved?** Please email Kendall at kthomas@dcscores.org
+**Want to get involved?** Please visit the [DC SCORES cup website](https://cup.dcscores.org/)
 
 ---
 
@@ -63,7 +63,7 @@ Our largest fundraiser – an annual adult soccer tournament made up of local co
 
 This three-night, spoken-word competition features DC SCORES students performing their original poetry. Volunteer roles include set-up/breakdown, registration, ushers, scoring assistants, and stagehands.
 
-**Date:** November 2021
+**Date:** November 2022
 
 ---
 
@@ -71,9 +71,9 @@ This three-night, spoken-word competition features DC SCORES students performing
 
 The culminating event of the DC SCORES programming year, filled with soccer games, arts and crafts, and more for DC SCORES students and their families.
 
-**Date:** June 2022
+**Date:** June 4, 2022
 
-**Location:** TBD
+**Location:** The Fields at RFK Campus
 
 ---
 
@@ -82,7 +82,7 @@ The culminating event of the DC SCORES programming year, filled with soccer game
 
 ### Summer Camp Counselor
 
-Applications for Summer 2021 are now closed.
+Applications for Summer 2022 will open in May 2022.
 
 ---
 
@@ -101,4 +101,4 @@ At your convenience. We always need help at our events, but also photos and vide
 At sites throughout DC. We will do our best to place you based on your location and mode of transportation.
 
 **Want to get involved?**
-Contact Lorena Palacios at lpalacios@dcscores.org
+Contact Tony Francavilla at afrancavilla@dcscores.org
