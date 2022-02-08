@@ -12,7 +12,6 @@ Team Champions:
 - Amazon
 - Bender Foundation
 - Diplomat Group
-- Embassy of the State of Qatar
 - England Family Foundation
 - Eugene & Agnes E. Meyer Foundation
 - Fight for Children
