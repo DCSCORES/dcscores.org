@@ -1,9 +1,9 @@
 ---
-title: DC SCORES announces new leadership
+title: Our Words Our City 2022
 date: 2021-03-30 18:54:00 Z
 position: 3
-Image: "/uploads/Website%20Carousel-ee3184.jpg"
-Link: https://www.dcscores.org/blog/2021/03/dc-scores-board-chair-announces-new-executive-director-and-chief-operating-officer
+Image: "/uploads/Website%20Carousel%20-%20OWOC%2022.png"
+Link: https://evt.mx/TMcgMmXr
 ---
 
-The Board of Directors announces Katrina Owens as the new Executive Director of DC SCORES and Sean Hinkle as the Chief Operating Officer.
+Our Words Our City is back at the MLK Memorial Library this year! You don't want to miss it.
