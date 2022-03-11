@@ -6,4 +6,4 @@ Image: "/uploads/Website%20Carousel%20-%20OWOC%2022.png"
 Link: https://evt.mx/TMcgMmXr
 ---
 
-Our Words Our City is back at the MLK Memorial Library this year! You don't want to miss it.
+Our Words Our City is back, and featuring Elizabeth Acevedo this year! You don't want to miss it.
