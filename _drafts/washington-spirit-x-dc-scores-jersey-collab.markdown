@@ -1,6 +1,7 @@
 ---
 title: Washington Spirit x DC SCORES Jersey Collab
 date: 2022-03-18 20:19:00 Z
+Author: Anthony Francavilla
 ---
 
 ![51635618663_55e21b0362_o.jpg](/uploads/51635618663_55e21b0362_o.jpg)
