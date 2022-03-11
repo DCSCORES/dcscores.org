@@ -2,7 +2,7 @@
 title: Washington Spirit x DC SCORES Jersey Collab
 date: 2022-03-11 19:46:00 Z
 Author: Aishu Sukumaran
-layout: impact
+layout: post
 ---
 
 The NWSL Champion Washington Spirit will feature DC SCORES, an award-winning afterschool program and community institution, on the front of their 2022 Challenge Cup jerseys. These kits represent an emphatic statement about the club’s commitment to the DC community. 
