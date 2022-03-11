@@ -17,6 +17,8 @@ DC SCORES serves over 3,000 “poet-athletes” at 60 Title 1 elementary and mid
 
 Ashley was one of dozens of Spirit players that came out to Audi Field in summer 2020 to pack thousands of kits to send home to DC SCORES poet-athletes to ensure they had everything they needed for virtual programming. Over the course of the last two years, Spirit players and staff have stepped up for DC SCORES no matter the circumstances. They dropped into virtual soccer practices, judged online poetry performances, and even donated proceeds from last year’s third-place Challenge Cup finish. When in-person programming returned last summer, Spirit players past and present were there, helping out at summer camp, taking photos at our annual Fall Frenzy, donating equipment, and delivering trophies at the 2021 Poetry Slam.
 
+![49123516218_642c6cb5d7_o.jpg](/uploads/49123516218_642c6cb5d7_o.jpg)
+
 The world needs more poet-athletes—people who are physically healthy, emotionally strong, and who have the skills, the platform, and the inclination to speak up and act out against injustice. The Spirit’s 2022 Community Kit is a commitment to helping DC SCORES build a generation of poet-athletes, and to embodying the characteristics of a poet-athletes throughout the 2022 season and beyond.
 
 # Get Involved
