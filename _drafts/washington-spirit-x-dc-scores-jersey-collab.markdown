@@ -27,6 +27,6 @@ Want to support DC SCORES? There are many ways to do so:
 
 * **Sponsor**—Get your company involved! Sponsor a school, sponsor an event, play in SCORES Cup, our corporate charity soccer tournament. For more information, contact Tony at afrancavilla@dcscores.org.
 
-* Volunteer—We rely on volunteer referees for our weekly elementary school game, and we need hundreds of volunteers to support our major program events each year. Have a special skill that could benefit us (photography, web design, marketing, etc)? We’d love to hear from you. Sign up here.
+* **[Volunteer](https://www.dcscores.org/volunteer/)**— We rely on volunteer referees for our weekly elementary school game, and we need hundreds of volunteers to support our major program events each year. Have a special skill that could benefit us (photography, web design, marketing, etc)? We’d love to hear from you. Sign up here.
 
-* Follow us—Follow us on Twitter, IG, Facebook, and Linkedin for updates and opportunities to get involved.
+* Follow us—Follow us on [Twitter](https://twitter.com/dcscores), [IG](https://www.instagram.com/dc_scores/), [Facebook](https://www.facebook.com/DCSCORES), and [Linkedin](https://www.linkedin.com/company/879205/) for updates and opportunities to get involved.
