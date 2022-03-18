@@ -1,5 +1,5 @@
 ---
-title: Washington Spirit x DC SCORES Jersey Collab
+title: Washington Spirit x DC SCORES Jersey Reveal
 date: 2022-03-18 20:19:00 Z
 tags:
 - Washington Spirit
