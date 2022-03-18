@@ -27,8 +27,7 @@ At <a href="/our-program/program-sites/" target="_blank">sites</a> throughout DC
 **Schedule**
 DC SCORES games are expected to resume in March 2022.
 
-**Want to get involved?** Please email Margot at mlocker@dcscores.org.
-
+**Want to get involved?** Please complete our [volunteer interest form](https://link.dcscores.org/volunteer).
 ---
 
 <span id="volunteer-special-events"></span>
@@ -43,7 +42,7 @@ A day-long celebration of our fall season that includes soccer games and outdoor
 
 **Location:** TBD
 
-**Want to get involved?** [Click here](https://www.dcscores.org/fallfrenzy/) to learn more and register to volunteer.
+**Want to get involved?** Check back here in the fall!
 
 ---
 
@@ -65,6 +64,8 @@ This three-night, spoken-word competition features DC SCORES students performing
 
 **Date:** November 2022
 
+**Want to get involved?** Check back here in the fall!
+
 ---
 
 ### Jamboree
@@ -74,6 +75,8 @@ The culminating event of the DC SCORES programming year, filled with soccer game
 **Date:** June 4, 2022
 
 **Location:** The Fields at RFK Campus
+
+**Want to get involved?** Please complete our [volunteer interest form](https://link.dcscores.org/volunteer).
 
 ---
 
