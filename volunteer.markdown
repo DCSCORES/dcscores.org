@@ -28,6 +28,7 @@ At <a href="/our-program/program-sites/" target="_blank">sites</a> throughout DC
 DC SCORES games are expected to resume in March 2022.
 
 **Want to get involved?** Please complete our [volunteer interest form](https://link.dcscores.org/volunteer).
+
 ---
 
 <span id="volunteer-special-events"></span>
