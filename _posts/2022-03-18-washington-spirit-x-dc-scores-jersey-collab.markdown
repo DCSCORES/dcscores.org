@@ -4,17 +4,14 @@ date: 2022-03-18 20:19:00 Z
 tags:
 - Washington Spirit
 - partners
-Author: Anthony Francavilla
+Author: Tony Francavilla
 Thumbnail Image: "/uploads/Hatch%20Ashley%20Boots%20From%20Pros%20Community%20Kit_DC%20SCORES%20Washington%20Spirit_Leckie%20Elementary_03.16.2022_CCC_DSC_6401.jpg"
 ---
 
 ![Hatch Ashley Boots From Pros Community Kit_DC SCORES Washington Spirit_Leckie Elementary_03.16.2022_CCC_DSC_6401.jpg](/uploads/Hatch%20Ashley%20Boots%20From%20Pros%20Community%20Kit_DC%20SCORES%20Washington%20Spirit_Leckie%20Elementary_03.16.2022_CCC_DSC_6401.jpg)
+*Credit: Cody Cervenka*
 
 The NWSL Champion Washington Spirit will feature DC SCORES, an award-winning afterschool program and community institution, on the front of their 2022 Challenge Cup jerseys. These kits represent an emphatic statement about the club’s commitment to the DC community.
-
-
-
-
 
 > *“What’s more important to the city we call home than its children?” said Spirit President Ben Olsen. “The poet-athletes of DC SCORES aren’t just future Spirit players and supporters, they are the future of this city. When they see our players representing DC SCORES on their jerseys this spring, we want them to feel part of the club. We want them to see themselves out there on the pitch.”*
 
