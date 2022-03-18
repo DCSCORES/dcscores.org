@@ -16,7 +16,7 @@ The NWSL Champion Washington Spirit will feature DC SCORES, an award-winning aft
 
 
 
-> *“What’s more important to the city we call home than its children?” said Spirit Majority Owner Michelle Kang. “The poet-athletes of DC SCORES aren’t just future Spirit players and supporters, they are the future of this city. When they see our players representing DC SCORES on their jerseys this spring, we want them to feel part of the club. We want them to see themselves out there on the pitch.”*
+> *“What’s more important to the city we call home than its children?” said Spirit President Ben Olsen. “The poet-athletes of DC SCORES aren’t just future Spirit players and supporters, they are the future of this city. When they see our players representing DC SCORES on their jerseys this spring, we want them to feel part of the club. We want them to see themselves out there on the pitch.”*
 
 DC SCORES serves over 3,000 “poet-athletes” at 60 Title 1 elementary and middle schools across the city. Kids play soccer year round, write and perform original poetry in the fall, and design and execute service projects to better their communities in the spring. The poetry season culminates in a 3-day Poetry Slam, the largest in the region, and the fall soccer championships take place on field and under the lights at Audi Field. The program is completely free, and DC SCORES provides everything kids need to participate.
 
