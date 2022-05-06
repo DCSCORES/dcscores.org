@@ -1,7 +1,7 @@
 ---
 title: Aishu Sukumaran
 date: 2022-01-27 20:43:00 Z
-position: 17
+position: 18
 Details: Communications Fellow
 Email: asukumaran@dcscores.org
 Profile Image: "/uploads/IMG_5780.JPG"
