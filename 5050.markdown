@@ -54,7 +54,7 @@ No, at the current time all tickets must be purchased online.
 
 **Where can I find the official rules for the 5050 Raffle?**
 
-Click [here](https://link.dcscores.org/5050rules) to view official rules.
+Click<a href="https://link.dcscores.org/5050rules" target="_blank">here</a> to view official rules.
 
 **How do I find the winning ticket number?**
 
