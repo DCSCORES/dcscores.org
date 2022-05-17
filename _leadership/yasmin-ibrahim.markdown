@@ -5,6 +5,7 @@ position: 14
 Details: Associate Director of Development
 Email: yibrahim@dcscores.org
 Profile Image: "/uploads/mina-1952.JPG"
+Section: staff
 ---
 
 Yasmin is the Associate Director of Development at DC SCORES.  Her goal is to bring together supporters of the organization to understand and deepen their impact on poet-athletes across the city. 
