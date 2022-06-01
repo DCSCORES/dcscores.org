@@ -71,7 +71,7 @@ This three-night, spoken-word competition features DC SCORES students performing
 
 ### Middle School Spring Cup
 
-Volunteer at our Middle School Spring Cup, where our middle scores players get the chance for an afternoon filled with soccer and fun! Multiple shift times are available.
+Volunteer at our Middle School Spring Cup, where our middle school poet-athletes get the chance for an afternoon filled with soccer and fun! Multiple shift times are available.
 
 **Date:** June 3, 2022
 
