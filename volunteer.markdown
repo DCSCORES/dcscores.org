@@ -69,13 +69,25 @@ This three-night, spoken-word competition features DC SCORES students performing
 
 ---
 
+### Middle School Spring Cup
+
+Volunteer at our Middle School Spring Cup, where our middle scores players get the chance for an afternoon filled with soccer and fun! Multiple shift times are available.
+
+**Date:** June 3, 2022
+
+**Location:** The Fields at RFK Campus
+
+**Want to get involved?** Please complete our [volunteer interest form](https://link.dcscores.org/volunteer).
+
+---
+
 ### Jamboree
 
 The culminating event of the DC SCORES programming year, filled with soccer games, arts and crafts, and more for DC SCORES students and their families.
 
 **Date:** June 4, 2022
 
-**Location:** The Fields at RFK Campus
+**Location:** Catholic University
 
 **Want to get involved?** Please complete our [volunteer interest form](https://link.dcscores.org/volunteer).
 
