@@ -14,7 +14,7 @@ Jamboree is our all-day soccer tournament and community festival for our element
 
 * Saturday, June 4
 
-* Locations: [The Fields at RFK Campus](https://goo.gl/maps/zvWNRC6Ao5U8kjvCA)
+* Locations: [Catholic University](https://goo.gl/maps/DVS1es53gTADDLYY9)
 
 * All volunteers will receive a light lunch (vegetarian options available) and water stations will be placed throughout the venue.
 
