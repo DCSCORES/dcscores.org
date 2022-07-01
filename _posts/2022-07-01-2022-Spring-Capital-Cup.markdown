@@ -10,10 +10,7 @@ Thumbnail Image: "/uploads/Spring%20Season%20Wrap%20Up!%20(4).png"
 
 Two schools, two stories, and one amazing afternoon to wrap up Spring SCORES 2022.
 
-
-
-
-Last week saw triumphant wins for two SCORES teams as Houston’s Girls Team and Anne Beers’ Boys Team took home the 2022 Elementary School Capital Cup trophy.
+This spring saw triumphant wins for two SCORES teams as Houston’s Girls Team and Anne Beers’ Boys Team took home the 2022 Elementary School Capital Cup trophy.
 
 **Houston Win the Girls' Division**
 
