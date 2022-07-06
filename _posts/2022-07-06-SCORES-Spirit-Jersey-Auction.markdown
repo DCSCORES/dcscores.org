@@ -20,7 +20,7 @@ Welcome to the DC SCORES X Washington Spirit: Challenge Cup Charity Auction! We 
 * Bidding starts at $250 and the minimum raise is $50
 * Bidding will take place between July 5th at 9 AM through July 31st at 9 PM. 
  
-**Terms and Conditions: **
+**Terms and Conditions:**
 * Bidding will open July 5th at 9 AM and will close on July 31st at 9 PM. 
 * DC SCORES reserves the right to add or withdraw items without notice. 
 * A valid bid is considered made by clicking the desired item, typing in a valid bid, and pressing 'submit'. 
