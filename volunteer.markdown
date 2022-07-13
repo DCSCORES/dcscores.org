@@ -57,7 +57,7 @@ This three-night, spoken-word competition features DC SCORES students performing
 
 ---
 
-[DC SCORES Cup](https://www.dcscorescup.org/)
+### [DC SCORES Cup](https://www.dcscorescup.org/)
 
 Our largest fundraiser – an annual adult soccer tournament made up of local companies, law firms, small businesses and soccer organizations. Volunteer roles include setup/breakdown, registration, field marshals, lunch servers, and photography.
 
