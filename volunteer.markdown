@@ -35,18 +35,6 @@ DC SCORES games are expected to resume in March 2022.
 
 ## Special Events
 
-### [DC SCORES Cup](https://www.dcscorescup.org/)
-
-Our largest fundraiser – an annual adult soccer tournament made up of local companies, law firms, small businesses and soccer organizations. Volunteer roles include setup/breakdown, registration, field marshals, lunch servers, and photography.
-
-**Date:** Saturday, June 17, 2023
-
-**Location:** The Fields at RFK Campus
-
-**Want to get involved?** Please visit the [DC SCORES cup website](https://cup.dcscores.org/)
-
----
-
 ### Fall Frenzy
 
 A day-long celebration of our fall season that includes soccer games and outdoor activities for our elementary school students and their families.
@@ -66,6 +54,18 @@ This three-night, spoken-word competition features DC SCORES students performing
 **Date:** November 15th, 16th, and 17th, 2022
 
 **Want to get involved?** Please complete our [Volunteer Interest Form](https://docs.google.com/forms/d/1w19_UB0IXSaHN3kr0c08DBUIWHU29oh32W_KO5T_h0k/viewform?edit_requested=true).
+
+---
+
+[DC SCORES Cup](https://www.dcscorescup.org/)
+
+Our largest fundraiser – an annual adult soccer tournament made up of local companies, law firms, small businesses and soccer organizations. Volunteer roles include setup/breakdown, registration, field marshals, lunch servers, and photography.
+
+**Date:** Saturday, June 17, 2023
+
+**Location:** The Fields at RFK Campus
+
+**Want to get involved?** Please visit the [DC SCORES cup website](https://cup.dcscores.org/)
 
 ---
 
