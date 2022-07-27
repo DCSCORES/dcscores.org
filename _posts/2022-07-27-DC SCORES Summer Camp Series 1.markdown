@@ -5,11 +5,19 @@ tags:
 - summer scores
 - summercamp22
 Author: Jim Thomas
+Thumbnail Image: "/uploads/52204471073_efa61c9ed7_o.jpg"
 ---
 
-**DC SCORES Summer Camp – Week 1**
- 
+![52204471073_efa61c9ed7_o.jpg](/uploads/52204471073_efa61c9ed7_o.jpg)
+
 School may be out, but our poet-athletes’ hard work and fun won’t stop this July as they attend DC SCORES summer camp. Locations at Brightwood and Burville are providing STEAM and soccer coaching over 5 weeks, with field trips to some amazing places around the District.
+
+
+
+
+
+
+**DC SCORES Summer Camp – Week 1**
 
 Camp at Brightwood kicked off with campers receiving their soccer gear before heading to breakout groups to construct vision boards. This is where they can get creative and make a collage depicting their dreams and goals. Some of these day 1 dreams: becoming  a NASA scientist, an archery champion, a professional dodgeball player, cartoon writer, and many more.
 Rain delayed the afternoon soccer activities, but the kids were introduced to this week’s focus skill: dribbling.
