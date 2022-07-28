@@ -2,6 +2,8 @@
 title: Double the Donation
 date: 2022-07-28 18:23:00 Z
 published: false
+Top Image: "/uploads/5050-header.jpg"
+Top Image Position: 50% 25%
 layout: jamboree
 ---
 
