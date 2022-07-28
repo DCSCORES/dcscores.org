@@ -1,7 +1,81 @@
 ---
-title: dtd
-date: 2022-07-28 18:06:00 Z
-published: false
+title: 50/50 Raffle
+permalink: "/5050/"
+Top Image: "/uploads/5050-header.jpg"
+Top Image Position: 50% 25%
+layout: jamboree
 ---
 
-<script>var DDCONF = { API_KEY: "VHyE4NFBsD25m4uk" };</script>  <script src="https://doublethedonation.com/api/js/ddplugin.js"></script> <link href="https://doublethedonation.com/api/css/ddplugin.css" rel="stylesheet"> <div id="dd-container" ng-app="dd.plugin"> <div class="well"> <div ng-include="search_template"></div> <p><center><a href="https://doublethedonation.com/matching-grant-resources/matching-gift-basics/">Matching Gift</a> and <a href="https://doublethedonation.com/matching-grant-resources/volunteer-grant-basics/">Volunteer Grant</a> information provided by <br> <a href="https://doublethedonation.com"><img alt="Powered by Double the Donation" src="https://doublethedonation.com/api/img/powered-by.png" /></a></center></p> </div> </div>
+### <a href="https://link.dcscores.org/5050" target="_blank">Buy Tickets Now!</a>
+
+Purchase tickets for D.C. United’s 50/50 Raffle for a chance to win big and support DC SCORES, the official charitable partner of D.C. United! Starting at noon on match days, fans will have the opportunity to purchase 50/50 raffle tickets. Tickets will be on sale up until the 70th minute mark and a winner will be announced by the 90th minute. Winner will receive 50% of the total amount raised. The other 50% will be donated to DC SCORES, which creates neighborhood soccer and arts teams to give kids the confidence and skills to succeed on the playing field, in the classroom, and in life.
+
+**Pricing**: 10 for $10, 40 for $20, 100 for $40, 300 for $100
+
+Special offer with tickets purchased prior to the match beginning – make sure to purchase before kick-off to be entered to win special experiences here with D.C. United.
+
+Fans can purchase 5050 Raffle tickets online from anywhere in Washington, D.C.
+
+<a href="https://link.dcscores.org/5050" target="_blank">CLICK HERE</a> to participate in D.C. United’s 50/50 raffle, benefitting DC SCORES!
+
+#### 2022 Raffle Winnings
+
+Click <a href="https://docs.google.com/spreadsheets/d/e/2PACX-1vSgRYyoaz1fzIg-RKi5Whu4W8RCA39zA7mKnXF2nzd7bsGk3LBE0NyOglRxQ5uj4SpTVgXf5wTTV52e/pubhtml?gid=0&single=true" target="_blank">here</a> to see the winning numbers.
+
+#### Rules
+
+To view the official rules for the 5050 Raffle, click <a href="https://link.dcscores.org/5050rules" target="_blank">here</a>.
+
+#### FAQ
+
+**Who does the raffle benefit?**
+
+The 5050 Raffle is operated by DC SCORES, the official charitable partner of D.C. United and an independent 501(c)3 nonprofit organization. The raffle benefits <a href="https://www.dcscores.org/our-program/program-model/" target="_blank">DC SCORES free afterschool programs</a>.
+
+**When does DC SCORES host the 5050 Raffle?**
+
+5050 Raffles are held during every D.C. United home game.
+
+**When does the raffle open and close?**
+
+The raffle opens at 12pm on match day and remains open through the 70th minute of the match. There will be a special offer with tickets purchased prior to the match beginning – make sure to purchase before kick-off to be entered to win special experiences here with D.C. United.
+
+**Who may purchase tickets?**
+
+You must be in the District of Columbia and you must be at least eighteen (18) years of age to purchase a raffle ticket. See official rules for more details.
+
+**How can I purchase tickets?**
+
+Tickets can be purchased online at <a href="https://link.dcscores.org/5050" target="_blank">https://www.scores5050.com</a>.
+
+**Can I purchase tickets from sellers in the stadium?**
+
+No, at the current time all tickets must be purchased online.
+
+**Where can I find the official rules for the 5050 Raffle?**
+
+Click <a href="https://link.dcscores.org/5050rules" target="_blank">here</a> to view official rules.
+
+**How do I find the winning ticket number?**
+
+All winning ticket information will be posted after the conclusion of each raffle at www.dcscores.org/5050. You may also email 5050@dcscores.org and a member of our team will respond to you directly. This information is also posted at the bottom of each ticket.
+
+**How do I claim my prize if I won?**
+
+5050 Raffle winners have ninety (90) days to claim their prize. You must forward your winning ticket to 5050@dcscores.org to setup next steps to complete the requisite prize claim paperwork. You must present the winning ticket and a government ID. Once those steps have been timely completed, DC SCORES will mail a check, within 30 days, to the winner.
+
+**Why am I blocked from purchasing tickets online?**
+
+The online purchasing portal uses location services to ensure all purchasers are within the District of Columbia. Please ensure you are located within D.C. limits at the time of your purchase and that your location services are turned on.
+
+**Why can’t I purchase tickets online from Virginia or Maryland?**
+
+The 5050 Raffle operated by DC SCORES is subject to the rules and regulations set forth by D.C. Lottery, the official municipal entity responsible for charitable games in the District of Columbia. D.C. Lottery does not have jurisdiction over charitable games in the neighboring states of Virginia and Maryland.
+
+**Why haven’t I received my online tickets?**
+
+If purchasing online you will receive an e-mail with your raffle numbers shortly after purchase. There may be a delay in the e-mail delivery during times of high website traffic. Any e-mail delays do not impact your chances of entering the raffle.
+
+**Where can I direct additional questions or concerns?**
+
+If you have additional questions or concerns related to the 5050 Raffle, you may email 5050@dcscores.org and a member of our team will assist you directly. If your question or concern is related to one of the municipal regulations dictated by DC Lottery, we will be sure to forward your concern to them directly.
