@@ -8,7 +8,31 @@ layout: careers-and-internships
 
 ## Job Openings
 
-<div id="jw-root-container" class="theme-default" j-layout="stacked" j-group="none" j-source="Website" j-show-dept="false" j-show-div="false" j-show-loc="false" j-show-func="false" j-domain="dcscores"></div><script type="text/javascript" src="https://static.jobsoid.com/web-integration/jobsoid.js"></script>
+ 
+<div id="talentlyftWidget" class="talentlyft"></div>
+<script type="text/javascript" charset="utf-8">
+        window.tlOptions = {
+            elementId: 'talentlyftWidget',
+            companyId: '726c0f6b-ca44-4b37-8652-9fcdef778fae',
+            language: 'en',
+            fontFamily: 'Open Sans',
+            status: ["Published"],
+            departments: [],
+            locations: [],
+            tags: [],
+            sort: 'az', // Available options: 'az', 'za', 'modified_date', 'published_date', 'status'
+            pageSize: 10, // Max: 200
+            fontSize: '12px',
+            color: '#00467f',
+            applicationFormOn: 'careerSite', // Available options: 'widget', 'careerSite'
+            fontUrl: 'https://fonts.googleapis.com/css?family=Open+Sans'            
+        };
+        
+        var aws = document.createElement('script');
+        aws.onload = function() { talentlyftWidget.render(window.tlOptions); };
+        aws.src = 'https://www.talentlyft.com/jswidget';
+        document.body.appendChild(aws);
+</script> 
 
 ---
 
