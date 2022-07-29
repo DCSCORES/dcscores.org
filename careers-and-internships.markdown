@@ -6,7 +6,7 @@ Top Image Position: 50% 30%
 layout: careers-and-internships
 ---
 
-## Job Openings<a href="https://dcscores.talentlyft.com/" target="_blank">
+## <a href="https://dcscores.talentlyft.com/" target="_blank">Job Openings</a>
 
  
 <div id="talentlyftWidget" class="talentlyft"></div>
