@@ -2,7 +2,7 @@
 title: We're Hiring
 date: 2022-08-02 16:50:00 Z
 position: 0
-Image: "/uploads/Website%20Carousel%20(1)-6bdc49.png"
+Image: "/uploads/We're%20HIring.png"
 Link: https://www.dcscores.org/about-us/careers-and-internships/
 ---
 
