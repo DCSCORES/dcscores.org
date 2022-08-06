@@ -22,7 +22,7 @@ This year’s DC SCORES Summer Camp at Brightwood would not be possible without 
 A DC SCORES alumni, Emily is giving back to the organization in a great way. She is the Soccer Coordinator for this summer, running the campers through key skills such as passing, shooting and dribbling. *“It’s great being able to plan out the soccer portion of camp and see the kids engaging with the games and drills I have come up with”*, she says. The results are clear to see on the field, even in their limited time at camp the kids have looked a lot more comfortable with a ball at their feet. *“This is one of the many great parts about DC SCORES - investing and giving kids - who otherwise may not be able to - a chance to play soccer. Seeing their friendships form as their skills improve is amazing to see.”*
 
 
-[_DSC7378.JPG](/uploads/_DSC7378.JPG)
+![_DSC7378.JPG](/uploads/_DSC7378.JPG)
 **Ronald Hernandez**
 Ronald’s passion is evident every day at camp, whether he is volunteering to be the goalie during drills, or taking a hands-on approach to sharing his love for soccer. *“It’s all about keeping the kids mentally and physically active and preventing any summer boredom that could keep them inside. Maintaining this rhythm while also building a love for a new sport is a great thing to see.”* Coach Ronald is also a writing coach at Bancroft Elementary, and is excited to continue there: *“Coaching at Bancroft is an exciting opportunity. I graduated from here and being able to gain the trust and respect of the kids there is a very fulfilling thing.”*
 
