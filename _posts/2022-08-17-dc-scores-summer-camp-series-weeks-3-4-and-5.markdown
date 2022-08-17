@@ -16,6 +16,7 @@ As we look forward to the fall season here at SCORES, let's take a look back at 
 
 
 **Week Three**
+
 Week 3 began with an exciting trip to the Natural History Museum, where the kids got to check out fossils, explore how mammals interact with each other, and how they can help make the earth a more sustainable place. This served them well later in the week when Forest Kids came into the classroom to explain how we get oxygen and the importance of trees.
 
 The heat kept campers indoors this week – but the amazing, adaptable soccer coaches managed to keep things going, with games of soccer Capture the Flag. In STEAM, haikus and tankas were the focus. Each camper had a unique perspective on what makes a great poem and it showed when completing their works. Here are a few of the campers evocative and creative poems:
@@ -23,6 +24,7 @@ The heat kept campers indoors this week – but the amazing, adaptable soccer co
 
 
 **Week 4**
+
 The campers were back outside for Week 4. This week’s skill focus was shooting and some amazing goals were flying in from Day 1! On Tuesday, the campers went on a trip to the National Portrait Gallery and got the chance to learn about important figures from American history as well as marvel at some of the great artists from the past and present. Some favorites included the Automobile and American Art Exhibit and the Presidential Portraits!
 ![Picture1.png](/uploads/Picture1.png)
 
@@ -35,6 +37,7 @@ Forest Kids also taught the kids about insects this week. They got to take a spe
 Friday saw the campers truly put their soccer skills they have developed over the last 4 weeks to the test – it was time for coaches vs campers! Three hard fought games against each grade left the coaches exhausted, but great goals and effort from both sides made for a fun day.
 
 **Week 5**
+
 As campers entered their final week, their hard work and enthusiasm this summer was rewarded with a day full of fun and games! Campers got to play inside an awesome gaming truck, where they could turn their soccer skills virtual in a game of FIFA, battle their friends in Gang Beasts or get creative in Minecraft. They also got to cool off in the heat with a snow cone  and try out loads of cool flavors. The celebration day was capped off by a bouncy water slide – the coaches got to join in on the fun by spraying them too!
 
 ![52259545234_e614d6c703_o.jpg](/uploads/52259545234_e614d6c703_o.jpg)
