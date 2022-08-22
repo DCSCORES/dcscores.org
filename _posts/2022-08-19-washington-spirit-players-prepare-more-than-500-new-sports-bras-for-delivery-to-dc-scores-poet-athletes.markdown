@@ -2,7 +2,6 @@
 title: Washington Spirit Players Prepare More Than 500 New Sports Bras for Delivery
   to DC SCORES Poet-Athletes
 date: 2022-08-19 16:35:00 Z
-published: false
 tags:
 - "#washingtonspirit"
 Author: Mairead MacRae
