@@ -13,6 +13,13 @@ Thumbnail Image: "/uploads/1%20(1).png"
 
 On August 18, 2022, DC SCORES staff visited Washington Spirit players at their Leesburg training facility to pick up some very important equipment: sports bras!
 
+
+
+
+
+
+
+
 DC SCORES staff joined Spirit players after their Thursday training session to sort and package brand-new donated sports bras of all sizes, which DC SCORES will deliver to middle-school poet-athletes who need them this fall.
 
 Lack of access to sports bras is a consistent reason girls drop out of sports, with the most significant decline in participation occurring around puberty. Correctly fitting sports bras enable young athletes to play sports confidently and without pain or discomfort.
