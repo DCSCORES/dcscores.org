@@ -1,6 +1,6 @@
 ---
 title: Chris Finley
-position: 61
+position: 60
 Details: 
 Section: emeritus
 ---
