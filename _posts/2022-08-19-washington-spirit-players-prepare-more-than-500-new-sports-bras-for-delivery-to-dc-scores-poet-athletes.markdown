@@ -27,6 +27,7 @@ Lack of access to sports bras is a consistent reason girls drop out of sports, w
 “After talking with some of our coaches, they told me not every poet-athlete had access to a sports bra,” said Katie Lu Clougherty, Senior Program Manager for Data and Evaluation at DC SCORES. “Sports bras are equipment, just like jerseys, and providing them ensures every poet-athlete is prepared to play soccer.”
 
 ![48188583596_c59456f2d4_o.jpg](/uploads/48188583596_c59456f2d4_o.jpg)
+
 *Lack of access to well-fitting sports bras is a consistent reason for dropout among young girls and providing these important pieces of equipment helps girls play soccer through childhood.*
 
 The DC SCORES sports bra donation is part of a [wider initiative](https://washingtonspirit.com/2022/06/01/washington-spirit-collecting-sports-bra-donations-at-next-two-home-games/) by the Washington Coalition for Women’s Professional Sports (WCWPS), an organization [launched in March 2022](https://washingtonspirit.com/2022/03/25/dc-professional-sports-teams-announce-creation-of-washington-coalition-of-womens-professional-sports/) that connects and supports the DMV region’s women’s sports teams. A WCWPS member team, the Spirit collected donated sports bras from fans at the team’s June 1 and June 11 home games and will host another drive at its September 10 match at Audi Field.
