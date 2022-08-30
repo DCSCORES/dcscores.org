@@ -2,7 +2,7 @@
 title: Mairead MacRae
 date: 2022-08-30 18:05:00 Z
 published: false
-position: 11
+position: 16
 ---
 
 Mairead joins DC SCORES with an extensive background in nonprofit communications. Most recently, she was the Assistant Director of Content Strategy at Georgetown University's School of Foreign Service. Previously, she held communications roles at the school's flagship Master of Science in Foreign Service program and at Mary's Meals, an international NGO based in her home country of Scotland. 
