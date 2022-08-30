@@ -1,6 +1,7 @@
 ---
 title: Malachi Byrd
 date: 2017-08-10 20:41:00 Z
+published: false
 position: 6
 Details: Poetry Fellow
 Email: mbyrd@dcscores.org
