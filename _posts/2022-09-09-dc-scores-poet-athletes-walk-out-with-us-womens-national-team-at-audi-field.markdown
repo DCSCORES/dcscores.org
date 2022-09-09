@@ -25,7 +25,7 @@ Houston Elementary School girls team — who won the DC SCORES Capital City Cup 
 “I can have this memory forever,” said Tahirah, a 5th-grader who held U.S. midfielder Sam Coffey’s hand as the group stepped out onto the field. For many students, including fellow 5th-grader K’layah, the opportunity to share the limelight with the global soccer superstars was especially thrilling. “My favorite thing was that I could walk out with a famous person and be on national television!” K’layah shared.
 
 ![52144009574_c3a1e345e9_o.jpg](/uploads/52144009574_c3a1e345e9_o.jpg)
-*The USWNT experience is the culmination of a successful year for the Houston team, which won the 2022 Capital City Cup.*
+*The USWNT experience was the culmination of a successful year for the Houston team, which won the 2022 Capital City Cup.*
 
 Houston's participation in the first USWNT game to be held in the District since 2017 was the culmination of an exceptionally successful inaugural year of DC SCORES programs for the school’s team, the Houston Bulls. In addition to their Cup win, the Bulls came second in the DC SCORES East Side poetry slam and their coaches won the Newcomers prize at the 2022 SCORES Awards.
 
