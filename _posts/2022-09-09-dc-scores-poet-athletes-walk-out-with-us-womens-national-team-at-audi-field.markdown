@@ -10,6 +10,7 @@ Thumbnail Image: "/uploads/USWNT%20v%20Nigeria_09.06.2022_XD_7R32870.jpg"
 
 ![USWNT v Nigeria_09.06.2022_XD_7R32870.jpg](/uploads/USWNT%20v%20Nigeria_09.06.2022_XD_7R32870.jpg)
 *Credit: Javier Fernández Dussaq*
+*The Houston Elementary School Girls team stood alongside U.S. Women's National Team players as they sang the national anthem.*
 
 On September 6, soccer fans tuning in to watch the U.S. Women’s National Team (USWNT) take on Nigeria at Audi Field also got a glimpse of DC SCORES poet-athletes on the turf. 
 
@@ -24,6 +25,7 @@ Houston Elementary School girls team — who won the DC SCORES Capital City Cup 
 “I can have this memory forever,” said Tahirah, a 5th-grader who held U.S. midfielder Sam Coffey’s hand as the group stepped out onto the field. For many students, including fellow 5th-grader K’layah, the opportunity to share the limelight with the global soccer superstars was especially thrilling. “My favorite thing was that I could walk out with a famous person and be on national television!” K’layah shared.
 
 ![52144009574_c3a1e345e9_o.jpg](/uploads/52144009574_c3a1e345e9_o.jpg)
+*The USWNT experience is the culmination of a successful year for the Houston team, which won the 2022 Capital City Cup.*
 
 Houston's participation in the first USWNT game to be held in the District since 2017 was the culmination of an exceptionally successful inaugural year of DC SCORES programs for the school’s team, the Houston Bulls. In addition to their Cup win, the Bulls came second in the DC SCORES East Side poetry slam and their coaches won the Newcomers prize at the 2022 SCORES Awards.
 
@@ -37,6 +39,7 @@ The September 6 game was a notable one for the U.S. women's team, too. After the
 
 ![USWNT v Nigeria_09.06.2022_XD_7R32908.jpg](/uploads/USWNT%20v%20Nigeria_09.06.2022_XD_7R32908.jpg)
 *Credit: Javier Fernández Dussaq*
+*The walk out opportunity was secured by USWNT sponsor and DC SCORES partner Volkswagen.*
 
 Houston’s participation in the game was secured by DC SCORES partner Volkswagen USA. In 2019, [Volkswagen donated their advertisement space during the Women’s World Cup](https://www.youtube.com/watch?v=CkXahQmlXow) to promote the nonprofit’s international network, America SCORES. 
 
