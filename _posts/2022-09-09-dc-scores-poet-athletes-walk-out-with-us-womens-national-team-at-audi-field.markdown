@@ -29,7 +29,7 @@ Houston's participation in the first USWNT game to be held in the District since
 
 The once-in-a-lifetime opportunity at Audi Field will give students a big confidence boost as they take on the new school year, said Kevin Wright, a Houston DC SCORES coach and 5th-grade teacher. “Who would have thought we would be here, with the starting lineups of the USA and Nigerian soccer teams? This is a big deal!” he commented. “DC SCORES has just been a blessing to our school community and our families, as well.”
 
-Coach Wright’s praise for DC SCORES is echoed by another Bulls coach, 3rd-grade teacher Tiffany Thomas. In addition to being a fantastic evening out for her students, watching the international match was a chance for the girls to solidify their soccer knowledge, she explained. “The kids are so excited to have this opportunity. They’ve been cheering on the team and they actually know what’s going on,” she said. “This has been a remarkable moment for us.”
+Coach Wright’s praise for DC SCORES is echoed by another Bulls coach, 3rd-grade teacher Tracey Thomas. In addition to being a fantastic evening out for her students, watching the international match was a chance for the girls to solidify their soccer knowledge, she explained. “The kids are so excited to have this opportunity. They’ve been cheering on the team and they actually know what’s going on,” she said. “This has been a remarkable moment for us.”
 
 The September 6 game was a notable one for the U.S. women's team, too. After their 2-1 victory, players gathered together on the field as representatives from U.S. Soccer, and the men’s and women’s national teams, signed historic collective bargaining agreements establishing equal pay for both teams. 
 
