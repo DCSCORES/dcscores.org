@@ -1,8 +1,8 @@
 ---
-title: Chip Lohmeyer
+title: Ashley Hatch
 position: 29
-Details: Vectrus
+Details: Forward, Washington Spirit
 Section: board
-Link: https://www.linkedin.com/in/chiplohmeyer/
+Link: https://washingtonspirit.com/team-member/ashley-hatch-6/
 ---
 
