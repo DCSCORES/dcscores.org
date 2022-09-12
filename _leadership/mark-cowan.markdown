@@ -1,5 +1,6 @@
 ---
 title: Mark Cowan
+published: false
 position: 26
 Details: Potomac International Partners
 Section: board
