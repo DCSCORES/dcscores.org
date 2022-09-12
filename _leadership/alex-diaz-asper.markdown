@@ -1,7 +1,7 @@
 ---
 title: Alex Diaz-Asper
 date: 2017-09-19 12:38:00 Z
-position: 27
+position: 28
 Details: VentureCount
 Section: board
 Link: http://www.venturecount.com/about/our-team/
