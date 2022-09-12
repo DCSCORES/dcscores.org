@@ -1,8 +1,8 @@
 ---
-title: Bruce D. Schulman
+title: Ilia Rodriguez
 position: 36
-Details: NGP Energy Technology Partners
+Details: Accenture
 Section: board
-Link: http://www.ngpetp.com/team_bruce_schulman.php
+Link: https://www.linkedin.com/in/ilia-rodriguez-3bbb9238/
 ---
 
