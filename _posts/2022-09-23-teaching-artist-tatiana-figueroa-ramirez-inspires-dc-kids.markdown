@@ -14,17 +14,6 @@ Thumbnail Image: "/uploads/1-117f6a.png"
 
 *As the Associate Program Manager for Creative Writing at DC SCORES, Tatiana Figueroa Ramírez helps more than 3,000 poet-athletes build confidence through poetry.*
 
-
-
-
-
-
-
-
-
-
-
-
 In her poem “Things My Daughter Must Know,” spoken word artist and DC SCORES Associate Program Manager for Creative Writing Tatiana Figueroa Ramírez delivers a series of parental affirmations rooted in cultural and family histories. “You must know you are Puerto Rican / You must know you are Black / You must know you are loved,” she tells her imagined child.
 
 "I kind of joke about this, but it's become my signature poem," Figueroa Ramírez says. “I wrote that thinking about what I would like to have heard growing up.”
@@ -75,4 +64,4 @@ And, just as her first performance once inspired a Middle Eastern woman in her a
 
 “There’s more camaraderie,” she says. “What I've always noticed coming into the DC poetry community was the welcome, the belongingness, the warmth.”
 
-*Readers can support DC fundraising for Hurricane Fiona relief efforts in Puerto Rico by patronizing the following businesses: [La Fomosa](https://eatlafamosa.com/) (Navy Yard), which is donating 10% of coffee sales to PRxPR, and [Qui Qui](https://www.quiquidc.com/) (Shaw), which is donating profits from empanada sales and staff tips to Brigada Solidaria del Oeste. Readers outside the District can support relief efforts by donating essential items, such as first aid kits, water filters, and solar lamps, to [Brigada Solidaria del Oeste](https://www.instagram.com/p/Ciq7t-BsgI0/?utm_source=ig_web_copy_link), a Puerto Rican mutual aid group, or by making financial contributions to Global Giving's [Hurricane Fiona Relief Fund ](https://www.globalgiving.org/projects/hurricane-fiona-relief-fund/)or [PRxPR](https://www.prxpr.org/#donate).*
+*Readers can support DC fundraising for Hurricane Fiona relief efforts in Puerto Rico at [these District businesses](https://www.washingtonian.com/2022/09/20/these-dc-restaurants-and-bars-are-donating-money-to-puerto-ricans-affected-by-hurricane-fiona/), which are donating a portion of their profits to organizations working in the country. Readers outside the District can support relief efforts by donating essential items, such as first aid kits, water filters, and solar lamps, to [Brigada Solidaria del Oeste](https://www.instagram.com/p/Ciq7t-BsgI0/?utm_source=ig_web_copy_link), a Puerto Rican mutual aid group, or by making financial contributions to Global Giving's [Hurricane Fiona Relief Fund ](https://www.globalgiving.org/projects/hurricane-fiona-relief-fund/)or [PRxPR](https://www.prxpr.org/#donate).*
