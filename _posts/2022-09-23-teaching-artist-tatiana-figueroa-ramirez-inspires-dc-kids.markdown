@@ -27,6 +27,9 @@ Integrating powerful self-expression with multi-generational teaching is a hallm
 
 
 
+
+
+
 “I’ve seen youth enter workshops very reluctant to try poetry and, an hour later, they’re standing up sharing poems about their families, their neighborhoods, their experiences!” she shares. “Sometimes they smile, sometimes they get emotional, but they always feel the warmth of the room.”
 
 ## Impact Through Poetry
