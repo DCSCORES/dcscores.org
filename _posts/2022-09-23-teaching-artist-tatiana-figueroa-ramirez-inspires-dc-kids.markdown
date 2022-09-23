@@ -12,9 +12,9 @@ Thumbnail Image: "/uploads/1-117f6a.png"
 
 ![1.png](/uploads/1.png)
 
-*As the Associate Program Manager for Creative Writing at DC SCORES, Tatiana Figueroa Ramírez helps more than 3,000 poet-athletes build confidence through poetry.*
+*As the Associate Director of Creative Writing at DC SCORES, Tatiana Figueroa Ramírez helps more than 3,000 poet-athletes build confidence through poetry.*
 
-In her poem “Things My Daughter Must Know,” spoken word artist and DC SCORES Associate Program Manager for Creative Writing Tatiana Figueroa Ramírez delivers a series of parental affirmations rooted in cultural and family histories. “You must know you are Puerto Rican / You must know you are Black / You must know you are loved,” she tells her imagined child.
+In her poem “Things My Daughter Must Know,” spoken word artist and DC SCORES Associate Director of Creative Writing Tatiana Figueroa Ramírez delivers a series of parental affirmations rooted in cultural and family histories. “You must know you are Puerto Rican / You must know you are Black / You must know you are loved,” she tells her imagined child.
 
 "I kind of joke about this, but it's become my signature poem," Figueroa Ramírez says. “I wrote that thinking about what I would like to have heard growing up.”
 
