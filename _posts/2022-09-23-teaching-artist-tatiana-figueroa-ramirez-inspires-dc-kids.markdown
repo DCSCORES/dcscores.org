@@ -20,6 +20,13 @@ In her poem “Things My Daughter Must Know,” spoken word artist and DC SCORES
 
 Integrating powerful self-expression with multi-generational teaching is a hallmark of Figueroa Ramírez’s work on the page and in the classroom. As a teaching artist leading the writing component of DC SCORES’ award-winning soccer, spoken word, and service-learning program, Figueroa Ramírez helps more than 3,000 poet-athletes to build confidence and self-worth through poetry and performance.
 
+
+
+
+
+
+
+
 “I’ve seen youth enter workshops very reluctant to try poetry and, an hour later, they’re standing up sharing poems about their families, their neighborhoods, their experiences!” she shares. “Sometimes they smile, sometimes they get emotional, but they always feel the warmth of the room.”
 
 ## Impact Through Poetry
