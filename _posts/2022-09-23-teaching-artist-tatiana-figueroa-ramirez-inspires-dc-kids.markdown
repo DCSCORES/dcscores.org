@@ -56,7 +56,7 @@ Listing a series of stereotypes about the District’s Latinx population — tha
 
 ![3.png](/uploads/3.png)
 
-\*Figueroa Ramírez found community and solidarity in the District's poetry community. \*
+*Figueroa Ramírez found community and solidarity in the District's poetry community.*
 
 For Figueroa Ramírez, DC’s poetry community has been a space where Latinx people can celebrate their diversity and build cross-cultural connections with one another. For instance, she says, “There’s a lot of Salvadorans in this area and there could have been a time when maybe I felt like I couldn’t relate to them, or they couldn’t relate to me. \[Being in the DC poetry community\] opened up an opportunity for more closeness.”
 
