@@ -24,7 +24,7 @@ Integrating powerful self-expression with multi-generational teaching is a hallm
 
 ## Impact Through Poetry
 
-Though she was born in Puerto Rico, her father’s military career meant that Figueroa Ramírez moved around the United States during her childhood. Despite twice-a-year visits to family and friends in her home country, Figueroa Ramírez says it was hard not to become “Americanized” and detached from the Puerto Rican part of her culture.
+Though she was born in Puerto Rico, her father’s military career meant that Figueroa Ramírez moved around the United States during her childhood. Despite twice-a-year visits to family and friends on the island, Figueroa Ramírez says it was hard not to become “Americanized” and detached from the Puerto Rican part of her culture.
 
 Articulating her own identity was made doubly difficult by U.S. misconceptions about race, Figueroa Ramírez adds. “In my culture, our African ancestry is pretty dominant,” she explains. “But even though Puerto Rico and a lot of Latin America is a hodgepodge of European, African, and Indigenous cultures, a lot of the time that gets erased.”
 
