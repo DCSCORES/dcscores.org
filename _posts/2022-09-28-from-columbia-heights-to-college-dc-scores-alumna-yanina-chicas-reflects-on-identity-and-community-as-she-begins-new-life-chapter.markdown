@@ -17,6 +17,14 @@ Thumbnail Image: "/uploads/1-60415e.png"
 
 *Chicas has just begun her first semester at Lafayette College as a Posse Scholar.*
 
+
+
+
+
+
+
+
+
 In November 2016, Yanina Chicas stepped up to the mic for her first-ever poetry slam performance.
 
 Then a 7th-grader at [Lincoln Middle School](https://www.checdc.org/), Chicas was asked by her coaches to give a solo performance at the annual DC SCORES West Side Slam. She had signed up to DC SCORES earlier that semester because she enjoyed playing soccer, but admits that she hadn’t given much thought to the poetry component of the organization's award-winning program. “I was like, ‘Hmmm…should I really be writing poems?’” she recalls.
@@ -83,4 +91,4 @@ Looking to the future, Chicas hopes to pursue a career as a social worker after 
 
 ![4.png](/uploads/4.png)
 
-*After she graduates college, Chicas hopes to become a social worker and found an educational nonprofit serving young people in El Salvador. *
+*After she graduates college, Chicas hopes to become a social worker and found an educational nonprofit serving young people in El Salvador.*
