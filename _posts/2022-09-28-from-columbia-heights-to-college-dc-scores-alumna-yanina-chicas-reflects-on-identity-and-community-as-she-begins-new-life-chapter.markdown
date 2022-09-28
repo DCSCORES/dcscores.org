@@ -29,7 +29,7 @@ In November 2016, Yanina Chicas stepped up to the mic for her first-ever poetry 
 
 Then a 7th-grader at [Lincoln Middle School](https://www.checdc.org/), Chicas was asked by her coaches to give a solo performance at the annual DC SCORES West Side Slam. She had signed up to DC SCORES earlier that semester because she enjoyed playing soccer, but admits that she hadn’t given much thought to the poetry component of the organization's award-winning program. “I was like, ‘Hmmm…should I really be writing poems?’” she recalls.
 
-Yet, when she performed her piece “Faded” — delivered from the perspective of a young girl going through a challenging time — the audience was captivated. Later that evening, she won the Shine Award, an annual prize presented to the standout solo performer at each DC SCORES poetry slam.
+Yet, when she performed her piece “Faded” — delivered from the perspective of a young girl facing challenges in her life — the audience was captivated. Later that evening, she won the Shine Award, an annual prize presented to the standout solo performer at each DC SCORES poetry slam.
 
 “I was like, ‘What? I can really do something!” Chicas remembers. “So, I started DC SCORES there, and I pretty much haven’t left.”
 
