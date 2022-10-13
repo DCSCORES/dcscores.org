@@ -1,7 +1,7 @@
 ---
 title: One Night One Goal 2022 Raises More Than $440,000 to Break DC SCORES Fundraising
   Records
-date: 2022-10-13 15:30:00 Z
+date: 2022-10-13 15:47:00 Z
 tags:
 - events
 - Audi Field
