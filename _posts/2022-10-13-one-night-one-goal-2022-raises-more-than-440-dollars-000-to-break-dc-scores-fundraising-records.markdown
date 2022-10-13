@@ -2,6 +2,12 @@
 title: One Night One Goal 2022 Raises More Than $440,000 to Break DC SCORES Fundraising
   Records
 date: 2022-10-13 17:37:00 Z
+tags:
+- events
+- Washington Spirit
+- Audi Field
+- One Night One Goal
+- DC United
 Author: Aishu Sukumaran and Mairead MacRae
 Thumbnail Image: "/uploads/1-7fae86.png"
 ---
