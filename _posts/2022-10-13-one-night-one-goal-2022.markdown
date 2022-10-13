@@ -1,7 +1,7 @@
 ---
 title: One Night One Goal 2022 Raises More Than $440,000 to Break DC SCORES Fundraising
   Records
-date: 2022-10-13 17:37:00 Z
+date: 2022-10-13 15:30:00 Z
 tags:
 - events
 - Audi Field
@@ -28,13 +28,13 @@ A combination of corporate sponsorships, auction bids, and ticket sales contribu
 
 One Night One Goal featured performances from top spoken word artists, fieldside and jumbotron photo opportunities, live and silent auctions, and guest appearances from D.C. United and Washington Spirit professional soccer players.
 
-Guests arriving at the gala had the opportunity to walk the red carpet and snap a professional portrait on Audi Field’s turf before making their way to the One Night One Goal Poetry Lounge via a hallway featuring a soundscape and printed displays showcasing original poems by DC SCORES poet-athletes.* *
+Guests arriving at the gala had the opportunity to walk the red carpet and snap a professional portrait on Audi Field’s turf before making their way to the One Night One Goal Poetry Lounge via a hallway featuring a soundscape and printed displays showcasing original poems by DC SCORES poet-athletes.\* \*
 
 The Poetry Lounge — curated by Busboys and Poets, an iconic DC-based chain of restaurants and bookstores —  hosted a series of moving performances from spoken word artists [Rebecca Dupas](https://www.rebeccadupas.com/), [Orville the Poet](https://www.orvillethepoet.com/), and [Lady Brion](https://www.ladybrion.com/), as well as musical groups [BOOMscat](http://boomscat.com/) and Emory Diggs and Friends.
 
 ![6.png](/uploads/6.png)
 
-*Spoken word artist Lady Brion performs in the Busboys and Poets Poetry Lounge. Photo: Cody Cervenka. *
+\*Spoken word artist Lady Brion performs in the Busboys and Poets Poetry Lounge. Photo: Cody Cervenka. \*
 
 Guests in the standing-room-only lounge were also treated to surprise performances from D.C. United center-back Donovan Pines and Washington Spirit defender Gaby Vincent. Pines shared a series of poems and lyrics that inspired him growing up, while Vincent performed an original poem, composed for One Night One Goal, that explored the themes of body image and self-confidence.
 
@@ -44,7 +44,7 @@ The player’s performances, which brought together the soccer and poetry compon
 
 ![2-dcf70e.png](/uploads/2-dcf70e.png)
 
-*D.C. United defender Donovan Pines reads a poem for the One Night One Goal audience. Photo: Cody Cervenka. *
+\*D.C. United defender Donovan Pines reads a poem for the One Night One Goal audience. Photo: Cody Cervenka. \*
 
 ## DC Soccer Icons Support Poet-Athletes
 
