@@ -6,7 +6,7 @@ tags:
 - events
 - Audi Field
 - One Night One Goal
-Author: Aishu Sukumaran and Mairead MacRae
+Author: Mairead MacRae
 Thumbnail Image: "/uploads/1-7fae86.png"
 ---
 
