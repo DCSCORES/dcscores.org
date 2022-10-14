@@ -1,5 +1,6 @@
 ---
 title: test
 date: 2022-10-14 21:02:00 Z
+layout: blog
 ---
 
