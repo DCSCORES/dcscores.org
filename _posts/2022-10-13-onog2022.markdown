@@ -8,7 +8,6 @@ tags:
 - One Night One Goal
 Author: Mairead MacRae
 Thumbnail Image: "/uploads/1-7fae86.png"
-layout: post
 ---
 
 ![1-7fae86.png](/uploads/1-7fae86.png)
