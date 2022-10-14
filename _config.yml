@@ -35,7 +35,7 @@ defaults:
     path: ''
     type: posts
   values:
-    permalink: "/blog/:year/:month/:title/"
+    permalink: "/blog/:year/:month/:title"
     layout: post
     Author: ''
     Thumbnail Image: ''
