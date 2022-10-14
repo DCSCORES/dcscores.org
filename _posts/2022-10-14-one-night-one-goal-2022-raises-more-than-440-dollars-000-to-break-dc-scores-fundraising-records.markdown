@@ -30,7 +30,7 @@ The Poetry Lounge — curated by Busboys and Poets, an iconic DC-based chain of 
 
 ![6.png](/uploads/6.png)
 
-\*Spoken word artist Lady Brion performs in the Busboys and Poets Poetry Lounge. Photo: Cody Cervenka. \*
+*Spoken word artist Lady Brion performs in the Busboys and Poets Poetry Lounge. Photo: Cody Cervenka.*
 
 Guests in the standing-room-only lounge were also treated to surprise performances from D.C. United center-back Donovan Pines and Washington Spirit defender Gaby Vincent. Pines shared a series of poems and lyrics that inspired him growing up, while Vincent performed an original poem, composed for One Night One Goal, that explored the themes of body image and self-confidence.
 
@@ -40,7 +40,7 @@ The player’s performances, which brought together the soccer and poetry compon
 
 ![2-dcf70e.png](/uploads/2-dcf70e.png)
 
-\*D.C. United defender Donovan Pines reads a poem for the One Night One Goal audience. Photo: Cody Cervenka. \*
+*D.C. United defender Donovan Pines reads a poem for the One Night One Goal audience. Photo: Cody Cervenka.* 
 
 ## DC Soccer Icons Support Poet-Athletes
 
