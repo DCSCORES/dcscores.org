@@ -41,9 +41,9 @@ A day-long celebration of our fall season that includes soccer games and outdoor
 
 **Date:** October 22, 2022
 
-**Location:** TBD
+**Location:** Anacostia Park, Field 7
 
-**Want to get involved?** Please complete our [Volunteer Interest Form](https://docs.google.com/forms/d/1w19_UB0IXSaHN3kr0c08DBUIWHU29oh32W_KO5T_h0k/viewform?edit_requested=true).
+**Want to get involved?** Please complete our [Volunteer Form](https://docs.google.com/forms/d/e/1FAIpQLSfRijlyUWDUfeY3HP3CCGpc6WIfn-U_mLucLEdJVJVxLe0NuA/viewform).
 
 ---
 
