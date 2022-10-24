@@ -15,6 +15,18 @@ Thumbnail Image: "/uploads/1-7fae86.png"
 
 On October 6, 2022, DC SCORES hosted its fifth annual One Night One Goal gala and raised the highest-ever fundraising total for a single DC SCORES event. One Night One Goal has been held at Audi Field since it launched in 2018 and this year raised almost $450,000 for DC poet-athletes.
 
+
+
+
+
+
+
+
+
+
+
+
+
 A combination of corporate sponsorships, auction bids, and ticket sales contributed to the record-breaking total, which will support the organization’s award-winning soccer, poetry, and service-learning program.
 
 “We are so grateful for the generosity of One Night One Goal supporters,” said Katrina Owens, Executive Director of DC SCORES. “This incredible amount will help us to reach more poet-athletes in the District and provide them with opportunities to grow strong, build their confidence, and raise their voices for good.”
