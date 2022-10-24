@@ -5,7 +5,7 @@ date: 2022-10-13 15:47:00 Z
 tags:
 - One Night One Goal
 - Audi Field
-Author: Mairead MacRae
+Author: Aishu Sukumaran and Mairead MacRae
 Thumbnail Image: "/uploads/1-7fae86.png"
 ---
 
