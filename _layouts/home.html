@@ -2,7 +2,7 @@
 layout: default
 ---
 
-<div class="Carousel" data-flickity='{ "draggable": true, "autoPlay": true }'>
+<div class="Carousel" data-flickity='{ "draggable": true, "autoPlay": 6000 }'>
   {% assign sorted_carousel = site.carousel | sort:'position' %}
   {% for slide in sorted_carousel limit:4 %}
   <a href="{{ slide["Link"] }}" class="Carousel-cell" style="background-image: url({{ slide["Image"] }}); background-position: {{ slide["Image Position"] }};" target="_blank">
