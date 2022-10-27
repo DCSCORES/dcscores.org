@@ -2,6 +2,10 @@
 title: "“We’re A Community”: DC SCORES Delivers Fun for More Than 2,000 Poet-Athletes
   at Fall Frenzy Events"
 date: 2022-10-27 15:07:00 Z
+tags:
+- soccer
+- Fall SCORES
+- Fall Frenzy
 Author: Aishu Sukumaran
 Thumbnail Image: "/uploads/1-ea0f1d.png"
 ---
