@@ -7,7 +7,7 @@ Thumbnail Image: "/uploads/1-ea0f1d.png"
 ---
 
 ![1-ea0f1d.png](/uploads/1-ea0f1d.png)
-*Fall Frenzy was a fantastic way to celebrate Fall SCORES. Photo: Neil Chhabra*
+*DC SCORES Fall Frenzy events served more than 2,000 poet-athletes. Photo: Neil Chhabra*
 
 Fans of the sport know that fall is always an exciting highlight of the soccer calendar and the DC SCORES schedule is no exception. Last week, the organization hosted its annual Junior SCORES and Elementary SCORES Fall Frenzies, which hosted more than 2,000 poet-athletes and their families for a combination of soccer tournaments and community activities.
 
@@ -24,6 +24,8 @@ The events, which were held on October 19 and 22, respectively, were supported b
 “While DC SCORES directly serves school-age kids, we also have deep roots in the wider community,” said Katrina Owens, Executive Director of DC SCORES. “Many of our coaches and family members are former SCORES poet-athletes and it was wonderful to see so many generations of our community come together for our Fall Frenzy events.”
 
 ## Junior Frenzy Takes Over Audi Field
+![Fall Frenzy Photos.png](/uploads/Fall%20Frenzy%20Photos.png)
+*Junior SCORES poet-athletes enjoyed a wonderful afternoon at Audi Field. Photo: Rafael Suanes*
 
 Held on October 19, Junior Frenzy welcomed more than 500 Junior SCORES poet-athletes to Audi Field, the home turf of SCORES community partner D.C. United. The event featured over 30 soccer matches as well as activities including bounce houses, Halloween mask making, and a team photo booth.
 
@@ -32,7 +34,7 @@ Teams faced off against each another in games across eight fields set up on the 
 Games were facilitated by DC SCORES staff, volunteers, and coaches, who served as field marshals and educated players on components of the sport during gameplay. Family members were also invited to join in the fun as supporters and enthusiastically cheered on the teams from the stands.
 
 ![6-e7c12c.png](/uploads/6-e7c12c.png)
-*Teams highlighted their time at Audi Field with a special Jumbotron photo opportunity. Photo: Brian Anderson*
+*Teams commemorated their time at Audi Field with a special Jumbotron photo opportunity. Photo: Brian Anderson*
 
 In addition to soccer, teams had the opportunity to get a headstart on their Halloween costumes at the event’s spooky mask making booth, which was part of an activities itinerary that also included bounce houses and a temporary tattoo station. A team photo under the Audi Field jumbotron — which featured DC SCORES branding — provided the finishing touch for the afternoon.
 
@@ -41,7 +43,7 @@ In addition to soccer, teams had the opportunity to get a headstart on their Hal
 ## Soccer and Fun Along the Anacostia River
 
 ![2-4a9974.png](/uploads/2-4a9974.png)
-*This year's elementary Jamboree welcomed 1,200 poet-athletes to Anacostia Park. Photo: Justin Williams*
+*This year's Elementary Fall Frenzy welcomed 1,200 poet-athletes to Anacostia Park. Photo: Justin Williams*
 
 The week’s soccer festivities continued on October 22, with Fall Frenzy — a jampacked day of soccer, inflatable games, skills clinics, and poetry workshops held at Anacostia Park. Supported by over 70 volunteers, the community festival brought more than 1,200 elementary school students and hundreds of family members to the riverside recreation center.
 
@@ -57,7 +59,7 @@ Participating teams played in more than 200 40-minutes matches and were supporte
 Between matches, poet-athletes visited the activity booths, where they created original poetry, competed in inflatable football and baseball games, honed their dribbling and shooting skills at soccer clinic stations, and ran relay races. At lunchtime, poet-athletes showed off their team spirit with mascot-themed face painting and broke out their best dance moves at the DJ booth.
 
 ![3-e7ee49.png](/uploads/3-e7ee49.png)
-*Volunteers from DC-Based Barcelona supporters' club, Penya Barcelona, helped facilitate soccer matches and activities. Photo: Penya Barcelona*
+*Volunteers from DC-based Barcelona supporters' club, Penya Barcelona, helped facilitate soccer matches and activities. Photo: Penya Barcelona*
 
 “None of this would have been possible without the incredible support of our volunteers,” said Gross. Drawn from a range of DC SCORES partners across the District, volunteers assisted at every stage of the event including set-up, check-in, refereeing, and clear-up.
 
