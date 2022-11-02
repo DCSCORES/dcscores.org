@@ -8,7 +8,18 @@ Thumbnail Image: "/uploads/3-75bc68.png"
 
 ![3-75bc68.png](/uploads/3-75bc68.png)
 
-*Coach Duarte and her colleagues have built an inclusive DC SCORES team where students learn that, if they work hard for each other, they can find success together. *
+\*Coach Duarte and her colleagues have built an inclusive DC SCORES team where students learn that, if they work hard for each other, they can find success together. \*
+
+
+
+
+
+
+
+
+
+
+
 
 When asked about her favorite moments from almost ten years of coaching for DC SCORES at [Seaton Elementary School](https://seatondc.org/), Fabiana Duarte doesn’t hesitate. “Poetry slams. We’re very good at poetry slams,” she says.
 
@@ -44,7 +55,7 @@ Duarte’s first few years of living in the United States were an adjustment. Su
 
 ![2-55a120.png](/uploads/2-55a120.png)
 
-*Having spent more than 20 years teaching at Seaton, Duarte has seen multiple generations of families graduate from the school. *
+*Having spent more than 20 years teaching at Seaton, Duarte has seen multiple generations of families graduate from the school.*
 
 ## Creating Inclusive Teams
 
@@ -64,7 +75,7 @@ By providing a space where their language and cultural backgrounds are celebrate
 
 ![4-2fe372.png](/uploads/4-2fe372.png)
 
-*Duarte won the Mingo Roberts Coaching Excellence Award at the 2019 DC SCORES Awards. *
+*Duarte won the Mingo Roberts Coaching Excellence Award at the 2019 DC SCORES Awards.*
 
 ## “Here To Stay”
 
