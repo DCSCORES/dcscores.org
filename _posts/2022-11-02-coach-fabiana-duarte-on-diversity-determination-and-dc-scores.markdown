@@ -67,7 +67,7 @@ Duarte and her colleagues have developed an informal process for welcoming these
 
 Duarte recalls a recent conversation she had with her fellow DC SCORES soccer coach, Terrence Chavis, about a new student, “He tells me, ‘There’s a kid, a new kid. He just got here. He doesn’t speak any English. You should talk to him. Tell him he needs to play soccer with us!’”
 
-By far the most popular sport in Latin America, soccer can be comfortingly familiar for students who have just immigrated from the region. What’s more, Duarte fosters an inclusive environment on the DC SCORES team by using Spanish-language instruction in her coaching.
+By far the most popular sport in Latin America, soccer can be comfortingly familiar for students who have just emmigrated from the region. What’s more, Duarte fosters an inclusive environment on the DC SCORES team by using Spanish-language instruction in her coaching.
 
 This approach is a hit with non-Spanish speakers on the team, too. “Honestly, it’s more fun in Spanish because it’s more animated,” Duarte says. “It’s funny because the other children are starting to understand. They are like, ‘*mano*, *mano*’ when it’s a handball.”
 
