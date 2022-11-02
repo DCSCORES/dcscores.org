@@ -2,6 +2,8 @@
 title: Coach Fabiana Duarte Explains How Diversity, Determination, and DC SCORES is
   Paying Off for District Kids
 date: 2022-11-02 13:51:00 Z
+tags:
+- coaches
 Author: Mairead MacRae
 Thumbnail Image: "/uploads/3-75bc68.png"
 ---
