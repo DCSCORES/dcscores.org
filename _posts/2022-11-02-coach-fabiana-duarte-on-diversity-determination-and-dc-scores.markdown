@@ -8,7 +8,7 @@ Thumbnail Image: "/uploads/3-75bc68.png"
 
 ![3-75bc68.png](/uploads/3-75bc68.png)
 
-\*Coach Duarte and her colleagues have built an inclusive DC SCORES team where students learn that, if they work hard for each other, they can find success together. \*
+*Coach Duarte and her colleagues have built an inclusive DC SCORES team where students learn that, if they work hard for each other, they can find success together.*
 
 
 
