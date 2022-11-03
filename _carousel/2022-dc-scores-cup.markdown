@@ -1,7 +1,7 @@
 ---
 title: 2022 DC SCORES Cup Recap
 date: 2022-01-24 17:20:00 Z
-position: 2
+position: 1
 Image: "/uploads/SCORES%20Cup%20Recap%20Photo.png"
 Link: https://www.dcscores.org/blog/2022/06/scores-cup-2022-recap
 ---
