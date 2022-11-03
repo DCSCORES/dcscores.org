@@ -1,9 +1,9 @@
 ---
-title: 2022 DC SCORES Cup Recap
+title: Fall Frenzy Recap
 date: 2022-01-24 17:20:00 Z
 position: 1
-Image: "/uploads/SCORES%20Cup%20Recap%20Photo.png"
-Link: https://www.dcscores.org/blog/2022/06/scores-cup-2022-recap
+Image: "/uploads/Fall%20Frenzy%202022.png"
+Link: https://www.dcscores.org/blog/2022/10/dc-scores-fall-frenzy-2022
 ---
 
-Check out our SCORES Cup Recap Blog covering the journey of this year's champions!
+Read all about Junior and Elementary Fall Frenzy in our new blog post!
