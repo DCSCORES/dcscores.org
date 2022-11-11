@@ -26,11 +26,11 @@ In the close-knit community of DC SCORES, it’s not uncommon to hear people ref
 The youngest of seven siblings, the brothers spent their earliest years in Los Angeles. On sunny afternoons, their father would take them to play soccer in the nearest park. “We’d always be kicking the ball around. Our dad would try to teach us how to play with the ball, how to pass it around,” Ronald recalls.
 
 ![3-9a6a6c.png](/uploads/3-9a6a6c.png)
-*The youngest of seven siblings, José and Ronald have been inseparable since childhood.*
+*The youngest of seven siblings, José (left) and Ronald (right) have been inseparable since childhood.*
 
 Eventually, the Granados family relocated to the U Street neighborhood in Northwest DC. On Sundays, José, Ronald, and their father would make the journey across the city to the RFK training grounds in Northeast to support their neighborhood team, La Chapín, in La Super Copa, a D.C. United-run community league.
 
-La Chapín — named for Chapin Street, the road in Northwest where many of the players lived, and the colloquial term chapínes, which is affectionately used by Guatemalans to refer to themselves — was popular among U Street’s Latin American residents. Both brothers fondly remember the 2010-11 season when the team [made it to the La Super Copa semi-finals](https://www.dcunited.com/news/la-super-copa-vi-semifinals-set) in front of a crowd full of ecstatic neighborhood families.
+La Chapín — named for Chapin Street, the road in Northwest where many of the players lived, and the colloquial term *chapínes*, which is affectionately used by Guatemalans to refer to themselves — was popular among U Street’s Latin American residents. Both brothers fondly remember the 2010-11 season when the team [made it to the La Super Copa semi-finals](https://www.dcunited.com/news/la-super-copa-vi-semifinals-set) in front of a crowd full of ecstatic neighborhood families.
 
 “I remember all the kids running onto the field at halftime and Dad pointing out who was who’s kid,” says Ronald. “It was a real family event.”
 
