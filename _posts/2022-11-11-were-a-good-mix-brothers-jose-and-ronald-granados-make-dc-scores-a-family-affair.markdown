@@ -53,7 +53,7 @@ Today, U Street is a hotspot for large development companies seeking to cash in 
 But lack of investment from government and corporate institutions didn’t stop local community members from creating opportunities of their own.
 
 ![2-2704eb.png](/uploads/2-2704eb.png)
-*A young José practices shooting at a training session led by Coach Edmundo Miholo.*
+*A young José practices shooting at a local training session.*
 
 While playing soccer in Malcolm X (Meridian Hill) Park, José and Ronald bumped into a neighbor who told them about a boys’ elementary school team run by Edmundo Miholo, a DC SCORES coach working at Children’s Studio School.
 
