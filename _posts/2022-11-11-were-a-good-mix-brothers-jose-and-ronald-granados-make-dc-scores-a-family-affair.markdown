@@ -13,7 +13,7 @@ Thumbnail Image: "/uploads/1-9fd595.png"
 ![1-9fd595.png](/uploads/1-9fd595.png)
 *The Granados brothers work together on site management, equipment administration, and elementary school coaching at DC SCORES.*
 
-In the close-knit community of DC SCORES, it’s not uncommon to hear people refer to the organization as a family. But for brothers José and Ronald Granados, the phrase is more than just a metaphor. The siblings work together as Up2Us Fellows in the DC SCORES programs team, where they collaborate on site management, equipment administration, and coaching for an elementary school team.
+In the close-knit community of DC SCORES, it’s not uncommon to hear people refer to the organization as a family. But for brothers José and Ronald Granados, the phrase is more than just a metaphor. The siblings work together as Up2Us Fellows in the DC SCORES programs team, where they collaborate on site management, equipment administration, and coaching at an elementary school.
 
 “We’re always with each other. There are very few things that José does that I don’t do and DC SCORES is no different!” Ronald says of the close relationship that has helped the pair find a winning formula for poet-athletes, on and off the field.
 
