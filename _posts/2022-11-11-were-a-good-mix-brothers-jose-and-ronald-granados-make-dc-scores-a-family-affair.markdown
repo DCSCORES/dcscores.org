@@ -25,7 +25,6 @@ In the close-knit community of DC SCORES, it’s not uncommon to hear people ref
 
 The youngest of seven siblings, the brothers spent their earliest years in Los Angeles. On sunny afternoons, their father would take them to play soccer in the nearest park. “We’d always be kicking the ball around. Our dad would try to teach us how to play with the ball, how to pass it around,” Ronald recalls.
 
-
 ![3-9a6a6c.png](/uploads/3-9a6a6c.png)
 *The youngest of seven siblings, José and Ronald have been inseparable since childhood.*
 
@@ -42,7 +41,6 @@ Today, U Street is a hotspot for large development companies seeking to cash in 
 “The original neighborhood we grew up in has changed a lot,” says José, who remembers walking past buildings damaged during the 1968 DC Riots and left abandoned for decades afterward.
 
 But lack of investment from government and corporate institutions didn’t stop local community members from creating opportunities of their own.
-
 
 ![2-2704eb.png](/uploads/2-2704eb.png)
 *A young José practices shooting at a training session led by Coach Edmundo Miholo.*
@@ -62,7 +60,6 @@ Within just a few months of coaching at Capital City, the younger Granados broth
 So, when the nonprofit asked José if he would be interested in applying for an Up2Us Fellowship at DC SCORES, José leaped at the chance.
 
 [Up2Us](https://www.up2us.org/) trains sports-based youth development coaches and places them with local organizations that support young people in urban areas. “Through coaching, I could see the benefit of DC SCORES around the city,” he remarks. “It was easy to say yes to that opportunity.”
-
 
 ![4-d4fee3.png](/uploads/4-d4fee3.png)
 *José alongside his Capital City elementary school team at the DC SCORES Jamboree festival this summer.*
@@ -84,7 +81,6 @@ This season, José and Ronald have drawn heavily on their combined strengths as 
 But this challenge has also made their coaching more rewarding. “Many of our kids never got a chance to play soccer third through fifth grade,” says Ronald. “Each game, you track them getting better. It’s always good seeing that growth from them.”
 
 After seven years of coaching, many of José’s first students are preparing to graduate high school. “Some of them were so timid, so shy, and now they’re on their high school varsity soccer team!” Ronald says proudly of his brother’s students.
-
 
 ![5-3990b5.png](/uploads/5-3990b5.png)
 *José and Ronald with their parents. Today, multiple generations of the Granados family participate in DC SCORES.*
