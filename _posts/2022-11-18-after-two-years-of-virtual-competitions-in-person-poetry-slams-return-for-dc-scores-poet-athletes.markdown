@@ -38,7 +38,7 @@ The in-person events also provided an opportunity for DC SCORES to invite specia
 
 The Middle School Slam opened the week’s showcase series on November 15. The evening event took place at Cardozo Education Campus and featured original works from middle schoolers attending 11 schools across the city.
 
-Ida B. Wells Middle School opened the event with a group poem titled “Equality,’ which explored sexism and women’s rights. The piece was one of many to address political issues, including that of Kayla Nelson, a student at MacFarland Middle Schools whose poem “Political Decisions” implored people from across the political spectrum to amplify children’s voices and won her the coveted Shine Award for best solo performance.
+Ida B. Wells Middle School opened the event with a group poem titled “Equality,’ which explored sexism and women’s rights. The piece was one of many to address political issues. In her performance, Kayla Nelson, a student at MacFarland Middle Schools, presented “Political Decisions,” a poem imploring people from across the political spectrum to amplify children’s voices. Her assured delivery of the powerful piece won her the coveted Shine Award for best solo performance.
 
 ![1-206a04.png](/uploads/1-206a04.png)
 *Cardozo Education Campus students celebrate winning the 2022 Middle School Poetry Slam. Photo: Cody Cervenka.*
@@ -74,7 +74,7 @@ The solo poem of the night that most impressed judges and won the 2022 Westside 
 “I’ve only been on stage once before and it just feels really good to do something for the school,” said Girum about receiving the honor. “It’s a huge accomplishment.”
 
 ![3-2d1dd0.png](/uploads/3-2d1dd0.png)
-*Students for Capital City Public Charter School cheer on their peers in the Westside Poetry Slam. Photo: Aya Takeuchi*
+*Students from Capital City Public Charter School cheer on their peers in the Westside Poetry Slam. Photo: Aya Takeuchi*
 
 ## “Truly Inspiring”: Eastside Slam
 
@@ -87,7 +87,7 @@ In front of a packed audience of parents, family members, and local community le
 
 Many of the performances incorporated music and dance, including that of Burville Elementary School, the team that opened the slam with a piece about the importance of music to Black culture and identity. The team’s well-rehearsed performance wowed judges Carrol, Barber, and C. Thomas, who awarded Burville first place in the group category.
 
-The Eastside Shine Award for best solo poem went to Katrice Allen, a student from Drew Elementary School whose charismatic stage presence and piece about self-confidence earned her the admiration of both judges and audience.
+The Eastside Shine Award for best solo poem went to Katrice Allen, a student from Drew Elementary School whose charismatic stage presence and piece about self-confidence earned her the admiration of the judges and the audience.
 
 “We heard a lot of moving and dope poetry over all three nights. It was a joy to watch all the kids have fun,” said Barber who judged all three slams. “I’m very inspired and the kids just really spoke to me, and especially to the kid in me,” shared Carrol.
 
