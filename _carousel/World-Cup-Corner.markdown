@@ -1,9 +1,9 @@
 ---
-title: DC SCORES Monthly Giving Club
+title: DC SCORES World Cup Corner
 date: 2021-12-21 17:03:00 Z
 position: 2
-Image: "/uploads/Website%20Carousel%20-%20monthly%20giving.png"
-Link: https://give.dcscores.org/give/410414/#!/donation/checkout
+Image: "/uploads/2022%20World%20Cup%20Corner.png"
+Link: https://give.dcscores.org/campaign/dc-scores-world-cup-corner/c443600
 ---
 
-Be a part of DC SCORES' Monthly Giving Program and support our poet-athletes year-round.
+Support DC SCORES when you watch the 2022 World Cup at select bars and events around the city.
