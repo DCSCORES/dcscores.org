@@ -13,6 +13,16 @@ Thumbnail Image: "/uploads/1-a98256.png"
 ![3-e3f14c.png](/uploads/3-e3f14c.png)
 *Thousands of poet-athletes from more than 40 DC public schools competed in the first slams to be held in person since 2019. Photo: Rafael Suanes.*
 
+
+
+
+
+
+
+
+
+
+
 On November 15, 16, and 17, 2022, DC SCORES hosted its first in-person poetry slams since the beginning of the COVID-19 pandemic. The Pepco-sponsored slams saw more than 1,300 poet-athletes from over 40 schools perform across three consecutive nights at public school auditoriums across the city.
 
 For the past two years, DC SCORES has hosted its slams virtually as part of ongoing health measures to keep its community safe during the pandemic. This year, the organization reintroduced an in-person format, with many students performing their work in front of a live audience for the first time.
@@ -51,7 +61,7 @@ Referencing his favorite line of poetry from Langston Hughes, “What happens to
 
 “Organizations like DC SCORES are helping us to fill in the gap of what can be our future and we are very happy they are one of our partners,” said Perdomo in his opening remarks.
 
-Perdomo was an apt speaker for the slam, which featured students from 17 elementary schools across the DC’s Westside, many of whom live in neighborhoods with a high proportion of Latin American residents.
+Perdomo was an apt speaker for the slam, which featured students from 18 elementary schools across the DC’s Westside, many of whom live in neighborhoods with a high proportion of Latin American residents.
 
 ![1-a98256.png](/uploads/1-a98256.png)
 *First place slam winners Seaton Elementary School perform their group poem "We Got That Sauce." Photo: Aya Takeuchi.*
