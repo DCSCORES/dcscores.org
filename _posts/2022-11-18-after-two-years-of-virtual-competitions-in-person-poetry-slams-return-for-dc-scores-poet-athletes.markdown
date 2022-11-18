@@ -24,7 +24,7 @@ Thumbnail Image: "/uploads/1-a98256.png"
 
 
 
-On November 15, 16, and 17, 2022, DC SCORES hosted its first in-person poetry slams since the beginning of the COVID-19 pandemic. The Pepco-sponsored slams saw more than 1,300 poet-athletes from over 40 schools perform across three consecutive nights at public school auditoriums across the city.
+On November 15, 16, and 17, 2022, DC SCORES hosted its first in-person poetry slams since the beginning of the COVID-19 pandemic. The Pepco-sponsored slams saw more than 1,300 poet-athletes from over 40 schools perform over three consecutive nights at public school auditoriums across the city.
 
 For the past two years, DC SCORES has hosted its slams virtually as part of ongoing health measures to keep its community safe during the pandemic. This year, the organization reintroduced an in-person format, with many students performing their work in front of a live audience for the first time.
 
