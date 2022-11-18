@@ -7,6 +7,7 @@ tags:
 - poetry
 - alumni
 - coaches
+Author: Mairead MacRae
 Thumbnail Image: "/uploads/1-a98256.png"
 ---
 
