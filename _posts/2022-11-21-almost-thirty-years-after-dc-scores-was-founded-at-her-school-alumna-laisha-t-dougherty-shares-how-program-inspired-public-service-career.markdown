@@ -69,7 +69,7 @@ Dougherty’s fondest memories from her own time in DC SCORES are of away games,
 
 Her family’s encouragement, despite her performance on the field, taught her a valuable lesson that she has carried into her work as a public servant. “I wasn’t that good at soccer, but I was part of a team,” she says. “Even as an adult, it’s so important to understand that, while you may not always be the strongest player, you still have a purpose and a role on the team that aids in completing the overall goal.”
 ![2-19e348.png](/uploads/2-19e348.png)
-*Through her work with DCM McDuffie, Dougherty has fulfilled her ambition to become a public servant and support local people in DC.*
+*Through her work with CM McDuffie, Dougherty has fulfilled her ambition to become a public servant and support local people in DC.*
 
 Next year, DC SCORES will celebrate its 30th anniversary. “Thanks for making me feel old!” she jokes when reminded of the milestone. “I’m so excited to see DC SCORES still going and growing,” she adds. “It provided me with so many opportunities and now it’s providing other kids with those same opportunities. I can only imagine the places that these young people will go!”
 
