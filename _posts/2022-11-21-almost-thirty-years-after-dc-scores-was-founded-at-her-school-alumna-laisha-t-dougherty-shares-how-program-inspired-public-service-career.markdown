@@ -13,6 +13,17 @@ Thumbnail Image: "/uploads/1-b80ff6.png"
 ![1-b9f1ec.png](/uploads/1-b9f1ec.png)
 *Laisha Dougherty was one of the first poet-athletes to participate in DC SCORES at its founding school, Marie Reed Elementary School.*
 
+
+
+
+
+
+
+
+
+
+
+
 Laisha T. Dougherty was in second grade when her school, Marie Reed Elementary, introduced its girls' soccer team.
 
 [Established by teacher Julie Kennedy in 1994](https://www.dcscores.org/about-us/mission-and-history/), the team was one of the few after-school activities for girls at Marie Reed. In the winter, when bad weather forced the squad off the soccer field, the girls took up poetry, with Kennedy encouraging her students to write about ways they could serve their Adams Morgan neighborhood.
