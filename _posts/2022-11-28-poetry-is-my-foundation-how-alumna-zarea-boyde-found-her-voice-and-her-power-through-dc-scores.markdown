@@ -8,6 +8,7 @@ tags:
 - poetry
 - service learning
 Author: Mairead MacRae
+Thumbnail Image: "/uploads/3-127f3c.png"
 ---
 
 ![3-127f3c.png](/uploads/3-127f3c.png)
