@@ -1,8 +1,9 @@
 ---
-title: Poetry Slams are Back in Person!
+title: Give to DC SCORES Today
 date: 2021-03-30 18:54:00 Z
 position: 0
-Image: "/uploads/Poetry%20Slams%202022.png"
+Image: "/uploads/Giving%20Tuesday%202022.png"
+Link: https://give.dcscores.org/campaign/giving-tuesday-2022/c401239
 ---
 
-Join us on the following nights: Middle School - 11/15, WestSide - 11/16, EastSide - 11/17
+Double your impact this Giving Tuesday!
