@@ -7,7 +7,7 @@ tags:
 - volunteer spotlight
 - Volunteers
 Author: Mairead MacRae
-Thumbnail Image: "/uploads/1-b80ff6.png"
+Thumbnail Image: "/uploads/1-b9f1ec.png"
 ---
 
 ![1-b9f1ec.png](/uploads/1-b9f1ec.png)
