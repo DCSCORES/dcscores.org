@@ -18,7 +18,7 @@ A soccer player places the ball on the penalty spot, breathes deeply, and shouts
 
 Through a World Cup 2022 advertisement spot donated by the tournament's US broadcaster, FOX Sports, [America SCORES](https://www.americascores.org/) — an umbrella network of 11 SCORES cities serving more than 11,000 kids across the United States and Canada — is spreading the word about a new generation of poet-athletes who are poised to have a transformative impact on their local communities.
 
-The 30-second spot, which follows a poet-athlete as they prepare for a poetry slam and a big soccer match, was developed pro bono by [DC-based creative agency Artemis Ward](https://artemisward.com/). The agency worked with a local director and production crew to produce the ad featuring DC SCORES participants, alumni, and coaches.
+The 30-second spot, which follows a poet-athlete as they prepare for a poetry slam and a big soccer match, was developed pro bono by [DC-based creative agency Artemis Ward](https://artemisward.com/). The agency worked with a local director and production crew to produce the ad, which features DC SCORES participants, alumni, and coaches.
 
 "Through our work over the years with both America SCORES and DC SCORES, the Artemis Ward team has had the chance to see firsthand the energy and optimism and impact that SCORES inspires," said Christopher Maier, Creative Director for Artemis Ward, on what motivated him and his colleagues throughout their work on the commercial. "Sit front row at a SCORES spoken-word performance or soccer match and you'll know exactly what I mean — it's something you're excited to be a part of. And when you see these poet-athletes in action, you know they're going places."
 
