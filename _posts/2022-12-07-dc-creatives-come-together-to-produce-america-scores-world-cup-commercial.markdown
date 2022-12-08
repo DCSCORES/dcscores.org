@@ -1,6 +1,12 @@
 ---
 title: DC Creatives Come Together to Produce America SCORES World Cup Commercial
 date: 2022-12-07 15:41:00 Z
+tags:
+- alumni
+- coaches
+- america scores
+- Volunteers
+- partners
 Author: Mairead MacRae
 Thumbnail Image: "/uploads/3-712c19.png"
 ---
