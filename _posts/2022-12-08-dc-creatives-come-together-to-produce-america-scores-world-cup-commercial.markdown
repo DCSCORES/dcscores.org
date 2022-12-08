@@ -14,6 +14,18 @@ Thumbnail Image: "/uploads/3-712c19.png"
 ![3-712c19.png](/uploads/3-712c19.png)
 *The slick 30-second America SCORES commercial showcases the talents of DC SCORES poet-athletes and the work of a number of DC-based creatives. Photo: Brandon Bloch*
 
+
+
+
+
+
+
+
+
+
+
+
+
 A soccer player places the ball on the penalty spot, breathes deeply, and shouts “Let’s go!” before striking cleanly into the back of the net. This isn’t a highlight from a World Cup match, but the thrilling final shot of a [polished commercial](https://www.youtube.com/watch?v=UxKmUXo8u_g) that places America SCORES poet-athletes at the center of this year’s biggest soccer story.
 
 Through a World Cup 2022 advertisement spot donated by the tournament's US broadcaster, FOX Sports, [America SCORES](https://www.americascores.org/) — an umbrella network of 11 SCORES cities serving more than 11,000 kids across the United States and Canada — is spreading the word about a new generation of poet-athletes who are poised to have a transformative impact on their local communities.
