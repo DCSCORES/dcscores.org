@@ -13,6 +13,18 @@ Thumbnail Image: "/uploads/4-7d8efe.png"
 ![7-be619c.png](/uploads/7-be619c.png)
 *DC SCORES middle school poet-athletes took to the pitch at Audi Field and The Fields at RFK for the 2022 Capital Cup championship finals. Photo: Justin Williams*
 
+
+
+
+
+
+
+
+
+
+
+
+
 In November, twelve of the District’s best middle school soccer teams competed in a series of thrilling playoff games to be crowned champions of the 2022 DC SCORES Capital Cup.
 
 The trophy represents the culmination of the nonprofit’s middle school fall season. DC SCORES provides the only consistent, free-to-play public school leagues in DC and administers coed, girls, and boys leagues for middle schoolers across the District.
