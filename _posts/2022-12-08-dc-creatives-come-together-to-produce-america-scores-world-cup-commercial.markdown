@@ -65,6 +65,6 @@ The commercial — which is now in rotation on FOX Sports, FOX Desportes, FS1, a
 
 “We’re excited to introduce more people to our work through this ad and are grateful to FOX, Artemis Ward, and the many people who came together to help make it a reality,” he added.
 
-Viewers can watch the 2022 advertisement between World Cup matches on FOX Sports, FOX Deportes, FS1, and FS2 for the duration of the tournament. Learn more about America SCORES at [americascores.org](https://www.americascores.org/).
+Viewers can watch the [2022 commercial](https://www.youtube.com/watch?v=UxKmUXo8u_g) throughout the World Cup coverage on FOX Sports, FOX Deportes, FS1, and FS2. Learn more about America SCORES at [americascores.org](https://www.americascores.org/).
 
 ![5-c7f228.png](/uploads/5-c7f228.png)*The commercial has the potential to run during the 2023 Women's World Cup, as well as the 2026 Men's World Cup, which will be held in cities across North America. Photo: Brandon Bloch*
