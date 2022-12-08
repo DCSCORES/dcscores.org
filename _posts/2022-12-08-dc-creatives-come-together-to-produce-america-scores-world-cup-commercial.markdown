@@ -1,6 +1,6 @@
 ---
 title: DC Creatives Come Together to Produce America SCORES World Cup Commercial
-date: 2022-12-07 15:41:00 Z
+date: 2022-12-08 10:30:00 Z
 tags:
 - alumni
 - coaches
