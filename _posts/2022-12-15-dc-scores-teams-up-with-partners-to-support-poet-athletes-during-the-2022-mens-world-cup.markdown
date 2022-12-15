@@ -13,6 +13,17 @@ Thumbnail Image: "/uploads/5-c62bd7.png"
 ![5-c62bd7.png](/uploads/5-c62bd7.png)
 *From dance parties to raffles for DC SCORES merchandise, every World Cup watch party has been a huge hit.*
 
+
+
+
+
+
+
+
+
+
+
+
 As any World Cup manager will tell you, teamwork pays off. This month, that maxim has been especially true for DC SCORES, which has joined forces with numerous partners across DC to capitalize on World Cup fever and raise money for its soccer, poetry, and service-learning programs.
 
 Through watch parties, merchandise activations, and collaborations with partners all over the city, the nonprofit has been raising awareness, and dollars, for its programs serving more than 3,000 kids across the District.
