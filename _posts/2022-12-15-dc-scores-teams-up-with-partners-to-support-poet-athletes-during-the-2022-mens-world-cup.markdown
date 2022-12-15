@@ -52,7 +52,7 @@ In the afternoon, soccer fans turned out for the Argentina vs. Australia despite
 
 “Soccer and music are two of my greatest passions in life. As a kid, the field was one of the only places where I didn’t have to grow up too fast. As an adult, I’ve found the same freedom of self-expression on the dance floor and behind the decks,” said DJ Mazlow, who organized the DJ set as a fundraiser for DC SCORES. “The sanctuary and empowerment that I found in soccer and the arts is a privilege that many kids do not have access to. DC SCORES recognizes that and is actively working to change it.”
 
-Check out the [DC SCORES TikTok](https://www.tiktok.com/@dcscores)to see highlights from the event!
+Check out the [DC SCORES TikTok](https://www.tiktok.com/@dcscores) to see highlights from the event!
 
 ## Mundial Month with District Sports
 
@@ -68,16 +68,16 @@ District Sports support extended beyond the USA matches, too, with their [Mundia
 The tournament also presented new partnership opportunities. DC SCORES teamed up with Tin Shop Restaurant Group for the first time to host watch parties at bars around the DMV throughout the World Cup. As part of the new collaboration, Tin Shop bars offered drink specials supporting DC SCORES with every purchase. 
 
 ![DCS x Tinshop Twitter (2).png](/uploads/DCS%20x%20Tinshop%20Twitter%20(2).png)
-*Eight Tin Shop bars were part of the World Cup promotion.*
+*Seven Tin Shop bars were part of the World Cup promotion.*
 
 DC SCORES board members, advisory council members, and  staff hosted merchandise activations to raise money at Tin Shop locations Astro Beer Hall, Franklin Hall, Quincy Hall, and TallBoy. The partnership raised more than $8,000 dollars through drink sales and donations!
 
 Still looking for a place to catch the finals? Check out these Tin Shop locations:
-Astro Beer Hall
-Clubhouse
-TallBoy
-Quincy Hall
-Franklin Hall
+* [Astro Beer Hall](https://www.astrobeerhall.com/)
+* [Clubhouse](https://www.clubhousedc.co/)
+* [TallBoy](https://www.tallboybar.com/)
+* [Quincy Hall](https://www.quincyhallbar.com/)
+* [Franklin Hall](https://www.franklinhalldc.com/)
 
 ## Poet-Athlete Pepco Watch Party
 
