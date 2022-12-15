@@ -30,7 +30,7 @@ Through watch parties, merchandise activations, and collaborations with partners
 
 “This year's World Cup has been great for us to get into the community and partner with local businesses,” said Yasmin Ibrahim, Associate Director of Individual Giving at DC SCORES, who led the organization’s World Cup activations. “It has been really cool to bring different groups together over the last month to watch matches and share more about DC SCORES with them.  I'm so glad we're able to share our love for the sport and our programs with our local community while supporting our young poet-athletes.”
 
-# ## **An International Affair: Watch Parties at Wundergarten**
+## An International Affair: Watch Parties at Wundergarten
 
 As the tournament moved into the final matches of group stage play, fans across the world came out in force to cheer on their national teams as they competed for a spot in the round of 16. In DC – a hub city of international diplomacy – local embassies held watch parties for expats and locals alike to show their support for the teams in the tournament.
 
@@ -41,7 +41,7 @@ On November 29, DC SCORES joined the British Embassy and the Welsh Government at
 
 Drink specials for the afternoon included a $1 donation to DC SCORES for every Atlas beer purchased, which attendees could outfit with a branded DC SCORES koozie. And, if guests were in the mood for additional free swag, they could pick up even more merchandise from another SCORES partner in attendance — the Washington Spirit!
 
-**Dancing for DC SCORES: All-Day metrobar Party**
+## Dancing for DC SCORES: All-Day metrobar Party
 
 For the tournament's first Round of 16 matches on December 3, DC SCORES teamed up with local DJs and the Washington Spirit for an all-day party at metrobar. The morning kicked off with a USA vs. Netherlands watch party, where Washington Spirit players Anna Heilferty and Aubrey Kingsbury cheered on their fellow pros.
 
@@ -54,7 +54,7 @@ In the afternoon, soccer fans turned out for the Argentina vs. Australia despite
 
 Check out the [DC SCORES TikTok](https://www.tiktok.com/@dcscores)to see highlights from the event!
 
-**Mundial Month with District Sports**
+## Mundial Month with District Sports
 
 Throughout the tournament, long-time DC SCORES partner District Sports has been hosting World Cup watch parties benefitting DC SCORES. District Sports, a nonprofit which organizes adult soccer leagues across DC, held their flagship “Pack the Hall” series at Hook Hall for USA games. The events were sold-out affairs where all proceeds support SCORES programming.
 
@@ -63,7 +63,7 @@ District Sports support extended beyond the USA matches, too, with their [Mundia
 ![2-0c137c.png](/uploads/2-0c137c.png)
 *District Sports sold out all of their Hook Hall watch parties and raised thousands of dollars for DC SCORES.*
 
-**Building New Relationships with Tin Shop Restaurant Group**
+## Building New Relationships with Tin Shop Restaurant Group
 
 The tournament also presented new partnership opportunities. DC SCORES teamed up with Tin Shop Restaurant Group for the first time to host watch parties at bars around the DMV throughout the World Cup. As part of the new collaboration, Tin Shop bars offered drink specials supporting DC SCORES with every purchase. 
 
@@ -79,7 +79,7 @@ TallBoy
 Quincy Hall
 Franklin Hall
 
-**Poet-Athlete Pepco Watch Party**
+## Poet-Athlete Pepco Watch Party
 
 DC SCORES poet-athletes have also been part of the World Cup excitement! SCORES partner Pepco invited the Raymond Elementary School DC SCORES team to watch the quarterfinal match between Morocco vs. Portugal for a watch party at Edison Photo Gallery that included small-sided indoor soccer, a popcorn machine, and DC SCORES merchandise.
 
