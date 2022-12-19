@@ -1,7 +1,7 @@
 ---
 title: Laurie Gonzalez
 date: 2018-01-22 18:46:00 Z
-position: 51
+position: 49
 Details: Deloitte
 Section: advisory
 ---

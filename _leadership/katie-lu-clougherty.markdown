@@ -1,7 +1,7 @@
 ---
 title: Katie Lu Clougherty
 date: 2017-08-14 13:49:00 Z
-position: 8
+position: 6
 Details: Senior Program Manager, Data and Evaluation
 Email: kclougherty@dcscores.org
 Profile Image: "/uploads/IMG_1752%20(1).jpg"

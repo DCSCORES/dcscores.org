@@ -1,7 +1,7 @@
 ---
 title: Yasmin Ibrahim
 date: 2022-05-06 20:32:00 Z
-position: 13
+position: 10
 Details: Associate Director of Development
 Email: yibrahim@dcscores.org
 Profile Image: "/uploads/mina-1952.JPG"

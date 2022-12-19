@@ -1,7 +1,7 @@
 ---
 title: Tatiana Figueroa Ramirez
 date: 2021-12-08 15:47:00 Z
-position: 9
+position: 7
 Details: Associate Program Manager, Creative Writing
 Email: tfigueroaramirez@dcscores.org
 Profile Image: "/uploads/IMG_0394.JPG"

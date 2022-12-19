@@ -1,7 +1,7 @@
 ---
 title: Charity Blackwell
 date: 2017-08-14 13:42:00 Z
-position: 4
+position: 3
 Details: Senior Advisor of Arts & Culture
 Email: cblackwell@dcscores.org
 Profile Image: "/uploads/49125680277_ab406138df_c.jpg"
