@@ -2,10 +2,10 @@
 title: Charity Blackwell
 date: 2017-08-14 13:42:00 Z
 position: 4
-Details: Senior Advisor of Arts & Culture
+Details: Senior Advisor of Arts and Culture
 Email: cblackwell@dcscores.org
-Profile Image: "/uploads/49125680277_ab406138df_c.jpg"
+Profile Image: "/uploads/Charity%20Blackwell.png"
 Section: staff
 ---
 
-Charity Blackwell is a spoken word artist, host, emcee, and poetry specialist who has spent several years contributing to the arts and soccer scene at DC SCORES. She is a Trinity University graduate, where she received her B.A. and M.A, in Communications, and played soccer for four years. Since her early college days, Charity’s natural stage presence and charm have led her to many hosting opportunities, including events such as the local and national Poetry Slams for DC SCORES. She has performed her original work on international networks such as BBC News, D.C. United's Audi Field for the game opener, the Woman's Sports Foundation, The Lincoln Theater, The Kennedy Center, The Hirshorn Museum, Dock 5, TedxTysons, Women's World Cup Volkswagen commercial and numerous stages across Washington D.C. and the east coast.
+Charity Blackwell is a Diversity Equity and Inclusion (DEI) practitioner, spoken word artist, host, emcee, and poetry specialist who has spent several years contributing to the arts scene in DC and across national platforms. She is a Trinity University graduate, where she received her B.A and M.A in Communications. She also holds a certificate in Executive Leadership for Diversity, Equity, and Inclusion from Georgetown University. She is the Senior Advisor of Arts and Culture at DC SCORES and the D.O.P.E (Director of Poetry Events) at Busboys and Poets. She has performed her original work on international networks and platforms including BBC News, TEDxTysons, DC UNITED, The Kennedy Center, and numerous stages across Washington D.C. and the east coast.
