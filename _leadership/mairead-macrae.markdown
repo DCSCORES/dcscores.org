@@ -4,10 +4,8 @@ date: 2022-08-30 18:05:00 Z
 position: 15
 Details: Director of Communications
 Email: mmacrae@dcscores.org
-Profile Image: "/uploads/00100trPORTRAIT_00100_BURST20220728160047543_COVER%20(1).jpg"
+Profile Image: "/uploads/Mairead%20MacRae.png"
 Section: staff
 ---
 
-Mairead joins DC SCORES with an extensive background in nonprofit communications. Most recently, she was the Assistant Director of Content Strategy at Georgetown University's School of Foreign Service. Previously, she held communications roles at the school's flagship Master of Science in Foreign Service program and at Mary's Meals, an international NGO based in her home country of Scotland. 
-
-Mairead played soccer growing up, and was a midfielder for the University of Glasgow Women's Football Team. These days, she enjoys playing extremely uncompetitive soccer in rec leagues across DC. She holds a BA in English Literature and History from the University of Glasgow and an MA in African Studies (History concentration) from Yale University.
+Mairead is the Director of Communications at DC SCORES, where she leads content strategy for the organization’s communications platforms. Before joining DC SCORES, she held communications roles at Georgetown University’s School of Foreign Service, Master of Science in Foreign Service program, and at the international youth nonprofit Mary’s Meals. She holds a B.A. in English Literature and History from the University of Glasgow and an M.A. in African Studies from Yale University. A native of Glasgow, Scotland, Mairead is grateful for the opportunity to serve her adopted DC community through DC SCORES. In her free time, she enjoys playing recreational soccer, hiking, and trying to learn more than three chords on her guitar.
