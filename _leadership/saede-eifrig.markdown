@@ -2,6 +2,7 @@
 title: Saede Eifrig
 date: 2022-12-19 16:48:00 Z
 published: false
+position: 0
 Details: Program Coordinator
 Email: seifrig@dcscores.org
 Profile Image: "/uploads/Staff%20Photos.png"

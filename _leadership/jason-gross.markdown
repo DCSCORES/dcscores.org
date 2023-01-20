@@ -1,7 +1,7 @@
 ---
 title: Jason Gross
 date: 2021-08-09 20:33:00 Z
-position: 9
+position: 11
 Details: Senior Director of Soccer and Operations
 Email: jgross@dcscores.org
 Profile Image: "/uploads/Coaching%20Profile%202.JPG"
