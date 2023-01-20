@@ -3,10 +3,8 @@ title: Tony Francavilla
 position: 2
 Details: Chief Development Officer
 Email: afrancavilla@dcscores.org
-Profile Image: "/uploads/Tony.jpg"
+Profile Image: "/uploads/Tony%20Francavilla.png"
 Section: staff
 ---
 
-Tony came to DC SCORES with over seven years of experience fundraising for youth-serving nonprofits in DC. Most recently, he was the major gifts officer at The SEED Foundation, a network of public boarding schools.
-
-Tony spent several years as a donor, volunteer, and advocate for SCORES before officially joining the team. He can still hardly believe that an organization exists in his city that combines the three most important activities of his own childhood: soccer, writing, and service-learning. Tony is originally from Carlisle, PA, and graduated from Georgetown University with a degree in English.
+Tony Francavilla is the Chief Development Officer at DC SCORES. He brings nearly 15 years of experience fundraising for youth-serving nonprofits in DC, including at the SEED Foundation and Life Pieces to Masterpieces. Tony spent several years as a donor, volunteer, and fanboy of DC SCORES before officially joining the team, and he can still hardly believe that an organization exists in his city that combines all the most important elements of his own childhood. He lives in Riggs Park with his wife Zabrina — whom he met playing soccer through District Sports — and their dog Dexter. He is a very proud supporter of AC Milan!
