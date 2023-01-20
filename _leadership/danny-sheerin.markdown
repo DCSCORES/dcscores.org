@@ -2,10 +2,10 @@
 title: Danny Sheerin
 date: 2019-01-28 14:55:00 Z
 position: 16
-Details: Associate Development Manager, Operations
+Details: Programs and Development Manager
 Email: dsheerin@dcscores.org
-Profile Image: "/uploads/Untitled%20design%20(6)-fa13af.png"
+Profile Image: "/uploads/Danny%20Sheerin.png"
 Section: staff
 ---
 
-Danny graduated from Penn State University in 2015 where he played on the men’s soccer team and majored in Supply Chain and Information Systems. Post-graduation, he worked in Philadelphia as a Supply Chain Specialist for 3 years. Danny originally hails from College Park, MD, and is very excited to work for social change in DC. He can’t wait to become part of the DC SCORES' mission that uses three of his passions: soccer, poetry, and service to positively impact children’s lives.
+Danny is a Programs and Development Manager and joined DC SCORES in 2019 to pursue a career he was passionate about. Prior to DC SCORES, he studied Supply Chain Management and Information Systems at Penn State University, where he played goalkeeper on the men’s soccer team. After graduating, he worked as a Supply Chain Specialist in Philadelphia for 3 years. In his current role at DC SCORES, Danny’s primary focuses are managing corporate partnerships, serving as the Salesforce administrator, and working on school site management. Danny’s favorite part of his work is being in an after-school setting with the poet-athletes and coaches, and his favorite DC SCORES events are the Fall Poetry Slams.
