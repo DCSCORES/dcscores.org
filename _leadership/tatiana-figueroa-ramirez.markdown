@@ -1,13 +1,11 @@
 ---
-title: Tatiana Figueroa Ramirez
+title: Tatiana Figueroa Ramírez
 date: 2021-12-08 15:47:00 Z
 position: 9
-Details: Associate Program Manager, Creative Writing
+Details: Associate Program Director for Creative Writing
 Email: tfigueroaramirez@dcscores.org
-Profile Image: "/uploads/IMG_0394.JPG"
+Profile Image: "/uploads/Tatiana%20Figueroa%20Ramirez.png"
 Section: staff
 ---
 
-Born in Puerto Rico, Tatiana Figueroa Ramirez is a poet, teaching artist, host, and community organizer with extensive experience working specifically in the non-profit and education sectors. She graduated with a B.A. in English Literature from UMBC and is a VONA Voices alumna, having worked with award-winning poets Willie Perdomo and Danez Smith. Her poetry has allowed her the opportunity to perform and facilitate workshops all throughout the United States and in the Dominican Republic at venues including New York University and The Kennedy Center. 
-
-She currently serves as the Associate Program Manager, Creative Writing for DC Scores, ensuring poet-athletes are able to explore their poetry and performance skills to further their own self-discovery and well-being. Tatiana is pursuing a Master’s Degree in Public Management to add to her Graduate Certificate in Non-profit Management and Leadership from the University of Maryland. You can read her work in *The Acentos Review* among other publications. She is the author of *[Coconut Curls y Café con Leche](https://sincerelytatiana.bigcartel.com/product/coconut-curls-y-cafe-con-leche)* (2019) and *[Despojo](https://sincerelytatiana.bigcartel.com/product/despojo)* (2020).
+Tatiana Figueroa Ramírez is a poet, teaching artist, host, and community organizer with extensive experience working in the non-profit and education sectors. She graduated with a B.A. in English Literature from the Univerity of Maryland, Baltimore County, and an M.A. in Public Management with a focus on Nonprofit Management and Leadership from the Univerity of Maryland. As a poet, her work has been featured in various publications and she is the author of two poetry collections. Tatiana currently serves as the Associate Program Director for Creative Writing at DC SCORES, where she ensures poet-athletes are able to explore their poetry and performance skills to further their own self-discovery and well-being.
