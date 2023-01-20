@@ -1,6 +1,7 @@
 ---
 title: Zarea Boyde
 date: 2023-01-20 20:34:00 Z
+position: 4
 Details: Program Coordinator
 Email: zboyde@dcscores.org
 Profile Image: "/uploads/Zarea%20Boyde.png"

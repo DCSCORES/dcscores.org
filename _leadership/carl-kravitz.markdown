@@ -1,6 +1,6 @@
 ---
 title: Carl Kravitz
-position: 70
+position: 72
 Details: 
 Section: emeritus
 ---

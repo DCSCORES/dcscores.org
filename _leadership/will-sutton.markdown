@@ -1,6 +1,7 @@
 ---
 title: Will Sutton
 date: 2023-01-20 20:24:00 Z
+position: 20
 Details: Program Director for Leagues
 Email: wsutton@dcscores.org
 Profile Image: "/uploads/Will%20Sutton.png"

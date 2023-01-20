@@ -1,7 +1,7 @@
 ---
 title: Danny Sheerin
 date: 2019-01-28 14:55:00 Z
-position: 17
+position: 18
 Details: Programs and Development Manager
 Email: dsheerin@dcscores.org
 Profile Image: "/uploads/Danny%20Sheerin.png"
