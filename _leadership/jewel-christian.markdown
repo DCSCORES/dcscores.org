@@ -2,10 +2,10 @@
 title: Jewel Christian
 date: 2019-11-07 14:31:00 Z
 position: 7
-Details: Program Coordinator, Data and Evaluation
+Details: Associate Manager for Junior SCORES
 Email: 'jchristian@dcscores.org '
-Profile Image: "/uploads/48803561403_433f837516_o.jpg"
+Profile Image: "/uploads/Jewel%20Christian.png"
 Section: staff
 ---
 
-Jewel was born in D.C. and raised in Northern Virginia. She is a graduate of the University of North Carolina, where she played soccer, ran track, and majored in Exercise Sport Science with a concentration in Sports Administration. She is currently in the Sport Management at George Mason University.
+Jewel Christian is the Associate Manager for the Junior SCORES program at DC SCORES. She started at the organization as an Up2Us Fellow and worked her way into a full-time position. Jewel is also an assistant soccer coach at Prince William Soccer Inc., a Virginia soccer organization. She is excited to continue to grow as a soccer coach and serve the communities she grew up in.
