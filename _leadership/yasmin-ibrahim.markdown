@@ -4,10 +4,8 @@ date: 2022-05-06 20:32:00 Z
 position: 13
 Details: Associate Director of Development
 Email: yibrahim@dcscores.org
-Profile Image: "/uploads/mina-1952.JPG"
+Profile Image: "/uploads/Yasmin%20Ibrahim.png"
 Section: staff
 ---
 
-Yasmin is the Associate Director of Development at DC SCORES.  Her goal is to bring together supporters of the organization to understand and deepen their impact on poet-athletes across the city. 
-
-Prior to joining DC SCORES, Yasmin worked in both programming and fundraising for an international hunger relief organization.  She is excited to get bring together her love of youth development, fundraising, and soccer to bring more opportunities to DC SCORES' poet-athletes. 
+Yasmin Ibrahim is the Associate Director of Development at DC SCORES. She has been volunteering and working with non-profit organizations between California, Virginia, and DC since she was 16 years old. In her role at DC SCORES, Yasmin connects with DC SCORES donors and supporters to promote the organization’s impactful work and encourage individuals to get involved with its mission.
