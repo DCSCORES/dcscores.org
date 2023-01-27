@@ -41,7 +41,7 @@ Youth W.O.R.D. poet-athletes have also capitalized on a new partnership with DC 
 
 Youth W.O.R.D. Project currently has 20 students signed up for this season, which begins February 4. Staff hope that the initiative will eventually expand to include more students.
 
-“Youth W.O.R.D gave me a space to grow as a poet and professional; its given me more opportunities than I can account for,” said [Zarea Boyde](https://www.dcscores.org/blog/2022/11/poetry-is-my-foundation-how-alumna-zarea-boyde-found-her-voice-and-her-power-through-dc-scores), a Program Coordinator and poetry specialist at DC SCORES. “I hope the program will expand for others so that more poet-athletes can have some of the same opportunities that I had.”
+“Youth W.O.R.D gave me a space to grow as a poet and professional; it's given me more opportunities than I can account for,” said [Zarea Boyde](https://www.dcscores.org/blog/2022/11/poetry-is-my-foundation-how-alumna-zarea-boyde-found-her-voice-and-her-power-through-dc-scores), a Program Coordinator and poetry specialist at DC SCORES. “I hope the program will expand for others so that more poet-athletes can have some of the same opportunities that I had.”
 
 ![Untitled design (10).png](/uploads/Untitled%20design%20(10).png)
 *Youth W.O.R.D. alumna Jermoni Benson says that the skills she developed through the Project are useful in her pre-med Biology studies in college. Photo: Cody Cervenka.*
