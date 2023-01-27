@@ -5,6 +5,8 @@ Author: Mairead MacRae
 Thumbnail Image: "/uploads/Untitled%20design%20(11)-666b65.png"
 ---
 
+![Untitled design (11)-d6b869.png](/uploads/Untitled%20design%20(11)-d6b869.png)
+
 DC SCORES has relaunched the Youth W.O.R.D. Project, an initiative to support young spoken word artists in Washington, DC. DC SCORES, which serves more than 3,000 District kids through its soccer, poetry, and service-learning programs, revamped the project after two years of pandemic disruption.
 
 
