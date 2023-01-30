@@ -10,6 +10,21 @@ Thumbnail Image: "/uploads/3-0a5521.png"
 
 At Neval Thomas Elementary School, DC SCORES poet-athletes are beating the cold and learning new skills by participating in DC SCORES’ winter program. Held between the organization’s fall and spring seasons, the winter program incorporates poetry and soccer while also focusing on an important component of being a well-rounded athlete: nutritional health.
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 ![1-c7381a.png](/uploads/1-c7381a.png)
 *Poet-athletes make trail mix as part of their first nutrition session. Photo: Brian Anderson*
 
