@@ -9,6 +9,17 @@ Thumbnail Image: "/uploads/49521620622_62541e2c7d_o.jpg"
 
 DC SCORES has relaunched the Youth W.O.R.D. Project, an initiative to support young spoken word artists in Washington, DC. DC SCORES, which serves more than 3,000 District kids through its soccer, poetry, and service-learning programs, revamped the project after two years of pandemic disruption.
 
+
+
+
+
+
+
+
+
+
+
+
 Youth W.O.R.D. offers enhanced writing and professional development programming to poet-athletes with a passion for poetry and performance, especially for those who have aged out of regular DC SCORES programs or transferred to a school without a DC SCORES program.
 
 "Poet-athletes with a flair for soccer have long had pathways to develop in the sport through our partnerships with organizations like D.C. United, Bethesda Soccer Club, and Open Goal Project. Now, through Youth W.O.R.D., our students who really resonate with the poetry aspect of our programming have similar opportunities to advance their writing and even begin to build a spoken word career,” said [Tatiana Figueroa Ramírez](https://www.dcscores.org/blog/2022/09/teaching-artist-tatiana-figueroa-ramirez-inspires-dc-kids), Associate Program Director of Creative Writing at DC SCORES.
