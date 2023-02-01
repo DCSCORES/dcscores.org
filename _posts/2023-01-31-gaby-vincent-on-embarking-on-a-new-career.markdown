@@ -9,6 +9,18 @@ Thumbnail Image: "/uploads/1-eb953a.png"
 ![7-b5cb7f.png](/uploads/7-b5cb7f.png)
 *Vincent has been partnering with DC SCORES to support and inspire girls in the District through a shared love of soccer. Photo: Justin Williams.*
 
+
+
+
+
+
+
+
+
+
+
+
+
 When former Washington Spirit midfielder Gaby Vincent reflects on the people who have helped her the most in her career, she doesn’t know where to begin. “So many people supported me,” she says. “A lot of athletes have stories about people not believing in them, hating on them. I feel so grateful I had the opposite.”
 
 She reels off the names of coaches who inspired her: Coach Kevin, her first youth coach; Coach Mel, who worked with her through her teenage years; Coach Ferg, who was her college coach at the University of Louisville.
