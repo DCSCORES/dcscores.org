@@ -1,5 +1,5 @@
 ---
-title: "“We’re Breaking Down Barriers”: Gaby Vincent On Embarking on a New Career
+title: "“We’re Breaking Down Barriers”: Gaby Vincent On Embarking On a New Career
   and Making Soccer More Inclusive for Black Women and Girls"
 date: 2023-01-31 19:32:00 Z
 Author: Mairead MacRae
