@@ -66,7 +66,7 @@ The event was just one of a range of Spirit player engagements with DC SCORES la
 It is through coaching that Vincent believes the needs of young Black girls in soccer can be most readily met. “I probably had only a handful of Black coaches, let alone Black female coaches,” she shares. “But it’s something that’s really important. You want to feel seen. You want to know that they understand who you are as a person, as a Black girl in this world.”
 
 ![3-430a08.png](/uploads/3-430a08.png)
-*Vincent and Spirit midfielder Jordan Baggett (left) honored the DC SCORES coach at Washington School for Girls, Alaina Wells (center), in September 2022 by presenting her with a limited edition Washington Spirit x DC SCORES jersey. *
+*Vincent and Spirit midfielder Jordan Baggett (left) honored the DC SCORES coach at Washington School for Girls, Alaina Wells (center), in September 2022 by presenting her with a limited edition Washington Spirit x DC SCORES jersey.*
 
 DC SCORES recruits almost all of its coaches from among the staff at the schools where the organization works. As a result, coaches are much more likely to reflect the backgrounds of the students they work with and to have a direct connection to the neighborhoods children live in.
 
