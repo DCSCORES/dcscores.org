@@ -28,7 +28,7 @@ When former Washington Spirit midfielder Gaby Vincent reflects on the people who
 
 She reels off the names of coaches who inspired her: Coach Kevin, her first youth coach; Coach Mel, who worked with her through her teenage years; Coach Ferg, who was her college coach at the University of Louisville.
 
-However, one important role model, a college soccer player named Alex Price, trained Vincent on just a few occasions. Yet her coaching was transformative. “She was a mixed girl, just like me, and she played in college,” says Vincent. “That was important for me, just to see that that could be me.”
+However, one important role model, a college soccer player named Alex Price, trained Vincent on just a few occasions. Yet, her coaching was transformative. “She was a mixed girl, just like me, and she played in college,” says Vincent. “That was important for me, just to see that that could be me.”
 
 For most of her professional career, Vincent has been one of just a handful of women of color present in dressing rooms, squad meetings, and media appearances. When Vincent retired from professional soccer at the end of last season to serve as a community relations intern with the Spirit, she resolved to change that for a new generation of players.
 
