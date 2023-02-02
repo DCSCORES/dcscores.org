@@ -1,6 +1,7 @@
 ---
 title: Supporters
 permalink: "/about-us/supporters/"
+published: false
 Top Image: "/assets/images/masthead-supporters.jpg"
 Top Image Position: 50% 65%
 League Champions:
