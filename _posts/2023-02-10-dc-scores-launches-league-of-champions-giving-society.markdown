@@ -1,6 +1,7 @@
 ---
 title: DC SCORES Launches League of Champions Giving Society
 date: 2023-02-10 14:55:00 Z
+Thumbnail Image: "/uploads/LOC%20Header.png"
 ---
 
 ![LOC Header.png](/uploads/LOC%20Header.png)
