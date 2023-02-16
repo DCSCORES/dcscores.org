@@ -22,11 +22,11 @@ Thumbnail Image: "/uploads/Untitled%20design-f44b7b.png"
 
 
 
-Soccer fans in Washington, DC, are used to their city making history. The capital’s professional men’s team, D.C. United, was an inaugural franchise of Major League Soccer, while the Washington Spirit continues to [blaze a trail](https://www.nbcwashington.com/news/local/michele-kang-becomes-first-woman-of-color-to-own-nwsl-team/3012700/) at the [forefront of the women’s game](https://thehill.com/blogs/in-the-know/3661580-washington-spirit-urge-passage-of-equal-pay-legislation-for-athletes-in-international-competition/).
+Soccer fans in Washington, DC, are used to their city making history. The capital’s professional men’s soccer team, D.C. United, was an inaugural franchise of Major League Soccer, while the Washington Spirit continues to [blaze a trail](https://www.nbcwashington.com/news/local/michele-kang-becomes-first-woman-of-color-to-own-nwsl-team/3012700/) at the [forefront of the women’s game](https://thehill.com/blogs/in-the-know/3661580-washington-spirit-urge-passage-of-equal-pay-legislation-for-athletes-in-international-competition/).
 
-Yet, perhaps the most compelling soccer story to come out of the District is that of [Howard University’s legendary 1974 NCAA Championship win](https://www.wbur.org/onlyagame/2019/04/26/howard-1971-mens-soccer-ncaa). The Bisons’ victory was historic: it was the [first time a squad from a historically Black college or university had won the trophy](https://www.washingtonpost.com/sports/colleges/howard-university-1974-ncaa-soccer-champions-brought-worlds-together/2014/07/12/333a0ba8-0841-11e4-bbf1-cc51275e7f8f_story.html). But the fact that the feat was achieved three years after the team won the same title in 1971, only to have it stripped from them in a controversial NCAA decision that [critics denounced as racist](https://www.theguardian.com/football/blog/2016/dec/06/howard-university-hbcu-mens-soccer-championship-history), cemented the squad’s status as soccer’s poster boys in [Chocolate City](https://www.nyu.edu/washington-dc/academics/special-programs/welcome-to-chocolate-city.html).
+Yet, perhaps the most compelling soccer story to come out of the District is that of [Howard University’s legendary 1974 NCAA Soccer Championship win](https://www.wbur.org/onlyagame/2019/04/26/howard-1971-mens-soccer-ncaa). The Bisons’ victory was historic: it was the [first time a squad from a historically Black college or university had won the trophy](https://www.washingtonpost.com/sports/colleges/howard-university-1974-ncaa-soccer-champions-brought-worlds-together/2014/07/12/333a0ba8-0841-11e4-bbf1-cc51275e7f8f_story.html). But the fact that the feat was achieved three years after the team won the same title in 1971, only to have it stripped from them in a controversial NCAA decision that [critics denounced as racist](https://www.theguardian.com/football/blog/2016/dec/06/howard-university-hbcu-mens-soccer-championship-history), cemented the squad’s status as soccer’s poster boys in [Chocolate City](https://www.nyu.edu/washington-dc/academics/special-programs/welcome-to-chocolate-city.html).
 
-The lesser-told story of Howard’s soccer success, however, is of the ripple effects it created in DC’s Black communities, birthing a local soccer movement that thrives to this day.
+The lesser-told story of Howard’s success, however, is of the ripple effects it created in DC’s Black communities, birthing a local soccer movement that thrives to this day.
 
 In the five decades since the 1974 championship game, Howard players, alumni, and coaches have been instrumental in transforming youth soccer through grassroots programs, including at DC SCORES. Their legacy has transformed the District into a hub for homegrown soccer talent and a model for how to increase the participation of Black children in [one of the country’s fastest-growing sports](http://online.flipbuilder.com/telemundo/lqcw/).
 
@@ -39,7 +39,7 @@ In the five decades since the 1974 championship game, Howard players, alumni, an
 
 Keith Tucker, Program Specialist at DC SCORES and former Head Coach of the Howard Men’s Soccer Team, is one of the key figures in DC’s youth soccer revolution.
 
-Originally from Somerset, Bermuda, Tucker grew up supporting the Howard squad of the early 1970s, which included Bermudian soccer stars Stanfield Smith and Donnie Simmons. When Tucker was coming up through Bermuda’s youth soccer ranks, Smith and Simmons appealed to Howard’s championship-winning coach, Lincoln Philips, to recruit him to the Bisons in 19\[XX\].
+Originally from Somerset, Bermuda, Tucker grew up supporting the Howard squad of the early 1970s, which included Bermudian soccer stars Stanfield Smith and Donnie Simmons. When Tucker was coming up through Bermuda’s youth soccer ranks, Smith and Simmons appealed to Howard’s championship-winning coach, Lincoln Philips, to recruit him to the Bisons in 1975.
 
 Tucker says that he primarily played as a “super sub,” bringing energy from the bench to replace tired and injured teammates in all positions. However, it was as a coach that Tucker made his biggest impact at Howard.
 
@@ -50,10 +50,10 @@ Named the head coach for men’s soccer in 1981, Tucker managed the squad for 27
 
 When Tucker arrived at Howard as an undergraduate, he joined a highly international team. Composed of players from countries previously overlooked by American college recruiters, including Nigeria, Ghana, Trinidad and Tobago, and Jamaica, Philips’ squad had pioneered a strategy that courted the best young players from Africa and the continent’s diaspora around the world.
 
-However, under Tucker’s guidance in the 1980s, the Howard coaching team was once again spearheading a new approach to recruiting by turning to their own backyard to find untapped talent. “To have American kids not being represented on an American college team, that ain’t cool,” Tucker says. “\[Homegrown DC\] players were there the whole time…but people were scared to invest money in something they didn’t know about.”
+However, under Tucker’s guidance in the 1980s, the Howard coaching team was once again spearheading a new recruitment approach by turning to their own backyard to find untapped talent. “To have American kids not being represented on an American college team, that ain’t cool,” Tucker says. “\[Homegrown DC\] players were there the whole time…but people were scared to invest money in something they didn’t know about.”
 
 ![2-b208d5.png](/uploads/2-b208d5.png)
-*During his coaching tenure at Howard, Tucker set up kids soccer teams in every ward in the District.*
+*During his coaching tenure at Howard, Tucker set up kids' soccer teams in every ward in the District.*
 
 ## Connecting with Communities Through DC SCORES
 
@@ -64,13 +64,13 @@ Tucker’s hyperlocal approach was inspired by his childhood in Bermuda, where n
 “If you left home and went to another neighborhood, you carried the information that you gained from that other neighborhood back to your own so we were learning so many new styles,” he says. “And when the summer finished, you got a whole lot of talent. Bermuda’s a small island and we had some incredible soccer players.”
 
 ![7-e2bb2c.png](/uploads/7-e2bb2c.png)
-*Tucker (right) with an early DC SCORES team.*
+*Tucker (back right) with an early DC SCORES team.*
 
 In DC, Tucker recruited his Howard players to work as coaches developing the next generation of soccer stars. “It gave \[the Howard athletes\] a little buzz in their hearts, because they were giving back to the kids,” he says. “And I think was the best way for the kids to learn the game, too.”
 
 As Tucker was developing his youth teams throughout the 1990s, DC SCORES was growing steadily throughout the District. The nonprofit’s deep presence in public schools gave DC SCORES priority access to public fields and to better opportunities to engage District families in soccer.
 
-Tucker — who was looking for ways to promote soccer in Black communities where basketball and football dominated sports culture — saw the potential of DC SCORES to elevate his work. When he returned briefly to Bermuda for work, Tucker asked DC SCORES to take over his program.
+Tucker — who was looking for ways to promote soccer in Black communities where basketball and football dominated sports culture — saw the potential of DC SCORES to elevate his work. When he returned briefly to Bermuda for work, Tucker asked the organization to take over his program.
 
 “I wanted the next group of players to be working in the schools, where we’d have internal control of the program,” says Tucker. “I wanted DC SCORES to grow as the lead.”
 
@@ -85,7 +85,7 @@ The clinic attracted a large crowd of students who went wild every time a goal w
 
 Soon, Gross was attending regular soccer camps, led by Tucker and his group of Howard-affiliated coaches and supported by volunteer parents who would line fields, tape broken nets, and transport kids to practice. “As a child, I saw unselfish commitment to making sure that we had what we needed and got to where we needed to go,” he says.
 
-Gross was one of a golden generation of young, Black Washingtonians who would follow Tucker onto the Howard team. Starting his freshman year in 2002, Gross played alongside a cohort that included former MLS player Alex Ughiovhe and filmmaker Jerome Hyde.
+Gross was one of a golden generation of young, Black Washingtonians who would follow Tucker onto the Howard team and make their own impact on youth soccer in the District. Starting his freshman year in 2002, Gross played alongside a cohort that included former MLS player Alex Ughiovhe, who, with Gross, leads the technical team at DC-based youth soccer development program [City Sporting Club](https://home.citysportingclub.org/home), and Keith Tucker Jr, Coach Tucker’s son and founder of youth soccer club [DC Eleven](https://www.dcxiproject.com/).
 
 While Gross and his teammates were among the best young players in the country, the DC SCORES staffer says that Tucker’s programs provided more than just elite soccer development opportunities. They also served as safe havens for young people at a challenging time in the District’s history.
 
@@ -98,9 +98,9 @@ In a city that could feel dangerous, Howard University provided a space to build
 
 ## “My Smile Gets Bigger Every Year”
 
-Today, Gross is following in the footsteps of his mentor, Coach Tucker. After a stint as a professional player, Gross pursued a coaching career and now serves as an assistant coach at Howard while also heading up soccer operations at DC SCORES.
+Today, Gross is following in the footsteps of his mentor, Coach Tucker. After a stint as a professional player, he pursued a coaching career and now serves as an assistant coach at Howard while also heading up soccer operations at DC SCORES.
 
-Gross and Tucker are not the only Bisons working with DC SCORES. For instance, Phillip Gyau, the current head coach for men’s soccer at Howard and a Silver Spring, MD, native, helps to organize a cleat drive for DC SCORES every year with Bethesda Soccer Club. Gross is also working with his colleagues in the Howard Athletics department to invite DC SCORES poet-athletes to tour the campus and serve as ball boys and girls for the men’s and women’s soccer games.
+Gross and Tucker are not the only Bisons working with DC SCORES. For instance, Phillip Gyau, the current head coach for men’s soccer at Howard and a Silver Spring, MD, native, helps to organize a cleat drive for DC SCORES every year with [Bethesda Soccer Club](https://www.bethesdasoccer.org/). Gross is also working with his colleagues in the Howard Athletics department to invite DC SCORES poet-athletes to tour the campus and serve as ball boys and girls for the men’s and women’s soccer games.
 
 ![4-3566c6.png](/uploads/4-3566c6.png)
 *Gross instructs teams during DC SCORES Junior Frenzy, a soccer tournament for the nonprofit's youngest poet-athletes held at Audi Field.*
@@ -109,7 +109,7 @@ By remaining connected to grassroots youth soccer through DC SCORES, Gross says 
 
 “When you have somebody who looks like you, it’s an immediate connection,” he explains. “When it’s someone who’s coming from a similar circumstance and they're telling you how the program can improve the life of your child, it goes over differently because of that connection.”
 
-Today, DC SCORES is serving more than 3,000 poet-athletes at over 70 schools through its soccer, poetry, and service-learning programs. While there is an abundance of soccer talent on DC SCORES teams, Gross and his colleagues at the nonprofit say that they are focused on making sure that poet-athletes have the network, resources, and community to help them pursue a wide range of passions.
+Today, DC SCORES is serving more than 3,000 poet-athletes at over 60 schools through its soccer, poetry, and service-learning programs. While there is an abundance of soccer talent on DC SCORES teams, Gross and his colleagues at the nonprofit say that they are focused on making sure that poet-athletes have the network, resources, and community to help them pursue a wide range of passions.
 
 “I really want to continue to provide young kids with the opportunities that I had, so we can see many more of them being successful in all areas of life,” he says.
 
