@@ -7,6 +7,27 @@
   background-color: #f2f2f2;
 }
 
+.MailChimp-button {
+  position: relative;
+  display: inline-block;
+  padding-top: .8em;
+  padding-bottom: .8em;
+  padding-right: 1.25em;
+  padding-left: 1.25em;
+  -webkit-appearance: button;
+  white-space: nowrap;
+  cursor: pointer;
+  outline: 0;
+  font-size: 1rem;
+  font-weight: 700;
+  line-height: 1;
+  color: #1c1500;
+  background-color: #fec737;
+  border: 0.15em solid #e7a801;
+  border-radius: 3px;
+  transition: all .25s ease;
+}
+
   .MailChimp-content {
     padding-right: 1.5em;
     padding-left: 1.5em;
