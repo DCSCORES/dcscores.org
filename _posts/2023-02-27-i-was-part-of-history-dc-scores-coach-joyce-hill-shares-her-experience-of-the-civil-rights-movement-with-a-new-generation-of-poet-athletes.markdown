@@ -9,6 +9,18 @@ Thumbnail Image: "/uploads/1-03ee1a.png"
 ![1-03ee1a.png](/uploads/1-03ee1a.png)
 *Coach Hill draws on her experience as an NAACP activist and marcher in the March on Washington to teach her students about Black history.*
 
+
+
+
+
+
+
+
+
+
+
+
+
 When students at LaSalle-Backus Elementary School learn about the civil rights movement, they have the privilege of hearing its history from someone who was there.
 
 Throughout her 25 years as a DC public school teacher, Joyce Hill, a first-grade teacher and DC SCORES poetry coach at LaSalle-Backus, has shared her experience of some of the most important moments in American history with her students. She grew up during the civil rights era and began volunteering for the National Association for the Advancement of Colored People (NAACP) in high school. Before she had even begun college, she had met Dr. Martin Luther King and attended the 1963 March on Washington.
