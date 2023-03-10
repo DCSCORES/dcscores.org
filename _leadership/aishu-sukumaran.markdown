@@ -1,7 +1,7 @@
 ---
 title: Aishu Sukumaran
 date: 2022-01-27 20:43:00 Z
-position: 21
+position: 20
 Details: Communications Coordinator
 Email: asukumaran@dcscores.org
 Profile Image: "/uploads/Aishu%20Sukumaran.png"

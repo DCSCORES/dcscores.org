@@ -1,7 +1,7 @@
 ---
 title: Brian Anderson
 date: 2023-01-20 16:52:00 Z
-position: 8
+position: 7
 Details: Program Coordinator
 Email: banderson@dcscores.org
 Profile Image: "/uploads/Brian%20Anderson.png"
