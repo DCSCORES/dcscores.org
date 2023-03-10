@@ -1,6 +1,6 @@
 ---
 title: Stephen Replogle
-position: 78
+position: 84
 Details: 
 Section: emeritus
 ---

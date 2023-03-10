@@ -1,6 +1,6 @@
 ---
 title: Howard McMillan
-position: 74
+position: 80
 Details: 
 Section: emeritus
 ---
