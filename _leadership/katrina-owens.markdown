@@ -1,6 +1,6 @@
 ---
 title: Katrina Owens
-position: 5
+position: 2
 Details: Executive Director
 Email: kowens@dcscores.org
 Profile Image: "/uploads/profile--katrina-owens.jpg"
