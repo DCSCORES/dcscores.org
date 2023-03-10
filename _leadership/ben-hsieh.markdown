@@ -1,7 +1,7 @@
 ---
 title: Ben Hsieh
 date: 2019-11-07 14:27:00 Z
-position: 58
+position: 57
 Details: Bain
 Section: advisory
 ---
