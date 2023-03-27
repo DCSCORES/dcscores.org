@@ -23,7 +23,7 @@ Last week, DC SCORES celebrated the beginning of its spring season of soccer, po
 
 For the past month, DC SCORES teams have been attending practice after school to hone their soccer and writing skills, but last week played in their first competitive matches against other schools since the end of the fall season in November. 
 
-On Wednesday, DC SCORES hosted ten Junior SCORES matches across the city while, on Thursday, 32 elementary school teams played in 16 games, which were held in almost every ward in DC. Friday’s middle school fixtures were postponed due to inclement weather but will be rescheduled for later in the season. 
+On Wednesday, DC SCORES hosted ten Junior SCORES matches across the city, and on Thursday 32 elementary school teams played in 16 games, which were held in almost every ward in DC. Friday’s middle school fixtures were postponed due to inclement weather but will be rescheduled for later in the season. 
 
 “It was wonderful to see the excitement on our poet-athletes' faces as they walked out onto the field in their game-day jerseys. I so was impressed by how much the kids demonstrated our DC SCORES values of fair play, teamwork, and dedication,” said Katrina Owens, Executive Director of DC SCORES. 
 
