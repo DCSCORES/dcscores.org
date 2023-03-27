@@ -23,7 +23,7 @@ For the past month, DC SCORES teams have been attending practice after school to
 
 On Wednesday, DC SCORES hosted ten Junior SCORES matches across the city while, on Thursday, 32 elementary school teams played in 16 games, which were held in almost every ward in DC. Friday’s middle school fixtures were postponed due to inclement weather but will be rescheduled for later in the season. 
 
-“It was wonderful to see the excitement on our poet-athletes' faces as they walked out onto the field in their game-day jerseys. Even after a few months without matches, I was impressed by how much the kids demonstrated our DC SCORES values of fair play, teamwork, and dedication,” said Katrina Owens, Executive Director of DC SCORES. 
+“It was wonderful to see the excitement on our poet-athletes' faces as they walked out onto the field in their game-day jerseys. I so was impressed by how much the kids demonstrated our DC SCORES values of fair play, teamwork, and dedication,” said Katrina Owens, Executive Director of DC SCORES. 
 
 Every child in the DC SCORES program participates in five days of free afterschool programming during the nonprofit’s fall and spring seasons. Blending its signature components of soccer, poetry, and service learning, the DC SCORES curriculum provides holistic opportunities for poet-athletes to enrich their physical, emotional, and social well-being. 
 
