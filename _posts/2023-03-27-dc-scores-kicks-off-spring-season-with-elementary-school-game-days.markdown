@@ -6,7 +6,9 @@ Thumbnail Image: "/uploads/1-db6b05.png"
 ---
 
 ![4-01b95e.png](/uploads/4-01b95e.png)
-*Poet-athletes began their season of DC SCORES programs in March. Photo: Brandon Williams. *
+*Poet-athletes began their season of DC SCORES programs in March. Photo: Brandon Williams.*
+
+
 
 
 
