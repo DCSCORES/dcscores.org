@@ -9,20 +9,17 @@ Author: Aishu Sukumaran
 ![1 (5).png](/uploads/1%20(5).png)
 *Katrina Owens has served DC SCORES for more than 16 years.*
 
+
+
+
+
+
+
+
+
+
+
 When Katrina Owens first heard about DC SCORES, she was a 4th grade language arts teacher at Fletcher Johnson Educational Center. A colleague introduced her to staff from the nonprofit who were recruiting coaches at Fletcher Johnson and Owens jumped at the opportunity so she could work more closely with her students after school.
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 “DC SCORES allowed me to build relationships with families outside of the classroom,” she says. “It was an incredible opportunity to get to know families on the sidelines at games or at events. It broke down barriers to getting them into the classroom.”
 
@@ -39,6 +36,8 @@ Owens first got involved in not-for-profit work as an undergraduate student at E
 
 Her work with youth led her to pursue opportunities in education in the United States. She served as a substitute teacher in Ohio and also worked as a liaison through the court system on victim-offender mediation. She joined Teach For America, a nonprofit that recruits diverse leaders into classrooms to address educational inequity across the United States. Teach for America placed Owens at Fletcher Johnson in 2002, where she drew on her background in conflict resolution to support the students in her class.
 
+
+
 “I know from my time as a teacher that the power of that relationship-building on teams and between adults can really impact the school day,” she says. “That is critically important to what we do. I want to honor that relationship building and to empower DC SCORES coaches to lead and create safe and positive spaces for kids.”
 
 DC SCORES impact extends well beyond poet-athletes time in the program, says Owens. Even as neighborhoods experience changes, DC SCORES has always been a way for kids to relate to their community. “DC SCORES is an identity for young people even when they grow into adults,” notes Owens. “They remember being an important part of that team, finding their voice, and connecting with others in their neighborhood.”
@@ -52,11 +51,17 @@ Owens first joined DC SCORES in 2006, after Fletcher Johnson closed and the nonp
 
 Some of her favorite memories are from poetry slams, including the first time the competitions were held in high school auditoriums instead of at other event spaces in DC. “I loved the opportunity for young people to be on stage in their community and be celebrated,” she says.
 
+![2 (3)-7c22f9.png](/uploads/2%20(3)-7c22f9.png)
+*Owens and her oldest son, David, pose for a photo with a DC SCORES team at Fall Frenzy.*
+
 Slams have also served as moments to celebrate wider historical milestones. For instance, Owens vividly remembers the 2008 slam when poet-athletes showed their excitement about the election of President Barack Obama, the first Black president of the United States. “It was such an incredible moment in time for our young people and for our country, and you could see and feel that on stage,” she shares.
 
 Her proudest professional achievement at DC SCORES is the first One Night One Goal in 2018. The annual gala — which has been co-hosted by MLS club D.C. United since its inception — brings together DC SCORES supporters from across the District at Audi Field for the biggest fundraising event on the nonprofit’s calendar.
 
 “The first One Night One Goal was a symbol of a new partnership with D.C. United and the powerful impact that the program can have on young people,” she recalls. “It felt like a new trajectory for the organization, and brought together individuals from different points in DC SCORES’ history.”
+
+![KO Story.png](/uploads/KO%20Story.png)
+*Katrina makes opening remarks at the 2022 Our Words Our City poetry showcase.*
 
 ## Building Space for Women and Girls
 
