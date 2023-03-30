@@ -31,7 +31,7 @@ Building relationships between young people to empower them in their communities
 
 ## Creating Powerful Relationships Between Youth
 
-Owens first got involved in not-for-profit work as an undergraduate student at Eastern Mennonite University. Throughout her college years, her work focused on international conflict resolution. After graduating, she worked with Seeds of Peace, an organization dedicated to building bridges between Israeli and Palestinian youth, which inspired her to continue to work with young people. Later, she took a role with Jamaicans for Justice, a Kingston-based human rights organization combating police violence in Jamaica.
+Owens first got involved in not-for-profit work as an undergraduate student at Eastern Mennonite University. Throughout her college years, her work focused on international conflict resolution. After graduating, she worked with [Seeds of Peace](https://www.seedsofpeace.org/), an organization dedicated to building bridges between Israeli and Palestinian youth, which inspired her to continue to work with young people. Later, she took a role with [Jamaicans for Justice](https://jamaicansforjustice.org/), a Kingston-based human rights organization combating police violence in Jamaica.
 
 Her work with youth led her to pursue opportunities in education in the United States. She served as a substitute teacher in Ohio and also worked as a liaison through the court system on victim-offender mediation. She joined Teach For America, a nonprofit that recruits diverse leaders into classrooms to address educational inequity across the United States. Teach for America placed Owens at Fletcher Johnson in 2002, where she drew on her background in conflict resolution to support the students in her class.
 
@@ -70,6 +70,6 @@ DC SCORES’ organizational focus on women and girls has always appealed to Owen
 
 Today, as Executive Director, Owens is excited about being able to introduce more young poet-athletes to women role models. In 2020, DC SCORES launched an official partnership with the NWSL team, the Washington Spirit.
 
-Earlier this year, the Spirit donated hundreds of sports bras to DC SCORES poet-athletes who need them. “We have heard from so many female coaches and students about how important that donation was,” Owens says. “I think it speaks to the unique power of having women in leadership and having a different perspective.”
+Earlier this year, the [Spirit donated hundreds of sports bras to DC SCORES poet-athletes](https://www.dcscores.org/blog/2022/08/washington-spirit-players-prepare-more-than-500-new-sports-bras-for-delivery-to-dc-scores-poet-athletes) who need them. “We have heard from so many female coaches and students about how important that donation was,” Owens says. “I think it speaks to the unique power of having women in leadership and having a different perspective.”
 
 Ultimately, Owens is proud to be one of the many women in positions of authority that DC SCORES poet-athletes encounter during their time in the program. “Representation matters,” she stresses. “It matters to have young girls or other women see women lead.”
