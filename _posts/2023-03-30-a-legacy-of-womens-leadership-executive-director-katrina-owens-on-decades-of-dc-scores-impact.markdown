@@ -2,12 +2,11 @@
 title: 'A Legacy of Women’s Leadership: Executive Director Katrina Owens On Decades
   of DC SCORES Impact'
 date: 2023-03-30 14:36:00 Z
-published: false
 Author: Aishu Sukumaran
 ---
 
 ![1 (5).png](/uploads/1%20(5).png)
-*Katrina Owens has served DC SCORES for more than 16 years.*
+*Katrina Owens has served poet-athletes at DC SCORES for more than 16 years.*
 
 
 
@@ -28,7 +27,7 @@ Building relationships between young people to empower them in their communities
 “DC SCORES was a really powerful tool that made my classroom and our school better by creating positive opportunities for our kids to build relationships and to celebrate young people,” says Owens. “I am so grateful for the opportunity to now lead the organization, expanding the impact I saw all those years ago in my classroom.”
 
 ![2 (3).png](/uploads/2%20(3).png)
-*Owens began her time with DC SCORES as a coach at Fletcher Johnson Educational Center.*
+*Owens began her time with DC SCORES as a coach at Fletcher Johnson Educational Center. Here, she and her oldest son David pose with a team at DC SCORES Fall Frenzy.*
 
 ## Creating Powerful Relationships Between Youth
 
@@ -36,7 +35,8 @@ Owens first got involved in not-for-profit work as an undergraduate student at E
 
 Her work with youth led her to pursue opportunities in education in the United States. She served as a substitute teacher in Ohio and also worked as a liaison through the court system on victim-offender mediation. She joined Teach For America, a nonprofit that recruits diverse leaders into classrooms to address educational inequity across the United States. Teach for America placed Owens at Fletcher Johnson in 2002, where she drew on her background in conflict resolution to support the students in her class.
 
-
+![KO Story (1).png](/uploads/KO%20Story%20(1).png)
+*The DC SCORES Fletcher Johnson team poses for a photo with James Earl Jones for the organization's 10 year anniversary.*
 
 “I know from my time as a teacher that the power of that relationship-building on teams and between adults can really impact the school day,” she says. “That is critically important to what we do. I want to honor that relationship building and to empower DC SCORES coaches to lead and create safe and positive spaces for kids.”
 
@@ -50,9 +50,6 @@ DC SCORES impact extends well beyond poet-athletes time in the program, says Owe
 Owens first joined DC SCORES in 2006, after Fletcher Johnson closed and the nonprofit recruited her to start its middle school program. Throughout her 16 years with DC SCORES, Owens has witnessed numerous instances of powerful impact firsthand.
 
 Some of her favorite memories are from poetry slams, including the first time the competitions were held in high school auditoriums instead of at other event spaces in DC. “I loved the opportunity for young people to be on stage in their community and be celebrated,” she says.
-
-![2 (3)-7c22f9.png](/uploads/2%20(3)-7c22f9.png)
-*Owens and her oldest son, David, pose for a photo with a DC SCORES team at Fall Frenzy.*
 
 Slams have also served as moments to celebrate wider historical milestones. For instance, Owens vividly remembers the 2008 slam when poet-athletes showed their excitement about the election of President Barack Obama, the first Black president of the United States. “It was such an incredible moment in time for our young people and for our country, and you could see and feel that on stage,” she shares.
 
