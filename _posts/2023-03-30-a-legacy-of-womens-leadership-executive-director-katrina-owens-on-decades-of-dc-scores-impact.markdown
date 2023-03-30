@@ -43,7 +43,8 @@ Her work with youth led her to pursue opportunities in education in the United S
 
 DC SCORES impact extends well beyond poet-athletes time in the program, says Owens. Even as neighborhoods experience changes, DC SCORES has always been a way for kids to relate to their community. “DC SCORES is an identity for young people even when they grow into adults,” notes Owens. “They remember being an important part of that team, finding their voice, and connecting with others in their neighborhood.”
 
-
+![3 (1).png](/uploads/3%20(1).png)
+*Planning and executing the first One Night One Goal in 2018 marked an important achievement for Owens.*
 
 ## “An Incredible Moment In Time”
 
