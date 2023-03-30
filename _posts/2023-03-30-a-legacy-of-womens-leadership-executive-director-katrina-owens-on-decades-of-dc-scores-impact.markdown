@@ -6,7 +6,23 @@ published: false
 Author: Aishu Sukumaran
 ---
 
+![1 (5).png](/uploads/1%20(5).png)
+*Katrina Owens has served DC SCORES for more than 16 years.*
+
 When Katrina Owens first heard about DC SCORES, she was a 4th grade language arts teacher at Fletcher Johnson Educational Center. A colleague introduced her to staff from the nonprofit who were recruiting coaches at Fletcher Johnson and Owens jumped at the opportunity so she could work more closely with her students after school.
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 “DC SCORES allowed me to build relationships with families outside of the classroom,” she says. “It was an incredible opportunity to get to know families on the sidelines at games or at events. It broke down barriers to getting them into the classroom.”
 
@@ -14,15 +30,20 @@ Building relationships between young people to empower them in their communities
 
 “DC SCORES was a really powerful tool that made my classroom and our school better by creating positive opportunities for our kids to build relationships and to celebrate young people,” says Owens. “I am so grateful for the opportunity to now lead the organization, expanding the impact I saw all those years ago in my classroom.”
 
+![2 (3).png](/uploads/2%20(3).png)
+*Owens began her time with DC SCORES as a coach at Fletcher Johnson Educational Center.*
+
 ## Creating Powerful Relationships Between Youth
 
 Owens first got involved in not-for-profit work as an undergraduate student at Eastern Mennonite University. Throughout her college years, her work focused on international conflict resolution. After graduating, she worked with Seeds of Peace, an organization dedicated to building bridges between Israeli and Palestinian youth, which inspired her to continue to work with young people. Later, she took a role with Jamaicans for Justice, a Kingston-based human rights organization combating police violence in Jamaica.
 
-Her work with youth led her to pursue opportunities in education in the United States. She served as a substitute teacher in Ohio and also worked on victim-offender mediation \[WHERE?\]. She joined Teach For America, a nonprofit that recruits diverse leaders into classrooms to address educational inequity across the United States. Teach for America placed Owens at Fletcher Johnson in 2002, where she drew on her background in conflict resolution to support the students in her class.
+Her work with youth led her to pursue opportunities in education in the United States. She served as a substitute teacher in Ohio and also worked as a liaison through the court system on victim-offender mediation. She joined Teach For America, a nonprofit that recruits diverse leaders into classrooms to address educational inequity across the United States. Teach for America placed Owens at Fletcher Johnson in 2002, where she drew on her background in conflict resolution to support the students in her class.
 
 “I know from my time as a teacher that the power of that relationship-building on teams and between adults can really impact the school day,” she says. “That is critically important to what we do. I want to honor that relationship building and to empower DC SCORES coaches to lead and create safe and positive spaces for kids.”
 
 DC SCORES impact extends well beyond poet-athletes time in the program, says Owens. Even as neighborhoods experience changes, DC SCORES has always been a way for kids to relate to their community. “DC SCORES is an identity for young people even when they grow into adults,” notes Owens. “They remember being an important part of that team, finding their voice, and connecting with others in their neighborhood.”
+
+
 
 ## “An Incredible Moment In Time”
 
