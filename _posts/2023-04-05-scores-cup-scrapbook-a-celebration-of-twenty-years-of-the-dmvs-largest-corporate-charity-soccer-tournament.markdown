@@ -6,6 +6,8 @@ Author: Aishu Sukumaran and Mairead MacRae
 Thumbnail Image: "/uploads/8.png"
 ---
 
+![8.png](/uploads/8.png)
+
 On June 17, 2023, DC SCORES will celebrate twenty years of its annual soccer tournament fundraiser, SCORES Cup. For two decades, SCORES Cup has welcomed corporate teams from across the DMV to compete in an all-day tournament featuring competitive matches, VIP guests, and the best of DC’s food scene, all while raising funds for DC SCORES’ soccer, poetry, and service-learning programs.
 
 
