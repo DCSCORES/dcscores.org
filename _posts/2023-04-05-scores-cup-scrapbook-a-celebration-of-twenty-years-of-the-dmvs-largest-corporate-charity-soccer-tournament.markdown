@@ -37,7 +37,7 @@ So, when did “Sharks Vs. Suits” become “SCORES Cup”? In 2010, DC SCORES 
 
 In 2013, DC SCORES celebrated 10 years of SCORES Cup with the largest bracket in the tournament’s history. 30 teams played more than 80 games and raised over $100,000 for the nonprofit. That year’s tournament also featured a meet and greet with DC native and USMNT star Oguchi Onyewu!
 
-[SCORES Cup Around The City Graphic]
+![9-365f98.png](/uploads/9-365f98.png)
 
 Throughout its twenty-year history, SCORES Cup has been held at many locations around the DMV. After its first year, the rapidly expanding event moved to Trinity University and later to Maryland Soccerplex more than 20 miles north of the District. In 2021, after the easing of COVID-19 restrictions, DC SCORES was pleased to bring SCORES Cup back to the District at the Fields at RFK! 
 
