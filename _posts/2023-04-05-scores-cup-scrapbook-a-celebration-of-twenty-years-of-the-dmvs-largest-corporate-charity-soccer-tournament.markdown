@@ -17,23 +17,23 @@ This year, the tournament will be held at the Fields at RFK, on the very same si
 
 The first-ever SCORES Cup was held in 2003. Originally billed as the “Sharks Vs. Suits Shootout,” the tournament pitted teams from law firms (the “Sharks”) against those from corporate companies (the “Suits”) to battle it out to be crowned DMV champions. The original format featured 8 teams and raised $10,000 for DC SCORES!
 
-[RFK Then and Now Graphic]
+![2-4d5e56.png](/uploads/2-4d5e56.png)
 
 The 2003 tournament was originally planned to be held at the RFK Auxiliary Fields in the shadow of D.C. United’s legendary RFK Stadium. Unfortunately, the location had to be moved at short notice when bad weather meant the fields would be damaged by play.
 
 In 2018, D.C. United moved to a new home, Audi Field, but the RFK campus remains a key soccer hub in the District. In 2019, Events DC opened a newly renovated recreation center on the former site of Auxiliary Fields. Now known as the Fields at RFK, its three state-of-the-art synthetic turf fields will host the 2023 SCORES Cup!
 
-[Marriot Graphic]
+![3-df2c25.png](/uploads/3-df2c25.png)
 
 A team fielded by hotel brand Marriott won the inaugural SCORES Cup after an undefeated streak to the final. Since then, Marriott has continued to compete in the tournament, earning the honor of being one of the most successful companies in SCORES Cup history. This year, Marriott will once again attempt to live up to past glories and will field a team from its Bethesda office. 
 
 ## The Birth of “SCORES Cup”
 
-[2010 Rebrand Graphic] 
+![4-4d47a8.png](/uploads/4-4d47a8.png)
 
 So, when did “Sharks Vs. Suits” become “SCORES Cup”? In 2010, DC SCORES unveiled a fresh name and new-look logo for the signature event. That year, the tournament also welcomed a new sponsor: women’s professional soccer team The Washington Freedom! If the name doesn’t sound familiar, it may be because the club is now known as the Washington Spirit!
 
-[2013 10-Year Anniversary Graphic]
+![5-3c6a35.png](/uploads/5-3c6a35.png)
 
 In 2013, DC SCORES celebrated 10 years of SCORES Cup with the largest bracket in the tournament’s history. 30 teams played more than 80 games and raised over $100,000 for the nonprofit. That year’s tournament also featured a meet and greet with DC native and USMNT star Oguchi Onyewu!
 
