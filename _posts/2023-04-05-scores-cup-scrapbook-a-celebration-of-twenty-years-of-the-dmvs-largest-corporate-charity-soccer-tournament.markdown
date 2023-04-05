@@ -2,12 +2,30 @@
 title: 'SCORES Cup Scrapbook: A Celebration of Twenty Years of the DMV’s Largest Corporate
   Charity Soccer Tournament'
 date: 2023-04-05 16:28:00 Z
-published: false
 Author: Aishu Sukumaran and Mairead MacRae
 Thumbnail Image: "/uploads/8.png"
 ---
 
-On June 17, 2023, DC SCORES will celebrate twenty years of its annual soccer tournament fundraiser, SCORES Cup. For two decades, SCORES Cup has welcomed corporate teams from across the DMV to compete in an all-day tournament featuring competitive matches, VIP guests, and the best of DC’s food scene, all while raising funds for DC SCORES’ soccer, poetry, and service-learning programs. 
+On June 17, 2023, DC SCORES will celebrate twenty years of its annual soccer tournament fundraiser, SCORES Cup. For two decades, SCORES Cup has welcomed corporate teams from across the DMV to compete in an all-day tournament featuring competitive matches, VIP guests, and the best of DC’s food scene, all while raising funds for DC SCORES’ soccer, poetry, and service-learning programs.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 This year, the tournament will be held at the Fields at RFK, on the very same site that was slated to host the first SCORES Cup in 2003. Scroll through the SCORES Cup scrapbook to see how the tournament has evolved over the years into one of the highlights of DC’s soccer calendar. And don’t forget to [register your own corporate team for 2023 by April 15](https://cup.dcscores.org/)!
 
@@ -43,14 +61,14 @@ Throughout its twenty-year history, SCORES Cup has been held at many locations a
 
 ## Twenty Years of Close Partnerships
 
-[DC United Graphic]
+![7-b8a4ca.png](/uploads/7-b8a4ca.png)
 
 For the last two decades, DC SCORES has relied on the support of numerous partners to host SCORES Cup. From the tournament’s first outing at RFK’s Auxiliary Fields, D.C. United has been a stalwart SCORES Cup partner and has served as an official sponsor of the event since its inception. In recent years, D.C. United legends have also joined the tournament, playing as “super subs” for teams that raised the most money for DC SCORES!
 
-[District Sports Graphic]
+![6-19e00c.png](/uploads/6-19e00c.png)
 
 Adult soccer non-profit District Sports has been a partner of SCORES Cup since 2021. District Sports is the largest provider of recreational adult soccer leagues in DC and bring their tournament management skills to the event to manage logistics, provide equipment, and tournament operations. In previous years, the District Sports team has also showed off their prowess on the field, winning the 2013 SCORES Cup against tournament favorites Marriott!
 
-[EagleBank Graphic]
+![8-1306d9.png](/uploads/8-1306d9.png)
 
 This year, SCORES Cup will have a new presenting sponsor: EagleBank! The community bank serves customers in DC, Virginia, and Maryland and is headquartered just outside the District in Bethesda, Maryland. As the presenting sponsor, EagleBank is not only offsetting the cost of running the tournament but will fund the participation of the DC SCORES coaches team as well as fielding a squad of staff from the bank.
