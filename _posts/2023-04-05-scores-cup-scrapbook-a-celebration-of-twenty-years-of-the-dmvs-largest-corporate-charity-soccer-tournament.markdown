@@ -2,6 +2,7 @@
 title: 'SCORES Cup Scrapbook: A Celebration of Twenty Years of the DMV’s Largest Corporate
   Charity Soccer Tournament'
 date: 2023-04-05 16:28:00 Z
+published: false
 Author: Aishu Sukumaran and Mairead MacRae
 Thumbnail Image: "/uploads/8.png"
 ---
@@ -12,7 +13,7 @@ This year, the tournament will be held at the Fields at RFK, on the very same si
 
 ## The First SCORES Cup
 
-[2003 Graphic]
+![1-56fbd1.png](/uploads/1-56fbd1.png)
 
 The first-ever SCORES Cup was held in 2003. Originally billed as the “Sharks Vs. Suits Shootout,” the tournament pitted teams from law firms (the “Sharks”) against those from corporate companies (the “Suits”) to battle it out to be crowned DMV champions. The original format featured 8 teams and raised $10,000 for DC SCORES!
 
