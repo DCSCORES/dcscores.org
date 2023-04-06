@@ -40,7 +40,7 @@ There are plenty of DC SCORES events happening this spring and we’re seeking v
 
 Our Words Our City is our all-star poetry event where our poets recite their pieces alongside nationally acclaimed spoken word artists. This year’s event features Clint Smith — check out the [OWOC website](https://owoc.dcscores.org/) to learn more! Volunteers are needed for ushers and general support.
 
-**Date and Time:** May 16th, 2023 | 6-10PM
+**Date and Time:** May 16th, 2023, 6-10PM
 
 **Location:** [Arena Stage at the Mead Center for American Theater](https://goo.gl/maps/yJNZ3wxUawLDdM9K6)
 
@@ -50,7 +50,7 @@ Our Words Our City is our all-star poetry event where our poets recite their pie
 
 Junior Jamboree celebrates the end of our littlest poet-athletes’ season with an afternoon of soccer, crafts, and fun. Volunteers will help with set up, break down, running soccer games, and arts and crafts!
 
-**Date and Time:** May 24th, 2023 | 3-6PM
+**Date and Time:** May 24th, 2023, 3-6PM
 
 **Location:** [Trinity Washington University](https://goo.gl/maps/KK4Rh3dhRm6itqR77)
 
@@ -60,7 +60,7 @@ Junior Jamboree celebrates the end of our littlest poet-athletes’ season with 
 
 MS Spring Cup is a half-day soccer tournament celebrating the end of our middle school soccer season. Volunteers will help with set up/break down, running soccer games, and general support.
 
-**Date and Time:** June 2nd, 2023 | 12-6PM
+**Date and Time:** June 2nd, 2023, 12-6PM
 
 **Location:** [The Fields at RFK Campus](https://goo.gl/maps/raW5gf5wrKawkttJ6)
 
@@ -70,7 +70,7 @@ MS Spring Cup is a half-day soccer tournament celebrating the end of our middle 
 
 Jamboree celebrates the end of our Elementary SCORES season with a full day of soccer games, activities, community, and fun! Volunteers will help with set up, break down, running soccer games, booths, food, and photography! We welcome individuals and groups to come support this event — the more the merrier!
 
-**Date and Time:** June 3rd, 2023 | 9AM-3PM
+**Date and Time:** June 3rd, 2023, 9AM-3PM
 
 **Location:** [Anacostia Park](https://goo.gl/maps/ujGKFB4HrN3LqYpt7)
 
@@ -82,7 +82,7 @@ Sign up specifically for Jamboree [here](https://docs.google.com/forms/d/1mhu6GK
 
 SCORES Cup is our annual professional soccer tournament fundraiser. Teams compete in a fun-filled, all-day tournament to win the coveted cup! Volunteers will help with set up/break down, running games, and general support!
 
-**Date:** Saturday, June 17, 2023
+**Date:** June 17, 2023, 9AM-6PM
 
 **Location:** [The Fields at RFK Campus](https://goo.gl/maps/ACnjqiZuBh7FWEzf7)
 
