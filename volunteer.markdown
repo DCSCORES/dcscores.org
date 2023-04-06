@@ -6,7 +6,7 @@ Top Image Position: 50% 25%
 layout: volunteer
 ---
 
-Volunteer with DC SCORES!
+# Volunteer with DC SCORES!
 
 Thank you so much for your interest in volunteering with DC SCORES. Volunteers are at the core of our organization, enabling us to serve more than 3,000 young people at over 60 schools across Washington DC.
 
