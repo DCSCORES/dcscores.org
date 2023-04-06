@@ -6,6 +6,16 @@ Top Image Position: 50% 25%
 layout: volunteer
 ---
 
+Volunteer with DC SCORES!
+
+Thank you so much for your interest in volunteering with DC SCORES. Volunteers are at the core of our organization, enabling us to serve more than 3,000 young people at over 60 schools across Washington DC.
+
+Volunteers are integral to empowering DC SCORES to provide high-quality programming to poet-athletes all over our city. Volunteers serve in a variety of capacities, from refereeing kids’ gamedays to providing pro-bono photoshoots of our work.
+
+We welcome volunteers of all backgrounds at DC SCORES. If you are interested in supporting young people in the District and have questions about our work, please contact Margot Locker (mlocker@dcscores.org) for more information.
+
+\**DC SCORES holds the right to remove any individual or group who expresses hurtful and negative comments towards a specified community or individual.*
+
 <span id="volunteer-referee"></span>
 
 ## Game Day Referee
@@ -13,57 +23,67 @@ layout: volunteer
 ![Referee](/uploads/volunteer-referee-float-left.jpg)
 
 **Description:**
-DC SCORES’ soccer leagues focus on our three values: teamwork, leadership, and commitment. Basic soccer knowledge is required and volunteers are asked to complete a brief, one-time mandatory training on DC SCORES league rules.
+During the spring season (3/23—6/3) we have weekly game days on Thursdays (4-6pm) for our elementary school program. The smooth operation of these game days relies on our volunteer referees and with 20\+ weekly games all over the city we’re always looking for more volunteers!
 
-**Requirements:**
-For elementary school games: volunteers will be asked to make basic calls, such as throw-ins, corner kicks, and goal kicks. For Junior SCORES, no specific referee knowledge is required. Volunteers must be at least 15 years of age, have a negative TB test from the last two years, and pass a background check.
-
-**When?**
-Thursdays (Elementary) from 3:45pm to 6pm. <br>
-
-**Where?**
-At <a href="/our-program/program-sites/" target="_blank">sites</a> throughout DC. We will do our best to place you based on your location and mode of transportation.
-
-**Schedule**
-DC SCORES games are expected to resume in March 2022.
-
-**Want to get involved?** Please complete our [Volunteer Interest Form](https://docs.google.com/forms/d/1w19_UB0IXSaHN3kr0c08DBUIWHU29oh32W_KO5T_h0k/viewform?edit_requested=true).
+Contact mlocker@dcscores for more information.
 
 ---
 
 <span id="volunteer-special-events"></span>
 
-## Special Events
+## Spring 2023 Events
 
-### Fall Frenzy
+There are plenty of DC SCORES events happening this spring and we’re seeking volunteers to help with all of them! Sign up [here](https://docs.google.com/forms/d/1w19_UB0IXSaHN3kr0c08DBUIWHU29oh32W_KO5T_h0k/edit) if interested in learning more.
 
-A day-long celebration of our fall season that includes soccer games and outdoor activities for our elementary school students and their families.
+### Our Words Our City
 
-**Date:** October 22, 2022
+Our Words Our City is our all-star poetry event where our poets recite their pieces alongside nationally acclaimed spoken word artists. This year’s event features Clint Smith — check out the [OWOC website](https://owoc.dcscores.org/) to learn more! Volunteers are needed for ushers and general support.
 
-**Location:** Anacostia Park, Field 7
+**Date and Time:** May 16th, 2023 | 6-10PM
 
-**Want to get involved?** Please complete our [Volunteer Form](https://docs.google.com/forms/d/e/1FAIpQLSfRijlyUWDUfeY3HP3CCGpc6WIfn-U_mLucLEdJVJVxLe0NuA/viewform).
+**Location:** [Arena Stage at the Mead Center for American Theater](https://goo.gl/maps/yJNZ3wxUawLDdM9K6)
 
 ---
 
-### Poetry Slam
+### Junior Jamboree
 
-This three-night, spoken-word competition features DC SCORES students performing their original poetry. Volunteer roles include set-up/breakdown, registration, ushers, scoring assistants, and stagehands.
+Junior Jamboree celebrates the end of our littlest poet-athletes’ season with an afternoon of soccer, crafts, and fun. Volunteers will help with set up, break down, running soccer games, and arts and crafts!
 
-**Date:** November 15th, 16th, and 17th, 2022
+**Date and Time:** May 24th, 2023 | 3-6PM
 
-**Want to get involved?** Please complete our [Volunteer Interest Form](https://docs.google.com/forms/d/1w19_UB0IXSaHN3kr0c08DBUIWHU29oh32W_KO5T_h0k/viewform?edit_requested=true).
+**Location:** [Trinity Washington University](https://goo.gl/maps/KK4Rh3dhRm6itqR77)
+
+---
+
+### Middle School Spring Cup
+
+MS Spring Cup is a half-day soccer tournament celebrating the end of our middle school soccer season. Volunteers will help with set up/break down, running soccer games, and general support.
+
+**Date and Time:** June 2nd, 2023 | 12-6PM
+
+**Location:** [The Fields at RFK Campus](https://goo.gl/maps/raW5gf5wrKawkttJ6)
+
+---
+
+### Jamboree
+
+Jamboree celebrates the end of our Elementary SCORES season with a full day of soccer games, activities, community, and fun! Volunteers will help with set up, break down, running soccer games, booths, food, and photography! We welcome individuals and groups to come support this event — the more the merrier!
+
+**Date and Time:** June 3rd, 2023 | 9AM-3PM
+
+**Location:** [Anacostia Park](https://goo.gl/maps/ujGKFB4HrN3LqYpt7)
+
+Sign up specifically for Jamboree [here](https://docs.google.com/forms/d/1mhu6GKCDouyj3Iq53z0rwmjHtOoTPyBunFXvSOEMWAw/edit)!
 
 ---
 
 ### [DC SCORES Cup](https://www.dcscorescup.org/)
 
-Our largest fundraiser – an annual adult soccer tournament made up of local companies, law firms, small businesses and soccer organizations. Volunteer roles include setup/breakdown, registration, field marshals, lunch servers, and photography.
+SCORES Cup is our annual professional soccer tournament fundraiser. Teams compete in a fun-filled, all-day tournament to win the coveted cup! Volunteers will help with set up/break down, running games, and general support!
 
 **Date:** Saturday, June 17, 2023
 
-**Location:** The Fields at RFK Campus
+**Location:** [The Fields at RFK Campus](https://goo.gl/maps/ACnjqiZuBh7FWEzf7)
 
 **Want to get involved?** Please visit the [DC SCORES cup website](https://cup.dcscores.org/)
 
