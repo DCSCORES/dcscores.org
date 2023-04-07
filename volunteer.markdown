@@ -1,7 +1,7 @@
 ---
 title: Volunteer
 permalink: "/volunteer/"
-Top Image: "/uploads/volunteer-spotlight-deirdre-hart-from.jpg"
+Top Image: "/uploads/Fall%20Frenzy%20Photos.png"
 Top Image Position: 50% 25%
 layout: volunteer
 ---
