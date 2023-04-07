@@ -1,7 +1,7 @@
 ---
 title: Volunteer
 permalink: "/volunteer/"
-Top Image: "/uploads/Volunteer%20page%20banner-cfa7ec.png"
+Top Image: "/uploads/volunteer-referee-float-left.jpg"
 Top Image Position: 50% 25%
 layout: volunteer
 ---
@@ -23,7 +23,7 @@ We welcome volunteers of all backgrounds at DC SCORES. If you are interested in 
 ![Referee](/uploads/volunteer-referee-float-left.jpg)
 
 **Description:**
-During the spring season (3/23—6/3) we have weekly game days on Thursdays (4-6pm) for our elementary school program. The smooth operation of these game days relies on our volunteer referees and with 20\+ weekly games all over the city we’re always looking for more volunteers!
+During the spring season (3/23—6/3) we have weekly game days on Thursdays (4-6pm) for our elementary school program. The smooth operation of these game days relies on our volunteer referees and, with 20\+ weekly games all over the city, we’re always looking for more volunteers!
 
 
 Contact mlocker@dcscores for more information.
@@ -58,7 +58,7 @@ Junior Jamboree celebrates the end of our littlest poet-athletes’ season with 
 
 ### Middle School Spring Cup
 
-MS Spring Cup is a half-day soccer tournament celebrating the end of our middle school soccer season. Volunteers will help with set up/break down, running soccer games, and general support.
+MS Spring Cup is a half-day soccer tournament celebrating the end of our middle school soccer season. Volunteers will set up, break down, run soccer games, and give general support.
 
 **Date and Time:** June 2nd, 2023, 12-6PM
 
@@ -68,7 +68,7 @@ MS Spring Cup is a half-day soccer tournament celebrating the end of our middle 
 
 ### Jamboree
 
-Jamboree celebrates the end of our Elementary SCORES season with a full day of soccer games, activities, community, and fun! Volunteers will help with set up, break down, running soccer games, booths, food, and photography! We welcome individuals and groups to come support this event — the more the merrier!
+Jamboree celebrates the end of our Elementary SCORES season with a full day of soccer games, activities, community, and fun! Volunteers will set up, break down, run soccer games, work booths, distribute food, and take photographs! We welcome individuals and groups to support this event — the more the merrier!
 
 **Date and Time:** June 3rd, 2023, 9AM-3PM
 
@@ -80,7 +80,7 @@ Sign up specifically for Jamboree [here](https://docs.google.com/forms/d/1mhu6GK
 
 ### [DC SCORES Cup](https://www.dcscorescup.org/)
 
-SCORES Cup is our annual professional soccer tournament fundraiser. Teams compete in a fun-filled, all-day tournament to win the coveted cup! Volunteers will help with set up/break down, running games, and general support!
+SCORES Cup is our annual professional soccer tournament fundraiser. Teams compete in a fun-filled, all-day tournament to win the coveted cup! Volunteers will help set up, break down, run games, and give general support!
 
 **Date:** June 17, 2023, 9AM-6PM
 
@@ -96,13 +96,13 @@ SCORES Cup is our annual professional soccer tournament fundraiser. Teams compet
 
 ### Photography/Videography
 
-DC SCORES seeks photographers/videographers to help us capture and tell the stories of our program. We frequently use photographs and video of our students, coaches and volunteers in various marketing materials and online. All skill levels are welcome.
+DC SCORES seeks photographers/videographers to help us capture and tell the stories of our program. We frequently use photographs and videos of our students, coaches, and volunteers in various marketing materials and online. All skill levels are welcome.
 
 **When?**
-At your convenience. We always need help at our events, but also photos and videos from daily programming throughout the year.
+At your convenience. We always need help at our events, but we also seek photos and videos from daily programming throughout the year.
 
 **Where?**
 At sites throughout DC. We will do our best to place you based on your location and mode of transportation.
 
 **Want to get involved?**
-Contact Tony Francavilla at afrancavilla@dcscores.org
+Contact Mairead MacRae, Director of Commmunications, at mmacrae@dcscores.org
