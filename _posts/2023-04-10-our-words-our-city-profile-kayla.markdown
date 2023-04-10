@@ -21,10 +21,10 @@ Thumbnail Image: "/uploads/Kayla%201.png"
 
 
 **Can you tell us about yourself?**
-My name is Kayla Nelson. I’m 11 years old, I attend MacFarland Middle School. I have been in DC SCORES since I was 11 years old. When I grow up I want to be a singer an actor and a poet. 
+My name is Kayla Nelson. I’m 11 years old, I attend MacFarland Middle School. I have been in DC SCORES since I was 11 years old. When I grow up I want to be a singer, an actor, and a poet. 
 
 **What are your hobbies?**
-Poetry, basketball, soccer, drawing, poetry, song writing 
+Poetry, basketball, soccer, drawing, poetry, song writing. 
 
 **When did you write your first poem? How did it make you feel?**
 I wrote my first poem when I was 7. It made me feel good because it was for Black History Month.
