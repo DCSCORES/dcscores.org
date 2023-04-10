@@ -1,5 +1,5 @@
 ---
-title: 'Our Words Our City Profile: Chloe'
+title: 'Our Words Our City Performer Profile: Chloe'
 date: 2023-04-10 19:50:00 Z
 Author: DC SCORES
 Thumbnail Image: "/uploads/Chloe%201.png"
