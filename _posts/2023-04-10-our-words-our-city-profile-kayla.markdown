@@ -29,6 +29,9 @@ Poetry, basketball, soccer, drawing, poetry, song writing.
 **When did you write your first poem? How did it make you feel?**
 I wrote my first poem when I was 7. It made me feel good because it was for Black History Month.
 
+**Who is your favorite poet?**
+My favorite poet is Asher because I like their poems.
+
 **What do you love most about performing your poetry?**
 I like that people get to hear my poetry and enjoy it. 
 
