@@ -1,6 +1,7 @@
 ---
 title: 'Our Words Our City Performer Profile: Asher'
 date: 2023-04-10 19:58:00 Z
+Author: DC SCORES
 Thumbnail Image: "/uploads/Asher%201.png"
 ---
 
