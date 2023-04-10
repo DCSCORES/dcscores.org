@@ -1,8 +1,27 @@
 ---
 title: 'Our Words Our City Profile: Chloe'
 date: 2023-04-10 19:50:00 Z
-published: false
+Author: DC SCORES
+Thumbnail Image: "/uploads/Chloe%201.png"
 ---
+
+![Chloe 1.png](/uploads/Chloe%201.png)
+*Chloe will perform her original poetry at [Our Words Our City](https://owoc.dcscores.org/) this year. Photo: Brandon Williams.*
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 **Can you tell us about yourself?**
 My name is Chloe. I’m 11 years old, I attend Seaton Elementary. I have been in DC SCORES since I was 9 years old. When I grow up I want to be a fashion designer and a poet.
@@ -11,7 +30,7 @@ My name is Chloe. I’m 11 years old, I attend Seaton Elementary. I have been in
 I love how you get to express yourself.
 
 **What are your favorite things to write about?**
-My childhood, memories
+My childhood, memories.
 
 **Who are your biggest supporters and why?**
 My poetry coach because he really pushes me and so does my friend and mom cause she pushes me too. 
@@ -22,3 +41,5 @@ Maya Angelou, Amanda Gorman
 **What do you love most about DC SCORES?**
 I like the poetry and the soccer cause all of the stress I be having just fly off.
 
+![Chloe 2.png](/uploads/Chloe%202.png)
+*Photo: Brandon Williams.*
