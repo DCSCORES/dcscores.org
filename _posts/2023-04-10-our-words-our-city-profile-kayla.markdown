@@ -30,7 +30,7 @@ Poetry, basketball, soccer, drawing, poetry, song writing.
 I wrote my first poem when I was 7. It made me feel good because it was for Black History Month.
 
 **Who is your favorite poet?**
-My favorite poet is Asher because I like their poems.
+My favorite poet is [Asher](https://www.dcscores.org/blog/2023/04/our-words-our-city-profile-asher) because I like their poems.
 
 **What do you love most about performing your poetry?**
 I like that people get to hear my poetry and enjoy it. 
