@@ -21,7 +21,7 @@ Thumbnail Image: "/uploads/Veronica%201.png"
 
 
 **Can you tell us about yourself?**
-My name is Veronica Telzmov. I’m 9 years old, and I attend SWWFS. I have been in DC SCORES since I was 9 years old. When I grow up I want to be a teacher and make desserts at home for fun.
+My name is Veronica Telzmov. I’m 9 years old, and I attend School Without Walls at Francis Stevens. I have been in DC SCORES since I was 9 years old. When I grow up I want to be a teacher and make desserts at home for fun.
 
 **What are your hobbies?**
 Soccer, poetry, taekwondo, ballet, piano, reading, cooking/baking, listening to music, arts and crafts 
