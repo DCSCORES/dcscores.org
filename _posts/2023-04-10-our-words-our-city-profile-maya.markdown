@@ -1,5 +1,5 @@
 ---
-title: 'Our Words Our City Profile: Maya'
+title: 'Our Words Our City Performer Profile: Maya'
 date: 2023-04-10 20:03:00 Z
 Author: DC SCORES
 Thumbnail Image: "/uploads/Maya%202.png"
