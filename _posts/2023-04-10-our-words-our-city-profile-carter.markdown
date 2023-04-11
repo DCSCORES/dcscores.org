@@ -25,7 +25,7 @@ My name is Carter Sewell. I’m 8 years old, I attend Barnard Elementary School.
 Soccer, ballet, dance, cooking, singing, painting, acting, singing, dancing, and drawing. 
  
 **When did you write your first poem? How did it make you feel?**
-It make me feel happy because it was my first poem.
+It made me feel happy because it was my first poem.
 
 **What are your favorite things to write about?**
 Things that did not happen but could happen.
