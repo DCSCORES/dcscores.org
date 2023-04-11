@@ -27,7 +27,7 @@ My name is Veronica Telzmov. I’m 9 years old, and I attend School Without Wall
 Soccer, poetry, taekwondo, ballet, piano, reading, cooking/baking, listening to music, arts and crafts 
 
 **What do you love most about performing your poetry?**
-I love saying things in poems cause people don’t judge what you say, they listen. 
+I love saying things in poems 'cause people don’t judge what you say, they listen. 
 
 **What are your favorite things to write about?**
 I love to write about things that I want to change. For example, shootings, global warming, trash. Also, sometimes I just write about random things. 
