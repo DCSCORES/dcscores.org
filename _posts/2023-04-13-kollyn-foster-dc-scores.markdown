@@ -1,7 +1,7 @@
 ---
 title: "“They’re There For Me”: Ten-Year-Old Kollyn Foster Credits His DC SCORES Team
   For Supporting Poetry Journey Ahead of Our Words Our City Performance"
-date: 2023-04-12 16:37:00 Z
+date: 2023-04-13 10:00:00 Z
 Author: Mairead MacRae
 Thumbnail Image: "/uploads/1-dbf024.png"
 ---
