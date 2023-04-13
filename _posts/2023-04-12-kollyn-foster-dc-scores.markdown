@@ -2,9 +2,22 @@
 title: "“They’re There For Me”: Ten-Year-Old Kollyn Foster Credits His DC SCORES Team
   For Supporting Poetry Journey Ahead of Our Words Our City Performance"
 date: 2023-04-12 16:37:00 Z
-published: false
+Author: Mairead MacRae
+Thumbnail Image: "/uploads/1-dbf024.png"
 ---
 
+![1-dbf024.png](/uploads/1-dbf024.png)
+*Kollyn will perform his original poetry at DC SCORES' annual poetry showcase, Our Words Our City, in May. Photo: Aya Takeuchi.*
+
+
+
+
+
+
+
+
+
+ 
 
 When Kollyn Foster sits down for his interview with DC SCORES, a number of heads pop up curiously over his desk. Ten-year-old Kollyn is part of the Tyler Elementary School DC SCORES team and the rest of the squad is sitting quietly on the floor around him, craning their necks to get a look at the action. “He wanted the whole team to come out and support him,” explains Tyler Coach Elijah Purnell. 
 
@@ -16,7 +29,7 @@ On May 16, Kollyn will step into the spotlight at Arena Stage to perform an orig
 
 “If you have a certain thing that you love, you can write about it and present it to somebody,” says Kollyn. “That’s poetry.”
 
-“You Have to Serve an Emotion”
+## “You Have to Serve an Emotion”
 
 “Kollyn has always loved to be the center of attention,” says Roberts, recalling how her son would sing solos at church from an early age. “Performing is in his blood. He’s never really been shy.”
 
@@ -30,7 +43,10 @@ For Kollyn, one of the most creative parts of producing poetry is finding the be
 
 “Some poets are really dramatic and love to show their emotion,” continues Kollyn. “If you’re talking about an emotion, you can’t be all bland. You actually have to serve an emotion.”
 
-Family Connections
+![2-8ccae8.png](/uploads/2-8ccae8.png)
+*Kollyn with this year's Youth W.O.R.D. cohort, alongside DC SCORES poetry specialist Zarea Boyde.*
+
+## Family Connections
 
 In November, Kollyn got his first taste of performing poetry in front of a live audience during the DC SCORES Westside Poetry Slam. He delivered Tyler’s solo performance, sharing a piece titled “Muhammad Ali,” an ode to the iconic boxer.
 
@@ -42,11 +58,14 @@ Despite so much of Kollyn’s work revolving around family, Roberts says that sh
 
 Kollyn spends a lot of time thinking about the people who have made an impact on his life. It is what he reflects on the most when he talks about DC SCORES. For example, when asked what he hopes people will understand about his experience in the program, he looks around at his team. “Honestly, I just want this story to be about my teammates,” he says. 
 
-A Close-Knit Community
+## A Close-Knit Community
 
 “They’re just there for me,” says Kollyn of his friends on the Tyler DC SCORES team. “At DC SCORES you have to have a lot of love and respect,” he continues. “You have to pick up your teammates. You have to help them.”
 
 “We’re big on unity and leadership at Tyler,” says Purnell, who also serves as a Student Success Coach at the school. “I hold my DC SCORES players to a higher expectation. These are my stars within the building. They know what their goals are and they know what I’m expecting of them and they build on that.”
+
+![3-82ed63.png](/uploads/3-82ed63.png)
+*Kollyn says he has been well supported by his DC SCORES teammates at Tyler Elementary. Photo: Mark Roth.*
 
 Kollyn has found poetic inspiration in the close-knit DC SCORES team. “If I learn stuff about my peers, I can write about them,” he says. “For example, our captain, he’s kind of goofy but he’s also pretty responsible.”
 
