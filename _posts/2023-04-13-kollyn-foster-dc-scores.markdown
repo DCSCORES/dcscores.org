@@ -35,6 +35,9 @@ On May 16, Kollyn will step into the spotlight at Arena Stage to perform an orig
 
 Taking part in poetry programming at DC SCORES has allowed Kollyn to translate that star power into confidence in the playground. “Since starting poetry, Kollyn’s been able to express himself in a different way,” says Purnell. “He’s sticking up for himself, he’s voicing his opinion, he’s growing up. And I give credit to the poetry.”
 
+![5-460ef0.png](/uploads/5-460ef0.png)
+*Kollyn found a love for performance as a singer in his church choir.*
+
 Now, when Kollyn has something he wants to say, he grabs his poetry notebook. “I come up with my topics by representing what I love, and writing about what I love,” he says. 
 
 For Kollyn, one of the most creative parts of producing poetry is finding the best way to convey emotion through his work. At Youth W.O.R.D., Kollyn and his fellow poet-athletes work with poetry specialists, all of whom are professional spoken word artists hired by DC SCORES to help students hone their performances. 
@@ -54,6 +57,9 @@ More recently, Kollyn’s poems have paid tribute to the people he admires close
 
 Despite so much of Kollyn’s work revolving around family, Roberts says that she often only hears his work for the first time when she sits in the audience at a performance. “He’ll make me wait to hear them,” she says. However, she recently got a sneak peek of Kollyn’s work when she spotted a poem about her in his DC SCORES notebook.
 
+![4-9ac930.png](/uploads/4-9ac930.png)
+*Kollyn likes to write about his mom, Janna, who he says "gives [him] all the support [he] needs."*
+
 “It touched my heart,” Roberts shares. “As a parent, you try your best but you don’t know if your child is accepting it or understands what you’re doing. In his poem, Kollyn was saying that he appreciates me.”
 
 Kollyn spends a lot of time thinking about the people who have made an impact on his life. It is what he reflects on the most when he talks about DC SCORES. For example, when asked what he hopes people will understand about his experience in the program, he looks around at his team. “Honestly, I just want this story to be about my teammates,” he says. 
@@ -64,8 +70,8 @@ Kollyn spends a lot of time thinking about the people who have made an impact on
 
 “We’re big on unity and leadership at Tyler,” says Purnell, who also serves as a Student Success Coach at the school. “I hold my DC SCORES players to a higher expectation. These are my stars within the building. They know what their goals are and they know what I’m expecting of them and they build on that.”
 
-![3-82ed63.png](/uploads/3-82ed63.png)
-*Kollyn says he has been well supported by his DC SCORES teammates at Tyler Elementary. Photo: Mark Roth.*
+![6-c14430.png](/uploads/6-c14430.png)
+*Kollyn likes to play goalkeeper during DC SCORES game days and says his teammates are always there for him.*
 
 Kollyn has found poetic inspiration in the close-knit DC SCORES team. “If I learn stuff about my peers, I can write about them,” he says. “For example, our captain, he’s kind of goofy but he’s also pretty responsible.”
 
