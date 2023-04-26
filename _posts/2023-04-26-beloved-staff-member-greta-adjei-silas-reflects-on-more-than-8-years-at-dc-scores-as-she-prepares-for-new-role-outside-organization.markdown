@@ -70,7 +70,7 @@ In addition to her operations work, Adjei Silas supported weekly practices for t
 “All the moments with poet-athletes are the ones I vividly remember,” she says. “Hanging out backstage at poetry events, getting ready, getting jitters out, all those moments are the sweetest DC SCORES memories that I have.”
 
 ![2-79d095.png](/uploads/2-79d095.png)
-*Adjei Silas and DC SCORES Senior Advisor for Arts and Culture pose with poet-athlete performers at Our Words Our City.* 
+*Adjei Silas and DC SCORES Senior Advisor for Arts and Culture Charity Blackwell pose with poet-athlete performers at Our Words Our City.* 
 
 ## Poetry As Community
 
