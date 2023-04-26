@@ -1,7 +1,7 @@
 ---
 title: Beloved Staff Member Greta Adjei Silas Reflects on More Than 8 Years at DC
   SCORES as She Prepares For New Role Outside Organization
-date: 2023-04-26 18:55:00 Z
+date: 2023-04-26 12:55:00 Z
 Author: Mairead MacRae
 Thumbnail Image: "/uploads/1-88ac66.png"
 ---
