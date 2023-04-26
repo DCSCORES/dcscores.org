@@ -34,7 +34,7 @@ During her long tenure at DC SCORES, Adjei Silas — who finished her role as Pe
 “I’m so excited for my new role, but I know I will miss DC SCORES a lot,” she says. “This place holds so many special memories for me and I’ve met so many inspiring young people through DC SCORES.”
 
 ![6-43da34.png](/uploads/6-43da34.png)
-*Adjei Silas has held numerous roles at DC SCORES.*
+*Adjei Silas has held numerous roles at DC SCORES, including supporting the organization's major events, a role she intends to continue in a volunteer capacity.*
 
 ## A Career in Youth Development
 
