@@ -7,6 +7,24 @@ Thumbnail Image: "/uploads/1-5ba3cc.png"
 ![1-5ba3cc.png](/uploads/1-5ba3cc.png)
 *Kollyn will perform his original poetry at [Our Words Our City](https://owoc.dcscores.org/) this year. Photo: Brandon Williams.*
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 **Can you tell us about yourself?** My name is Kollyn Foster. I’m 10 years old, I attend Tyler Elementary School. I have been in DC SCORES since I was 8 years old. When I grow up, I want to be a DC SCORES coach.
 
 **What are your hobbies?** Acting, soccer, baseball, tennis.
