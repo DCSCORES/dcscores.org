@@ -9,6 +9,20 @@ Thumbnail Image: "/uploads/1-dfd2bb.png"
 ![1-dfd2bb.png](/uploads/1-dfd2bb.png)
 *The DC SCORES team at Thomas collected socks, hygiene products, and basic food items for people experiencing homelessness.*
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 “It makes me feel sick,” says Neval Thomas Elementary School 4th-grader Carlizze when he thinks about the experiences of unhoused people in his neighborhood. “They can’t go nowhere when it’s cold, they can’t go nowhere to sleep. It makes me feel terrible,” adds his classmate Jamia.
 
 The DC SCORES poet-athletes are discussing what they have learned this season in the non-profit's service-learning curriculum. Every spring, more than 3,000 poet-athletes like Carlizze and Jamia give back to their neighborhoods through projects that are the culmination of weekly DC SCORES writing workshops.
