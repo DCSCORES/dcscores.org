@@ -33,7 +33,7 @@ Jefferson stood out as a skilled and supportive soccer player who his Raymond co
 
 Jefferson and Arianna are among 7 child homicide victims in the District this year alone. They deserved a childhood that was safe, carefree, and joyful; one that allowed them to grow into adulthood.
 
-We have already lost too many District children to gun violence. DC SCORES calls upon our elected officials, policy-makers, and community leaders to end gun violence in DC and ensure that our children are kept safe at school, in their homes, and in their neighborhoods.
+We have already lost too many children to gun violence in the District. DC SCORES calls upon our elected officials, policy-makers, and community leaders to end gun violence in DC and ensure that our children are kept safe at school, in their homes, and in their neighborhoods.
 
 Tragic events like these are all too familiar for DC SCORES poet-athletes. At our annual poetry slam in November, Thomas students performed a poem calling for an end to shootings in their neighborhood and expressing their concern that children in their community would die. This week, their worst fears were realized.
 
