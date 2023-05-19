@@ -43,7 +43,7 @@ We will remember Arianna and Jefferson for their caring natures, their commitmen
 
 Sincerely,
 
-Katrina Owens
+Katrina Owens,
 Executive Director, DC SCORES
 
 ## Friends
