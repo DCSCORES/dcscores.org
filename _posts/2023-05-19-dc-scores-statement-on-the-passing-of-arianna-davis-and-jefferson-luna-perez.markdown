@@ -44,6 +44,7 @@ We will remember Arianna and Jefferson for their caring natures, their commitmen
 Sincerely,
 
 Katrina Owens,
+
 Executive Director, DC SCORES
 
 ## Friends
@@ -51,28 +52,37 @@ Executive Director, DC SCORES
 *Poem by the DC SCORES Team at Neval Thomas Elementary School*
 
 Friends are like family. You see,
+
 When you meet a good friend, that’s what they’ll be.
 
 They make you feel like you belong.
+
 A friend tells you when you’re right and when you’re wrong.
 
 Friends keep secrets that are deep.
+
 Keep it close to their heart and never repeat.
 
 They accept you for who you are,
+
 Even if you don’t become a star.
 
 You will laugh, play, and cry together.
+
 Even through the stormy weather.
 
 You may not always agree with a friend,
+
 But they’ll stick by you til the end.
 
 You may disagree and then make up,
+
 Even on bad days, they won’t give up.
 
 Always be a good friend indeed.
+
 Be sure not to choose a bad seed.
 
 Good friends are true, and it's easy to see.
+
 If you’re looking for a friend, you got a friend in me!
