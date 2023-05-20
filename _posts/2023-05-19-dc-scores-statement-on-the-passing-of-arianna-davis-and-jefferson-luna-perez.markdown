@@ -5,7 +5,7 @@ Author: Katrina Owens
 Thumbnail Image: "/uploads/Arianna%20and%20Jefferson%20Statement%20Twitter.png"
 ---
 
-*Individuals who wish to support the family of Arianna Davis may do so through this [GoFundMe page](https://www.gofundme.com/f/help-ariannas-family-after-mothers-day-shooting?utm_campaign=p_cp\+share-sheet&utm_content=undefined&utm_medium=copy_link_all&utm_source=customer&utm_term=undefined).*
+*Individuals who wish to support the family of Arianna Davis may do so through this [GoFundMe page](https://www.gofundme.com/f/help-ariannas-family-after-mothers-day-shooting?utm_campaign=p_cp\+share-sheet&utm_content=undefined&utm_medium=copy_link_all&utm_source=customer&utm_term=undefined). Individuals who wish to support the family of Jefferson Luna-Perez may do so through this [GoFundMe page](https://www.gofundme.com/f/in-memory-of-jefferson-perez).*
 
 
 
