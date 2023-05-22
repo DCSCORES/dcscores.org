@@ -8,6 +8,24 @@ Thumbnail Image: "/uploads/3-b1f032.png"
 
 *This story is part of a series celebrating the #PoetAthleteImpact and DC SCORES’ Spring Day of Giving campaign. [Learn more about the campaign and donate here.](https://give.dcscores.org/campaign/spring-day-of-giving/c477602)*
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 Brothers Cordey and Pablo are sitting cross-legged on a bench on the sideline of their school soccer field. Their palms are pressed together and they are breathing deeply in and out.
 
 The Houston Elementary School students are demonstrating the meditation exercises they sometimes practice together as part of a healthy lifestyle. "I like to eat brocolli for my body and meditate for my mind. It's good to be healthy," says Cordey, as his brother nods in agreement. "It means a lot for a happy life."
