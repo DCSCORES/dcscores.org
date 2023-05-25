@@ -4,6 +4,7 @@ title: Seaton Elementary School Poet-Athletes Celebrate Their Diversity Through 
 date: 2023-05-25 03:40:00 Z
 published: false
 Author: Aishu Sukumaran
+Thumbnail Image: "/uploads/1-8afbcc.png"
 ---
 
 *This story is part of a series celebrating the #PoetAthleteImpact and DC SCORES’ Spring Day of Giving campaign. [Learn more about the campaign and donate here.](https://give.dcscores.org/campaign/spring-day-of-giving/c477602)*
