@@ -32,7 +32,9 @@ The Houston Elementary School students are demonstrating the meditation exercise
 
 On May 18, the brothers passed on some of their tips to their classmates during a health and wellness expo their DC SCORES team hosted for the Houston community as part of the program’s service-learning curriculum.
 
-"We asked, 'What are we experts in?'" says Tracey Thomas, a DC SCORES Coach and Houston 3rd-grade teacher, as she describes why the team selected the expo as their service-learning project. "The kids wanted to show their expertise to their classmates. They knew it was gonna be fun."
+"We asked, now that you are experts in identifying, researching, and discussing problems in our community, what is one service-learning project you all can agree on that we could do to improve the school community?" says Tracey Thomas, a DC SCORES Coach and Houston 3rd-grade teacher, as she describes why the team selected the expo as their service-learning project. 
+
+She continues, "The poet-athletes wanted to show their expertise in physical and mental health. They knew they would have fun teaching their peers all about the topics."
 
 “Being part of DC SCORES makes me happy and healthy,” says Pablo. The expo was a way for him and his teammates to support others, he explains, “A lot of people have given back to us, so we should give back to our community.”
 
@@ -45,7 +47,9 @@ Every year, alongside more than 3,000 of their fellow poet-athletes, Houston stu
 
 As part of the program, poet-athletes design a student-led service-learning project, which is funded through mini-grants from DC SCORES.
 
-"We got talking about what we could work on for service learning and the students said, 'We eat a lot of junk food, you know, we definitely don't have the rainbow colors on our plate,’” recalls Thomas. “And we also got to talking about other kinds of health. So I said, 'Okay, so what could we do about it?'"
+"We got talking about what we could work on for service learning and the students said, 'We eat a lot of junk food, you know, we definitely don't have the rainbow colors on our plate, like dairy, protein, grains, vegetables, and fruit.’” recalls Thomas. 
+
+The team also talked about other health topics. "So, I said, 'What can we do about eating and drinking unhealthy foods and drinks, and being mentally and physically fit?" she says.
 
 ![1-f5357b.png](/uploads/1-f5357b.png)
 *DC SCORES coaches Tracey Thomas (left) and Kevin Wright (right) worked with students at Houston to create the health and wellness expo. Photo: Brian Anderson.*
@@ -65,14 +69,14 @@ Sharing their personal health and wellness experiences was key to the Houston te
 
 While the students chose to focus on how to make healthy, personal choices, Thomas is clear that community well-being also requires collective investment in programs and policies that empowers individuals to be healthy. The DC SCORES team itself is evidence of that.
 
-“Before DC SCORES, we didn’t have sports at all,” she explains. “These kids are natural athletes, but it took a program like this to bring it out.”
+"Before DC SCORES, our school did not have any official sports programs," she explains. "The kiddos are natural athletes. However, it took a program like DC SCORES to bring out their athletic qualities." 
 
 ![4-ef223c.png](/uploads/4-ef223c.png)
 *Martana'e teaches her classmates how to do squat jumps at the Houston Elementary DC SCORES Health and Wellness Expo. Photo: Mairead MacRae.*
 
 The Houston team has been enormously successful in the two short years it has been part of the DC SCORES program. Last year, its girls’ squad won the non-profit’s elementary school soccer championships and was [selected to walk out with the U.S. Women’s National Team](https://www.dcscores.org/blog/2022/09/dc-scores-poet-athletes-walk-out-with-us-womens-national-team-at-audi-field) during an Audi Field friendly against Nigeria in September.
 
-This year, both the boys and girls teams are in contention for the championship and will play their quarter final games on May 23. However, the real marker of the team’s success has been off the field, says Thomas. “Their soccer decision-making skills, their poetry writing skills, how they socialize with each other, it transfers,” she shares. “I've heard a couple of the teachers say that the kids being on the team has really changed their behavior in the classroom.”
+This year, both the boys and girls teams are in contention for the championship and will play their quarter final games on May 23. However, the real marker of the team’s success has been off the field, says Thomas. “The poet-athletes' teamwork, communication, leadership, and decision-making skills on the field have transferred in their lives in the classroom and throughout the school community” she shares. “I have heard teachers share that some students' behavior in school has improved since they have become a part of the SCORES program."
 
 ![Untitled design (22).png](/uploads/Untitled%20design%20(22).png)
 *The Houston DC SCORES team opens the expo for their peers in the 3rd, 4th, and 5th grades. Photo: Brandon Williams.*
