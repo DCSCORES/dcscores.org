@@ -20,19 +20,13 @@ Thumbnail Image: "/uploads/3-b1f032.png"
 
 
 
-
-
-
-
-
-
 Brothers Cordey and Pablo are sitting cross-legged on a bench on the sideline of their school soccer field. Their palms are pressed together and they are breathing deeply in and out.
 
 The Houston Elementary School students are demonstrating the meditation exercises they sometimes practice together as part of a healthy lifestyle. "I like to eat brocolli for my body and meditate for my mind. It's good to be healthy," says Cordey, as his brother nods in agreement. "It means a lot for a happy life."
 
 On May 18, the brothers passed on some of their tips to their classmates during a health and wellness expo their DC SCORES team hosted for the Houston community as part of the program’s service-learning curriculum.
 
-"We asked, now that you are experts in identifying, researching, and discussing problems in our community, what is one service-learning project you all can agree on that we could do to improve the school community?" says Tracey Thomas, a DC SCORES Coach and Houston 3rd-grade teacher, as she describes why the team selected the expo as their service-learning project. 
+"We asked, now that you are experts in identifying, researching, and discussing problems in our community, what is one service-learning project you all can agree on that we could do to improve the school community?" says Tracey Thomas, a DC SCORES Coach and Houston 3rd-grade teacher, as she describes why the team selected the expo as their service-learning project.
 
 She continues, "The poet-athletes wanted to show their expertise in physical and mental health. They knew they would have fun teaching their peers all about the topics."
 
@@ -47,7 +41,7 @@ Every year, alongside more than 3,000 of their fellow poet-athletes, Houston stu
 
 As part of the program, poet-athletes design a student-led service-learning project, which is funded through mini-grants from DC SCORES.
 
-"We got talking about what we could work on for service learning and the students said, 'We eat a lot of junk food, you know, we definitely don't have the rainbow colors on our plate, like dairy, protein, grains, vegetables, and fruit.’” recalls Thomas. 
+"We got talking about what we could work on for service learning and the students said, 'We eat a lot of junk food, you know, we definitely don't have the rainbow colors on our plate, like dairy, protein, grains, vegetables, and fruit.’” recalls Thomas.
 
 The team also talked about other health topics. "So, I said, 'What can we do about eating and drinking unhealthy foods and drinks, and being mentally and physically fit?" she says.
 
@@ -69,7 +63,7 @@ Sharing their personal health and wellness experiences was key to the Houston te
 
 While the students chose to focus on how to make healthy, personal choices, Thomas is clear that community well-being also requires collective investment in programs and policies that empowers individuals to be healthy. The DC SCORES team itself is evidence of that.
 
-"Before DC SCORES, our school did not have any official sports programs," she explains. "The kiddos are natural athletes. However, it took a program like DC SCORES to bring out their athletic qualities." 
+"Before DC SCORES, our school did not have any official sports programs," she explains. "The kiddos are natural athletes. However, it took a program like DC SCORES to bring out their athletic qualities."
 
 ![4-ef223c.png](/uploads/4-ef223c.png)
 *Martana'e teaches her classmates how to do squat jumps at the Houston Elementary DC SCORES Health and Wellness Expo. Photo: Mairead MacRae.*
