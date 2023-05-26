@@ -48,7 +48,7 @@ The team also talked about other health topics. "So, I said, 'What can we do abo
 ![1-f5357b.png](/uploads/1-f5357b.png)
 *DC SCORES coaches Tracey Thomas (left) and Kevin Wright (right) worked with students at Houston to create the health and wellness expo. Photo: Brian Anderson.*
 
-Modeling their expo on fairs and carnivals where patrons can go on lots of different rides in one place, the students decided to use their soccer field to set up wellness stations to teach their classmates about everything from dental hygiene to mobility exercises.
+The team conducted research into various health topics and selected the advice they most wanted to share with their peers. Modeling their expo on fairs and carnivals where patrons can go on lots of different rides in one place, the students decided to use their soccer field to set up wellness stations to teach their classmates about everything from dental hygiene to mobility exercises.
 
 Organizing an event with so many components was a big challenge for the team, says 5th-grader Tahirah, who ran a station making [calming glitter jars](https://www.playstories.com/blog/calming-glitter-jar-how-to-do-it/). "I learned you have to have preparation, you have to have everything in order and handled so that you can proceed," she explains.
 
