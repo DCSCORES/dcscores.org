@@ -1,9 +1,9 @@
 ---
-title: Our Words Our City 2023
+title: Spring Day of Giving 2023
 date: 2022-01-24 17:20:00 Z
 position: 0
-Image: "/uploads/OWOC%202023%20Carousel%20Image.png"
-Link: https://owoc.dcscores.org/
+Image: "/uploads/Spring%20Day%20of%20Giving%2023%20Carousel%20Photo.png"
+Link: https://give.dcscores.org/campaign/spring-day-of-giving/c477602
 ---
 
-Tickets are now live!
+Learn about #poetathleteimpact and give to support DC SCORES teams!
