@@ -6,4 +6,4 @@ Image: "/uploads/Houston%20Carousel%20Photo.png"
 Link: https://www.dcscores.org/blog/2023/05/houston-elementary-school-poet-athletes-promote-community-health-and-well-being-through-service-learning-project
 ---
 
-Houston Elementary School poet-athletes promote community health and well-being through service-learning project
+Houston Elementary School poet-athletes promote community health and well-being through service-learning project.
