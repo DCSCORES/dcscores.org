@@ -7,7 +7,20 @@ Thumbnail Image: "/uploads/1-9c6a08.png"
 ---
 
 ![1-9c6a08.png](/uploads/1-9c6a08.png)
-*Poet-athlete Kayla Nelson, a student at MacFarland Middle School, opens the Arena Stage program at Our Words Our City. Photo: Cody Cervenka.*
+*Poet-athlete Kayla Nelson, a student at MacFarland Middle School, opened the Arena Stage program at Our Words Our City. Photo: Cody Cervenka.*
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 Last night, DC SCORES poet-athletes from across the District stepped into the spotlight alongside award-winning writer Clint Smith at Our Words Our City 2023.
 
@@ -20,7 +33,7 @@ The event was sponsored by Wells Fargo, the Washington Spirit. D.C. United, Busb
 Our Words Our City, DC SCORES had hosted since 2017, also featured an exciting new component: the inaugural presentation to the Poet-Athlete Award, which was bestowed upon poet Clint Smith.
 
 ![2-527fc0.png](/uploads/2-527fc0.png)
-*Clint Smith gives a reading from his latest poetry collection, Above Ground. Photo: Cody Cervenka.*
+*Clint Smith gave a reading from his latest poetry collection, Above Ground. Photo: Cody Cervenka.*
 
 The honor will be awarded annually to an individual, or group of individuals, who embody the ethos of DC SCORES poet-athletes. Smith — a distinguished author, writer, poet, and former D1 college soccer player — received the award for his work promoting racial justice and equity.
 
@@ -31,4 +44,4 @@ In a program that celebrated multiple generations of poetic talent from DC, poet
 “This year’s Our Words Our City was by far my favorite evening in 15 years of attending DC SCORES’ events, and that’s saying something!” said Tony Francavilla, Chief Development Officer at DC SCORES. “Our poet-athletes' words were inspiring, joyful, and — at times — heartbreaking. I am so grateful to our generous sponsors, Clint Smith, and our talented poet-athletes for delivering such a beautiful program.”
 
 ![3-e57f25.png](/uploads/3-e57f25.png)
-*Youth W.O.R.D. poet-athletes cheer on their peers during Our Words Our City 2023. Photo: Cody Cervenka*
+*Youth W.O.R.D. poet-athletes cheered on their peers during Our Words Our City 2023. Photo: Cody Cervenka*
