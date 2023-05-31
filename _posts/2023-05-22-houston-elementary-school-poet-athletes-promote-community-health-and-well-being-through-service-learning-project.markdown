@@ -41,7 +41,7 @@ Every year, alongside more than 3,000 of their fellow poet-athletes, Houston stu
 
 As part of the program, poet-athletes design a student-led service-learning project, which is funded through mini-grants from DC SCORES.
 
-"We got talking about what we could work on for service learning and the students said, 'We eat a lot of junk food, you know, we definitely don't have the rainbow colors on our plate, like dairy, protein, grains, vegetables, and fruit.’” recalls Thomas.
+"We began discussions about what we could work on for service learning and the students said, 'We eat a lot of junk food, you know, we definitely don't have the rainbow colors on our plate, like dairy, protein, grains, vegetables, and fruit.’” recalls Thomas.
 
 The team also talked about other health topics. "So, I said, 'What can we do about eating and drinking unhealthy foods and drinks, and being mentally and physically fit?" she says.
 
