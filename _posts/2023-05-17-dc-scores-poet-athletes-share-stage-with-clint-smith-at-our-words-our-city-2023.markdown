@@ -28,7 +28,7 @@ Our Words Our City is DC SCORES’ is an annual youth poetry showcase for the po
 
 This year’s Our Words Our City was hosted at Arena Stage at the Mead Center for American Theater. Poet-athletes and DC SCORES alumni, who ranged in age from the 2nd grade to college seniors, performed their poems in front of a packed audience.
 
-The event was sponsored by Wells Fargo, the Washington Spirit. D.C. United, Busboys and Poets, Planet Word, PAVE, and Nationwide, and included a pre-event reception hosted by the Washington Spirit that featured welcome remarks from Emma May, the Spirit’s President of Business Operations, and star striker and DC SCORES board member Ashley Hatch.
+The event was sponsored by Wells Fargo, the Washington Spirit. D.C. United, Busboys and Poets, Cosentino, Planet Word, PAVE, and Nationwide, and included a pre-event reception hosted by the Washington Spirit that featured welcome remarks from Emma May, the Spirit’s President of Business Operations, and star striker and DC SCORES board member Ashley Hatch.
 
 Our Words Our City, DC SCORES had hosted since 2017, also featured an exciting new component: the inaugural presentation to the Poet-Athlete Award, which was bestowed upon poet Clint Smith.
 
