@@ -1,8 +1,7 @@
 ---
-title: DC SCORES Welcomes EagleBank and ESPN 360 AM as New Sponsors for 20th Anniversary
+title: DC SCORES Welcomes EagleBank and ESPN 630 AM as New Sponsors for 20th Anniversary
   SCORES Cup
-date: 2023-06-05 18:17:00 Z
-published: false
+date: 2023-06-06 11:00:00 Z
 Author: Jane Wong
 Thumbnail Image: "/uploads/SCUP23%20Media%20Sponsor.png"
 ---
@@ -25,21 +24,15 @@ Thumbnail Image: "/uploads/SCUP23%20Media%20Sponsor.png"
 
 
 
-
-
-
-
-
-
-
-
-DC SCORES is excited to announce EagleBank and ESPN 360 AM, the Sports Capitol, as sponsors of this year’s SCORES Cup.
+DC SCORES is excited to announce EagleBank and ESPN 630 AM, the Sports Capitol, as sponsors of this year’s SCORES Cup.
 
 The corporate soccer tournament fundraiser takes place on June 17 at The Fields at RFK and is believed to be the largest event of its kind on the East Coast.
 
-EagleBank came on board as the main event sponsor in December. The DMV-based bank will also field a staff squad in the competition. EagleBank’s sponsorship gift of $25,000 will offset the costs of running the tournament, including venue hire, team jerseys and equipment, food trucks, and other participant experiences. Their sponsorship will also fund the inclusion of a SCORES Cup team of DC SCORES coaches.
+EagleBank came on board as the main event sponsor in December. The DMV-based bank will also field a staff squad in the competition. EagleBank’s sponsorship gift of $25,000 will offset the costs of running the tournament, including venue hire, team jerseys and equipment, food trucks, and other participant experiences. The bank's sponsorship will also fund the inclusion of a SCORES Cup team of DC SCORES coaches.
 
-EagleBank serves communities across the DMV area by providing business, personal, and real estate banking services. \[EagleBank exec quote\]
+EagleBank serves communities across the DMV area by providing business, personal, and real estate banking services. “EagleBank is proud to be the lead sponsor of this year’s DC SCORES Cup and has been an enthusiastic supporter of DC SCORES and its mission since 2018," said Antonio F. Marquez, EagleBank's Senior Executive Vice President and President of Commercial Banking. "This tournament brings together a wonderful group of local organizations for the benefit of DC SCORES, which makes a meaningful impact on the lives of under-served Washington, DC, public school kids."
+
+"For the past 25 years, EagleBank has been committed to supporting and enhancing our community," he continued. "Now more than ever, there’s nothing more important than to give back. This is an opportunity for all of us to engage, play and have fun while raising funds for DC SCORES."
 
 ESPN 630 AM, a DC-based sports radio station offering local programming, [announced its new SCORES Cup media partnership last week](https://radioink.com/2023/06/01/cumulus-dc-wants-to-kick-it-with-scores-for-kids/). The station will provide media coverage of the tournament, including pre-event social media, digital promotions, and live interviews. Representatives from ESPN 630 AM will also host a fan experience for SCORES Cup participants during the tournament.
 
@@ -51,4 +44,4 @@ DC SCORES serves more than 3,000 young people at over 60 elementary and middle s
 
 "We are so excited to welcome our two new sponsors to what promises to be the biggest and best SCORES Cup ever," said Tony Francavilla, Chief Development Officer at DC SCORES. "Putting on an event of this magnitude simply would not be possible without the backing of EagleBank, and our new media partnership with ESPN 630 AM will enable us to share our mission with more people in the District. We're so grateful to both our sponsors for supporting poet-athletes in DC."
 
-Held annually by DC SCORES, SCORES Cup hosts corporate teams from various sectors of the DC metro area which compete in four separate 7-a-side soccer divisions to be crowned champions of the DMV. The 2023 SCORES Cup will be the largest iteration of the tournament yet, with over fifty teams participating. All proceeds of the event will go toward DC SCORES’ mission to ensure that every young person in the District experiences the joys of childhood: sports, arts, service, and being part of a community.
+Held annually by DC SCORES, SCORES Cup sees corporate teams from various sectors of the DC metro area compete in four separate 7-a-side soccer divisions to be crowned champions of the DMV. The 2023 SCORES Cup will be the largest iteration of the tournament yet, with over fifty teams participating. All proceeds of the event will go toward DC SCORES’ mission to ensure that every young person in the District experiences the joys of childhood: sports, arts, service, and being part of a community.
