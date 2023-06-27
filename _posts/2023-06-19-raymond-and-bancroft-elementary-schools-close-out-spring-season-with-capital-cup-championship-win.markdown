@@ -1,7 +1,7 @@
 ---
 title: Raymond and Bancroft Elementary Schools Close Out Spring Season With Capital
   Cup Championship Win
-date: 2023-06-14 18:33:00 Z
+date: 2023-06-19 18:33:00 Z
 Author: Mairead MacRae
 Thumbnail Image: "/uploads/2-f6f1d2.png"
 ---
