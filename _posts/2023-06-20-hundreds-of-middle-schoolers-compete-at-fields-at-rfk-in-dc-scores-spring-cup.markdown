@@ -1,6 +1,6 @@
 ---
 title: Hundreds of Middle Schoolers Compete at Fields at RFK in DC SCORES Spring Cup
-date: 2023-06-09 19:54:00 Z
+date: 2023-06-20 19:54:00 Z
 Author: Mairead MacRae
 Thumbnail Image: "/uploads/1-d75c80.png"
 ---
