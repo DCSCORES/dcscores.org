@@ -8,24 +8,7 @@ Thumbnail Image: "/uploads/Cover%20photo%20-%20BW-00a57e.png"
 ![Cover photo - BW.png](/uploads/Cover%20photo%20-%20BW.png)
 *Photo: Brandon Williams*
 
-SCORES Cup 2023 was truly special, as DC SCORES marked the 20th anniversary of the tournament, and hosted the largest number of teams in the tournament’s history.
-
-
-
-
-
-
-
-
-
-
-
-
-
-
- 
-
-This year’s Cup was held on June 17th, 2023 at the Fields at RFK Stadium, with 50 corporate teams coming together to play soccer just along the Anacostia River.
+SCORES Cup 2023 was truly special, as DC SCORES marked the 20th anniversary of the tournament, and hosted the largest number of teams in the tournament’s history. This year’s Cup was held on June 17th, 2023 at the Fields at RFK Stadium, with 50 corporate teams coming together to play soccer just along the Anacostia River.
 
 Leading up to the 20th anniversary tournament, the DC SCORES team shared memorable stories from previous years, including the first ever tournament —originally known as “Sharks v. Suits”—hosted in 2003. See the SCORES Cup Scrapbook in [this blog post](https://www.dcscores.org/blog/2023/04/scores-cup-scrapbook-a-celebration-of-twenty-years-of-the-dmvs-largest-corporate-charity-soccer-tournament)! In addition, DC SCORES teamed up with custom jersey designer Olive and York to create a special kit to commemorate the 20th anniversary.
 
