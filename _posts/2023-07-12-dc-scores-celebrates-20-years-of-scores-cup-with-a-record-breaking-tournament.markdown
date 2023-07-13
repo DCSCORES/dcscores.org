@@ -6,7 +6,7 @@ Thumbnail Image: "/uploads/Cover%20photo%20-%20BW-00a57e.png"
 ---
 
 ![Cover photo - BW.png](/uploads/Cover%20photo%20-%20BW.png)
-*Photo: Brandon Williams*
+*This year's SCORES Cup was the largest in the tournament's history Photo: Brandon Williams*
 
 SCORES Cup 2023 was truly special, as DC SCORES marked the 20th anniversary of the tournament, and hosted the largest number of teams in the tournament’s history.
 
@@ -21,9 +21,6 @@ SCORES Cup 2023 was truly special, as DC SCORES marked the 20th anniversary of t
 
 
 
-
-
- 
 
 This year’s Cup was held on June 17th, 2023 at the Fields at RFK Stadium, with 50 corporate teams coming together to play soccer just along the Anacostia River.
 
