@@ -25,7 +25,7 @@ Every day at 1PM, students from across the District gather in the cafeteria to w
 
 This year’s summer camp participants consist of rising 4th and 5th graders, some of whom play on DC SCORES teams at their home schools during the school year, while others are part of the program for the first time during the summer.
 
-Staff members include the SCORES program coordinator team, participants from the DC SYEP program, and volunteers from the Sidwell Friends School.
+Staff members include the SCORES program coordinator team, participants from the [DC SYEP program](https://summerjobs.dc.gov/), and volunteers from the Sidwell Friends School.
 
 ## Building on Basics
 
@@ -48,7 +48,7 @@ Each team member was assigned a number and had to pass the ball to the person wi
 
 They rounded out their soccer session with a scrimmage game and a race up the John Lewis playground jungle gym before heading indoors for the STEAM portion of the day. 
 
-## DC SCORES Values in Camp
+## DC SCORES Values at Camp
 
 After a few hours in the sun, campers come back inside for activities focused on STEAM (Science, Technology, Engineering, Art, and Math). Art is the highlight of their activity today, as campers come together to share what they know about three important DC SCORES values: teamwork, leadership, and commitment. 
 
