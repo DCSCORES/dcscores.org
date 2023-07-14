@@ -3,14 +3,28 @@ title: DC SCORES Alumnus Meron Rezene Gives Back to His Community With Mancheste
   City Soccer Academy at Sofive
 date: 2023-03-22 14:54:00 Z
 Author: Mairead MacRae
+Thumbnail Image: "/uploads/Meron%20Story.png"
 ---
 
-![1-525c82.png](/uploads/1-525c82.png)
+![Meron Story.png](/uploads/Meron%20Story.png)
 *Meron Rezene is drawing on his experience as a DC SCORES poet-athlete to help build a new generation of DMV soccer talent with Manchester City Soccer Academy at Sofive.*
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 DC SCORES alumnus and [Manchester City Soccer Academy at Sofive](https://www.mcsa-usa.com/) Youth Development Coach Meron Rezene is one of the few soccer fans in the world to have touched the Premier League trophy.
 
-The opportunity came unexpectedly in 2019, when Rezene was still in high school and made his way one evening to his favorite soccer pick-up spot: the field at Marie Reed Elementary School. [Constructed in 2013](https://wamu.org/story/13/04/03/adams_morgan_school_gets_new_soccer_field_thanks_to_uae_manchester_city/) by Manchester City Football Club and the Embassy of the United Arab Emirates, the turf at Marie Reed also has a storied DC SCORES history as the home field of [the nonprofit’s original school](https://www.dcscores.org/about-us/mission-and-history/).
+The opportunity came unexpectedly in 2019, when Rezene was home from college and made his way one evening to his favorite soccer pick-up spot: the field at Marie Reed Elementary School. [Constructed in 2013](https://wamu.org/story/13/04/03/adams_morgan_school_gets_new_soccer_field_thanks_to_uae_manchester_city/) by Manchester City Football Club and the Embassy of the United Arab Emirates, the turf at Marie Reed also has a storied DC SCORES history as the home field of [the nonprofit’s original school](https://www.dcscores.org/about-us/mission-and-history/).
 
 This shared connection to the space made it the perfect venue for a visit by Manchester City players to see DC SCORES programs in action and Rezene showed up just as the event was in full swing. A DC SCORES staff member recognized him in the crowd and invited Rezene to join the group, including for a selfie with the Premier League trophy the title-winners had brought to the event.
 
@@ -22,9 +36,6 @@ But, while Rezene’s experience may read as a string of lucky encounters, they 
 
 “Most of my memories, most of my friendships came from playing soccer with DC SCORES,” says Rezene. “Through the City Sofive programs, I want to create similar experiences and bring quality and inspiration to the young players in our community.”
 
-![2-059844.png](/uploads/2-059844.png)
-*Rezene draws on his own experience as a lifelong DMV resident to connect with the kids he coaches.*
-
 ## A Life-Long Passion
 
 “Most of the people who know me, they don’t know me without a ball at my feet,” remarks Rezene. He inherited his love of soccer from his father, who hails from Eritrea, [where soccer is the most popular sport](https://www.goal-click.com/football-photography-stories/eritrea#:\~:text=Football%20and%20cycling%20are%20the,a%20long%20history%20of%20football.).
@@ -33,8 +44,6 @@ But, while Rezene’s experience may read as a string of lucky encounters, they 
 
 Through elementary school, Rezene and his brother, Aron, played on a recreational soccer team coached by their father but, as their ability in the sport progressed, the siblings yearned for the competition of school sports. When Rezene arrived for middle school at E. L. Haynes Public Charter School, he begged school staff to establish a soccer team. “I just kept crying about it to my gym teachers,” remembers Rezene. Eventually, his impassioned pleas paid off and E. L. Haynes joined DC SCORES in 2011.
 
-![4-afaefa.png](/uploads/4-afaefa.png)
-*In addition to his work at City Sofive, Rezene will begin coaching the E.L. Haynes DC SCORES team in the spring.*
 
 In those first years, the unpracticed team didn’t win many matches. “Safe to say, we were the worst team in DC SCORES,” jokes Rezene. “But the fact I had begged for the team meant I had to rise up for the challenge and make it worth it.”
 
@@ -49,9 +58,6 @@ As he progressed through middle school, Rezene tapped into more selective soccer
 In high school, Rezene got his first taste of coaching as a summer camp counselor for DC SCORES. After graduating, he sought out opportunities to build his career in the field, serving as a Real Madrid camp counselor and as a coach for both DC Youth Futbol Club and the junior varsity team at St Albans School in Cathedral Heights.
 
 At City Sofive soccer centers Rezene ensures that his coaching is tailored to each of his players. The City Play Model works in phases, encouraging players to build on skills covered in previous training sessions to incrementally improve their game. As part of the model, Rezene uses a variety of coaching techniques tailored to his players. “Being able to cater to other learning styles is extremely important ensuring that I create fun, safe, and engaging sessions for the players,” he stresses.
-
-![3-e4991b.png](/uploads/3-e4991b.png)
-\*Rezene is excited to introduce his DC SCORES students to elite soccer opportunities at City Sofive and across the DMV. \*
 
 Taking the time to invest in every child on his squad is not only critical to the team’s overall success but lets each of his players know they are valued. Rezene believes that this is especially important for young athletes who have fewer resources than their peers. “Some kids, they sometimes can’t even make it to practice because of the work and other commitments their parents have,” he explains. “If we want to push our youth to improve in soccer, we should understand how to cater to their needs.”
 
