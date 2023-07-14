@@ -8,6 +8,15 @@ Thumbnail Image: "/uploads/1-79e1a6.png"
 ![1-79e1a6.png](/uploads/1-79e1a6.png)
 *Students from across D.C. come to John Lewis Elementary School for DC SCORES Summer Camp.*
 
+
+
+
+
+
+
+
+
+
 The first week of July means lots of soccer and poetry as DC SCORES Summer Camp kicks off at John Lewis Elementary School! 
 
 Every day at 1PM, students from across the District gather in the cafeteria to wait for their camp counselors. This year, DC SCORES staff and volunteers come together to form the summer camp team, led by Associate Manager Jewel Christian.
