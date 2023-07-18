@@ -33,7 +33,7 @@ The first week of camp focused on building poetry skills with intensive workshop
 
 On the final day of the poetry session, participants put on their very own poetry slam to showcase their work, hosted by former DC SCORES poetry fellow and professional spoken word artist Malachi Byrd!
 
-This week focuses on soccer, where campers develop ball skills such as passing and dribbling through practice drills and games. Campers started off the afternoon with teambuilder – a game of charades with SCORES Program Coordinator Ronald Granados – before heading out to the field to start practice. 
+This week focused on soccer, where campers develop ball skills such as passing and dribbling through practice drills and games. Campers started off the afternoon with teambuilder – a game of charades with SCORES Program Coordinator Ronald Granados – before heading out to the field to start practice. 
 
 Campers split into two teams to play a game of number passing led by Coach J, a SCORES coach at Drew Elementary School and a counselor at DC SCORES Summer Camp since 2018.
 
