@@ -2,7 +2,7 @@
 title: Laisha Dougherty
 date: 2021-08-13 00:54:00 Z
 position: 52
-Details: Office of Kenyan McDuffie
+Details: Events DC
 Section: advisory
 ---
 
