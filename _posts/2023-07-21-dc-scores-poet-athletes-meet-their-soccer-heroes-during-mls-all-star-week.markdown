@@ -74,8 +74,7 @@ The team took on squads from 5ASIDE podcast, content creators SoccerGirlProbs, a
 “Playing alongside some of my soccer heroes, including former national team players, was wonderful and surreal,” said Eifrig. “But what was even better was being able to introduce them to the work we do at DC SCORES and spread the word about our poet-athletes' impact in the District.”
 
 ![All Star Week Story.png](/uploads/All%20Star%20Week%20Story.png)
-*DC SCORES Executive Director Katrina Owens accepts a check for $25,000 from MLS All-Star and D.C. United goalkeeper Tyler Miller.
-*
+*DC SCORES Executive Director Katrina Owens accepts a check for $25,000 from MLS All-Star and D.C. United goalkeeper Tyler Miller.*
 ## An Impactful Gift
 
 To cap off a busy day, DC SCORES staff members and poet-athletes joined thousands of fans at Audi Field for the 2023 MLS All-Star Skills Challenge.
