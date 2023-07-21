@@ -1,7 +1,25 @@
 ---
 title: DC SCORES Poet-Athletes Meet Their Soccer Heroes During MLS All-Star Week
-date: 2023-07-21 12:54:00 Z
+date: 2023-07-21 09:30:00 Z
+Author: Mairead MacRae
+Thumbnail Image: "/uploads/3-e34f79.png"
 ---
+
+![Seaton Kickoff.jpeg](/uploads/Seaton%20Kickoff.jpeg)
+
+*DC SCORES poet-athletes kicked off a week of events for the MLS All-Star game. Photo: MLS WORKS.*
+
+
+
+
+
+
+
+
+
+
+
+
 
 The stars were out for DC SCORES poet-athletes this week as some of the biggest names in global soccer arrived in the District for the [2023 MLS All-Star game](https://www.mlssoccer.com/all-star/2023/).
 
@@ -29,7 +47,7 @@ Seaton 3rd-grader Jeremiah was proud of the long-term impact the pitch would hav
 
 ![2-51b962.png](/uploads/2-51b962.png)
 
-*DC SCORES Senior Program Director Jason Gross (second from right) poses with representatives from Howard University at the 2023 All-Star Hometown Heroes. From left: Howard University Men's Soccer Team former head coaches Keith Tucker and Lincoln Phillips, Head Coach Phillip Gyau, Gross, and Executive Senior Associate Athletics Director of Howard Athletics Chevonne Mansfield.*
+*DC SCORES Senior Program Director Jason Gross (second from right) poses with representatives from Howard University at 2023 All-Star Hometown Heroes. From left: Howard University Men's Soccer Team former head coaches Keith Tucker and Lincoln Phillips, Head Coach Phillip Gyau, Gross, and Executive Senior Associate Athletics Director of Howard Athletics Chevonne Mansfield.*
 
 ## Honoring Local Legends
 
@@ -55,7 +73,10 @@ The team took on squads from 5ASIDE podcast, content creators SoccerGirlProbs, a
 
 “Playing alongside some of my soccer heroes, including former national team players, was wonderful and surreal,” said Eifrig. “But what was even better was being able to introduce them to the work we do at DC SCORES and spread the word about our poet-athletes' impact in the District.”
 
-An Impactful Gift
+![All Star Week Story.png](/uploads/All%20Star%20Week%20Story.png)
+*DC SCORES Executive Director Katrina Owens accepts a check for $25,000 from MLS All-Star and D.C. United goalkeeper Tyler Miller.
+*
+## An Impactful Gift
 
 To cap off a busy day, DC SCORES staff members and poet-athletes joined thousands of fans at Audi Field for the 2023 MLS All-Star Skills Challenge.
 
@@ -67,9 +88,7 @@ Despite an Arsenal victory, their enthusiasm was rewarded when All-Star and D.C.
 
 “A gift like this will have a huge impact on the poet-athletes of DC,” said Tony Francavilla, Chief Development Officer at DC SCORES. “We’re incredibly thankful for MLS WORKS, the All-Stars, and — of course – our partners at D.C. United for making this investment in our community right as the District steps into the soccer spotlight.”
 
-\[PHOTO BREAK\]
-
-All-Star Game
+## All-Star Game
 
 On July 19, the main event of All-Star week arrived as the MLS’s best met Arsenal at Audi Field. DC SCORES staff and coaches took in the action in a game that broke Audi Field’s attendance record.
 
