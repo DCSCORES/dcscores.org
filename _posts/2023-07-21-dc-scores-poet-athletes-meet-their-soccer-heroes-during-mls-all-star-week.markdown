@@ -9,18 +9,6 @@ Thumbnail Image: "/uploads/3-e34f79.png"
 
 *DC SCORES poet-athletes kicked off a week of events for the MLS All-Star game. Photo: MLS WORKS.*
 
-
-
-
-
-
-
-
-
-
-
-
-
 The stars were out for DC SCORES poet-athletes this week as some of the biggest names in global soccer arrived in the District for the [2023 MLS All-Star game](https://www.mlssoccer.com/all-star/2023/).
 
 The annual event sees the best players in Major League Soccer (MLS) take on a top international club in front of tens of thousands of fans. The match is also accompanied by world-class events, concerts, fan experiences, and community days.
@@ -31,7 +19,7 @@ This year, the All-Stars took on Arsenal F.C., and — thanks to an official com
 
 “For this historic moment, we hope that fans experience the creativity, teamwork, and dedication of DC SCORES participants as well as the incredible impact they have on our great city,” she added.
 
-![All Star Week Story-9e2b7a.png](/uploads/All%20Star%20Week%20Story-9e2b7a.png)
+![All Star Week Story-eec83d.png](/uploads/All%20Star%20Week%20Story-eec83d.png)
 
 *Poet-athletes from Seaton Elementary School pose with MLS All-Stars, D.C. United players and staff, and representatives from the U.S. Soccer Foundation and MLS WORKS at the opening of the school's new mini-pitch.*
 
@@ -75,6 +63,7 @@ The team took on squads from 5ASIDE podcast, content creators SoccerGirlProbs, a
 
 ![All Star Week Story.png](/uploads/All%20Star%20Week%20Story.png)
 *DC SCORES Executive Director Katrina Owens accepts a check for $25,000 from MLS All-Star and D.C. United goalkeeper Tyler Miller.*
+
 ## An Impactful Gift
 
 To cap off a busy day, DC SCORES staff members and poet-athletes joined thousands of fans at Audi Field for the 2023 MLS All-Star Skills Challenge.
