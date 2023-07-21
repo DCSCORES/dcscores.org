@@ -31,9 +31,9 @@ This year, the All-Stars took on Arsenal F.C., and — thanks to an official com
 
 “For this historic moment, we hope that fans experience the creativity, teamwork, and dedication of DC SCORES participants as well as the incredible impact they have on our great city,” she added.
 
-![1-48b3b3.png](/uploads/1-48b3b3.png)
+![All Star Week Story-9e2b7a.png](/uploads/All%20Star%20Week%20Story-9e2b7a.png)
 
-*Poet-athletes from Seaton Elementary School pose with MLS All-Stars, D.C. United players and staff, and representatives from the U.S. Soccer Foundation and MLS WORKS at the opening of the school's new mini-pitch. Photo: MLS WORKS.*
+*Poet-athletes from Seaton Elementary School pose with MLS All-Stars, D.C. United players and staff, and representatives from the U.S. Soccer Foundation and MLS WORKS at the opening of the school's new mini-pitch.*
 
 ## Kicking Off A New Soccer Legacy at Seaton Elementary
 
