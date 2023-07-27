@@ -20,4 +20,4 @@ whr_embed(508866, {detail: 'titles', base: 'jobs', zoom: 'state', grouping: 'non
 
 ## Internships and Fellowships
 
-There are currently no available internships or fellowships.
+Writing Consultant - Junior SCORES: [View Job Description](/uploads/Junior%20SCORES%20Writing%20Pilot%20RFP%20(1).pdf)
