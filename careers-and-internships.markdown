@@ -20,4 +20,4 @@ whr_embed(508866, {detail: 'titles', base: 'jobs', zoom: 'state', grouping: 'non
 
 ## Internships and Fellowships
 
-Writing Consultant - Junior SCORES: [View Job Description](/uploads/Junior%20SCORES%20Writing%20Pilot%20RFP%20(1).pdf)
+Curriculum Specialist - Junior SCORES Writing Program: [View Job Description](/uploads/Junior%20SCORES%20Writing%20Pilot%20RFP%20(1).pdf)
