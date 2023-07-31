@@ -1,5 +1,6 @@
 ---
 title: Greta Adjei Silas
+published: false
 position: 4
 Details: People and Business Operations Director
 Email: gadjei-silas@dcscores.org
