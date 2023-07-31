@@ -1,7 +1,7 @@
 ---
 title: DC SCORES Alumnus Meron Rezene Gives Back to His Community With Manchester
   City Soccer Academy at Sofive
-date: 2023-03-22 14:54:00 Z
+date: 2023-07-03 14:54:00 Z
 Author: Mairead MacRae
 Thumbnail Image: "/uploads/Meron%20Story.png"
 ---
