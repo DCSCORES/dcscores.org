@@ -69,7 +69,7 @@ Lewis brought the boys to a summer camp hosted by [Open Goal Project](https://ww
 “Open Goal coaches, like Coach Popsie and [Amir \[Lowery\]](https://www.opengoalproject.org/our-team-1), have taught us a lot,” says Chris. “They look out for you,” Axel adds, “Make sure you’re on top of things and doing well at school and with your family.”
 
 ![3-ef6f20.png](/uploads/3-ef6f20.png)
-*Axel credits his growth as an athlete to numerous supporters throughout his life. He is pictured here with Open Goal Project Coach Amir Lowery (left), his brother Chris (center left), and Howard coach and DC SCORES Senior Program Director Jason Gross.*
+*Axel credits his growth as an athlete to numerous supporters throughout his life. He is pictured here with Open Goal Project Coach Amir Lowery (left), his brother Chris (center left), and Howard coach and DC SCORES Senior Program Director Jason Gross (right).*
 
 ## Staying Grounded Through DC SCORES
 
