@@ -1,6 +1,6 @@
 ---
-title: 'Homegrown Talent: Alumnus Axel Chicas Reflects on Sport, Family, and Community
-  as He Joins Howard University Soccer Program'
+title: 'Homegrown Talent: Alumnus Axel Chicas Reflects on Family and Community as
+  He Joins Howard University Soccer Program'
 date: 2023-08-16 17:00:00 Z
 Author: Mairead MacRae
 Thumbnail Image: "/uploads/1-f91f99.png"
