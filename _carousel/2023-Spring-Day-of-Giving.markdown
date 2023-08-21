@@ -1,9 +1,9 @@
 ---
-title: Spring Day of Giving 2023
+title: Alumnus Axel Chicas Joins Howard Men's Soccer Team
 date: 2022-01-24 17:20:00 Z
 position: 0
-Image: "/uploads/Spring%20Day%20of%20Giving%2023%20Carousel%20Photo.png"
-Link: https://give.dcscores.org/campaign/spring-day-of-giving/c477602
+Image: "/uploads/1-f91f99.png"
+Link: https://www.dcscores.org/blog/2023/08/axel-chicas-joins-howard-university-soccer-program
 ---
 
-Learn about #poetathleteimpact and give to support DC SCORES teams!
+Learn about how DC SCORES helped Axel achieve his dream of playing college soccer. 
