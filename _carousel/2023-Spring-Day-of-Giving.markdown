@@ -2,7 +2,7 @@
 title: Alumnus Axel Chicas Joins Howard Men's Soccer Team
 date: 2022-01-24 17:20:00 Z
 position: 0
-Image: "/uploads/1-f91f99.png"
+Image: "/uploads/Website%20Carousel.png"
 Link: https://www.dcscores.org/blog/2023/08/axel-chicas-joins-howard-university-soccer-program
 ---
 
