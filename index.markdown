@@ -1,6 +1,5 @@
 ---
-title: Upcoming Events
-published: false
+layout: home
 Featured Event:
 - Title: Poetry Slam!
   Description: DC's largest youth spoken-word competition features DC SCORES students
@@ -16,6 +15,5 @@ Featured Event:
   Box Alignment: Left
   Box Color: "#fec737"
   Box Contrast: Dark
-layout: home
 ---
 
