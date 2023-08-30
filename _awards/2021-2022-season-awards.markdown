@@ -1,6 +1,6 @@
 ---
 title: 2021-22 season awards
-date: 2023-08-30 17:24:00 Z
+date: 2023-08-30 14:00:00 Z
 ---
 
 ##### During the **2021-22** season, DC SCORES has received the following recognition:
