@@ -49,6 +49,7 @@ History:
     more than 20 schools.
 - Year: 2020
   Description: DC SCORES becomes an official community partner of the Washington Spirit.
+  Image: "/uploads/spritgoals4girls.jpg"
 - Year: 2023
   Description: Clint Smith receives the inaugural Poet-Athlete Award at Our Words
     Our City.
