@@ -16,3 +16,5 @@ season: 2019-20
 * DC SCORES won the **DC PCSB Best Practice Award for Community Influence** by the DC Public Charter School Board.
 
 * **Michael Holstein**, Director of Communications and Marketing, was honored by [United Soccer Coaches for Best Video Feature](https://unitedsoccercoaches.org/united-soccer-coaches-announces-annual-media-contest-award-recipients-2/) for his documentary, [Soccer in the City](http://amazon.dcscores.org/), which features DC SCORES.
+
+* DC SCORES won the 2019 President's Council on Sports, Fitness & Nutrition Community Leadership Award.
