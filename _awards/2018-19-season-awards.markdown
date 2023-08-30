@@ -13,4 +13,4 @@ season: 2018-19
 
 * Director of Creative Arts & Education, **Charity Blackwell**, was the D.C. United finalist for the 2019 MLS Works Community MVP award.
 
-* DC SCORES was the honoree for the Library of Congress Literacy Award for Best Practices.
+* DC SCORES was the 2018 honoree for the Library of Congress Literacy Award for Best Practices.
