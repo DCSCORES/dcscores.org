@@ -23,7 +23,7 @@ We welcome volunteers of all backgrounds at DC SCORES. If you are interested in 
 ![Referee](/uploads/volunteer-referee-float-left.jpg)
 
 **Description:**
-During the spring season (3/23—6/3) we have weekly game days on Thursdays (4-6pm) for our elementary school program. The smooth operation of these game days relies on our volunteer referees and, with 20\+ weekly games all over the city, we’re always looking for more volunteers!
+During the fall season (9/20-11/9) we have weekly game days on Thursdays (4-6pm) for our elementary school program. The smooth operation of these game days relies on our volunteer referees and, with 20\+ weekly games all over the city, we’re always looking for more volunteers!
 
 
 Contact mlocker@dcscores for more information.
@@ -32,61 +32,57 @@ Contact mlocker@dcscores for more information.
 
 <span id="volunteer-special-events"></span>
 
-## Spring 2023 Events
+## Fall 2023 Events
 
-There are plenty of DC SCORES events happening this spring and we’re seeking volunteers to help with all of them! Sign up [here](https://docs.google.com/forms/d/1w19_UB0IXSaHN3kr0c08DBUIWHU29oh32W_KO5T_h0k/edit) if interested in learning more.
+There are plenty of DC SCORES events happening this fall and we’re seeking volunteers to help with all of them! Sign up [here](https://docs.google.com/forms/d/1w19_UB0IXSaHN3kr0c08DBUIWHU29oh32W_KO5T_h0k/edit) if interested in learning more.
 
-### Our Words Our City
+### One Night One Goal
 
-Our Words Our City is our all-star poetry event where our poets recite their pieces alongside nationally acclaimed spoken word artists. This year’s event features Clint Smith — check out the [OWOC website](https://owoc.dcscores.org/) to learn more! Volunteers are needed for ushers and general support.
+The One Night One Goal fundraising gala at Audi Field features performances from top spoken word artists, fieldside and jumbotron photo opportunities, live and silent auctions, and guest appearances from D.C. United and Washington Spirit professional soccer players.
 
-**Date and Time:** May 16th, 2023, 6-10PM
+**Date and Time:** October 12th, 2023, 6-10PM
 
-**Location:** [Arena Stage at the Mead Center for American Theater](https://goo.gl/maps/yJNZ3wxUawLDdM9K6)
-
----
-
-### Junior Jamboree
-
-Junior Jamboree celebrates the end of our littlest poet-athletes’ season with an afternoon of soccer, crafts, and fun. Volunteers will help with set up, break down, running soccer games, and arts and crafts!
-
-**Date and Time:** May 24th, 2023, 3-6PM
-
-**Location:** [Trinity Washington University](https://goo.gl/maps/KK4Rh3dhRm6itqR77)
+**Location:** [Audi Field](https://goo.gl/maps/MUg9WGKkZCdubCeb9)
 
 ---
 
-### Middle School Spring Cup
+### Fall Frenzy
 
-MS Spring Cup is a half-day soccer tournament celebrating the end of our middle school soccer season. Volunteers will set up, break down, run soccer games, and give general support.
+Poet-athletes and their families gather for a combination of soccer tournaments and community activities, such as inflatable games, skills clinics, and poetry workshops at Anacostia Park. *Junior Fall Frenzy will be on October 18th, 2023*
 
-**Date and Time:** June 2nd, 2023, 12-6PM
+**Date and Time:** October 28th, 2023, 10AM-3PM
 
-**Location:** [The Fields at RFK Campus](https://goo.gl/maps/raW5gf5wrKawkttJ6)
-
----
-
-### Jamboree
-
-Jamboree celebrates the end of our Elementary SCORES season with a full day of soccer games, activities, community, and fun! Volunteers will set up, break down, run soccer games, work booths, distribute food, and take photographs! We welcome individuals and groups to support this event — the more the merrier!
-
-**Date and Time:** June 3rd, 2023, 9AM-3PM
-
-**Location:** [Anacostia Park](https://goo.gl/maps/ujGKFB4HrN3LqYpt7)
-
-Sign up specifically for Jamboree [here](https://docs.google.com/forms/d/1mhu6GKCDouyj3Iq53z0rwmjHtOoTPyBunFXvSOEMWAw/edit)!
+**Location:** [The Fields at RFK](https://www.google.com/maps/place/The+Fields+at+RFK/@38.8931836,-76.9735483,17z/data=!3m1!4b1!4m6!3m5!1s0x89b7b97b222b1f63:0xf6f7f0271b62bab2!8m2!3d38.8931795!4d-76.9709734!16s%2Fg%2F11hycm2fcp?entry=ttu)
 
 ---
 
-### [DC SCORES Cup](https://www.dcscorescup.org/)
+### Middle School Poetry Slam
 
-SCORES Cup is our annual professional soccer tournament fundraiser. Teams compete in a fun-filled, all-day tournament to win the coveted cup! Volunteers will help set up, break down, run games, and give general support!
+Featuring original spoken word poetry from middle schoolers attending 11 schools across the city.
 
-**Date:** June 17, 2023, 9AM-6PM
+**Date and Time:** November 15th, 2023, time TBD
 
-**Location:** [The Fields at RFK Campus](https://goo.gl/maps/ACnjqiZuBh7FWEzf7)
+**Location:** TBD
 
-**Want to get involved?** Please visit the [DC SCORES cup website](https://cup.dcscores.org/)
+---
+
+### Capital Cup
+
+At the end of the fall season, the District’s best middle school soccer teams compete in a series of thrilling playoff games to be crowned champions of the 2023 DC SCORES Capital Cup.
+
+**Date and Time:** November 17th, 2023, 4PM-8PM
+
+**Location:** [Audi Field](https://goo.gl/maps/MUg9WGKkZCdubCeb9)
+
+---
+
+### Elementary School Poetry Slams
+
+Poet-athletes from over 40 schools perform in front of parents, family members, and local community leaders, over three consecutive nights at public school auditoriums across the city.
+
+**Date:** November 29th (Westside) and 30th (Eastside), 2023, time TBD
+
+**Location:** TBD
 
 ---
 
