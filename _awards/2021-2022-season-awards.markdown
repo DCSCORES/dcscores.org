@@ -1,5 +1,6 @@
 ---
 title: 2021-22 season awards
+season: 2021-22
 ---
 
 ##### During the **2021-22** season, DC SCORES has received the following recognition:
