@@ -36,6 +36,7 @@ Contact mlocker@dcscores for more information.
 
 There are plenty of DC SCORES events happening this fall and we’re seeking volunteers to help with all of them! Sign up [here](https://docs.google.com/forms/d/1w19_UB0IXSaHN3kr0c08DBUIWHU29oh32W_KO5T_h0k/edit) if interested in learning more.
 
+
 ### One Night One Goal
 
 The One Night One Goal fundraising gala at Audi Field features performances from top spoken word artists, fieldside and jumbotron photo opportunities, live and silent auctions, and guest appearances from D.C. United and Washington Spirit professional soccer players.
