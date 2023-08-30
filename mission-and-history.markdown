@@ -1,7 +1,6 @@
 ---
 title: Mission and history
 permalink: "/about-us/mission-and-history/"
-published: false
 Top Image: "/assets/images/masthead-mission-and-history.jpg"
 Top Image Position: 50% 40%
 mission:
@@ -53,6 +52,7 @@ History:
 - Year: 2023
   Description: Clint Smith receives the inaugural Poet-Athlete Award at Our Words
     Our City.
+  Image: "/uploads/clintsmithowoc.jpg"
 bottomText:
 - Julie Kennedy, a former teacher at Marie Reed Learning Center, invented this complementary
   combination of activities in 1994 when she began working with a group of 15 girls
