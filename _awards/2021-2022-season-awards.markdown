@@ -1,5 +1,5 @@
 ---
-title: 2021-2022 season awards
+title: 2021-22 season awards
 date: 2023-08-30 17:24:00 Z
 published: false
 ---
