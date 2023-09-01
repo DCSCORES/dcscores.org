@@ -1,6 +1,5 @@
 ---
 title: Tierra Stewart
-date: 2023-08-30 18:51:00 Z
 position: 2
 Details: Chief Program Officer
 Email: tstewart@dcscores.org
