@@ -4,7 +4,7 @@ date: 2023-07-18 20:08:00 Z
 position: 20
 Details: Senior Development Manager, Grants
 Email: mtesten@dcscores.org
-Profile Image: "/uploads/IMG_7937.jpg"
+Profile Image: "/uploads/2-f2f712.png"
 Section: staff
 ---
 
