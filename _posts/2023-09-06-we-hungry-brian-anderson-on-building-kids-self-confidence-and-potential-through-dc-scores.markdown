@@ -9,6 +9,26 @@ Thumbnail Image: "/uploads/1-0c30aa.png"
 ![1-0c30aa.png](/uploads/1-0c30aa.png)
 *Anderson aims to use his role as Assistant Manager for Programs to uplift young people in DC.*
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 The walls of Brian Anderson’s cubicle in DC SCORES’ downtown offices are papered with mantras and affirmations. “If God is for us, who can be against us…Nobody,” says one hand-written note, which is stuck on his monitor next to another reminding him to “stay resilient on \[his\] path.”
 
 The decor reflects the ambition that has led Anderson through an impressive career working at the nexus of sports and youth development, including at organizations such as the United Nations and the Special Olympics.
