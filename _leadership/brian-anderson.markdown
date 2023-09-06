@@ -1,5 +1,5 @@
 ---
-title: Brian Anderson
+title: Brian "Mogul" Anderson
 date: 2023-01-20 16:52:00 Z
 position: 6
 Details: Associate Manager, Programs
