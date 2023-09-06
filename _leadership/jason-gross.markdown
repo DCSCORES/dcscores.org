@@ -4,7 +4,7 @@ date: 2021-08-09 20:33:00 Z
 position: 13
 Details: Senior Program Director of Soccer and Operations
 Email: jgross@dcscores.org
-Profile Image: "/uploads/Jason%20Gross.png"
+Profile Image: "/uploads/4-989035.png"
 Section: staff
 ---
 
