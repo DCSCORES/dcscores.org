@@ -1,7 +1,7 @@
 ---
 title: Dontai Smalls
 position: 87
-Details: 
+Details: UPS
 Section: emeritus
 ---
 
