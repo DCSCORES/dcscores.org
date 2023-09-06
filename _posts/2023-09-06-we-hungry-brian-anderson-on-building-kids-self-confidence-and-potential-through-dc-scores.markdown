@@ -93,7 +93,7 @@ Yet, perhaps surprisingly, all this international work led Anderson to have a de
 
 Often, Anderson stepped into that role, championing the voices of urban communities of color in spaces where they were severely underrepresented. “You have to have a niche understanding of what you’re doing and the community you’re working in,” he says.
 
-That’s one of the things that appeals so much about working in the District, just an hour away from his Baltimore hometown. “It’s like being able to touch home. I understand the need for programming such as DC SCORES. For me, it’s the most optimal space to be in,” he shares.
+That’s one of the things that appeals so much about working in the District, just an hour away from his hometown. “It’s like being able to touch home. I understand the need for programming such as DC SCORES. For me, it’s the most optimal space to be in,” he shares.
 
 As an Associate Program Manager, Anderson is the DC SCORES liaison with eight school sites. His day-to-day work involves ensuring that each program has the equipment, information, and support they need to successfully implement DC SCORES’ award-winning model. However, he has also drawn on his large international network to connect poet-athletes to additional opportunities outside DC SCORES’ standard program.
 
