@@ -1,7 +1,7 @@
 ---
 title: Carl Kravitz
 position: 79
-Details: 
+Details: Zuckerman Spaeder
 Section: emeritus
 ---
 
