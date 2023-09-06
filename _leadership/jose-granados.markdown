@@ -1,7 +1,7 @@
 ---
 title: José Granados
 date: 2021-09-15 20:28:00 Z
-position: 11
+position: 12
 Details: Program Fellow
 Email: jgranados@dcscores.org
 Profile Image: "/uploads/Jose%20Granados.png"

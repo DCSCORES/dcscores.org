@@ -1,6 +1,6 @@
 ---
 title: Kelly Dragelin
-position: 73
+position: 75
 Details: 
 Section: emeritus
 ---
