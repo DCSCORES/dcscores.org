@@ -4,7 +4,7 @@ date: 2023-01-20 20:13:00 Z
 position: 12
 Details: Program Fellow
 Email: rgranados@dcscores.org
-Profile Image: "/uploads/Ronald%20Granados.png"
+Profile Image: "/uploads/updated%20headshots%20092023%20(2).png"
 Section: staff
 ---
 
