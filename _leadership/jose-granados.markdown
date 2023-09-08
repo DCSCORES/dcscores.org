@@ -4,7 +4,7 @@ date: 2021-09-15 20:28:00 Z
 position: 11
 Details: Program Coordinator
 Email: jgranados@dcscores.org
-Profile Image: "/uploads/JGrHeadshot.png"
+Profile Image: "/uploads/5-225695.png"
 Section: staff
 ---
 
