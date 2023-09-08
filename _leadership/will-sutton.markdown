@@ -4,7 +4,7 @@ date: 2023-01-20 20:24:00 Z
 position: 19
 Details: Program Director for Leagues
 Email: wsutton@dcscores.org
-Profile Image: "/uploads/Will%20Sutton.png"
+Profile Image: "/uploads/updated%20headshots%20092023%20(3).png"
 Section: staff
 ---
 
