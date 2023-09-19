@@ -45,7 +45,7 @@ Just as they do as school employees during the day, Bancroft’s DC SCORES coach
 This approach not only reinforces the school’s Dual Language curriculum ("It's key for us to elevate Spanish throughout the school building," says Guzmán) but helps coaches better meet the needs of poet-athletes in the DC SCORES program.
 
 ![1-1d4277.png](/uploads/1-1d4277.png)
-Coach Guzmán is one of the longest-serving coaches at DC SCORES, which he first joined as a poet-athlete in his youth.
+*Coach Guzmán is one of the longest-serving coaches at DC SCORES, which he first joined as a poet-athlete in his youth.*
 
 "When I'm speaking Spanish with the students, I feel like I can connect with more students," says Coach Ronald Hernandez, who works full-time as a clerk at the school and whose parents immigrated to DC from Mexico and El Salvador.
 
@@ -73,10 +73,10 @@ While Guzmán’s motivation as a coach is to provide students with the same opp
 
 “I’ve always wanted to help others achieve that dream that I couldn’t get,” he continues. 
 
+Ronald joined the DC SCORES coaching team in 2022 and has just ended a dream season that saw Bancroft’s boys’ team [lift the DC SCORES Capital Cup trophy](https://www.dcscores.org/blog/2023/06/raymond-and-bancroft-elementary-schools-close-out-spring-season-with-capital-cup-championship-win). “I’ve told a couple of co-workers from DC SCORES that I want to get a tattoo commemorating the championship because it means so much to me!” he jokes.
+
 ![2-dfdf80.png](/uploads/2-dfdf80.png)
 *Coach Ronald (center) won the Coaching Commitment Award at this year's SCORE Awards. The award was presented to him by D.C. United's Chris Durkin (left) and the Washington Spirit's Anna Heilferty (right). Photo: Cody Cervenka.*
-
-Ronald joined the DC SCORES coaching team in 2022 and has just ended a dream season that saw Bancroft’s boys’ team [lift the DC SCORES Capital Cup trophy](https://www.dcscores.org/blog/2023/06/raymond-and-bancroft-elementary-schools-close-out-spring-season-with-capital-cup-championship-win). “I’ve told a couple of co-workers from DC SCORES that I want to get a tattoo commemorating the championship because it means so much to me!” he jokes.
 
 And, while winning trophies is a bonus for the team, chasing silverware is not why Guzmán and Ronald support their school community year after year. 
 
