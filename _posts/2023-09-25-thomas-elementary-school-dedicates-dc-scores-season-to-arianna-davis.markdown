@@ -32,7 +32,7 @@ The Thomas team gathered before their first game of the 2023 DC SCORES fall seas
 
 “DC SCORES extends our deepest condolences to all of Arianna’s loved ones and joins the wider Thomas community in demanding an end to gun violence in DC,” Owens added. She said, “We will never forget Arianna’s legacy as a supportive and dedicated member of her team, and we know that the Thomas team will honor her memory this season by playing with the heart and motivation that she demonstrated in life.”
 
-Individuals who wish to support the family of Arianna Davis may do so through this GoFundMe page.
+Individuals who wish to support the family of Arianna Davis may do so through this [GoFundMe page](https://www.gofundme.com/f/help-ariannas-family-after-mothers-day-shooting?utm_campaign=p_cp\+share-sheet&utm_content=undefined&utm_medium=copy_link_all&utm_source=customer&utm_term=undefined).
 
 ![2-89ec47.png](/uploads/2-89ec47.png)
 *The Thomas team will wear jerseys with an "AD #10" crest throughout the DC SCORES season.* 
