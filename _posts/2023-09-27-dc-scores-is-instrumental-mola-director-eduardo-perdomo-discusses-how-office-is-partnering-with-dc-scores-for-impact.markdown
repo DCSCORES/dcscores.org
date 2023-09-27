@@ -5,6 +5,9 @@ date: 2023-09-27 14:35:00 Z
 published: false
 ---
 
+![52553579165_045edf9f38_k.jpg](/uploads/52553579165_045edf9f38_k.jpg)
+*Director Perdomo at 2022 Westside Poetry Slam showing support for DC SCORES. Photo: Aya Takeuchi*
+
 Throughout its history, DC SCORES has worked closely with local government agencies to deliver its award-winning program in the city’s public schools.
 
 Since 2009, DC SCORES has partnered with the [Mayor’s Office of Latino Affairs](https://communityaffairs.dc.gov) (MOLA) to ensure that its programs meet the needs of the District’s Spanish-speaking community. With MOLA funding, DC SCORES translated resources into Spanish and supported coaches using Spanish-language instruction to ensure that language isn’t a barrier to meaningful participation in the program.
@@ -22,6 +25,9 @@ Recently, we reached out to MOLA Director, Eduardo Perdomo, to ask him a few que
 ## What has been your favorite DC SCORES moment or event that you’ve attended?
 
 *My most memorable event was at the poetry slam. It was my first time attending as my new position as Director of MOLA, at the first DC SCORES poetry slam after the pandemic; the students were so excited! I did not imagine seeing so many students and their families show up. Seeing the students being so engaged and willing to communicate with what they were doing was impressive. It was a reassuring moment that DC SCORES was doing great work with DC youth.*
+
+![52562860112_6241bc0917_k.jpg](/uploads/52562860112_6241bc0917_k.jpg)
+*Leckie Education Campus poet-athlete preforming "I am Puerto Rican" at the 2022 Eastside Poetry Slam.*
 
 ## Why do you think it’s important that there is strong Latino youth engagement in sports and the arts?
 
