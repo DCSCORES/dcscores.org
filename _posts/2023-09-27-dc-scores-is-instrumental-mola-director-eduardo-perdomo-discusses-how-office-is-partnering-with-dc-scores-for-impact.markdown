@@ -6,7 +6,21 @@ published: false
 ---
 
 ![52553579165_045edf9f38_k.jpg](/uploads/52553579165_045edf9f38_k.jpg)
-*Director Perdomo at 2022 Westside Poetry Slam showing support for DC SCORES. Photo: Aya Takeuchi*
+*Director Perdomo showing support for DC SCORES by introducing the 2022 Westside Poetry Slam. Photo: Aya Takeuchi*
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 Throughout its history, DC SCORES has worked closely with local government agencies to deliver its award-winning program in the city’s public schools.
 
