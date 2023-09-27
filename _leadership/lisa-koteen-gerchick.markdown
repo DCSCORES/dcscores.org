@@ -1,6 +1,6 @@
 ---
 title: Lisa Koteen Gerchick
-position: 79
+position: 80
 Details: 
 Section: emeritus
 ---
