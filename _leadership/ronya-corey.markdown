@@ -1,6 +1,6 @@
 ---
 title: Ronya Corey
-position: 76
+position: 75
 Details: Merrill Lynch
 Section: emeritus
 ---

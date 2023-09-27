@@ -1,6 +1,6 @@
 ---
 title: Chris Finley
-position: 79
+position: 78
 Details: COPT
 Section: emeritus
 ---
