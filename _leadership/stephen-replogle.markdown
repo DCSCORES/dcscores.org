@@ -1,6 +1,6 @@
 ---
 title: Stephen Replogle
-position: 86
+position: 87
 Details: Capitol Consulting Group
 Section: emeritus
 ---
