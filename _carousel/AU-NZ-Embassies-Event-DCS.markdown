@@ -1,9 +1,9 @@
 ---
-title: Australian and New Zealand Embassies Celebrate Women’s World Cup with DC SCORES
+title: "“We Hungry!”: Brian Anderson On Building Kids’ Self-Confidence"
 date: 2022-08-02 20:53:00 Z
 position: 3
-Image: "/uploads/Website%20Carousel%20AusNZ.png"
-Link: https://www.dcscores.org/blog/2023/08/australian-and-new-zealand-embassies-celebrate-womens-world-cup-at-dc-scores-summer-camp
+Image: "/uploads/2-4bb901.png"
+Link: https://www.dcscores.org/blog/2023/09/we-hungry-brian-anderson-on-building-kids-self-confidence-and-potential-through-dc-scores
 ---
 
-Poet-athletes got a taste of the World Cup (and traditional Australasian barbeque!) at the event held for DC SCORES summer campers.
+The Associate Manager for Programs is leveraging partnerships to enhance poet-athletes' confidence through DC SCORES.
