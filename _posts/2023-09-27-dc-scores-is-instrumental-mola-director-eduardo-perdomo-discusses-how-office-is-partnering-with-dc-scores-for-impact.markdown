@@ -4,11 +4,11 @@ title: "“DC SCORES Is Instrumental”: MOLA Director Eduardo Perdomo Discusses
 date: 2023-09-27 14:35:00 Z
 published: false
 Author: Jane Wong
-Thumbnail Image: "/uploads/52553579165_045edf9f38_k.jpg"
+Thumbnail Image: "/uploads/52054990533_7d72be1cb8_k.jpg"
 ---
 
-![52553579165_045edf9f38_k.jpg](/uploads/52553579165_045edf9f38_k.jpg)
-*Director Perdomo showing support for DC SCORES by introducing the 2022 Westside Poetry Slam. Photo: Aya Takeuchi*
+![52054990533_7d72be1cb8_k.jpg](/uploads/52054990533_7d72be1cb8_k.jpg)
+*Director Perdomo showing support for DC SCORES at the 2022 SCORES Awards. Photo: Hannah Wagner*
 
 Throughout its history, DC SCORES has worked closely with local government agencies to deliver its award-winning program in the city’s public schools.
 
