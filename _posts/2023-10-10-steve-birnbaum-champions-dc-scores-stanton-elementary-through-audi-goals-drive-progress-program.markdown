@@ -9,6 +9,18 @@ Thumbnail Image: "/uploads/Birnbaum%20SiteLeaf%20Graphic.png"
 ![Birnbaum SiteLeaf Graphic.png](/uploads/Birnbaum%20SiteLeaf%20Graphic.png)
 *D.C. United captain Birnbaum has been a champion of DC SCORES for close to a decade. Photo: D.C. United*
 
+
+
+
+
+
+
+
+
+
+
+
+
 Last month, poet-athletes at Stanton Elementary had a very special game day experience when Steve Birnbaum, captain of Major League soccer team D.C. United, joined them at their Junior SCORES game day against Malcolm X Elementary School. 
 
 The professional soccer star, who serves as an ambassador for DC SCORES, visited the school as part of the [“Celebrating Impact” content partnership](https://projects.theplayerstribune.com/celebrating-impact/p/1). The series, a collaboration between Audi and The Players’ Tribune, is an extension of the [Audi Goals Drive Progress program](https://media.audiusa.com/en-us/releases/570) that supports and spotlights community initiatives championed by MLS athletes. 
