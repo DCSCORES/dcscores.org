@@ -7,7 +7,7 @@ Thumbnail Image: "/uploads/Birnbaum%20SiteLeaf%20Graphic.png"
 ---
 
 ![Birnbaum SiteLeaf Graphic.png](/uploads/Birnbaum%20SiteLeaf%20Graphic.png)
-*D.C. United captain Birnbaum has been a champion of DC SCORES for close to a decade. Photo: D.C. United*
+*D.C. United captain Steve Birnbaum has been a champion of DC SCORES for close to a decade. Photo: D.C. United*
 
 
 
