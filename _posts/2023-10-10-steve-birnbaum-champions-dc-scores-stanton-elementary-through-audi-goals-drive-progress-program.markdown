@@ -1,7 +1,9 @@
 ---
 title: Steve Birnbaum Champions DC SCORES, Stanton Elementary Through Audi Goals Drive
   Progress Program
-date: 2023-10-09 15:22:00 Z
+date: 2023-10-10 12:22:00 Z
+Author: DC SCORES
+Thumbnail Image: "/uploads/Birnbaum%20SiteLeaf%20Graphic.png"
 ---
 
 ![Birnbaum SiteLeaf Graphic.png](/uploads/Birnbaum%20SiteLeaf%20Graphic.png)
