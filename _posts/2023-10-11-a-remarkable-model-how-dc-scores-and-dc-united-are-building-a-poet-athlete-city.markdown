@@ -25,6 +25,9 @@ Thumbnail Image: "/uploads/Untitled%20design%20(2).png"
 
 
 
+
+
+
 “DC SCORES allows us to create the change we want to see in our city,” says Shanell Mosley. As D.C. United’s Director of Community Relations and Executive Director of the D.C. United Foundation, Mosley leads the Major League Soccer club’s efforts to build stronger communities through the power of sport, and she is reflecting on the power of D.C. United’s collaboration with DC SCORES.
 
 The partnership has enabled D.C. United to “put community at the center of everything,” she says.
