@@ -31,7 +31,7 @@ In 2015, the D.C. United and DC SCORES [signed an official community partnership
 
 “The partnership has become a gold standard for how sports teams can truly invest in their local communities,” says Katrina Owens, Executive Director of DC SCORES.
 
-“Working with D.C. United has elevated our fundraising efforts, built meaningful corporate partnerships, and given the more than 3,000 kids in DC SCORES unforgettable opportunities to engage with their soccer heroes,” Owens adds. “Ours is truly a remarkable model.”
+“Working with D.C. United has elevated our fundraising efforts, built meaningful corporate partnerships, and, together, provide opportunities for more than 3,000 kids in DC SCORES to engage with their soccer heroes,” Owens adds. “Ours is truly a remarkable model.”
 
 ## “Subject Matter Experts”
 
