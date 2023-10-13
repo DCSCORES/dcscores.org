@@ -40,7 +40,7 @@ Attendees watched standout performances from poets including Regie Cabico and E-
 
 “Ashley’s performance proved that we are all poet-athletes and can use our voice and platform to express ourselves and share the things we care about,” said Katrina Owens, Executive Director of DC SCORES. “It was really wonderful to see her harness words and perform with the same power she displays on the soccer field.”
 
-Hatch co-hosted the evening’s live auction alongside D.C. United captain Steve Birnbaum. Together, they introduced one-of-a-kind auction items, including the opportunity to join D.C. United at a training session, a two-week lease of an Audi RS E-Tron GT, and a penalty kick clinic coached by Hatch.
+Hatch also co-hosted the evening’s live auction alongside D.C. United captain Steve Birnbaum. After an opening from virtuoso drummer Malik Dope, the pair introduced one-of-a-kind auction items, including the opportunity to join D.C. United at a training session, a two-week lease of an Audi RS E-Tron GT, and a penalty kick clinic coached by Hatch.
 
 ![3-bb89df.png](/uploads/3-bb89df.png)
 *The live auction was presented by professional soccer players Hatch (left) and Steve Birnbaum (right) alongside DC SCORES Executive Director Katrina Owens (center left) and board member and One Night One Goal co-founder Devin Talbott (center right). Photo: Cody Cervenka.*
