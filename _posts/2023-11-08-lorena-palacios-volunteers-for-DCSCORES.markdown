@@ -1,7 +1,7 @@
 ---
 title: "“It’s Always Been Part of My DC Experience”: Former Staff Member Lorena Palacios
   Shares Why She Continues to Volunteer for DC SCORES"
-date: 2023-11-08 16:56:00 Z
+date: 2023-11-08 12:01:00 Z
 Author: Mairead MacRae
 Thumbnail Image: "/uploads/1-783e51.png"
 ---
