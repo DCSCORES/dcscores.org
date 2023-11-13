@@ -7,7 +7,7 @@ Thumbnail Image: "/uploads/2-bbe661.png"
 ---
 
 ![2-bbe661.png](/uploads/2-bbe661.png)
-After less than two years in the DC SCORES program, Kayla has performed at many of DC's top cultural institutions. 
+*After less than two years in the DC SCORES program, Kayla has performed at many of DC's top cultural institutions.* 
 
 
 
@@ -31,7 +31,7 @@ After less than two years in the DC SCORES program, Kayla has performed at many 
 
 
 
-*This story is part of the Voices of DC SCORES series exploring how young people in the District are speaking up for their communities through DC SCORES. Learn more about the series, and how you can support our mission, at the [Voices of DC SCORES campaign page](https://bit.ly/VoicesOfDCSCORES).*
+*This story is part of the Voices of DC SCORES series exploring how young people in the District are speaking up for their communities through DC SCORES. Learn more about the series and how you can support our mission at the [Voices of DC SCORES campaign page](https://bit.ly/VoicesOfDCSCORES).*
 
 Kayla Nelson is only twelve years old, but can already pinpoint the moment she knows will become the foundation of her journey as a poet. 
 
