@@ -6,7 +6,7 @@ Author: Mairead MacRae
 Thumbnail Image: "/uploads/4-1d9b63.png"
 ---
 
-![2-f8226f.png](/uploads/2-f8226f.png)
+![4-1d9b63.png](/uploads/4-1d9b63.png)
 *Middle School poet-athletes from 14 schools across DC participated in the event at Trinity Washington University. Photo: Cody Cervenka*
 
 
