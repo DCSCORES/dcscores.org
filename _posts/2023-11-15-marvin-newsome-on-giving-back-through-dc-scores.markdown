@@ -7,7 +7,7 @@ Thumbnail Image: "/uploads/Untitled%20design%20(1)-5dbf0d.png"
 ---
 
 ![Untitled design (1)-5dbf0d.png](/uploads/Untitled%20design%20(1)-5dbf0d.png)
-*Newsome joined DC SCORES to provide further extra-curricular opportunities to his students.*
+*Newsome joined DC SCORES in 2022 to provide extra-curricular opportunities to his students.*
 
 
 
@@ -78,7 +78,7 @@ In May, Newsome was injured in a shooting at Ketcham’s school gates. This seas
 Newsome believes that providing young people with a space to engage with such heavy topics is vital. “Youth voices are just as important as anyone else’s in the community. If we don’t listen to what they have to say now, then how can we expect them to listen to others when they become the decision-makers and leaders in the community?” he asks.
 
 ![5-e70868.png](/uploads/5-e70868.png)
-Newsome believes that providing young people with a space to express themselves has benefits for the entire community.
+*Newsome believes that providing young people with a space to express themselves benefits the entire community.*
 
 As a coach, Newsome says the most important thing he can do is to create “an organic experience to allow poet-athletes to take over a topic that addresses what takes place in their communities.”
 
@@ -87,4 +87,4 @@ Newsome describes his work as a DC SCORES coach as deeply fulfilling; it has all
 “DC SCORES checks every box of why I am here, what motivated me to work in this community, and how I’m able to do exactly what I set out to do,” he says. “My goal is to provide an outlet for youth, to help them express themselves. To make sure their voices can be heard.”
 
 ![4-d2b987.png](/uploads/4-d2b987.png)
-*Newsome intends to remain a DC SCORES coach to reach more poet-athletes through the power of soccer and writing.*
+*Newsome intends to remain a DC SCORES coach and reach more poet-athletes through the power of soccer and writing.*
