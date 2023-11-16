@@ -82,8 +82,6 @@ One of the poems they collectively wrote last year explored gun violence and los
 
 But 4th-grader Eli stresses that simply talking about things with your friends can make a big difference: “You may make them feel good, and if they feel bad about theirselves, you can cheer them on.” 
 
-## Making A Difference
-
 The team’s poems that do make it into the public spotlight often carry a message. “I don’t really want to write for no reason,” says Daniel. “Somebody listening gives me a reason.”
 
 ![4-fd64e0.png](/uploads/4-fd64e0.png)
