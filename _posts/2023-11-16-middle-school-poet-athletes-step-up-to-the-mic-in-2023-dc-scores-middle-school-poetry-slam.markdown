@@ -61,4 +61,4 @@ The top winner of the night was KIPP WILL Academy, who won first prize for their
 “All of our poet-athletes performed incredibly important poems tonight and proved why we must listen to the voices of these rising stars,” said Tatiana Figueroa Ramírez, DC SCORES Director of Creative Writing and Arts and lead for slam events. “I could not be more proud of these poet-athletes who delivered one of the best nights in the DC SCORES calendar.”
 
 ![1-8403ee.png](/uploads/1-8403ee.png)
-*The team from KIPP WILL Academy took home the top prize for a series of poems addressing the impact of violence on young people. Photo: Cody Cervenka.*
+*The team from KIPP WILL Academy took home the top prize, handed out by players from the Washington Spirit, for a series of poems addressing the impact of violence on young people. Photo: Cody Cervenka.*
