@@ -20,4 +20,4 @@ In the boys’ charter school final, fans were treated to a [re-run of last year
 
 In the public school boys’ championship, the Lincoln boys’ team stepped onto the turf after cheering the girls in their final to take on School Without Walls at St. Francis Stevens. The thrilling final culminated in [SCORE] victory for the [WALLS TIGERS/LINCOLN MASCOT NAME] in a match that [COLOR COMMENTARY].
 
-“Regardless of who won today, all the poet-athletes who played in these finals are champions,” said Jason Gross, Senior Director of Soccer and Operations and Capital Cup lead. “It takes skill, hard work, and a strong team mentality to make it to this point, and Audi Field was a fitting stage to showcase the incredible season these teams have had.”
+“Regardless of who won today, all the poet-athletes who played in these finals are champions,” said Jason Gross, Senior Director of Soccer and Operations and Capital Cup lead. “It takes skill, hard work, and a positive mentality to make it to this point, and Audi Field was a fitting stage to showcase the incredible season these teams have had.”
