@@ -5,15 +5,15 @@ date: 2023-11-16 19:12:00 Z
 Author: Mairead MacRae
 ---
 
-On November 17, 2023, poet-athletes from twelve DC SCORES middle schools realized a dream held by many DC soccer fans: to play a championship game on Audi Field. 
+On November 17, 2023, poet-athletes from twelve DC SCORES middle schools realized a dream held by many DC soccer fans: to play a championship game on Audi Field.
 
-The teams traveled to the iconic DC stadium for the Capital Cup, the championships for DC SCORES’ middle school co-ed, boys, and girls soccer leagues. Two championship games were played for each gender group as the top teams from the public and public charter school divisions battled it out for victory. 
+The teams traveled to the iconic DC stadium for the Capital Cup, the championships for DC SCORES’ middle school co-ed, boys, and girls soccer leagues. Two championship games were played for each gender group as the top teams from the public and public charter school divisions battled it out for victory.
 
 In the co-ed group, Brookland Middle School lifted the public school trophy after a 1-0 win over Leckie Education Campus, in an upset for Leckie, which won the championship last year.
 
 In the charter school co-ed game, Paul Public Charter School returned to the championship for the second year in a row to take on newcomers Two Rivers Public Charter School. The Two Rivers Crew edged out the Paul Pirates in a thrilling game to win 5-2.
 
-In the girls’ match-ups, Lincoln Middle School took on Ida B. Wells Middle School. Both teams had large supporter sections, though there were a number of famous faces in the Wells crowd, including D.C. United’s Donovan Pines, who came out to cheer on the squad. After a [DESCRIPTION] game, Wells emerged victorious with a 2-0 win.
+In the girls’ match-ups, Lincoln Middle School took on Ida B. Wells Middle School. Both teams had large supporter sections, though there were a number of famous faces in the Wells crowd, including D.C. United’s Donovan Pines, who came out to cheer on the squad. After an exciting game, Wells emerged victorious with a 2-0 win.
 
 In the charter school girls’ championship, Washington Latin Public Charter School took on DC International School, in a fast-paced game that sent fans into a frenzy when DCI secured the title in a 4-0 win.
 
