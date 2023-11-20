@@ -9,6 +9,18 @@ Thumbnail Image: "/uploads/2-dc668d.png"
 ![2-dc668d.png](/uploads/2-dc668d.png)
 *Top teams from across the District gathered for the 2023 Capital Cup championship finals. Photo: Cody Cervenka*
 
+
+
+
+
+
+
+
+
+
+
+
+
 On November 17, 2023, poet-athletes from twelve DC SCORES middle schools realized a dream held by many DC soccer fans: to play a championship game on Audi Field.
 
 The teams traveled to the iconic DC stadium for the Capital Cup, the championships for DC SCORES’ middle school co-ed, boys, and girls soccer leagues. Two championship games were played for each gender group as the top teams from the public and public charter school divisions battled it out for victory.
