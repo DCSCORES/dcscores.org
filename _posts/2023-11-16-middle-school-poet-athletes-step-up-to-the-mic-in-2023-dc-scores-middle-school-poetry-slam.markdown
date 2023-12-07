@@ -45,7 +45,7 @@ During this year’s slam, middle schoolers stepped up to the mic to speak on is
 *![2-f8226f.png](/uploads/2-f8226f.png)
 Poet-athletes performed in front of an energetic crowd of their peers, coaches, teachers, and loved ones. Photo: Cody Cervenka.*
 
-In the spoken-word competition, poet-athletes’ performances were rated by a panel of three judges: [award-winning poet and teaching artist María Fernanda](https://www.mariafernandapoet.com/), [4th-place Women of the World Slam title-winner Carlynn Newhouse](https://carlynnnewhouse.com/), and [former DC SCORES staff member Greta Adjei-Silas](https://www.dcscores.org/blog/2023/04/beloved-staff-member-greta-adjei-silas-reflects-on-more-than-8-years-at-dc-scores). 
+In the spoken-word competition, poet-athletes’ performances were rated by a panel of three judges: [award-winning poet and writing instructor María Fernanda](https://www.mariafernandapoet.com/), [4th-place Women of the World Slam title-winner Carlynn Newhouse](https://carlynnnewhouse.com/), and [former DC SCORES staff member Greta Adjei-Silas](https://www.dcscores.org/blog/2023/04/beloved-staff-member-greta-adjei-silas-reflects-on-more-than-8-years-at-dc-scores). 
 
 After a slew of impressive performances, the judges narrowed the field down to winners in five categories. Hart Middle School poet-athletes won the Spirit Award for Most School Spirit for the second year in a row with three poems that celebrated why they love being Hart Jets.
 
