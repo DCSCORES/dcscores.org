@@ -1,7 +1,7 @@
 ---
 title: Clint Smith
 date: 2023-09-27 14:41:00 Z
-position: 44
+position: 45
 Details: Poet and Author
 Section: board
 Link: https://www.clintsmithiii.com

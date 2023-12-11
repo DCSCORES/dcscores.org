@@ -1,7 +1,7 @@
 ---
 title: Mark Cowan
 date: 2023-09-06 15:23:00 Z
-position: 77
+position: 78
 Details: Potomac International Partners
 Section: emeritus
 ---
