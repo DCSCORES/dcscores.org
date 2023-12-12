@@ -1,6 +1,6 @@
 ---
 title: 'Best of 2023: DC SCORES Staff Reflect On Top Moments of the Year'
-date: 2023-12-12 11:28:00 Z
+date: 2023-12-12 06:28:00 Z
 ---
 
 2023 was a banner year for DC SCORES, which saw the organization expand into XX more schools and mark a record year of fundraising success and enhanced community partnerships.
