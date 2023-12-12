@@ -121,7 +121,7 @@ On July 17, poet-athletes at Seaton Elementary joined forces with MLS All-Star p
 
 [Seaton poet-athletes designed the pitch with Design FC and the U.S. Soccer Foundation](https://www.dcscores.org/blog/2023/05/seaton-elementary-school-poet-athletes-celebrate-diversity-through-mini-pitch-service-learning-project) for their spring service-learning project, and proudly christened the new amenity with an honorary “first kick” alongside their soccer idols.
 
-“QUOTE,” says Brian Anderson, DC SCORES Associate Programs Manager who spearheaded the project with Seaton. “QUOTE.”
+“The mini-pitch reveal at the MLS Community Day had everything a kids could want. A free MLS jersey, Arsenal legends, freestyle jugglers, and the opportunity to learn from some of the best coaches in the areas,” says Brian Anderson, Associate Programs Manager, who spearheaded the project with Seaton. “The Seaton youth smiling and screaming in disbelief after seeing their poem and artwork come to life will forever be cemented in my mind. Many of us have great ideas, but few of us are able to follow through on them to completion, so this project raised the confidence of the poet-athletes.”
 
 [Read more about DC SCORES’ MLS All-Star Week activities.](https://www.dcscores.org/blog/2023/07/dc-scores-poet-athletes-meet-their-soccer-heroes-during-mls-all-star-week)
 
