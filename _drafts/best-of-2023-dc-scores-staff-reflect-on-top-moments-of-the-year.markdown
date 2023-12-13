@@ -95,7 +95,7 @@ On November 17, middle school poet-athletes realized a dream held by many DC soc
 
 The top teams in DC SCORES’ co-ed, girls, and boys public and charter school leagues battled it out at the iconic stadium to be crowned District champions, with winner receiving their silverware from D.C. United player Donovan Pines.
 
-“Capital Cup brought back so many memories to me and I was very touched and impressed by the growth of DC SCORES,” says Josselin Possian, Program Coordinator and a DC SCORES alumnus who now plays for the Maryland Bobcats. “I remember playing on a patch hole field,  now I’m seeing our youth have the chance to play at Audi Field! Seeing the joy on the players’, families’, and friends’ faces was breathtaking.”
+“Capital Cup brought back so many memories to me and I was very touched and impressed by the growth of DC SCORES,” says Josselin Possian, Associate Programs Manager and DC SCORES alumnus who now plays for the Maryland Bobcats. “I remember playing on a patch hole field,  now I’m seeing our youth have the chance to play at Audi Field! Seeing the joy on the players’, families’, and friends’ faces was breathtaking.”
 
 [Read more about Capital Cup.](https://www.dcscores.org/blog/2023/11/middle-school-championship-teams-dream-big-under-the-capital-cup-lights-at-audi-field)
 
@@ -173,7 +173,7 @@ On May 16, poet-athletes in DC SCORES’ [Youth W.O.R.D. Project](https://www.dc
 
 The young people’s powerful performances were accompanied by a reading from award-winning writer and DC SCORES Board Member Clint Smith, who shared excerpts from his latest poetry collection, Above Ground. Smith was also presented with the inaugural Poet-Athlete Award, which is given annually to an individual, or group of individuals, who embody the ethos of DC SCORES poet-athletes.
 
-“QUOTE,” says Zarea Boyde, Program Coordinator for Creative Writing, who leads the Youth W.O.R.D. Project. “QUOTE.”
+“This year's Our Words Our City felt like magic,” says Zarea Boyde, Program Coordinator for Creative Writing, who leads the Youth W.O.R.D. Project. “To see the kids so excited to showcase the work that we did all season was absolutely heartwarming."
 
 [Read more about Our Words Our City.](https://www.dcscores.org/blog/2023/05/dc-scores-poet-athletes-share-stage-with-clint-smith-at-our-words-our-city-2023)
 
