@@ -147,7 +147,7 @@ On June 7, elementary school poet-athletes celebrated another successful spring 
 
 More than 2,500 kids and family member joined for the event that included a series of 7-a-side soccer matches, field games, arts and crafts, and the chance to meet special guests, including D.C. United mascot Talon and professional freestyle footballers from Undefined Fútbol.
 
-“QUOTE,” says Jason Gross, Senior Director of Programs, Soccer and Operations. “QUOTE.”
+“I loved seeing the joy on the faces of the poet-athletes and families who were present to support them,” says Jason Gross, Senior Director of Programs, Soccer and Operations. “They were completely engaged in fun, and I can't wait for our next event.”
 
 [Read more about Jamboree.](https://www.dcscores.org/blog/2023/06/dc-scores-poet-athletes-celebrate-another-successful-jamboree)
 
@@ -186,6 +186,6 @@ Across performances on November 15, 29, and 30, more than 2,500 elementary and m
 
 The young people raised their voices on a range of issues, from the impact of gun violence and the urgency of climate change to their experience as immigrants and their love for their communities. The series of powerful performances moved audiences of hundreds and represented the culmination of a season of work in the SCORES writing program.
 
-“QUOTE,” says Tatiana Figueroa Ramírez, Director of Creative Writing. “QUOTE.”
+“I loved seeing how invested our poet-athletes, coaches, and community members were in the poetry slams! The energy, the turn out, the excitement. We had packed rooms all supporting our poet-athletes,” says Tatiana Figueroa Ramírez, Director of Creative Writing. “It was truly beautiful to see everyone coming together to celebrate their hard work from the season.”
 
 Read more about [Westside and Eastside Poetry Slams](https://www.dcscores.org/blog/2023/11/2023-elementary-poetry-slams) and [Middle School Slam](https://www.dcscores.org/blog/2023/11/middle-school-poet-athletes-step-up-to-the-mic-in-2023-dc-scores-middle-school-poetry-slam).
