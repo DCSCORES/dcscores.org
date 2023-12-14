@@ -7,7 +7,7 @@ Author: Mairead MacRae
 ![Best of 2023 - Twitter (4)-d6083a.png](/uploads/Best%20of%202023%20-%20Twitter%20(4)-d6083a.png)
 *2023 marked another successful year of DC SCORES programming, which served more than 3,000 kids across over 60 schools in DC.*
 
-2023 was a banner year for DC SCORES, which saw the organization expand into XX more schools and mark a record year of fundraising success and enhanced community partnerships.
+2023 was a banner year for DC SCORES, which saw the organization expand into 3 more schools and mark a record year of fundraising success and enhanced community partnerships.
 
 As the year comes to a close, DC SCORES staff members reflect on their favorite memories and share their top moments of 2023.
 
@@ -45,7 +45,7 @@ In 2023, DC SCORES marked 20 years since the first-ever SCORES Cup, the organiza
 
 To mark the 20th anniversary, captains of teams that have played in the tournament throughout its two decade history were presented with a commemorative jersey drawing on 90s aesthetics and artefacts from the first ever tournament.
 
-“QUOTE,” says Daniel Sheerin, Senior Programs Manager, who was one of the lead organizers for SCORES Cup. “QUOTE.”
+“The tournament was really big this year and so we had a ton of new teams join and experience the fun and competitive atmosphere for the first time,” says Danny Sheerin, Senior Programs Manager, who was one of the lead organizers for SCORES Cup. “For a huge chunk of players, that day is the first introduction they have to learn more about our kids and our program. It’s always awesome when they ask how they can get more involved and see our kids in action throughout the year.”
 
 [Read more about the 20th anniversary of SCORES Cup.](https://www.dcscores.org/blog/2023/07/dc-scores-celebrates-20-years-of-scores-cup-with-a-record-breaking-tournament)
 
