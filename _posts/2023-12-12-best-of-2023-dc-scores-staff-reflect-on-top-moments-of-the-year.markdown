@@ -6,7 +6,31 @@ Thumbnail Image: "/uploads/Best%20of%202023%20-%20Twitter%20(4)-d6083a.png"
 ---
 
 ![Best of 2023 - Twitter (4)-d6083a.png](/uploads/Best%20of%202023%20-%20Twitter%20(4)-d6083a.png)
-\*2023 marked another successful year of DC SCORES programming, with staff highlights including Women's World Cup celebrations, the 20th anniversary of SCORES Cup, and an Our Words Our City featuring inaugural Poet-Athlete Award Winner Clint Smith. \*
+*2023 marked another successful year of DC SCORES programming, with staff highlights including Women's World Cup celebrations, the 20th anniversary of SCORES Cup, and an Our Words Our City featuring inaugural Poet-Athlete Award Winner Clint Smith.*
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 2023 was a banner year for DC SCORES. The organization expanded into 3 more schools and marked a record year of fundraising success thanks to an engaged community of supporters and partners.
 
