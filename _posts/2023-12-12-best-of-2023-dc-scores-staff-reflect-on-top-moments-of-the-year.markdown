@@ -118,7 +118,7 @@ Attendees at the star-studded event mingled with some of DC’s top soccer playe
 ## 8. Capital Cup
 
 ![Best of 2023 - Twitter (3).png](/uploads/Best%20of%202023%20-%20Twitter%20(3).png)
-\*Poet-athletes had the opportunity to play in front of their supporters at DC's iconic soccer stadium: Audi Field. \*
+*Poet-athletes had the opportunity to play in front of their supporters at DC's iconic soccer stadium: Audi Field.*
 
 On November 17, middle school poet-athletes realized a dream held by many DC soccer fans: to play a championship game under the lights at Audi Field.
 
