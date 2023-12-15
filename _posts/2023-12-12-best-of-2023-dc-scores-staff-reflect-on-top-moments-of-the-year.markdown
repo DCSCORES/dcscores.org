@@ -2,14 +2,15 @@
 title: 'Best of 2023: DC SCORES Staff Reflect On Top Moments of the Year'
 date: 2023-12-12 12:06:00 Z
 Author: Mairead MacRae
+Thumbnail Image: "/uploads/Best%20of%202023%20-%20Twitter%20(4)-d6083a.png"
 ---
 
 ![Best of 2023 - Twitter (4)-d6083a.png](/uploads/Best%20of%202023%20-%20Twitter%20(4)-d6083a.png)
-*2023 marked another successful year of DC SCORES programming, which served more than 3,000 kids across over 60 schools in DC.*
+\*2023 marked another successful year of DC SCORES programming, with staff highlights including Women's World Cup celebrations, the 20th anniversary of SCORES Cup, and an Our Words Our City featuring inaugural Poet-Athlete Award Winner Clint Smith. \*
 
-2023 was a banner year for DC SCORES, which saw the organization expand into 3 more schools and mark a record year of fundraising success and enhanced community partnerships.
+2023 was a banner year for DC SCORES. The organization expanded into 3 more schools and marked a record year of fundraising success thanks to an engaged community of supporters and partners.
 
-As the year comes to a close, DC SCORES staff members reflect on their favorite memories and share their top moments of 2023.
+As the year comes to a close, DC SCORES staff members reflect on some of their favorite moments of the year, from celebrating long-term DC SCORES mentors to witnessing the powerful performances of poet-athletes on the poetry stage.
 
 ## 14. Coach Rob Retirement Game
 
@@ -29,32 +30,30 @@ On May 11, DC SCORES celebrated the retirement of Charles Robinson, a coach at T
 
 On June 5, DC SCORES teamed up with the Washington Spirit and local high school volunteers to host Goals for Girls, a soccer clinic for poet-athletes to connect with female role models.
 
-Initiated by DMV teenager and soccer player Loretta Talbott, the clinic engaged players from DC SCORES girls’ teams at Ida B. Wells Middle School, Cardozo Education Campus, and Truesdell Elementary School in soccer drills and activities led by Spirit players and up-and-coming local high school players.
+Initiated by DMV teenager and soccer player Loretta Talbott, the clinic engaged players from DC SCORES girls’ teams at Ida B. Wells Middle School, Cardozo Education Campus, and Truesdell Elementary School in soccer drills and activities led by Spirit players and up-and-coming high school players.
 
-“QUOTE,” says Jane Wong, Communications Intern at DC SCORES. “Quote.”
+“Goals for Girls was everything I wish I could have had growing up,” says Jane Wong, Communications Intern. “Getting the opportunity to meet other women who have turned your passion into a living is empowering. I loved being a part of this happy moment.”
 
 [Check out photos from the Goals for Girls event.](https://www.flickr.com/photos/dcscorespictures/albums/72177720309357904/)
 
 ## 12. 20th Anniversary SCORES Cup
 
-![Best of 2023 - Twitter (2).png](/uploads/Best%20of%202023%20-%20Twitter%20(2).png)
+![Best of 2023 - Twitter (2).png](/uploads/Best%20of%202023%20-%20Twitter%20(2).png)*DC SCORES celebrated 20 years of SCORES Cup with limited edition commemorative jerseys and team shirts.*
 
-*DC SCORES celebrated 20 years of SCORES Cup with limited edition commemorative jerseys and team shirts.*
+In 2023, DC SCORES marked 20 years of SCORES Cup, the organization’s annual tournament fundraiser. Since the first six-team iteration of the tournament in 2003, SCORES Cup has grown into the largest corporate soccer tournament fundraiser on the East Coast and was held this year at The Fields at RFK.
 
-In 2023, DC SCORES marked 20 years since the first-ever SCORES Cup, the organization’s annual tournament fundraiser. Since the first six-team iteration of the tournament in 2003, SCORES Cup has grown into the largest corporate soccer tournament fundraiser on the East Coast and was held this year at The Fields at RFK.
+To mark the 20th anniversary, captains of teams that have played in the tournament throughout its two-decade history were presented with a commemorative jersey drawing on 90s aesthetics and artifacts from the first-ever tournament.
 
-To mark the 20th anniversary, captains of teams that have played in the tournament throughout its two decade history were presented with a commemorative jersey drawing on 90s aesthetics and artefacts from the first ever tournament.
-
-“The tournament was really big this year and so we had a ton of new teams join and experience the fun and competitive atmosphere for the first time,” says Danny Sheerin, Senior Programs Manager, who was one of the lead organizers for SCORES Cup. “For a huge chunk of players, that day is the first introduction they have to learn more about our kids and our program. It’s always awesome when they ask how they can get more involved and see our kids in action throughout the year.”
+“The tournament was really big this year, and we had a ton of new teams join and experience the fun and competitive atmosphere for the first time,” says Danny Sheerin, Senior Programs Manager, who was one of the lead organizers for SCORES Cup. “For a huge chunk of players, that day is the first introduction they have to learn more about our kids and our program. It’s always awesome when they ask how they can get more involved and see our kids in action throughout the year.”
 
 [Read more about the 20th anniversary of SCORES Cup.](https://www.dcscores.org/blog/2023/07/dc-scores-celebrates-20-years-of-scores-cup-with-a-record-breaking-tournament)
 
 ## 11. Summer Camp at John Lewis Elementary School
 
 ![Best of 2023 - Twitter-16dca3.png](/uploads/Best%20of%202023%20-%20Twitter-16dca3.png)
-*Poet-athletes honed their soccer skills, poetry writing, and tried out new activities at DC SCORES Summer Camp this year.*
+*Poet-athletes in the Sixteenth Street Heights neighborhood enjoyed more SCORES at summer camp this year.*
 
-This summer, poet-athletes at John Lewis Elementary school and the Sixteenth Street Heights neighborhood got an extra dose of DC SCORES at summer camp! Led by DC SCORES staff members, coaches, and volunteers, camp was an opportunity for rising 4th and 5th graders to hone their soccer skills, practice their writing, and try out lots of new activities in the STEAM (Science, Technology, Engineering, Art, and Math) curriculum.
+This summer, poet-athletes at John Lewis Elementary School and the Sixteenth Street Heights neighborhood got an extra dose of DC SCORES at summer camp! Led by DC SCORES staff members, coaches, and volunteers, camp was an opportunity for rising 4th and 5th graders to hone their soccer skills, practice their writing, and try out lots of new activities in the STEAM (Science, Technology, Engineering, Art, and Math) curriculum.
 
 “All the kids had positive attitudes and were always willing to try out the activities we were doing and play,” says José Granados, a Program Coordinator at DC SCORES and one of the counselors leading summer camp this year. “We had fantastic guests come share what they do, from professional poets and soccer freestylers to staff from the Australian and New Zealand embassies. Overall, we had a ton of fun at camp this year.”
 
@@ -67,20 +66,20 @@ This summer, poet-athletes at John Lewis Elementary school and the Sixteenth Str
 
 On March 18 and November 4, DC SCORES Board Member and Washington Spirit star Ashley Hatch gave DC SCORES supporters the chance to train like professional soccer players in two exclusive adult soccer clinics, with all proceeds benefitting DC SCORES.
 
-The clinics were led by Hatch alongside Spirit players and coaching staff, with participants experiencing elite level warm-ups and passing, shooting, and dribbling drills. Held at Cardozo Education Campus, poet-athletes from the school also supported the event and even got the chance to take part in the drills themselves!
+The sessions were led by Hatch alongside Spirit players and coaching staff, with participants experiencing elite-level warm-ups and passing, shooting, and dribbling drills. Held at Cardozo Education Campus, poet-athletes from the school also supported the event and even got the chance to take part in the drills themselves!
 
-“QUOTE,” says Tony Francavilla, Chief Development Officer. “Quote.”
+“Our poet-athletes are so lucky to get to engage regularly with incredible pro players like Ashley Hatch, so it was really fantastic to show some of our supporters the impact of that star power,” says Tony Francavilla, Chief Development Officer. “So many of those in attendance are massive Spirit fans, and everything we raised will go toward covering transportation for DC SCORES teams to attend Spirit games at Audi Field. It was genuinely heartwarming to see the clinic participants having fun while helping build the next generation of fans.”
 
 [Read more about Ashley Hatch and the Washington Spirit partnership with DC SCORES.](https://www.dcscores.org/blog/2023/03/washington-spirit-hails-new-era-of-impact-in-the-district-through-dc-scores-partnership)
 
 ## 9. One Night One Goal
 
 ![Best of 2023 - Twitter (1)-59ca95.png](/uploads/Best%20of%202023%20-%20Twitter%20(1)-59ca95.png)
-*Attendees at One Night One Goal broke DC SCORES fundraisers with their generous support.*
+*Attendees at One Night One Goal broke DC SCORES fundraising records with their generous support.*
 
 On October 13, One Night One Goal broke the all-time DC SCORES fundraising record when the Audi Field event brought in more than $500,000 for poet-athletes in DC.
 
-Attendees at the star-studded event mingled with some of DC’s top soccer stars; bid on exclusive auction items donated by Audi, D.C. United, and the Washington Spirit; and enjoyed performances from some of the region’s best professional spoken word artists and musicians.
+Attendees at the star-studded event mingled with some of DC’s top soccer players, bid on exclusive auction items donated by Audi, D.C. United, and the Washington Spirit, and enjoyed performances from some of the region’s best professional spoken word artists and musicians.
 
 “This was my first ever One Night One Goal, and it was so incredible to see this community come together to support our poet-athletes,” says Megan Testen, Senior Development Manager of Grants. “Seeing everyone dressed up and having fun was a great way to kickstart a brilliant season of programming that will be sustained through attendees’ incredible generosity.”
 
@@ -89,13 +88,13 @@ Attendees at the star-studded event mingled with some of DC’s top soccer stars
 ## 8. Capital Cup
 
 ![Best of 2023 - Twitter (3).png](/uploads/Best%20of%202023%20-%20Twitter%20(3).png)
-*Poet-athletes played in front of large Audi Field crowds during Capital Cup.*
+\*Poet-athletes had the opportunity to play in front of their supporters at DC's iconic soccer stadium: Audi Field. \*
 
 On November 17, middle school poet-athletes realized a dream held by many DC soccer fans: to play a championship game under the lights at Audi Field.
 
-The top teams in DC SCORES’ co-ed, girls, and boys public and charter school leagues battled it out at the iconic stadium to be crowned District champions, with winner receiving their silverware from D.C. United player Donovan Pines.
+The top teams in DC SCORES’ co-ed, girls, and boys public and charter school leagues battled it out at the iconic stadium to be crowned District champions, with winners receiving their silverware from D.C. United player Donovan Pines.
 
-“Capital Cup brought back so many memories to me and I was very touched and impressed by the growth of DC SCORES,” says Josselin Possian, Associate Programs Manager and DC SCORES alumnus who now plays for the Maryland Bobcats. “I remember playing on a patch hole field,  now I’m seeing our youth have the chance to play at Audi Field! Seeing the joy on the players’, families’, and friends’ faces was breathtaking.”
+“Capital Cup brought back so many memories to me and I was very touched and impressed by the growth of DC SCORES,” says Josselin Possian, Associate Programs Manager and DC SCORES alumnus who now plays for the Maryland Bobcats. “I remember playing on a patch hole field, now I’m seeing our youth have the chance to play at Audi Field! Seeing the joy on the players’, families’, and friends’ faces was breathtaking.”
 
 [Read more about Capital Cup.](https://www.dcscores.org/blog/2023/11/middle-school-championship-teams-dream-big-under-the-capital-cup-lights-at-audi-field)
 
@@ -108,7 +107,7 @@ On July 28, DC SCORES summer campers got a taste of the Women’s World Cup (and
 
 Students also had the chance to meet diplomatic and cultural dignitaries from the two countries, including Paul Myler, Deputy Head of Mission at the Australian Embassy, and Chris Tse, New Zealand Poet Laureate, who gave a reading and talk at the event.
 
-“QUOTE,” says Saede Eifrig, Associate Programs Manager at DC SCORES. “QUOTE.”
+“It was so important to me that we expose our poet-athletes to the incredible world of women’s soccer. We hosted an internal World Cup tournament, where campers learned about the two host countries and participating teams — they even foreshadowed Spain as the winner!” says Saede Eifrig, Associate Programs Manager. “The embassies’ visit was an incredible opportunity for poet-athletes to showcase their knowledge and ask more questions. It was a blast watching them work together as teammates with the embassy staff!”
 
 [Read more about the Embassies’ party.](https://www.dcscores.org/blog/2023/08/australian-and-new-zealand-embassies-celebrate-womens-world-cup-at-dc-scores-summer-camp)
 
@@ -121,7 +120,7 @@ On July 17, poet-athletes at Seaton Elementary joined forces with MLS All-Star p
 
 [Seaton poet-athletes designed the pitch with Design FC and the U.S. Soccer Foundation](https://www.dcscores.org/blog/2023/05/seaton-elementary-school-poet-athletes-celebrate-diversity-through-mini-pitch-service-learning-project) for their spring service-learning project, and proudly christened the new amenity with an honorary “first kick” alongside their soccer idols.
 
-“The mini-pitch reveal at the MLS Community Day had everything a kids could want. A free MLS jersey, Arsenal legends, freestyle jugglers, and the opportunity to learn from some of the best coaches in the areas,” says Brian Anderson, Associate Programs Manager, who spearheaded the project with Seaton. “The Seaton youth smiling and screaming in disbelief after seeing their poem and artwork come to life will forever be cemented in my mind. Many of us have great ideas, but few of us are able to follow through on them to completion, so this project raised the confidence of the poet-athletes.”
+“The mini-pitch reveal at the MLS Community Day had everything a kid could want. A free MLS jersey, Arsenal legends, freestyle jugglers, and the opportunity to learn from some of the best coaches in the areas,” says Brian Anderson, Associate Programs Manager, who spearheaded the project with Seaton. “The Seaton youth smiling and screaming in disbelief after seeing their poem and artwork come to life will forever be cemented in my mind. Many of us have great ideas, but few of us are able to follow through on them to completion, so this project raised the confidence of the poet-athletes.”
 
 [Read more about DC SCORES’ MLS All-Star Week activities.](https://www.dcscores.org/blog/2023/07/dc-scores-poet-athletes-meet-their-soccer-heroes-during-mls-all-star-week)
 
@@ -132,7 +131,7 @@ On July 17, poet-athletes at Seaton Elementary joined forces with MLS All-Star p
 
 On September 27, D.C. United captain Steve Birnbaum joined Junior SCORES poet-athletes for a very special game day at Stanton Elementary. Birnbaum, who has sinced joined the DC SCORES board, partnered with Audi and The Players’ Tribune as part of the Audi Goals Drive Progress Program to support community initiatives championed by MLS athletes.
 
-Birnbaum led the poet-athletes from Stanton and Malcolm X Elementary in warm ups before staffing their games and delivering inspiring pep talks to the young players.
+Birnbaum led the poet-athletes from Stanton and Malcolm X Elementary in warm ups before helping to run their games and delivering inspiring pep talks to the young players.
 
 “Steve’s visit came just two days after a very challenging incident for students and staff at Stanton, and it was clear that his presence gave everyone a huge boost,” says Mairead MacRae, Senior Director of Communications. “Stanton has only been part of our program for two years but the coaching team has already achieved incredible things at the school. It was a privilege to see the school community share those achievements with Steve and watch him, and our poet-athletes, light up as they celebrated the joy of a DC SCORES game day.”
 
@@ -143,7 +142,7 @@ Birnbaum led the poet-athletes from Stanton and Malcolm X Elementary in warm ups
 ![Best of 2023 - Twitter-060ba3.png](/uploads/Best%20of%202023%20-%20Twitter-060ba3.png)
 *Jamboree welcomed thousands of poet-athletes and their families to Anacostia Park to celebrate DC SCORES' spring season.*
 
-On June 7, elementary school poet-athletes celebrated another successful spring season with Jamboree, a DC SCORES soccer tournament and community festival at Anacostia Park.
+On June 7, elementary school poet-athletes celebrated another successful spring season with Jamboree, DC SCORES' soccer tournament and community festival at Anacostia Park.
 
 More than 2,500 kids and family member joined for the event that included a series of 7-a-side soccer matches, field games, arts and crafts, and the chance to meet special guests, including D.C. United mascot Talon and professional freestyle footballers from Undefined Fútbol.
 
@@ -156,7 +155,7 @@ More than 2,500 kids and family member joined for the event that included a seri
 ![Best of 2023 - Twitter (3)-260c6c.png](/uploads/Best%20of%202023%20-%20Twitter%20(3)-260c6c.png)
 *A poet-athlete celebrates scoring a goal at Junior Fall Frenzy.*
 
-On October 18 and 28, poet-athletes in DC SCORES’ Junior and elementary school programs came together for the non-profit’s signature fall season event: Fall Frenzy!
+On October 18 and 28, poet-athletes in DC SCORES’ Junior and Elementary School programs came together for the non-profit’s signature fall season events: Fall Frenzies!
 
 In addition to participating in a soccer tournament and relay games and crafts, poet-athletes had the opportunity to meet some local VIPs, including professional players from  D.C. United and the Washington Spirit, and the Miss World America representatives for Washington, DC, and Maryland.
 
@@ -171,7 +170,7 @@ In addition to participating in a soccer tournament and relay games and crafts, 
 
 On May 16, poet-athletes in DC SCORES’ [Youth W.O.R.D. Project](https://www.dcscores.org/blog/2023/01/dc-scores-revamps-youth-word-project-for-promising-young-poets-in-dc) stepped into the spotlight at Arena Stage and shared their original poetry in front of an audience of hundreds.
 
-The young people’s powerful performances were accompanied by a reading from award-winning writer and DC SCORES Board Member Clint Smith, who shared excerpts from his latest poetry collection, Above Ground. Smith was also presented with the inaugural Poet-Athlete Award, which is given annually to an individual, or group of individuals, who embody the ethos of DC SCORES poet-athletes.
+The young people’s powerful performances were accompanied by a reading from award-winning writer and DC SCORES Board Member Clint Smith, who shared excerpts from his latest poetry collection, *Above Ground*. Smith was also presented with the inaugural Poet-Athlete Award, which is given annually to an individual, or group of individuals, who embody the ethos of DC SCORES poet-athletes.
 
 “This year's Our Words Our City felt like magic,” says Zarea Boyde, Program Coordinator for Creative Writing, who leads the Youth W.O.R.D. Project. “To see the kids so excited to showcase the work that we did all season was absolutely heartwarming."
 
