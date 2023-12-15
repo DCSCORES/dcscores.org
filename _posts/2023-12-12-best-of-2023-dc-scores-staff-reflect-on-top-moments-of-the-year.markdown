@@ -47,6 +47,7 @@ On May 11, DC SCORES celebrated the retirement of Charles Robinson, a coach at T
 
 [Learn more about Coach Rob’s DC SCORES impact.](https://twitter.com/dcunited/status/1497632558577639425)
 
+
 ## 13. Goals for Girls
 
 ![Best of 2023 - Twitter (1).png](/uploads/Best%20of%202023%20-%20Twitter%20(1).png)
@@ -60,6 +61,7 @@ Initiated by DMV teenager and soccer player Loretta Talbott, the clinic engaged 
 
 [Check out photos from the Goals for Girls event.](https://www.flickr.com/photos/dcscorespictures/albums/72177720309357904/)
 
+
 ## 12. 20th Anniversary SCORES Cup
 
 ![Best of 2023 - Twitter (2).png](/uploads/Best%20of%202023%20-%20Twitter%20(2).png)*DC SCORES celebrated 20 years of SCORES Cup with limited edition commemorative jerseys and team shirts.*
@@ -72,6 +74,7 @@ To mark the 20th anniversary, captains of teams that have played in the tourname
 
 [Read more about the 20th anniversary of SCORES Cup.](https://www.dcscores.org/blog/2023/07/dc-scores-celebrates-20-years-of-scores-cup-with-a-record-breaking-tournament)
 
+
 ## 11. Summer Camp at John Lewis Elementary School
 
 ![Best of 2023 - Twitter-16dca3.png](/uploads/Best%20of%202023%20-%20Twitter-16dca3.png)
@@ -82,6 +85,7 @@ This summer, poet-athletes at John Lewis Elementary School and the Sixteenth Str
 “All the kids had positive attitudes and were always willing to try out the activities we were doing and play,” says José Granados, a Program Coordinator at DC SCORES and one of the counselors leading summer camp this year. “We had fantastic guests come share what they do, from professional poets and soccer freestylers to staff from the Australian and New Zealand embassies. Overall, we had a ton of fun at camp this year.”
 
 [Read more about DC SCORES summer camp.](https://www.dcscores.org/blog/2023/07/fun-in-the-sun-with-dc-scores-campers-at-john-lewis-elementary-school)
+
 
 ## 10. Train Like A Pro With Ashley Hatch
 
@@ -96,6 +100,7 @@ The sessions were led by Hatch alongside Spirit players and coaching staff, with
 
 [Read more about Ashley Hatch and the Washington Spirit partnership with DC SCORES.](https://www.dcscores.org/blog/2023/03/washington-spirit-hails-new-era-of-impact-in-the-district-through-dc-scores-partnership)
 
+
 ## 9. One Night One Goal
 
 ![Best of 2023 - Twitter (1)-59ca95.png](/uploads/Best%20of%202023%20-%20Twitter%20(1)-59ca95.png)
@@ -108,6 +113,7 @@ Attendees at the star-studded event mingled with some of DC’s top soccer playe
 “This was my first ever One Night One Goal, and it was so incredible to see this community come together to support our poet-athletes,” says Megan Testen, Senior Development Manager of Grants. “Seeing everyone dressed up and having fun was a great way to kickstart a brilliant season of programming that will be sustained through attendees’ incredible generosity.”
 
 [Read more about One Night One Goal.](https://www.dcscores.org/blog/2023/10/one-night-one-goal-repeats-record-breaking-feat-to-raise-more-than-500-dollars-000-for-dc-scores)
+
 
 ## 8. Capital Cup
 
@@ -122,6 +128,7 @@ The top teams in DC SCORES’ co-ed, girls, and boys public and charter school l
 
 [Read more about Capital Cup.](https://www.dcscores.org/blog/2023/11/middle-school-championship-teams-dream-big-under-the-capital-cup-lights-at-audi-field)
 
+
 ## 7. Australian and New Zealand Embassies World Cup Party
 
 ![Best of 2023 - Twitter (4).png](/uploads/Best%20of%202023%20-%20Twitter%20(4).png)
@@ -134,6 +141,7 @@ Students also had the chance to meet diplomatic and cultural dignitaries from th
 “It was so important to me that we expose our poet-athletes to the incredible world of women’s soccer. We hosted an internal World Cup tournament, where campers learned about the two host countries and participating teams — they even foreshadowed Spain as the winner!” says Saede Eifrig, Associate Programs Manager. “The embassies’ visit was an incredible opportunity for poet-athletes to showcase their knowledge and ask more questions. It was a blast watching them work together as teammates with the embassy staff!”
 
 [Read more about the Embassies’ party.](https://www.dcscores.org/blog/2023/08/australian-and-new-zealand-embassies-celebrate-womens-world-cup-at-dc-scores-summer-camp)
+
 
 ## 6. Seaton Elementary Mini-Pitch Debut at MLS All-Star Week
 
@@ -148,6 +156,7 @@ On July 17, poet-athletes at Seaton Elementary joined forces with MLS All-Star p
 
 [Read more about DC SCORES’ MLS All-Star Week activities.](https://www.dcscores.org/blog/2023/07/dc-scores-poet-athletes-meet-their-soccer-heroes-during-mls-all-star-week)
 
+
 ## 5. Steve Birnbaum Visit to Stanton Elementary for Audi Goals Drive Progress Program with The Players’ Tribune
 
 ![Best of 2023 - Twitter (6).png](/uploads/Best%20of%202023%20-%20Twitter%20(6).png)
@@ -160,6 +169,7 @@ Birnbaum led the poet-athletes from Stanton and Malcolm X Elementary in warm ups
 “Steve’s visit came just two days after a very challenging incident for students and staff at Stanton, and it was clear that his presence gave everyone a huge boost,” says Mairead MacRae, Senior Director of Communications. “Stanton has only been part of our program for two years but the coaching team has already achieved incredible things at the school. It was a privilege to see the school community share those achievements with Steve and watch him, and our poet-athletes, light up as they celebrated the joy of a DC SCORES game day.”
 
 [Learn more about Birnbaum’s visit to Stanton and the Audi Goals Drive Progress program.](https://www.theplayerstribune.com/posts/steve-birnbaum-mls-soccer-dc-united)
+
 
 ## 4. Jamboree at Anacostia Park
 
@@ -174,6 +184,7 @@ More than 2,500 kids and family member joined for the event that included a seri
 
 [Read more about Jamboree.](https://www.dcscores.org/blog/2023/06/dc-scores-poet-athletes-celebrate-another-successful-jamboree)
 
+
 ## 3. Fall Frenzies at The Fields at RFK
 
 ![Best of 2023 - Twitter (3)-260c6c.png](/uploads/Best%20of%202023%20-%20Twitter%20(3)-260c6c.png)
@@ -187,6 +198,7 @@ In addition to participating in a soccer tournament and relay games and crafts, 
 
 [Read more about Fall Frenzy.](https://www.dcscores.org/blog/2023/10/dc-scores-community-comes-together-to-bring-joy-to-fall-frenzy-events)
 
+
 ## 2. Our Words Our City
 
 ![Best of 2023 - Twitter (2)-ffa74a.png](/uploads/Best%20of%202023%20-%20Twitter%20(2)-ffa74a.png)
@@ -199,6 +211,7 @@ The young people’s powerful performances were accompanied by a reading from aw
 “This year's Our Words Our City felt like magic,” says Zarea Boyde, Program Coordinator for Creative Writing, who leads the Youth W.O.R.D. Project. “To see the kids so excited to showcase the work that we did all season was absolutely heartwarming."
 
 [Read more about Our Words Our City.](https://www.dcscores.org/blog/2023/05/dc-scores-poet-athletes-share-stage-with-clint-smith-at-our-words-our-city-2023)
+
 
 ## 1. Poetry Slams
 
