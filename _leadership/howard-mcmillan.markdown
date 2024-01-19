@@ -1,6 +1,6 @@
 ---
 title: Howard McMillan
-position: 84
+position: 85
 Details: Wells Fargo
 Section: emeritus
 ---

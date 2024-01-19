@@ -1,7 +1,7 @@
 ---
 title: Andrew Morris
 date: 2023-09-06 15:14:00 Z
-position: 38
+position: 39
 Details: NFL Players Association
 Section: board
 Link: https://www.linkedin.com/in/andrew-v-morris-lll-45298246/

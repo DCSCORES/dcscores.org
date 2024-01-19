@@ -1,7 +1,7 @@
 ---
 title: Bruce Schulman
 date: 2023-09-06 15:24:00 Z
-position: 91
+position: 92
 Details: NGP Energy Technology Partners
 Section: emeritus
 ---
