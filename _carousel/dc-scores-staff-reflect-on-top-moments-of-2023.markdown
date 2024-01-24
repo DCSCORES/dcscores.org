@@ -6,4 +6,4 @@ Image: "/uploads/frenzy.png"
 Link: https://www.dcscores.org/blog/2023/12/best-of-2023-dc-scores-staff-reflect-on-top-moments-of-the-year
 ---
 
-Learn about our staff's favorite moment from an exciting year of DC SCORES programming.
+Learn about our staff's favorite moments from an exciting year of DC SCORES programming.
