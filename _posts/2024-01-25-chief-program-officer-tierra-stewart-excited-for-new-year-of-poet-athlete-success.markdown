@@ -50,7 +50,7 @@ Now, at the start of a year in which DC SCORES will celebrate its 30th anniversa
 
 Stewart knows firsthand that fostering a sense of justice in youth can lead to a lifetime of community engagement.
 
-It was as a middle schooler, watching the devastation of Hurricane Katrina, and the [failed government response to the disaster](https://www.govinfo.gov/content/pkg/CRPT-109hrpt377/pdf/CRPT-109hrpt377.pdf), wreaked on Black New Orleans residents, that [Stewart began exploring how to serve others](https://msmagazine.com/2022/06/17/young-black-women-activism-juneteenth/).
+It was as a middle schooler, watching the devastation of Hurricane Katrina, and the [failed government response to the disaster](https://www.govinfo.gov/content/pkg/CRPT-109hrpt377/pdf/CRPT-109hrpt377.pdf), wreaked on Black New Orleans residents that [Stewart began exploring how to serve others](https://msmagazine.com/2022/06/17/young-black-women-activism-juneteenth/).
 
 “I wanted to be in service to my people because it didn’t seem like our pain and suffering were important to this country. I had one problem, I was deeply afraid to speak and to be heard,” [she told ](https://voyagebaltimore.com/interview/community-highlights-meet-tierra-stewart-of-lead-the-way/)*[Voyage Baltimore](https://voyagebaltimore.com/interview/community-highlights-meet-tierra-stewart-of-lead-the-way/)*.
 
@@ -65,7 +65,7 @@ However, when she reached college, Stewart was dismayed to discover she was the 
 
 “I realized the educational system intentionally worked not to include me or my ancestors, our interests, or liberation,” she has [said of her college experience](https://voyagebaltimore.com/interview/community-highlights-meet-tierra-stewart-of-lead-the-way/). “We are being positioned to assimilate as insubordination into a eurocentric dominated culture, and are being taught to be obedient and compliant with the systems.”
 
-She also founded LEAD THE WAY, a leadership development, community, and movement-building organization that empowers youth to engage in anti-oppressive leadership. [The organization is expressly committed](https://letsleadtheway.org/about-us) to dismantling capitalist, colonialist, imperialist, and patriarchal structures that [keep so many young people locked out of educational resources and power](https://www.edweek.org/leadership/opinion-stop-talking-about-gaps-in-education-talk-about-harm/2023/08).
+She founded LEAD THE WAY, a leadership development, community, and movement-building organization that empowers youth to engage in anti-oppressive leadership. [The organization is expressly committed](https://letsleadtheway.org/about-us) to dismantling capitalist, colonialist, imperialist, and patriarchal structures that [keep so many young people locked out of educational resources and power](https://www.edweek.org/leadership/opinion-stop-talking-about-gaps-in-education-talk-about-harm/2023/08).
 
 She says, “\[My work\] is my way of resisting the paradigms that are already in place. My way of disrupting that is to directly invest in those who are already doing this work, who are already invested in our youth.”
 
@@ -106,4 +106,4 @@ Ultimately, she would like to expand the organization’s middle school offering
 
 Stewart knows that these visions for DC SCORES’ future are ambitious, but she believes that transformational change has humble origins. The simple act of turning up for the District’s young people through DC SCORES is enough to create ripples of change through whole communities.
 
-“Our young people have to navigate so much before they even get into their school buildings,” she says. “But, as I’ve said before, DC SCORES is not just an after-school program. It’s a place where students don’t have to think about anything else other than being in a space that is nurturing their deep sense of belonging.”
+“Our young people have to navigate so much before they even get into their school buildings,” she says. “But DC SCORES is not just an after-school program. It’s a place where students don’t have to think about anything else other than being in a space that is nurturing their deep sense of belonging.”
