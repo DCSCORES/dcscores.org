@@ -9,6 +9,30 @@ Thumbnail Image: "/uploads/1-33b050.png"
 ![1-33b050.png](/uploads/1-33b050.png)
 *At DC SCORES, Stewart is leading on staff development, program fidelity, and addressing the root causes of challenges facing the District's youth.*
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 Chief Program Officer Tierra Stewart has only been at DC SCORES for a season, but she has already made a host of unforgettable memories in the organization’s soccer, poetry, and service-learning program.
 
 One moment stands out in particular. In October, Stewart visited the DC SCORES middle school team at The Sojourner Truth School in Northeast DC. The squad was practicing for poetry slam, the culmination of DC SCORES’ writing curriculum.
