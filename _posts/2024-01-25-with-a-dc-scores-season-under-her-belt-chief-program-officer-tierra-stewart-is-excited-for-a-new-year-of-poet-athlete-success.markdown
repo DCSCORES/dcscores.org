@@ -7,7 +7,7 @@ Thumbnail Image: "/uploads/1-33b050.png"
 ---
 
 ![1-33b050.png](/uploads/1-33b050.png)
-*At DC SCORES, Stewart is leading on staff development, program fidelity, and addressing the root causes of the challenges faced by the District's youth.*
+*At DC SCORES, Stewart is leading on staff development, program fidelity, and addressing the root causes of challenges facing the District's youth.*
 
 Chief Program Officer Tierra Stewart has only been at DC SCORES for a season, but she has already made a host of unforgettable memories in the organization’s soccer, poetry, and service-learning program.
 
@@ -18,6 +18,9 @@ One moment stands out in particular. In October, Stewart visited the DC SCORES m
 Stewart says the experience was emblematic of what DC SCORES means to the youth it serves. “It was a really beautiful and engaged practice,” she shares. “They were picking up everything that we were putting down.”
 
 Now, at the start of a year in which DC SCORES will celebrate its 30th anniversary, Stewart is looking to the future of the organization and embarking on work that will sustain the program for decades to come. “I joined the organization at a great time when we’re really at the precipice of thinking about what is the next level to really live out our commitments to the community,” she says. “We’re not just an after-school program, we’re an escape, a safe haven. We bring joy.”
+
+![Tierra Story Photos.png](/uploads/Tierra%20Story%20Photos.png)
+*Stewart joined DC SCORES in August, 2023.*
 
 ## Dismantling Educational Barriers
 
