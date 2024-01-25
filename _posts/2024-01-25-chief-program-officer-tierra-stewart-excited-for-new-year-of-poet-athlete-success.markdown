@@ -1,6 +1,6 @@
 ---
 title: With A DC SCORES Season Under Her Belt, Chief Program Officer Tierra Stewart
-  Is Excited for A New Year of Poet-Athlete Success
+  Excited for New Year of Poet-Athlete Success
 date: 2024-01-25 15:53:00 Z
 Author: Mairead MacRae
 Thumbnail Image: "/uploads/1-33b050.png"
