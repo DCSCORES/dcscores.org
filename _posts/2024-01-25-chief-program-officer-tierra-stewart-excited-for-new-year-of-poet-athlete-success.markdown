@@ -69,8 +69,8 @@ She founded LEAD THE WAY, a leadership development, community, and movement-buil
 
 She says, “\[My work\] is my way of resisting the paradigms that are already in place. My way of disrupting that is to directly invest in those who are already doing this work, who are already invested in our youth.”
 
-![2-4923cd.png](/uploads/2-4923cd.png)
-*Stewart on stage at the 2023 DC SCORES Middle School Poetry Slam.*
+![Tierra Story Photos (Twitter Post).png](/uploads/Tierra%20Story%20Photos%20(Twitter%20Post).png)
+*Stewart, Blackwell, and players from the Washington Spirit present the Hart Middle School team with the Spirit award at Middle School Poetry Slam last year.*
 
 ## Working Directly With Youth
 
