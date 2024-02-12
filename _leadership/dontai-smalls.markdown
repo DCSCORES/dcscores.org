@@ -1,6 +1,6 @@
 ---
 title: Dontai Smalls
-position: 94
+position: 95
 Details: UPS
 Section: emeritus
 ---
