@@ -4,7 +4,7 @@ date: 2019-01-28 15:07:00 Z
 position: 16
 Details: Community Engagement Manager
 Email: mlocker@dcscores.org
-Profile Image: "/uploads/32432113408_1c83624a5c_k%20(1).jpg"
+Profile Image: "/uploads/_AVA1061-Enhanced-NR.jpg"
 Section: staff
 ---
 
