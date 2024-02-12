@@ -1,7 +1,7 @@
 ---
 title: Matt Lindsay
 date: 2018-11-20 15:39:00 Z
-position: 68
+position: 69
 Details: Quantified Ventures
 Section: advisory
 ---
