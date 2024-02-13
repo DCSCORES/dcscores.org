@@ -3,7 +3,7 @@ title: Tony Francavilla
 position: 3
 Details: Chief Development Officer
 Email: afrancavilla@dcscores.org
-Profile Image: "/uploads/_AVA1064-Enhanced-NR.jpg"
+Profile Image: "/uploads/Tony%20Francavilla%20Bio.png"
 Section: staff
 ---
 
