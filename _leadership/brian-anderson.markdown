@@ -4,7 +4,7 @@ date: 2023-01-20 16:52:00 Z
 position: 6
 Details: Associate Manager, Programs
 Email: banderson@dcscores.org
-Profile Image: "/uploads/Brian%20Anderson.png"
+Profile Image: "/uploads/Brian%20Anderson-18d382.png"
 Section: staff
 ---
 
