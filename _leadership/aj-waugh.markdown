@@ -4,7 +4,7 @@ date: 2024-02-12 20:50:00 Z
 position: 24
 Details: Multimedia Communications Manager
 Email: awaugh@dcscores.org
-Profile Image: "/uploads/_AVA1074-Enhanced-NR.jpg"
+Profile Image: "/uploads/AJ%20Waugh%20Bio.png"
 Section: staff
 ---
 
