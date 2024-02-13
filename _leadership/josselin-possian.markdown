@@ -4,7 +4,7 @@ date: 2023-12-11 15:32:00 Z
 position: 19
 Details: Associate Manager, Programs
 Email: jpossian@dcscores.org
-Profile Image: "/uploads/_AVA1068-Enhanced-NR.jpg"
+Profile Image: "/uploads/Josselin%20Possian%20Bio.png"
 Section: staff
 ---
 
