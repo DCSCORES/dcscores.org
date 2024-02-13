@@ -4,7 +4,7 @@ date: 2024-02-12 20:52:00 Z
 position: 25
 Details: Program Assistant
 Email: jwong@dcscores.org
-Profile Image: "/uploads/_AVA1060-Enhanced-NR.jpg"
+Profile Image: "/uploads/Jane%20Wong%20Bio.png"
 Section: staff
 ---
 
