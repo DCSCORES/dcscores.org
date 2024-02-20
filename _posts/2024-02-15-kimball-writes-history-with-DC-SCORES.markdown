@@ -1,5 +1,5 @@
 ---
-title: "“We’re Smart, Strong, and Brave”: Poet-Athletes at Kimball Elementary Write
+title: "“We’re Smart, Strong, and Brave”:  Kimball Elementary Poet-Athletes Write
   History With DC SCORES"
 date: 2024-02-15 14:21:00 Z
 Author: Mairead MacRae
