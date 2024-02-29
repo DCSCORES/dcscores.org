@@ -1,6 +1,6 @@
 ---
 title: Tierra Stewart
-position: 3
+position: 2
 Details: Chief Program Officer
 Email: tstewart@dcscores.org
 Profile Image: "/uploads/Tierra%20Stewart%20Bio.png"
