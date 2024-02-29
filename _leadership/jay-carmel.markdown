@@ -1,7 +1,7 @@
 ---
 title: Jay Carmel
 published: false
-position: 60
+position: 59
 Details: Avascent
 ---
 

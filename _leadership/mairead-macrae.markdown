@@ -1,7 +1,7 @@
 ---
 title: Mairead MacRae
 date: 2022-08-30 18:05:00 Z
-position: 20
+position: 19
 Details: Senior Director of Communications
 Email: mmacrae@dcscores.org
 Profile Image: "/uploads/updated%20headshots%20092023.png"

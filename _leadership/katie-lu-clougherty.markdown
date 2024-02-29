@@ -1,7 +1,7 @@
 ---
 title: Klu Clougherty
 date: 2017-08-14 13:49:00 Z
-position: 11
+position: 10
 Details: Director of Site Management and Evaluation
 Email: kclougherty@dcscores.org
 Profile Image: "/uploads/updated%20headshots%20092023%20(1).png"

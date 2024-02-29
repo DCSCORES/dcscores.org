@@ -1,7 +1,7 @@
 ---
 title: AJ Waugh
 date: 2024-02-12 20:50:00 Z
-position: 27
+position: 26
 Details: Multimedia Communications Manager
 Email: awaugh@dcscores.org
 Profile Image: "/uploads/AJ%20Waugh%20Bio.png"
