@@ -1,7 +1,7 @@
 ---
 title: Jewel Christian
 date: 2019-11-07 14:31:00 Z
-position: 7
+position: 11
 Details: Associate Manager for Junior SCORES
 Email: 'jchristian@dcscores.org '
 Profile Image: "/uploads/Jewel%20Christian.png"

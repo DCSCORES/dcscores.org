@@ -1,6 +1,6 @@
 ---
 title: David Barritt-Flatt
-position: 31
+position: 36
 Details: Carta Advisors, LLC
 Section: board
 Link: https://www.linkedin.com/in/david-barritt-flatt-37201a7/

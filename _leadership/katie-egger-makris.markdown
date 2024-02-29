@@ -1,7 +1,7 @@
 ---
 title: Katie Egger Makris
 date: 2024-02-12 20:47:00 Z
-position: 18
+position: 23
 Details: Senior Development Director of Operations and Events
 Email: kmakris@dcscores.org
 Profile Image: "/uploads/Katie%20Makris%20Bio.png"
