@@ -1,7 +1,7 @@
 ---
 title: Jane Wong
 date: 2024-02-12 20:52:00 Z
-position: 30
+position: 28
 Details: Program Assistant
 Email: jwong@dcscores.org
 Profile Image: "/uploads/Jane%20Wong%20Bio.png"

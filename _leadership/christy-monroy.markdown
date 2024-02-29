@@ -1,7 +1,7 @@
 ---
 title: Christy Monroy
 date: 2022-09-12 21:32:00 Z
-position: 76
+position: 74
 Details: Akamai
 Section: advisory
 ---

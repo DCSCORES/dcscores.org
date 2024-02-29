@@ -1,7 +1,7 @@
 ---
 title: Charity Blackwell
 date: 2017-08-14 13:42:00 Z
-position: 8
+position: 7
 Details: Chief of Culture and Arts
 Email: cblackwell@dcscores.org
 Profile Image: "/uploads/Charity%20Blackwell.png"

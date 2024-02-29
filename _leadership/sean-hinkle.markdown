@@ -1,6 +1,6 @@
 ---
 title: Sean Hinkle
-position: 5
+position: 4
 Details: Chief Operating Officer
 Email: shinkle@dcscores.org
 Profile Image: "/uploads/Sean%20Hinkle.png"

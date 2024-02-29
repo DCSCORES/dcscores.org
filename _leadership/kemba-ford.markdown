@@ -1,6 +1,6 @@
 ---
 title: Kemba Ford*
-position: 65
+position: 63
 Details: Food and Drug Administration (*serving in a personal capacity)
 Section: advisory
 ---

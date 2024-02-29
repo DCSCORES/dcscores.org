@@ -1,7 +1,7 @@
 ---
 title: Josselin Possian
 date: 2023-12-11 15:32:00 Z
-position: 24
+position: 22
 Details: Associate Manager, Programs
 Email: jpossian@dcscores.org
 Profile Image: "/uploads/Josselin%20Possian%20Bio.png"

@@ -1,7 +1,7 @@
 ---
 title: Danny Sheerin
 date: 2019-01-28 14:55:00 Z
-position: 25
+position: 23
 Details: Senior Manager, Programs
 Email: dsheerin@dcscores.org
 Profile Image: "/uploads/DSHeadshot.png"

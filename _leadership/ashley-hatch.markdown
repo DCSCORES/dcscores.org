@@ -1,6 +1,6 @@
 ---
 title: Ashley Hatch
-position: 42
+position: 40
 Details: Washington Spirit
 Section: board
 Link: https://washingtonspirit.com/team-member/ashley-hatch-6/
