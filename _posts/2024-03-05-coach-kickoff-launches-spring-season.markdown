@@ -1,6 +1,6 @@
 ---
 title: Community-Focused Coach Kickoff Launches DC SCORES Spring Season
-date: 2024-03-05 19:12:00 Z
+date: 2024-03-05 12:12:00 Z
 Author: Mairead MacRae
 Thumbnail Image: "/uploads/1-b1e42c.png"
 ---
