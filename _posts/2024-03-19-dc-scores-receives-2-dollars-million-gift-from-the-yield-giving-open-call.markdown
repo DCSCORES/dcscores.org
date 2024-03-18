@@ -1,6 +1,6 @@
 ---
 title: DC SCORES Receives $2 Million Gift From the Yield Giving Open Call
-date: 2024-03-19 11:30:00 Z
+date: 2024-03-19 11:16:00 Z
 Author: DC SCORES
 Thumbnail Image: "/uploads/Announcement%20(3).png"
 ---
