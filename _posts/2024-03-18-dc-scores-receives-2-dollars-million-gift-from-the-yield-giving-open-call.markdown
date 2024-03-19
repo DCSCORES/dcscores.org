@@ -20,11 +20,14 @@ Thumbnail Image: "/uploads/Announcement%20(3).png"
 
 
 
-MacKenzie Scott’s Yield Giving has announced DC SCORES as one of the Yield Giving Open Call’s awardees. DC SCORES received $2 million. 
 
-The award granted substantial gifts to organizations working with people and in places experiencing the greatest needs in the United States. 
 
-DC SCORES serves more than 3,000 young people at over 60 elementary and middle schools across the District of Columbia through its soccer, poetry, and service-learning programs. Operating in 7 of D.C.’s 8 wards, DC SCORES provides this free out-of-school-time programming to ensure that young people experience the joys of childhood: sports, the arts, and being part of a community. 
+
+MacKenzie Scott’s Yield Giving has announced DC SCORES as one of the Yield Giving Open Call’s awardees. DC SCORES received $2 million.
+
+The award granted substantial gifts to organizations working with people and in places experiencing the greatest needs in the United States.
+
+DC SCORES serves more than 3,000 young people at over 60 elementary and middle schools across the District of Columbia through its soccer, poetry, and service-learning programs. Operating in 7 of D.C.’s 8 wards, DC SCORES provides this free out-of-school-time programming to ensure that young people experience the joys of childhood: sports, the arts, and being part of a community.
 
 In March 2023, Yield Giving launched an Open Call for community-led, community-focused organizations whose explicit purpose is to enable individuals and families to achieve substantive improvement in their well-being through foundational resources.
 
