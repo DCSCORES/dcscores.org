@@ -16,6 +16,8 @@ Jamboree is our all-day soccer tournament and community festival for our element
 
 * Location: TBD
 
+* [Volunteer here](https://docs.google.com/forms/d/1w19_UB0IXSaHN3kr0c08DBUIWHU29oh32W_KO5T_h0k/viewform?edit_requested=true). 
+
 * All volunteers will receive a light lunch (vegetarian options available) and water stations will be placed throughout the venue.
 
 #### This event is held outdoors, so please come prepared with the following items:
