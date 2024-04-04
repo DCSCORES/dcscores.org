@@ -16,9 +16,9 @@ Fall Frenzy is our annual elementary school soccer tournament and community fest
 
 * Location: The Fields at RFK (401 Oklahoma Ave NE, Washington, DC 20002)
 
-<iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d12421.434502261876!2d-76.9713975!3d38.8929136!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x89b7b9d16223915b%3A0xff064ea0382228ea!2sThe%20Fields%20at%20RFK%20Campus!5e0!3m2!1sen!2sus!4v1712240170445!5m2!1sen!2sus" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
-
 * All volunteers will receive a light lunch (vegetarian options available) and water stations will be placed throughout the venue.
+
+<iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d12421.434502261876!2d-76.9713975!3d38.8929136!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x89b7b9d16223915b%3A0xff064ea0382228ea!2sThe%20Fields%20at%20RFK%20Campus!5e0!3m2!1sen!2sus!4v1712240170445!5m2!1sen!2sus" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 
 #### This event is held outdoors, so please come prepared with the following items:
 
