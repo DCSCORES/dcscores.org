@@ -50,7 +50,7 @@ However, a chance encounter ten years later at a previous employer’s corporate
 
 “Tony \[Francavilla, Chief Development Officer for DC SCORES\] was there,” she remembers, “and he’s talking about this soccer program that was founded at Marie Reed. I’m like, ‘wait a minute! I was in that program!’”
 
-Dougherty introduced herself to Francavilla after the event and promised to stay in touch. A few months later, DC SCORES won a grant from [The Junior League of Washington](https://www.jlw.org/), a women’s membership nonprofit she was serving as a board member. “DC SCORES was crossing my path a lot,” she remarks. “It’s like the universe was saying, ‘you need to reconnect with this organization.’”
+Dougherty introduced herself to Francavilla after the event and promised to stay in touch. A few months later, DC SCORES won a grant from [The Junior League of Washington](https://www.jlw.org/), a women’s membership nonprofit where Dougherty was serving as a board member. “DC SCORES was crossing my path a lot,” she remarks. “It’s like the universe was saying, ‘you need to reconnect with this organization.’”
 
 ![3-bbe618.png](/uploads/3-bbe618.png)
 *Dougherty poses with other members of the DC SCORES Advisory Council at the [2022 One Night One Goal fundraiser gala](https://www.dcscores.org/blog/2022/10/one-night-one-goal-2022).*
