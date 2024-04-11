@@ -1,7 +1,7 @@
 ---
 title: "“It’s Exhilarating”: Fourth-Grader Veronica Telzrow On Being Part of a 3,000-Strong
   Poet-Athlete Community Bringing Change to D.C."
-date: 2024-04-10 15:36:00 Z
+date: 2024-04-10 14:36:00 Z
 Author: Mairead MacRae
 Thumbnail Image: "/uploads/1-446f35.png"
 ---
