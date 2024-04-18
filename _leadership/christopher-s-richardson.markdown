@@ -1,6 +1,6 @@
 ---
 title: Christopher S. Richardson
-position: 98
+position: 99
 Section: emeritus
 ---
 
