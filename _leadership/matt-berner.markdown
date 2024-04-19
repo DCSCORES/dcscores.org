@@ -4,7 +4,7 @@ date: 2024-04-18 12:19:00 Z
 position: 5
 Details: Director of Individual Giving
 Email: mberner@dcscores.org
-Profile Image: "/uploads/_AVA2902-Enhanced-NR-2.jpg"
+Profile Image: "/uploads/Matt%20Berner%20Profile.jpg"
 Section: staff
 ---
 
