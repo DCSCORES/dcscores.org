@@ -8,7 +8,7 @@ layout: volunteer
 
 # Volunteer with DC SCORES!
 
-Thank you so much for your interest in volunteering with DC SCORES. Volunteers are at the core of our organization, enabling us to serve more than 3,000 young people at over 60 schools across Washington DC.
+Thank you so much for your interest in volunteering with DC SCORES. Volunteers are at the core of our organization, enabling us to serve more than 3,000 young people at over 60 schools across Washington D.C.
 
 Volunteers are integral to empowering DC SCORES to provide high-quality programming to poet-athletes all over our city. Volunteers serve in a variety of capacities, from refereeing kids’ gamedays to providing pro-bono photoshoots of our work.
 
@@ -23,67 +23,66 @@ We welcome volunteers of all backgrounds at DC SCORES. If you are interested in 
 ![Referee](/uploads/volunteer-referee-float-left.jpg)
 
 **Description:**
-During the fall season (9/20-11/9) we have weekly game days on Thursdays (4-6pm) for our elementary school program. The smooth operation of these game days relies on our volunteer referees and, with 20\+ weekly games all over the city, we’re always looking for more volunteers!
+During the spring season (March to May) we have weekly game days on Thursdays (4-6pm) for our elementary school program. The smooth operation of these game days relies on our volunteer referees and, with 20\+ weekly games all over the city, we’re always looking for more volunteers!
 
 
-Contact mlocker@dcscores for more information.
+Contact Margot Locker, Community Engagement Manager, at mlocker@dcscores for more information.
 
 ---
 
 <span id="volunteer-special-events"></span>
 
-## Fall 2023 Events
+## Spring 2024 Events
 
-There are plenty of DC SCORES events happening this fall and we’re seeking volunteers to help with all of them! Sign up [here](https://docs.google.com/forms/d/1w19_UB0IXSaHN3kr0c08DBUIWHU29oh32W_KO5T_h0k/edit) if interested in learning more.
+There are plenty of DC SCORES events happening this spring and we’re seeking volunteers to help with all of them! Sign up [here](https://docs.google.com/forms/d/1w19_UB0IXSaHN3kr0c08DBUIWHU29oh32W_KO5T_h0k/edit) if interested in learning more.
 
 
-### One Night One Goal
+### Our Words Our City
 
-The One Night One Goal fundraising gala at Audi Field features performances from top spoken word artists, fieldside and jumbotron photo opportunities, live and silent auctions, and guest appearances from D.C. United and Washington Spirit professional soccer players.
+Our Words Our City is the DMV region's premier youth poetry showcase. The event will feature original spoken-word performances from DC SCORES poet-athletes and the presentation of 2024 Poet-Athlete Awards to bestselling author Jason Reynolds and Ward 4 Councilmember and DC SCORES alumna Janeese Lewis George. 
 
-**Date and Time:** October 12th, 2023, 6-10PM
+**Date and Time:** May 7th, 2024, 4-8PM
 
-**Location:** [Audi Field](https://goo.gl/maps/MUg9WGKkZCdubCeb9)
-
----
-
-### Fall Frenzy
-
-Poet-athletes and their families gather for a combination of soccer tournaments and community activities, such as inflatable games, skills clinics, and poetry workshops at Anacostia Park. *Junior Fall Frenzy will be on October 18th, 2023*
-
-**Date and Time:** October 28th, 2023, 10AM-3PM
-
-**Location:** [The Fields at RFK](https://www.google.com/maps/place/The+Fields+at+RFK/@38.8931836,-76.9735483,17z/data=!3m1!4b1!4m6!3m5!1s0x89b7b97b222b1f63:0xf6f7f0271b62bab2!8m2!3d38.8931795!4d-76.9709734!16s%2Fg%2F11hycm2fcp?entry=ttu)
+**Location:** [Arena Stage] (https://maps.app.goo.gl/VZQWvcZSpUa5eYwX6)
 
 ---
 
-### Middle School Poetry Slam
+### Junior Jamboree
 
-Featuring original spoken word poetry from middle schoolers attending 11 schools across the city.
+Our youngest poet-athletes gather for an afternoon of soccer, teambuilding activities, crafts, and fun.
 
-**Date and Time:** November 15th, 2023, time TBD
+**Date and Time:** May 15, 2024, 3-6PM.
 
-**Location:** TBD
+**Location:** [The Fields at RFK](https://maps.app.goo.gl/aC79coStqKnaNa818)
+
+---
+### Middle School Spring Cup
+
+Our annual end-of-season soccer tournament for middle school poet-athletes. 
+
+**Date and Time:** May 31, 12-6PM (variety of shifts available)
+
+**Location:** [The Fields at RFK](https://maps.app.goo.gl/aC79coStqKnaNa818)
 
 ---
 
-### Capital Cup
+### Jamboree
 
-At the end of the fall season, the District’s best middle school soccer teams compete in a series of thrilling playoff games to be crowned champions of the 2023 DC SCORES Capital Cup.
+Poet-athletes and their families gather for a combination of soccer tournaments and community activities, such as inflatable games, skills clinics, and arts and crafts.
 
-**Date and Time:** November 17th, 2023, 4PM-8PM
+**Date and Time:** June 1, 2024, 7AM-2PM (variety of shifts available)
 
-**Location:** [Audi Field](https://goo.gl/maps/MUg9WGKkZCdubCeb9)
+**Location:** [The Catholic University of America](https://maps.app.goo.gl/TzBVRQsPmEem9N818)
 
 ---
 
-### Elementary School Poetry Slams
+### SCORES Cup
 
-Poet-athletes from over 40 schools perform in front of parents, family members, and local community leaders, over three consecutive nights at public school auditoriums across the city.
+The largest annual corporate charity soccer tournament in the nation, SCORES Cup will host 50 company teams as they battle it out to become DMV champions! All proceeds from the tournament will go to DC SCORES.
 
-**Date:** November 29th (Westside) and 30th (Eastside), 2023, time TBD
+**Date and Time:** June 22nd, 2024, 7AM-5PM (variety of shifts available)
 
-**Location:** TBD
+**Location:** [The Fields at RFK](https://maps.app.goo.gl/aC79coStqKnaNa818)
 
 ---
 
@@ -102,4 +101,4 @@ At your convenience. We always need help at our events, but we also seek photos 
 At sites throughout DC. We will do our best to place you based on your location and mode of transportation.
 
 **Want to get involved?**
-Contact Mairead MacRae, Director of Commmunications, at mmacrae@dcscores.org
+Contact Mairead MacRae, Senior Director of Commmunications, at mmacrae@dcscores.org
