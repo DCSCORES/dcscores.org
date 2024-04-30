@@ -7,7 +7,7 @@ Thumbnail Image: "/uploads/1-5a48c0.png"
 ---
 
 ![1-5a48c0.png](/uploads/1-5a48c0.png)
-*A DMV native and bestselling author, Reynolds is a 2024 DC SCORES Poet-Athlete Award Winner. Photo: Jason Reynolds*
+*A DMV native and bestselling author, Reynolds is also a 2024 DC SCORES Poet-Athlete Award Winner. Photo: Jason Reynolds*
 
 
 
@@ -59,7 +59,7 @@ Writers, artists, and musicians flocked to the U Street blocks between 9th and 1
 
 He remembers the 1980s and 90s as deeply formative years. “I was surrounded by all these brilliant minds, these free Black people, these creative bohemian weirdos, and I felt it was okay for me to make art and to make art as myself,” he says.
 
-`<iframe width="560" height="315" src="https://www.youtube.com/embed/yXwhcEl7DoY?si=ppr0V08RK_kP40Kz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>`
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yXwhcEl7DoY?si=ppr0V08RK_kP40Kz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 *In 2020, Reynolds joined DC SCORES Chief of Arts and Culture for a conversation with poet-athletes when programming moved online due to the COVID-19 pandemic.*
 
 Reynolds moved to New York City in 2005 but returned to the District in 2016. When he arrived in his old stomping grounds, the creative vibrancy of the U Street scene had been eroded by gentrification, with rising rents pricing venues and artists out of the city.
