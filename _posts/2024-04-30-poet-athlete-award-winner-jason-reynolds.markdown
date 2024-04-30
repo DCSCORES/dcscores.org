@@ -76,9 +76,6 @@ In 2020, [Reynolds was appointed National Ambassador for Young People's Literatu
 
 One area where he saw their artistry and creative joy was in the rise of TikTok. He says, “If I do a dance in my room and I know that there are 500,000 14-year-olds around the world doing the same dance to the same song, that’s something that we should pay attention to.”
 
-![3-e1297c.png](/uploads/3-e1297c.png)
-*Reynolds believes that creativity and joy can counter some of the challenges D.C.'s youth face today. Photo: Jason Reynolds*
-
 If that creativity can be harnessed in the world beyond the internet, Reynolds believes it will pack a punch. “The reckless abandon of young people presents opportunity and possibility if it is harnessed into something irreverent and intentional,” he says.
 
 Programs such as DC SCORES provide third spaces to unleash youth’s creative spark. “You gotta have community, true human community, and DC SCORES is part of creating that for them,” Reynolds explains.
@@ -86,6 +83,9 @@ Programs such as DC SCORES provide third spaces to unleash youth’s creative sp
 On May 7, Reynolds will join DC SCORES participants ranging from elementary to post-high school age on stage at [Our Words Our City](https://owoc.dcscores.org/). The annual spoken word showcase platforms original youth poetry and is the setting for the presentation of the organization’s Poet Award, which this year will be bestowed on Reynolds alongside [D.C. Councilmember and DC SCORES alumna Janeese Lewis George](https://dccouncil.gov/council/ward-4-councilmember-janeese-lewis-george/).
 
 The award, which was [presented for the first time in 2023 to Clint Smith](https://www.dcscores.org/blog/2023/05/dc-scores-poet-athletes-share-stage-with-clint-smith-at-our-words-our-city-2023), is given annually each year to individuals who embody the ethos of DC SCORES youth, known as “poet-athletes” due to the program’s combined focus on soccer, poetry, and service-learning.
+
+![3-e1297c.png](/uploads/3-e1297c.png)
+*Reynolds believes that creativity and joy can counter some of the challenges D.C.'s youth face today. Photo: Jason Reynolds*
 
 For Reynolds, the compound word feels almost redundant; poets and athletes share the same practice. “The athlete is always editing. It’s the only reason they practice so much,” he explains. “Same with the poet; the poet is constantly editing. Looking for the right word at the right time, and the athlete is looking for the right move at the right time.”
 
