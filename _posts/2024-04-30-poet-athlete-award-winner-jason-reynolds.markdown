@@ -74,7 +74,7 @@ But while the District may have lost some of the artistic communities of Reynold
 
 In 2020, [Reynolds was appointed National Ambassador for Young People's Literature by the Library of Congress](https://guides.loc.gov/jason-reynolds). In this role, he connected with thousands of young people during the COVID-19 pandemic to encourage them to write, read, and tell their own stories.
 
-One area where he saw their artistry and creative joy was in the rise of TikTok. He says, “If I do a dance in my room and I know that there are 500,000 14-year-olds around the world doing the same dance to the same song, that’s something that we should pay attention to.”
+One platform where he saw their artistry and creative joy was in the rise of TikTok. He says, “If I do a dance in my room and I know that there are 500,000 14-year-olds around the world doing the same dance to the same song, that’s something that we should pay attention to.”
 
 If that creativity can be harnessed in the world beyond the internet, Reynolds believes it will pack a punch. “The reckless abandon of young people presents opportunity and possibility if it is harnessed into something irreverent and intentional,” he says.
 
