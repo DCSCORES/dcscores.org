@@ -7,7 +7,7 @@ Thumbnail Image: "/uploads/1-5a48c0.png"
 ---
 
 ![1-5a48c0.png](/uploads/1-5a48c0.png)
-*A DMV native and bestselling author, Reynolds is also a 2024 DC SCORES Poet-Athlete Award Winner. Photo: Jason Reynolds*
+*A DMV native and bestselling author, Reynolds will receive a 2024 DC SCORES Poet-Athlete Award Winner at Our Words Our City on May 7. Buy tickets at [owoc.dcscores.org](https://owoc.dcscores.org/) Photo: Jason Reynolds*
 
 
 
