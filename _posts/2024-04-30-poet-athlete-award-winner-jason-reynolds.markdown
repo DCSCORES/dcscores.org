@@ -64,7 +64,7 @@ He remembers the 1980s and 90s as deeply formative years. “I was surrounded by
 
 Reynolds moved to New York City in 2005 but returned to the District in 2016. When he arrived in his old stomping grounds, the creative vibrancy of the U Street scene had been eroded by gentrification, with rising rents pricing venues and artists out of the city.
 
-Reynolds says the loss of these third spaces — locations that encourage people to socialize together outside of work and the home — is having a corrosive effect on the District, especially on the city’s young people who have only known skyrocketing housing prices and the displacement of communities of color in what was [once a majority Black city](https://www.nyu.edu/washington-dc/dc-dialogues/series/welcome-to-chocolate-city.html).
+Reynolds says the loss of these third spaces — locations that encourage people to socialize together outside of work and the home — is having a corrosive effect on the District, especially on the city’s young people, who have only known skyrocketing housing prices and the displacement of communities of color in what was [once a majority Black city](https://www.nyu.edu/washington-dc/dc-dialogues/series/welcome-to-chocolate-city.html).
 
 Today, the small independent venues where he performed his early work couldn’t survive, says Reynolds. “I don’t know how you pay a D.C. rent, you know, pay 30 grand, 40 grand, when you’re making a couple of hundred a night,” he says. “It’s just too hard to do.”
 
