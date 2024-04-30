@@ -9,6 +9,17 @@ Thumbnail Image: "/uploads/1-5a48c0.png"
 ![1-5a48c0.png](/uploads/1-5a48c0.png)
 *A DMV native and bestselling author, Reynolds is a 2024 DC SCORES Poet-Athlete Award Winner. Photo: Jason Reynolds*
 
+
+
+
+
+
+
+
+
+
+
+
 “If you want to be great at being an artist, you have to be great at being yourself,” says Jason Reynolds, reflecting on his career as one of the most celebrated young adult fiction writers working today.
 
 “Over the years, I’d like to believe that I’ve developed a particular skill set, but more than anything, I’ve developed my own intuition. I trust myself as the barometer,” Reynolds adds.
