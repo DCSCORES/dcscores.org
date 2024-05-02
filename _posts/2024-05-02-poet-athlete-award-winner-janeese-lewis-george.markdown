@@ -73,7 +73,7 @@ Though Keene was less than half a mile from Rudolph, the two school communities 
 
 Like many of her peers, Lewis George was initially drawn to DC SCORES by soccer. She admits that, at first, she was a little wary of the program’s poetry curriculum. However, Rudolph’s first poetry slam soon converted the team into spoken word enthusiasts. “It’s amazing the way we just grew,” Lewis George says of poetry’s confidence-building impact.
 
-Lewis George attended Alice Deal Middle School and then School Without Walls at Francis Stevens for high school. Traveling across the city to attend school opened her eyes to the disparities between her working-class community and the wealthy, white neighborhoods across town.
+Lewis George attended Alice Deal Middle School and then School Without Walls for high school. Traveling across the city to attend school opened her eyes to the disparities between her working-class community and the wealthy, white neighborhoods across town.
 
 She says, “I was like, wait, why is this happening, and what can we do about it? And using my voice in that way became important to me.”
 
