@@ -7,7 +7,7 @@ Thumbnail Image: "/uploads/1-903ca9.png"
 ---
 
 ![1-903ca9.png](/uploads/1-903ca9.png)
-*Lewis George will receive a DC SCORES Poet-Athlete Award at Our Words Our City on May 7. [Buy tickets](owoc.dcscores.org). Photo: D.C. Councilmember Janeese Lewis George*
+*Lewis George will receive a DC SCORES Poet-Athlete Award at Our Words Our City on May 7. [Buy tickets](https://owoc.dcscores.org/). Photo: D.C. Councilmember Janeese Lewis George*
 
 
 
