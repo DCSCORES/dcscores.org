@@ -42,7 +42,6 @@ Thumbnail Image: "/uploads/1-903ca9.png"
 
 
 
-Alumna and D.C. Councilmember Janeese Lewis George Shares How DC SCORES Inspired a Lifetime of Public Service
 
 DC SCORES alumna Janeese Lewis George distinctly remembers the first time she “got” poetry. As an elementary schooler, she had encountered a few poems in her classes, but the works by mostly white, male writers didn't particularly resonate with a young, Black girl growing up in D.C.
 
