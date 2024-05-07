@@ -7,7 +7,7 @@ Thumbnail Image: "/uploads/1-5a48c0.png"
 ---
 
 ![1-5a48c0.png](/uploads/1-5a48c0.png)
-*A DMV native and bestselling author, Reynolds will receive a 2024 DC SCORES Poet-Athlete Award Winner at Our Words Our City on May 7. Buy tickets at [owoc.dcscores.org](https://owoc.dcscores.org/) Photo: Jason Reynolds*
+*A DMV native and bestselling author, Reynolds will receive a 2024 DC SCORES Poet-Athlete Award Winner at Our Words Our City on May 7. Buy tickets at [owoc.dcscores.org](https://owoc.dcscores.org/) Photo: Adedayo “Dayo” Kosoko for Jason Reynolds*
 
 
 
@@ -85,7 +85,7 @@ On May 7, Reynolds will join DC SCORES participants ranging from elementary to p
 The award, which was [presented for the first time in 2023 to Clint Smith](https://www.dcscores.org/blog/2023/05/dc-scores-poet-athletes-share-stage-with-clint-smith-at-our-words-our-city-2023), is given annually each year to individuals who embody the ethos of DC SCORES youth, known as “poet-athletes” due to the program’s combined focus on soccer, poetry, and service-learning.
 
 ![3-e1297c.png](/uploads/3-e1297c.png)
-*Reynolds believes that creativity and joy can counter some of the challenges D.C.'s youth face today. Photo: Jason Reynolds*
+*Reynolds believes that creativity and joy can counter some of the challenges D.C.'s youth face today. Photo: Adedayo “Dayo” Kosoko for Jason Reynolds*
 
 For Reynolds, the compound word feels almost redundant; poets and athletes share the same practice. “The athlete is always editing. It’s the only reason they practice so much,” he explains. “Same with the poet; the poet is constantly editing. Looking for the right word at the right time, and the athlete is looking for the right move at the right time.”
 
