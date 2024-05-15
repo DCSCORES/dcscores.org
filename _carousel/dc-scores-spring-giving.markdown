@@ -1,6 +1,7 @@
 ---
 title: DC SCORES Spring Giving
 date: 2024-05-15 18:20:00 Z
+position: 0
 Image: "/uploads/Spring%20Giving%20%20Social%20(Twitter%20Post)%20(1).png"
 Link: https://give.dcscores.org/campaign/dc-scores-spring-giving/c585978
 ---
