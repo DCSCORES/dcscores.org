@@ -1,5 +1,5 @@
 ---
-title: Pro Soccer Player Josselin Possian Reflects on Finding His “Peace” at DC SCORES
+title: Pro Soccer Player Josselin Possian Reflects on Finding “Peace” at DC SCORES
 date: 2024-05-27 13:23:00 Z
 Author: Mairead MacRae
 Thumbnail Image: "/uploads/1-c5f1ab.png"
