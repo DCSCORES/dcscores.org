@@ -28,6 +28,8 @@ Thumbnail Image: "/uploads/1-c5f1ab.png"
 
 
 
+*This story is part of our SCORES Community series, focusing on how members of the SCORES community are having an impact on D.C. through soccer, poetry, and service. [Become part of our movement in Poet-Athlete City by supporting our programs today.](https://give.dcscores.org/campaign/dc-scores-spring-giving/c585978)*
+
 Josselin Possian is leading a soccer clinic in the school gym at Hendley Elementary School. He stands in the center of a circle of poet-athletes who are itching to get started on their first practice of the DC SCORES season.
 
 “Lots of little touches!” he tells the group, as he demonstrates a toe taps drill. He turns to a pair of brothers and translates for them, “Pequeños toques!” The siblings’ faces light up as they grasp the activity and join in with their peers. If any of their teammates needed French instruction, Possian could provide that, too. He might even manage to deliver the session in German.
