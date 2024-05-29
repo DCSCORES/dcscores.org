@@ -39,7 +39,7 @@ But Brandon and his DC SCORES teammates are determined not to let gun violence b
 ![3-b87e2c.png](/uploads/3-b87e2c.png)
 *The DC SCORES team is helping to bring young people together from across the KIPP Quest community.*
 
-Their project culminated last Friday when poet-athletes took to the streets around their school for a peace walk that raised awareness of the impact of gun violence and demanded that adults find peaceful solutions to conflict.
+Their project culminated last Friday when poet-athletes took to the streets around their school for a peace walk that raised awareness of the impact of gun violence and demanded that adults find non-violent solutions to conflict.
 
 “I wish grown-ups would talk about how they felt so they can fix it,” says Brandon’s sister, Selah, who is also a poet-athlete on the KIPP Quest team. “They could talk about it, be friends, and not have guns around.”
 
