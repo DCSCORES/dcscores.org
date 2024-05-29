@@ -24,7 +24,7 @@ Thumbnail Image: "/uploads/1-1bff4c.png"
 
 
 
-
+*This story is part of the SCORES Community series, focusing on how members of the DC SCORES community are having an impact on D.C. through soccer, poetry, and service. [Become part of our movement in Poet-Athlete City by supporting our programs today.](https://give.dcscores.org/campaign/dc-scores-spring-giving/c585978)*
 
 When coaches at KIPP DC Quest Academy polled their DC SCORES poet-athletes about what to tackle for their spring service-learning project, one issue came up again and again.
 
