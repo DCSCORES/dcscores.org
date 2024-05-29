@@ -8,6 +8,25 @@ Thumbnail Image: "/uploads/1-b283db.png"
 ![1-b283db.png](/uploads/1-b283db.png)
 *Poet-athletes Rayonna (left) and Zyioa (right) and coach LeNia Samuels (center) share how team spirit helped make their "Women of Hart" project a success.*
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 *This story is part of the SCORES Community series, focusing on how members of the DC SCORES community are having an impact on D.C. through soccer, poetry, and service. [Become part of our movement in Poet-Athlete City by supporting our programs today.](https://give.dcscores.org/campaign/dc-scores-spring-giving/c585978)*
 
 Like most teachers, LeNia Samuels is never completely off duty. She supports her students as much as she can, which often means helping them with issues that fall outside her regular duties as an art teacher and DC SCORES coach at Hart Middle School in Southeast D.C.
