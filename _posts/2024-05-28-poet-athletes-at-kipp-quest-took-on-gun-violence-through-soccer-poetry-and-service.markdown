@@ -73,6 +73,8 @@ McClain says it was important for the team to be visible and vocal about how muc
 ![4-2126b9.png](/uploads/4-2126b9.png)
 *The KIPP Quest team and their classmates celebrate their successful peace walk. Photo: Moriah McReynolds/KIPP DC*
 
-In the meantime, both poet-athletes and coaches will continue in their own efforts to bring peace to their neighborhoods and build community through their afterschool soccer, poetry, and service-learning sessions. “DC SCORES and the whole school is keeping us safe,” says Brandon, whose favorite aspect of the program is learning how to play soccer.
+In the meantime, both poet-athletes and coaches will continue in their own efforts to bring peace to their neighborhoods. Poet-athletes' very participation in the DC SCORES afterschool program means they are [less likely to become involved in violence](https://scholarworks.gsu.edu/cgi/viewcontent.cgi?article=1013&context=iph_capstone) while their soccer, poetry, and service-learning sessions are building powerful friendships that can overcome neighborhood rivalries.
+
+“DC SCORES and the whole school is keeping us safe,” says Brandon, whose favorite aspect of the program is learning how to play soccer.
 
 His sister, Selah, agrees. “The best thing about DC SCORES is that they care about us, and they make sure we are safe,” she says. “They give us opportunities for what we want to do when we grow up. They give us chances.”
