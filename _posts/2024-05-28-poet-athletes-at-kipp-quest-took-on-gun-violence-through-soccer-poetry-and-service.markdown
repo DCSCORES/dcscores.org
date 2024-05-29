@@ -54,7 +54,7 @@ Though KIPP Quest is located in the Clay Terrace neighborhood, many of its stude
 ![2-e3c49a.png](/uploads/2-e3c49a.png)
 *Members of the KIPP Quest team pose ahead of playing in the 2022 DC SCORES Fall Frenzy tournament.*
 
-The longstanding animosity between the Clay Terrace and Lincoln Heights communities meant that coaches were worried that the team’s message of peace may struggle to reach some poet-athletes. But McClain says the response has been overwhelmingly positive.
+The longstanding animosity between the Clay Terrace and Lincoln Heights communities meant coaches were worried that the team’s message of peace may struggle to reach some poet-athletes. But McClain says the response has been overwhelmingly positive.
 
 “What surprised me was that the students who were really in that environment, they really questioned it,” she says. “They wanted more knowledge about the why. Why is this happening?”
 
