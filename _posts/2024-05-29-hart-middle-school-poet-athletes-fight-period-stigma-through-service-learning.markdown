@@ -5,7 +5,7 @@ Author: Mairead MacRae
 Thumbnail Image: "/uploads/1-b283db.png"
 ---
 
-![1-b283db.png](/uploads/1-b283db.png)
+![1-f5a147.png](/uploads/1-f5a147.png)
 *Poet-athletes Rayonna (left) and Zyioa (right) and coach LeNia Samuels (center) share how team spirit helped make their "Women of Hart" project a success.*
 
 
