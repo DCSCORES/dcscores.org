@@ -1,13 +1,15 @@
 ---
-title: "“DC SCORES Keeps Us Safe!”: How Poet-Athletes at KIPP DC Quest Academy Are
-  Taking On Gun Violence Through Soccer, Poetry, and Service"
-date: 2024-05-27 19:07:00 Z
+title: "“DC SCORES Keeps Us Safe!”: How Poet-Athletes at KIPP DC Quest Academy Took
+  On Gun Violence Through Soccer, Poetry, and Service"
+date: 2024-05-28 19:07:00 Z
 Author: Mairead MacRae
 Thumbnail Image: "/uploads/1-1bff4c.png"
 ---
 
 ![1-1bff4c.png](/uploads/1-1bff4c.png)
 *KIPP Quest poet-athletes led their school community in a peace walk around surrounding neighborhoods impacted by gun violence. Photo: Moriah McReynolds/KIPP DC*
+
+
 
 
 
@@ -56,7 +58,7 @@ The longstanding animosity between the Clay Terrace and Lincoln Heights communit
 
 “What surprised me was that the students who were really in that environment, they really questioned it,” she says. “They wanted more knowledge about the why. Why is this happening?”
 
-To find out, the team dug into crime statistics and research from expert organizations working on the ground to combat gun violence in America’s cities. They also hosted a workshop from a staff member at [Cure The Streets](https://oag.dc.gov/public-safety/cure-streets-oags-violence-interruption-program), a violence prevention program launched by the Office of the D.C. Attorney General that uses data-driven, public-health approaches to stop the spread of gun violence.
+To find out, the team dug into crime statistics and research from expert organizations working on the ground to combat gun violence in U.S. cities. They also hosted a workshop from a staff member at [Cure The Streets](https://oag.dc.gov/public-safety/cure-streets-oags-violence-interruption-program), a violence prevention program launched by the Office of the D.C. Attorney General that uses data-driven, public-health approaches to stop the spread of gun violence.
 
 Poet-athletes also reached out to members of the KIPP Quest community who have been directly impacted by gun violence. For some kids on the team, these included their own relatives. “We really wanted them to be youth leaders, to talk to others about violence,” says McClain. “We hope it’s an eye-opener for the whole community.”
 
@@ -66,11 +68,11 @@ Armed with research-backed strategies, poet-athletes then took to the streets. T
 
 “We just wanted to stay stop, stop, stop the violence! Walk away from all the shooting,” says Brandon.
 
+McClain says it was important for the team to be visible and vocal about how much they care for their neighbors, many of whom feel neglected by those in power. She hopes policymakers will take note and engage directly with local people to find long-term solutions to violence. “They should be out here every month, hosting peace rally walks, doing preventative activities to keep neighborhoods together,” she says.
+
 ![4-2126b9.png](/uploads/4-2126b9.png)
 *The KIPP Quest team and their classmates celebrate their successful peace walk. Photo: Moriah McReynolds/KIPP DC*
 
-McClain says it was important for the team to be visible and vocal about how much they care for their neighbors, many of whom feel neglected by those in power. She hopes policymakers will take note and engage directly with local people to find long-term solutions to violence. “They should be out here every month, hosting peace rally walks, doing preventative activities to keep neighborhoods together,” she says.
-
 In the meantime, both poet-athletes and coaches will continue in their own efforts to bring peace to their neighborhoods and build community through their afterschool soccer, poetry, and service-learning sessions. “DC SCORES and the whole school is keeping us safe,” says Brandon, whose favorite aspect of the program is learning how to play soccer.
 
-His sister, Selah, agrees. “The best thing about DC SCORES is that they care about us and they make sure we are safe,” she says. “They give us opportunities for what we want to do when we grow up. They give us chances.”
+His sister, Selah, agrees. “The best thing about DC SCORES is that they care about us, and they make sure we are safe,” she says. “They give us opportunities for what we want to do when we grow up. They give us chances.”
