@@ -2,7 +2,7 @@
 title: Hart Middle School Poet-Athletes Fight Period Stigma Through Service Learning
 date: 2024-05-29 21:05:00 Z
 Author: Mairead MacRae
-Thumbnail Image: "/uploads/1-b283db.png"
+Thumbnail Image: "/uploads/1-f5a147.png"
 ---
 
 ![1-f5a147.png](/uploads/1-f5a147.png)
