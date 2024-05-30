@@ -27,11 +27,13 @@ Thumbnail Image: "/uploads/1-f5a147.png"
 
 
 
+
+
 *This story is part of the SCORES Community series, focusing on how members of the DC SCORES community are having an impact on D.C. through soccer, poetry, and service. [Become part of our movement in Poet-Athlete City by supporting our programs today.](https://give.dcscores.org/campaign/dc-scores-spring-giving/c585978)*
 
 Like most teachers, LeNia Samuels is never completely off duty. She supports her students as much as she can, which often means helping them with issues that fall outside her regular duties as an art teacher and DC SCORES coach at Hart Middle School in Southeast D.C.
 
-Samuels is happy to help with whatever her DC SCORES poet-athletes need, even on the weekends, but one regular request from girls on her team started to worry her.
+Samuels, who recently won DC SCORES' Rookie of the Year coaching award, is happy to help with whatever her DC SCORES poet-athletes need, even on the weekends, but one regular request from girls on her team started to worry her.
 
 “A lot of them would come up asking for hygiene products, like a pad, for a friend,” she says. When Samuels inquired why their friends didn’t ask for help directly, she was told that many middle school girls were too embarrassed to ask a grown-up for period items.
 
@@ -56,8 +58,8 @@ This reality is reflected in the experience of many students at Hart.
 
 By creating free, peer-to-peer access to hygiene products, the Hart poet-athletes successfully removed two of the biggest causes of period poverty: lack of financial resources and the feelings of shame that can prevent young people from asking for what they need.
 
-![2-01d288.png](/uploads/2-01d288.png)
-*44% of U.S. teens say they have experienced stress or embarrassment due to lack of access to period products.*
+![Spring Giving  Social (Twitter Post) (1).png](/uploads/Spring%20Giving%20%20Social%20(Twitter%20Post)%20(1).png)
+*The Hart team collected essentials such as pads, tampons, wipes, and deodorant for students who need them.*
 
 Since the project started, Zyioa, Rayonna, and their teammates have been making regular deliveries of supplies whenever a classmate needs them, including during lunch and recess. But neither poet-athlete regrets giving up their breaks.
 
