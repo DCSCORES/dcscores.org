@@ -2,32 +2,11 @@
 title: Hart Middle School Poet-Athletes Fight Period Stigma Through Service Learning
 date: 2024-05-29 21:05:00 Z
 Author: Mairead MacRae
-Thumbnail Image: "/uploads/1-f5a147.png"
+Thumbnail Image: "/uploads/Hart%20SL%202024%20Header%20Image.png"
 ---
 
-![1-f5a147.png](/uploads/1-f5a147.png)
+![Hart SL 2024 Header Image.png](/uploads/Hart%20SL%202024%20Header%20Image.png)
 *Poet-athletes Rayonna (left) and Zyioa (right) and coach LeNia Samuels (center) share how team spirit helped make their "Women of Hart" project a success.*
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 *This story is part of the SCORES Community series, focusing on how members of the DC SCORES community are having an impact on D.C. through soccer, poetry, and service. [Become part of our movement in Poet-Athlete City by supporting our programs today.](https://give.dcscores.org/campaign/dc-scores-spring-giving/c585978)*
 
