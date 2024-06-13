@@ -37,7 +37,7 @@ All proceeds from the tournament, including team entry fees and fundraising, wil
 
 SCORES Cup was founded in 2003, and [DC SCORES celebrated its 20th anniversary last year](https://www.dcscores.org/blog/2023/07/dc-scores-celebrates-20-years-of-scores-cup-with-a-record-breaking-tournament). In the two decades since its inception, SCORES Cup has grown to accommodate more than 800 players who not only participate in soccer matches, but also enjoy food trucks, partner activations, and a beer tent, which this year will broadcast international matches from UEFA Euro 2024.
 
-“Typically, MorganFranklin sponsors One Night One Goal, DC SCORES’ fundraiser gala. But, when the opportunity came up to be the presenting sponsor for SCORES Cup, we jumped on it. DC SCORES is one of our favorite organizations — we believe in the mission and are happy to contribute in any way we can to advance it,” said Fred Hargrove, a partner at MorganFranklin and a DC SCORES board member. 
+“Typically, MorganFranklin sponsors One Night One Goal, DC SCORES’ fundraiser gala. But when the opportunity came up to be the presenting sponsor for SCORES Cup, we jumped on it. DC SCORES is one of our favorite organizations — we believe in the mission and are happy to contribute in any way we can to advance it,” said Fred Hargrove, a partner at MorganFranklin and a DC SCORES board member. 
 
 MorganFranklin will be fielding one of almost 50 teams that will compete for a trophy, but Hargrove stressed the event is more important than winning or losing. 
 
