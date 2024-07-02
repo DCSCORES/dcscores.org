@@ -1,9 +1,0 @@
----
-title: DC SCORES Spring Giving
-date: 2024-05-15 18:20:00 Z
-position: 0
-Image: "/uploads/SCORES%20Community%20Carousel%202024.png"
-Link: https://give.dcscores.org/campaign/dc-scores-spring-giving/c585978
----
-
-Support our Spring Giving campaign to raise $20,000 through the end of May!
